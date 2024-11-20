@@ -7,7 +7,6 @@ data = pd.read_csv('SP_500_ESG_Risk_Ratings.csv')
 # print(data.head())
 # print(data.info())
 
-
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -24,23 +23,27 @@ import re
 
 # 提取 description 列
 description = data.iloc[:, 6]
-print(description.head())
+missing_values = description.isnull().sum()
+print(f"Number of missing values in 'description': {missing_values}")
+data = data[~data.iloc[:, 6].isnull()]
+description = data.iloc[:, 6]
 
+
+# print(description.head())
+# print(description[1])
 
 # 初始化工具
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
 
-# print(description[1])
 
-
-# 定义文本预处理函数
+# 文本预处理函数
 def preprocess_text(text):
-    # 2. 移除标点和非字母字符
     try:
+        # 1. 移除标点和非字母字符
         text = re.sub(f"[{string.punctuation}]", " ", text)  # 替换标点为空格
         text = re.sub(r'\d+', '', text)  # 移除数字
-        # 1. 转小写
+        # 2. 转小写
         text = text.lower()
         # 3. 分词
         tokens = word_tokenize(text)
@@ -54,11 +57,10 @@ def preprocess_text(text):
         print("error")
     return " ".join(tokens)  # 返回预处理后的文本
 
+
+
 # 对整个列进行预处理
-test=description[1:2]
-processed_description = test.apply(preprocess_text)
+processed_description = description.apply(preprocess_text)
 
 # 查看前几行结果
-# print(processed_description.head())
-
-
+print(processed_description.head())
