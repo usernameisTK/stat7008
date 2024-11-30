@@ -5,3 +5,4 @@ def keywords(filename):
         # Read the file
         print("Reading the file...")
     return "hello"
+print('1')
