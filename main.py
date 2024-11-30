@@ -69,7 +69,7 @@ def chat():
                             elif choice == 6:
                                 print("Function6: This function is under construction.")
                             elif choice == 7:
-                                break
+                                print("Chatbot: Returning to the main menu...")
                             else:
                                 print("Chatbot: Invalid choice! Please select 1, 2, or 3.")
                         else:
