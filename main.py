@@ -1,5 +1,5 @@
 from nltk.chat.util import Chat, reflections
-from Function1 import keywords
+from function1 import keywords
 
 pairs = [
     [r"my name is (.*)", ["Hello %1, How are you today?"]],
@@ -28,6 +28,9 @@ def chat():
                         print("Chatbot: Goodbye!")
                         return
                     response = chatbot.respond(user_input)
+                    if user_input.lower() == "back":
+                        print("Chatbot: Returning to the main menu...")
+                        break
                     if response:
                         print(f"Chatbot: {response}")
                     else:
@@ -51,6 +54,7 @@ def chat():
                             print("※ 4. Data mining and/or text analysis methods")
                             print("※ 5. Prediction model")
                             print("※ 6. Summarization")
+                            print("※ 7. Back to the main menu")
                             choice = int(input("Chatbot: Your function choice (1/2/3/4/5/6): "))
                             if choice == 1:
                                 keywords(selected_pdf)
@@ -64,6 +68,8 @@ def chat():
                                 print("Function5: This function is under construction.")
                             elif choice == 6:
                                 print("Function6: This function is under construction.")
+                            elif choice == 7:
+                                break
                             else:
                                 print("Chatbot: Invalid choice! Please select 1, 2, or 3.")
                         else:
