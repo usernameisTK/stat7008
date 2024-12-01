@@ -1,6 +1,6 @@
-import os
-import jieba
-import fitz
+# import os
+# import jieba
+# import fitz
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import matplotlib.pyplot as plt
