@@ -38,11 +38,11 @@ def conclude(text):
 
     # 计算总结后文本的单词数量
     while len(result.split()) > 512:
-        result = generate_summary(result, max_length=1024, max_new_tokens=150)
+        result = generate_summary(result, max_length=512, max_new_tokens=150)
 
     return result
 
-"""将总结的写入csv"""
+"""将总结的文本写入csv"""
 def conclude_update(company_name, txt_name):
 
     path = os.path.join("..", "extracted_text", txt_name)  # 上一级目录中的 extracted_text 文件夹
