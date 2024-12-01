@@ -48,7 +48,7 @@ def conclude_update(company_name, txt_name):
     with open(path, 'r', encoding='utf-8') as file:
         text = file.read()
 
-    # 定义文件路径
+    # 定义输出的文件路径
     csv_file_path = "esg.csv"
 
     # 读取 CSV 文件
@@ -67,15 +67,15 @@ def conclude_update(company_name, txt_name):
 
 """批量更新csv"""
 def update_csv():
-    # 导入文件
-    fix_path = "报告pdf"
-    company_name = pd.read_csv("esg.csv")['Name']
+    # 导入文件。 raw.xlsx是初始文件路径。esg.csv是总结文本并导入后的路径
+    fix_path = "extracted_text/"
+    company_name = pd.read_csv("raw.csv")['Name']
 
     start_time = time.time()
 
     for name in company_name:
-        pdf_path = os.path.join(fix_path, name + '.txt')
-        conclude_update(name, pdf_path)
+        txt_path = os.path.join(fix_path, name + '.txt')
+        conclude_update(name, txt_path)
         end_time = time.time()
         print(f'{name} Finished. Time:{(end_time - start_time)//60}min {(end_time - start_time)%60}s')
 
