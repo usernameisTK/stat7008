@@ -35,6 +35,7 @@ def batch_extract_from_folder(folder_path):
         if filename.endswith(".pdf"):
             pdf_file_path = os.path.join(folder_path, filename)
             extract_text_from_pdf(pdf_file_path)
+    print('Finishing transforming')
 
 # Specify the folder containing the PDF files
 pdf_folder_path = "original_pdf"

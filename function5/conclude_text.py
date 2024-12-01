@@ -3,8 +3,8 @@ Prediction
 """
 from transformers import pipeline, AutoTokenizer
 import textwrap
-from keybert import KeyBERT
-import jieba
+# from keybert import KeyBERT
+# import jieba
 import pandas as pd
 import torch
 import time
@@ -14,7 +14,7 @@ import os
 def generate_summary(text, max_length=1024, max_new_tokens=150):
     # 检查是否有可用的 GPU
     device = 0 if torch.cuda.is_available() else -1  # -1 表示使用 CPU
-    summarizer = pipeline("summarization", device=device)
+    summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6", revision="a4f8f3e", device=device)
 
     # 将长文本分割为多个部分
     wrapped_text = textwrap.wrap(text, width=max_length)
@@ -43,7 +43,7 @@ def conclude(text):
 """将总结的写入csv"""
 def conclude_update(company_name, txt_name):
 
-    path = "extracted_text/" + txt_name
+    path = os.path.join("..", "extracted_text", txt_name)  # 上一级目录中的 extracted_text 文件夹
     print("The filename is:" + txt_name)
     with open(path, 'r', encoding='utf-8') as file:
         text = file.read()
@@ -52,7 +52,7 @@ def conclude_update(company_name, txt_name):
     csv_file_path = "esg.csv"
 
     # 读取 CSV 文件
-    df = pd.read_csv(csv_file_path)
+    df = pd.read_csv(csv_file_path, encoding='ISO-8859-1')
 
     # 总结文本
     result = conclude(text)
@@ -68,13 +68,13 @@ def conclude_update(company_name, txt_name):
 """批量更新csv"""
 def update_csv():
     # 导入文件。 raw.xlsx是初始文件路径。esg.csv是总结文本并导入后的路径
-    fix_path = "extracted_text/"
-    company_name = pd.read_csv("raw.csv")['Name']
+
+    company_name = pd.read_csv("raw.csv", encoding='ISO-8859-1')['Name']
 
     start_time = time.time()
 
     for name in company_name:
-        txt_path = os.path.join(fix_path, name + '.txt')
+        txt_path = name +'.txt'
         conclude_update(name, txt_path)
         end_time = time.time()
         print(f'{name} Finished. Time:{(end_time - start_time)//60}min {(end_time - start_time)%60}s')
