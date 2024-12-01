@@ -8,7 +8,8 @@ def extract_text_from_pdf(pdf_path):
 
     pdf_name = os.path.basename(pdf_path)
     txt_name = os.path.splitext(pdf_name)[0] + ".txt"
-    
+
+    # output folder
     output_folder = "extracted_text"
     os.makedirs(output_folder, exist_ok=True)
     txt_path = os.path.join(output_folder, txt_name)
@@ -29,6 +30,15 @@ def extract_text_from_pdf(pdf_path):
     except Exception as e:
         print(f"Error: {e}")
 
+def batch_extract_from_folder(folder_path):
+    for filename in os.listdir(folder_path):
+        if filename.endswith(".pdf"):
+            pdf_file_path = os.path.join(folder_path, filename)
+            extract_text_from_pdf(pdf_file_path)
 
-pdf_file_path = "original_pdf\AIA.pdf"  
-extract_text_from_pdf(pdf_file_path)
+# Specify the folder containing the PDF files
+pdf_folder_path = "original_pdf"
+batch_extract_from_folder(pdf_folder_path)
+
+# pdf_file_path = "original_pdf\AIA.pdf"
+# extract_text_from_pdf(pdf_file_path)
