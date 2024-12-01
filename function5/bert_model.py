@@ -10,10 +10,10 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 # 检查CUDA可用性
 if torch.cuda.is_available():
     device = "cuda"
-    print("GPU可用，训练将在GPU上进行。")
+    print("GPU is available，Training on GPU")
 else:
     device = "cpu"
-    print("GPU不可用，训练将在CPU上进行。")
+    print("GPU is not available. Training on CPU")
 
 # 1. 读取数据
 df = pd.read_csv('esg.csv', encoding='ISO-8859-1')

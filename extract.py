@@ -30,6 +30,7 @@ def extract_text_from_pdf(pdf_path):
     except Exception as e:
         print(f"Error: {e}")
 
+"""批量更新，输入初始数据所在文件夹:pdf_folder_path = 'original_pdf' """
 def batch_extract_from_folder(folder_path):
     for filename in os.listdir(folder_path):
         if filename.endswith(".pdf"):
@@ -41,5 +42,4 @@ def batch_extract_from_folder(folder_path):
 pdf_folder_path = "original_pdf"
 batch_extract_from_folder(pdf_folder_path)
 
-# pdf_file_path = "original_pdf\AIA.pdf"
-# extract_text_from_pdf(pdf_file_path)
+

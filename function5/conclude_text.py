@@ -35,8 +35,10 @@ def generate_summary(text, max_length=1024, max_new_tokens=150):
 def conclude(text):
     # 总结文本
     result = generate_summary(text, max_length=1024, max_new_tokens=150)
-    for i in range(3):
-        result = generate_summary(result, max_length=1024-i*200, max_new_tokens=150-i*20)
+
+    # 计算总结后文本的单词数量
+    while len(result.split()) > 512:
+        result = generate_summary(result, max_length=1024, max_new_tokens=150)
 
     return result
 
