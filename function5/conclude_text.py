@@ -7,6 +7,7 @@ import pandas as pd
 import torch
 from torch.utils.data import Dataset, DataLoader
 import time
+from langchain.text_splitter import TokenTextSplitter
 
 import os
 
@@ -30,15 +31,20 @@ class TextDataset(Dataset):
         return company_name, text
 
 """ 生成摘要 """
-def generate_summary(text, max_length=512, max_new_tokens=120):
+def generate_summary(text, max_length_split=512):
     device = 0 if torch.cuda.is_available() else -1
     summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6", revision="a4f8f3e", device=device)
 
-    wrapped_texts = textwrap.wrap(text, width=max_length)
+    # 创建CharacterTextSplitter实例
+    text_splitter = TokenTextSplitter(
+        chunk_size=max_length_split,
+    )
+
+    wrapped_texts = text_splitter.split_text(text)
+
     summaries = []
 
-
-    part_summaries = summarizer(wrapped_texts, max_new_tokens=max_new_tokens, do_sample=False)
+    part_summaries = summarizer(wrapped_texts, max_new_tokens=512, do_sample=False)
     summaries.append(' '.join([summary['summary_text'] for summary in part_summaries]))
 
     return summaries[0]
@@ -77,7 +83,7 @@ def update_csv(csv_file, text_folder):
 
         end_time = time.time()
         total_time = end_time - start_time
-        print(f"{company_name} has been summarized to {len(summary.split())} words! Total update time: {round(total_time//3600)}h {round(total_time//60)}min {round(total_time%60, 1)}s")
+        print(f"{company_name} has been summarized to {len(summary.split())} words! Total update time: {round(total_time//3600)}h {round(total_time%3600 //60)}min {round(total_time%60, 1)}s")
 
 """Main function"""
 if __name__ == "__main__":
