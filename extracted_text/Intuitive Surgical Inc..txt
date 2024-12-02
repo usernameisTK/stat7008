@@ -1,0 +1,1938 @@
+Environmental,
+Social, and Governance
+Report 2023
+1
+TABLE OF CONTENTS
+Introduction Social Responsibility Environmental Sustainability Governance and Transparency Appendices
+03 CEO message 15 Our customers 28 Climate change and carbon stewardship 34 Corporate governance 40 I mportant safety information
+04 About Intuitive 19 Our people 31 Climate risk and resilience 35 ESG-related management forums 41 Taskforce for Climate-related Financial
+Disclosures (TCFD) report
+05 Our numbers 23 Our community impact Green construction and responsible growth 37 Ethical business conduct
+43 Global Reporting Initiative (GRI) alignment
+Awards and recognitions 26 Social responsibility metrics Reducing waste, increasing recycling Managing accurate and compliant promotion
+of our products
+06 ESG overview Water efficiency 44 Training programs and collaborations
+38 Information security
+09 Feature areas 32 Environmental considerations for our products Intuitive Employee Resources Groups (ERGs)
+Clinical evidence programs
+10 Maturing clinical evidence Environmental regulatory compliance E mployee benefits
+and standards
+for meaningful outcomes
+Environmental sustainability metrics Health and safety practices
+Governance and transparency metrics
+11 Understanding the complete carbon
+impact: reduction and avoidance 45 Global community impact programs
+12 Driving responsible growth Intuitive Ventures and ESG investment fund
+13 Surgeon spotlight Sustainability features in our built
+environment
+46 Employee environmental sustainability
+education and awareness
+Corporate policies, statements,
+and certificates
+Environmental, Social, and Governance Report 2023 2
+INTRODUCTION
+CEO message
+I am pleased to introduce Intuitive’s 2023 Environmental Sustainability, Social Responsibility, and Governance and
+Transparency (ESG) Report. Last year, we focused on refining our ESG infrastructure and establishing baselines
+against which we will measure progress. This year’s report builds on that foundation, measuring our progress against
+key identified metrics.
+At Intuitive, we center our efforts on creating products and services that improve patient outcomes and their
+experiences. For the past several years, we have aligned ourselves around our customers’ framework of the
+Quadruple Aim—better outcomes, better patient experiences, better care team experiences, and lower total cost
+to treat per patient episode. In 2022, the Journal of the American Medical Association (JAMA) published an article
+proposing the addition of a fifth aim, that of equitable access to care, and renaming the goal set the Quintuple Aim.
+Our platforms and services, employed systematically by health systems, have shown positive impact on the
+Quadruple Aim. Analyzing the experiences of some of our hospital customers, we’ve seen an ability to improve equity
+of access to high-quality minimally invasive surgery and advanced diagnostics while using our ecosystem. We believe
+we can make a difference to improving access to high quality care, and we will be adopting the Quintuple Aim as
+part of Intuitive’s guiding principles in 2024.
+Our team has identified three feature areas that highlight our overall ESG approach, which are profiled in this report:
+· Maturing clinical evidence for meaningful outcomes
+Clinical and economic evidence continues to be the basis for understanding the value
+and differentiated benefit of our products. Intuitive continues to apply its clinical and
+scientific expertise to help surgeons and other key stakeholders understand and utilize
+data to optimize decision making for individuals, institutions, and healthcare systems.
+· Understanding the complete carbon impact: reduction and avoidance
+Intuitive is committed to understanding and reducing our carbon footprint and that of
+our customers. We continue to work to reduce our impact by measuring and limiting
+our footprint, and by helping quantify and reduce carbon usage in healthcare delivery.
+· Driving responsible growth
+We remain committed to growing in a manner that responsibly manages
+resources and respects the communities where we live and work.
+I am excited about our progress and our efforts to pursue our core mission and ESG initiatives—positioning
+us to accomplish our goal of supporting minimally invasive care to bring benefit to patients, customers,
+healthcare systems, and communities while being responsible stewards of the environment.
+Gary Guthart, PhD
+Chief Executive Officer
+Environmental, Social, and Governance Report 2023 CONTENTS 3
+We believe that minimally invasive care
+is life-enhancing care. Through ingenuity
+About Intuitive
+and intelligent technology, we expand
+the potential of physicians to heal
+without constraints.
+Environmental, Social, and Governance Report 2023 CCOONNTTEENNTTSS 4
+ABOUT INTUITIVE
+Awards and recognitions
+Our numbers
+Every Intuitive number has a unique story behind it,
+representing the minimally invasive care we deliver
+Every Intuitive number has a unique story behind it,
+together to patients around the world.
+representing the minimally invasive care we deliver
+together to patients around the world.
+29
+years of innovating for minimally invasive care
+2023 Best Place to Work for Disability Inclusion
+>14.2M
+procedures performed using da Vinci® systems
+since inception
+2023 Winner for Best Digital App Experience
+>8.6K
+da Vinci systems in hospitals on 6 continents
+and in 71 countries
+>530
+Ion systems in hospitals
+2023 Best Employer Brand—Silver
+>76K
+surgeons trained on the da Vinci platform
+13.79 seconds
+how often a surgeon starts a procedure
+2023 Pro Patria Award
+using a da Vinci system
+>13.6K
+mission-driven employees
+Top 250 Best-Managed Companies of 2023
+>38K
+scientific articles referencing Intuitive technologies*
+2024 Best Companies to Work for Healthcare
+>4.8K
+patents issued†
+>2.2K
+2024 America’s Greenest Companies
+2024 America’s Most Responsible Companies
+patents pending†
+* Through October 2023
+† The counts prior to 2022 included 2024 Best Places to Work
+exclusively licensed patents and
+applications.
+Environmental, Social, and Governance Report 2023 CONTENTS 5
+We strive to meaningfully improve patient
+ESG overview
+care while being responsible stewards of
+the environment, our communities, and
+our governance values.
+Environmental, Social, and Governance Report 2023 CCOONNTTEENNTTSS 6
+ESG OVERVIEW
+ESG strategy
+Our ESG strategy advances social
+responsibility, environmental sustainability,
+and governance and transparency through
+cross-functional programs that serve our
+company, customers, and communities.
+Social Responsibility Environmental Governance and
+Creating enduring value Sustainability Transparency
+for our customers, our Reducing our impact Upholding our values,
+employees, and the and improving managing risk
+communities where we environmental intelligently, and
+live and work. sustainability for maintaining
+the planet. shareholder trust.
+Reporting Frameworks
+Intuitive reports in alignment with the Task Force on Climate-Related
+Financial Disclosures (TCFD), Carbon Disclosure Project (CDP), and
+Global Reporting Initiative (GRI) Standard core option.
+This report describes Intuitive’s ESG priorities and progress for 2023 and beyond.
+Unless stated otherwise, this report discloses information and data for the 2023
+calendar year (January 1–December 31, 2023).
+Environmental, Social, and Governance Report 2023 CONTENTS 7
+ESG OVERVIEW
+2023 ESG Feature Areas
+Our three feature areas for our ESG work over this past year are:
+Materiality and stakeholder engagement Maturing clinical evidence for meaningful outcomes
+We periodically engage a broad range of internal and external Intuitive continues to apply its clinical and scientific expertise to help
+stakeholders to gather feedback on important and relevant ESG surgeons and other key stakeholders understand and utilize data to
+topics with the greatest impact for Intuitive. This includes gathering optimize decision making for individuals, institutions, and healthcare
+information from key leaders, investors, customers, and other systems. We are focused on:
+stakeholders to inform our work and ensure we are:
+• Unlocking value through clinical evidence
+• Aligning with our mission of patient care and the aims
+• Expanding access to care
+of healthcare
+• Supporting business growth
+Understanding the complete carbon impact: reduction and avoidance
+• Positively impacting customers and communities We continue to work to reduce our environmental impact by measuring
+and limiting our footprint and by helping quantify and reduce carbon
+We focused this past year on building a scalable ESG program usage in healthcare delivery. We are focused on:
+structure, setting practical goals, and refining our ESG assessment
+• Comparing carbon avoidance for different types of surgery
+mechanisms. Our ESG work is data driven, evidence based, and
+guided by where and how we can add value.
+Driving responsible growth
+ESG governance We remain committed to growing in a manner that responsibly manages
+The ESG review board oversees long-term company ESG initiatives. resources and respects the communities where we live and work. We are
+The ESG review board is comprised of cross-functional senior focused on:
+leadership across key business functions and the c-suite. The
+• Achieving certification of buildings across multiple regions globally
+board includes our Chief Medical Officer, General Counsel, Chief
+• Connecting with local communities
+Financial Officer, Vice President People Experience and Inclusion
+and Diversity, Executive Vice President and Chief Strategy and
+Corporate Operations Officer, Vice President Global Public Affairs,
+and Executive Vice President Global Business Services (GBS), who
+chairs the ESG Review Board. Our ESG management group reports
+to our Executive Vice President of GBS, a direct report to the CEO.
+The Executive Vice President of GBS and our General Counsel both
+have direct interactions with our board of directors. Intuitive’s board
+of directors governance and nominating committee reviews ESG
+progress and strategy twice a year.
+Environmental, Social, and Governance Report 2023 CONTENTS 8
+Intuitive seeks to create enduring
+value for our customers, our
+Feature areas employees, and the communities
+where we live and work. We have
+identified three feature areas that
+illustrate our collective ESG work.
+Environmental, Social, and Governance Report 2023 CCOONNTTEENNTTSS 9
+FEATURE AREAS
+Maturing clinical evidence for meaningful outcomes
+On average, 12 scientific peer-reviewed articles Expanding access to care to a major city to have access to MIS solutions,
+are published about da Vinci robotic-assisted Clinical evidence is also used to inform healthcare furthering equitable access in the local communities.
+surgery (RAS) and Intuitive technologies each policies and educate reimbursement decision
+day, with more than 38,000* articles published to makers as part of procurement processes (tenders) The case study indicates that after the introduction
+date. The vast majority of these publications are and health technology assessments around the of da Vinci, facilities with high rates of open
+the result of clinicians and institutions seeking to world. For 35+ years, research has indicated that surgery experience a decrease in health inequities
+quantify the benefits of robotic-assisted surgery in implementing evidence-based practices in minimally (open to MIS surgery) and improved comparative
+their own settings or, more broadly, independent invasive surgery (MIS) has been challenging. patient health outcomes. Additionally, underserved
+of involvement or funding from Intuitive. Intuitive believes that RAS can help overcome these patient populations, who often face a higher risk
+challenges and enable greater reach and fidelity. for comorbidities, are more likely to benefit both
+Unlocking value through clinical evidence clinically and economically from MIS. Where da Vinci
+Globally, over 14 million patients have benefitted Initial investigative research reflects a trend toward is adopted, we hope to address implementation
+from minimally invasive care performed with inequities to appropriateness, accessibility, and barriers that are fueling health inequities to occur.
+Intuitive technologies through 2023. This includes availability of MIS solutions for patients. This
+more than two million patients receiving quality analysis has sharpened our understanding of the Based on the surfacing evidence, Intuitive commits
+care with Intuitive technologies in 2023. extent of health inequities may be impacting to collaborating with our customers to share analyses
+patient availability and accessibility to MIS and methods that inform and address patient
+With more patients receiving care with Intuitive solutions in communities across the country. access barriers that impact the accessibility of
+technologies, there are expanded opportunities to high-quality minimally invasive care. Consequently,
+explore the broader clinical and economic impact A recent collaboration with a regional hospital in Intuitive has initiated a Center of Excellence to
+on patients, surgeons, hospitals, and healthcare the United States illustrated how da Vinci adoption focus on health policy and patient access research,
+systems. Notably, aggregated data for existing effectively addressed implementation barriers, leading providing evidence-based insights into health equity,
+studies show that across a wide variety of procedure to greater access to MIS solutions. The case study also implementation sciences, and sustainability to
+types, more access to da Vinci surgery equals fewer highlighted improved comparative patient health improve global health and development worldwide.
+conversions to open procedures†, and shorter length outcomes (reduced surgical site infections (SSIs),
+of hospital stays, which can contribute to better, more length of stay, and ICU admissions). Additionally,
+efficient clinical and economic outcomes for patients, the adoption of da Vinci facilitated patients being
+surgeons, hospitals, and healthcare systems.‡§|| treated at their local hospital, rather than travelling
+“In some of the resource-constrained areas
+I’ve worked in around the world, there isn’t the
+infrastructure in place for optimal healthcare, so
+we looked for ways to overcome the barriers to
+surgery. It’s all about learning to do complex things
+as simply as you can. The learnings from these
+initiatives have led to a whole host of projects to
+improve sustainability and the carbon footprint of
+robotic surgery here in Leeds.“
+Dr. Aaron Quyn
+Associate Professor of Colorectal Surgery
+University of Leeds
+Leeds, United Kingdom
+* Through October 2023 ‡ Patel et al, Annals of Surgery, 2023
+† Reducing conversions from minimally invasive § Shah et al, Surgical Endoscopy, 2022
+surgery (MIS) to an open approach is crucial,
+|| G uerra et al, Langenbeck’s Archives
+not only for the patient and surgeon but also
+of Surgery, 2022
+for alleviating strain on hospital resources.
+This effort to minimize conversions during MIS
+significantly enhances patient outcomes and
+overall value.
+Environmental, Social, and Governance Report 2023 CONTENTS 10
+FEATURE AREAS
+Understanding the complete carbon impact:
+reduction and avoidance
+Our approach to climate action is focused surgery is the one that offers the quickest calculator. The model looks at the
+on minimizing carbon impact. We maintain recovery and fewest re-interventions. When resources used in open, laparoscopic,
+a complete inventory of our carbon considering carbon avoidance, it’s crucial and robotic-assisted procedures across
+sources from our operations and product to consider the time spent in the site of the patient journey. We use clinical
+manufacturing, including purchased metals, care as a whole, both in the operating data from a meta-analysis of seven
+plastics, and electronics used to build our room (OR) and the recovery setting. surgical procedures and a literature
+da Vinci and Ion products. Understanding review of energy use and material
+of our carbon footprint underpins our Until now, the study of the carbon footprint waste to calculate carbon avoidance.
+efforts to identify reduction opportunities from surgery hasn’t been examined
+and decrease our environmental impact. beyond the OR. Length of hospital The internal findings, based on more than
+As described in this report, our carbon stay, postoperative complications, and 1.8 million procedures, show that in 2022
+reduction initiatives are balanced with our readmissions—all proven to be reduced by alone, da Vinci procedures yielded a carbon
+long-term growth strategy. For example, using the da Vinci system—are important avoidance of approximately 55,495 MT
+we are implementing renewable energy considerations in comparing open, CO2e *† compared with laparoscopic surgery
+sources and environmentally responsible laparoscopic, and robotic-assisted surgery. and approximately 179,207 MT CO2e*†
+building and design standards to increase In 2023, Intuitive conducted the first study compared with open surgery. This topic will
+natural resource efficiency and reduce to quantify the carbon avoidance of the continue to be explored in coming years.
+our cost of operations in the long term. perioperative phase of patient care.
+In addition, by expanding robotic-assisted A comparison of carbon avoidance
+surgery to improve patient outcomes, we of different types of surgery
+seek to reduce the carbon footprint of By using a combination of clinical evidence
+the patient experience and hospital resource and peer-reviewed, published data on
+use. Put simply, the most environmentally the carbon footprint of a hospital room,
+sustainable and low-carbon method of Intuitive created a carbon avoidance
+“With robotic surgery, we can take care of patients
+and get them in and out the same day, minimizing
+the need for them to be in the hospital going
+through consumables. When you start to look at
+that over the course of a year, it has a big impact.“
+Dr. Arnold Advincula
+Chief of Gynecologic Surgery
+Columbia University Medical Center
+New York City, United States
+* This calculation is based on our verified 2022
+carbon inventory.
+† Estimates completed by the company and
+actual impacts could vary.
+Environmental, Social, and Governance Report 2023 CONTENTS 11
+FEATURE AREAS
+Driving responsible growth
+Adoption of robotic-assisted surgery (RAS) of electric vehicle charging stations. We’ve the impact of our projects and provide
+has been growing rapidly globally. As a integrated renewable energy sources job opportunities, support educational
+market leader with our da Vinci platform, such as solar panels into some of our programs, and contribute to the
+Intuitive has expanded its operations to meet buildings, and optimized energy use for communities where we live and work.
+global demand for RAS. From the expansion heating, ventilation, and air conditioning.
+of our global headquarters in Sunnyvale, In addition, we incorporate community-
+California, to our new facilities in Peachtree Achieving certifications across multiple minded design elements, including
+Corners, Georgia, Shanghai, China, Freiburg, regions globally promoting biodiversity and using native
+Germany, and Plovdiv, Bulgaria, we We apply green building standards to new vegetation on our campuses, avoiding
+are focused on ensuring our spaces are construction efforts. For new buildings in the development of environmentally
+efficient, effective, and environmentally the U.S., Mexico, and Bulgaria, we follow sensitive areas, using permeable
+responsible. Our construction integrates the global Leadership in Energy and surfaces, and reducing light pollution.
+resource-efficient designs, innovative Environmental Design (LEED) certification
+technologies, and low carbon impact standard. At our European headquarters in
+materials. In addition, we have implemented Aubonne, Switzerland, we follow the Minergie
+practices to recover, reuse, and recycle standard, and at our German office in
+as much waste material as possible. Freiburg, we follow the German Sustainable
+Building Council (DGNB) standard.
+We have invested in renewable power
+sources, introduced green transportation Connecting with local communities
+options, and expanded implementation We work with residents to minimize
+“After introducing a da Vinci system to my hospital, my
+leadership quickly recognized its impact. I consistently
+share data with them, reinforcing the value, and as a
+result, we’ve expanded the system placements. Our
+program is now open for observation, allowing others
+to witness the success of our robotic program.”
+Dr. Laila Rashidi
+Medical Director, Colon & Rectal Surgery
+MultiCare Health System
+Washington, United States
+Assistant Professor, Colon & Rectal Surgery
+Washington State University
+Washington, United States
+Environmental, Social, and Governance Report 2023 CONTENTS 12
+SURGEON SPOTLIGHT
+Dr. Arnold Advincula Dr. Laila Rashidi Dr. Aaron Quyn
+Chief of Gynecologic Surgery, Medical Director for Colon & Rectal Surgery Associate Professor of Surgery
+Columbia University Medical Center MultiCare Health System University of Leeds
+New York City, United States Washington, United States Leeds, United Kingdom
+Assistant Professor, Colon & Rectal Surgery
+Washington State University
+Washington, United States
+Dr. Advincula is a pioneer of minimally invasive robotic surgery. He first used the Dr. Rashidi first fell in love with surgery while studying at Ross University on the When Dr. Quyn isn’t treating patients with advanced and recurrent pelvic disease,
+Intuitive da Vinci system 22 years ago and has helped develop its application beautiful island of Dominica. By her second year of medical school, she knew she he works with a global surgical research collaborative to help improve surgical
+across the gynecologic specialty. wanted to become a colorectal surgeon. outcomes in low- and middle-income countries.
+What makes you passionate about what you do? How can we help more hospitals expand access to minimally invasive care? What makes you passionate about what you do?
+We see the impact on the patient. I never lose sight of the fact that it’s just a After introducing a da Vinci system to my hospital, my leadership quickly We all have role models when we’re young, and one of mine happened to be
+privilege that people entrust you with performing surgery—and that’s where recognized its impact. I consistently share data with them, reinforcing the a surgeon who developed my interest in surgery. That interest stayed with me
+da Vinci has been transformative. In all the years I’ve utilized the technology, it’s value, and as a result, we’ve expanded the system placements. Our program is through medical school, and I can honestly say, after all these years, I’m as
+one of the most reliable pieces of equipment that I use in the operating room, now open for observation, allowing others to witness the success of our robotic interested now as I was back then.
+and it works—I don’t know how else to say it. program.
+Tell us about your work in Northeast India and Sierra Leone
+What comes to mind when you think about sustainability in your practice? How do you communicate the benefits of robotic surgery to your patients These are remote areas where there isn’t the infrastructure in place for optimal
+It’s about trying to decrease the footprint in the operating room. It’s amazing and colleagues? healthcare, so we look for ways to overcome the barriers to surgery. It’s all about
+how much trash is generated in one case. I think Intuitive has done a really good My theory is if you ever want to say something is better than the other, you learning to do complex things as simply as possible. The learnings from these
+job of trying to decrease that footprint. A lot of what we use on the platform is always have to back it up. That’s why I utilize evidence, because you have to have initiatives have led to a whole host of projects to improve sustainability and the
+reusable, and beyond that, we’re getting access to extended use instrumentation. your data to support the message. Whenever I meet referring physicians or talk carbon footprint of surgery here in Leeds.
+to my patients, I always have data to support why I’m doing what I’m doing.
+Looking at the bigger picture, when you have patients that come into the I think it’s important that we, as a robotic surgery community, continue to think
+hospital for surgery and they stay in the hospital for several days, the footprint What comes to mind when you think about sustainability in your practice? about how we can be more sustainable, collect and recycle more waste, and utilize
+that patient generates in terms of disposables and equipment is pretty You don’t use as many materials in a robotic case, and at our hospital we don’t more multi-use items.
+significant. need as much staff for robotic cases. Our care teams are trained on surgeon
+preferences in the OR—knowing what materials to open and what to leave in What surprises you most about what you do?
+With robotic surgery, we can take care of patients and get them in and out the packaging. We don’t use more than what is needed. And ultimately, we get What I’m most surprised by, and it’s magnified by using the da Vinci system, is that
+the same day, minimizing the need for them to be in the hospital going patients back to their lives quicker. I’m still improving as a surgeon. Part of that is the operative view, and part is that
+through consumables. developments keep evolving with da Vinci. I’d like to think most surgeons, when
+reflecting, will say that the robot gives them the platform to become better.
+Environmental, Social, and Governance Report 2023 CONTENTS 13
+Intuitive seeks to create enduring value
+Social responsibility for our customers, our employees, and
+the communities where we live and work.
+Environmental, Social, and Governance Report 2023 CONTENTS 14
+Our customers
+Since our inception, we have focused on developing innovative value inspires additional research, and from 2010 to present, there
+technology validated by clinical evidence, which, when used by our has been a three-fold increase in high-level scholarly literature. By the
+customers, can help them achieve better outcomes, better care end of 2022, high-level studies and reviews made up about 36% of
+team experiences, better patient experiences, and lower cost of care. the total 4,500+ articles published that year. The rise in this research Supporting collaborative
+Intuitive’s recent Net Promoter Score (NPS)* ranking confirms the both mirrors and reflects Intuitive’s broad clinical and economic research
+long-term value of our focus. impact on surgeons, patients, and healthcare systems. While the vast majority of the
+peer-reviewed publications
+Commitment to peer-reviewed clinical and scientific evidence Customer training on RAS are conducted by
+Peer-reviewed clinical and scientific evidence informs our Delivering high-quality minimally invasive care requires more than clinicians and institutions
+understanding of the value of Intuitive’s technologies. It helps us, a robotic system. It requires a full ecosystem, including multi- independent of Intuitive
+our customers, and healthcare systems better understand how faceted, long-term technology training, peer-to-peer education and involvement or funding, we
+minimally invasive care can improve outcomes, patient and care interaction, data that provides clinicians with clinical insights, 24/7 partner with surgeons and
+team experience, and total cost of care. system support, and more.‡ institutions to study emerging
+clinical procedures, advanced
+Evidence that demonstrates value To ensure that surgeons and care teams receive the training they technologies, and techniques.
+Since 1998, there have been more than 38,000† independent, peer- need, Intuitive has developed an innovative four-phase training We also have a research and
+reviewed publications on Intuitive technologies. These span the program§ that combines skills and technology training with educational grants program
+breadth of scholarly contributions from traditional clinical studies opportunities for healthcare professionals around the world to learn to support clinically relevant
+and outcomes research to real-world evidence from databases, from peers. Surgeons, physicians, and care teams learn how to use technology research and
+expert commentary, and bench research, and the majority have our systems from experienced trainers and independent surgical development. Additional
+been authored by scientists unaffiliated with Intuitive. From our educators at our training centers, supported by a library of virtual details can be found here.
+inception to 2010, approximately 13% of the research articles were resources, including training modules, video instruction, lectures,
+high-level comparative studies and reviews. Evidence demonstrating and simulations.
+• Intuitive’s training and education
+program is accredited by the
+Royal College of Surgeons of
+How our customers perceive us England. Additionally, Phase II
+In 2023, Intuitive achieved a Net of Intuitive’s training pathway
+Promoter Score (NPS)* of 80 in the has been validated by IRCAD.||
+United States. This is the highest
+level achieved since Intuitive began • To date, more than 76,000
+measuring NPS in 2019. NPS is a surgeons and clinicians have
+metric used to measure customer received training on Intuitive
+perception and loyalty by asking technologies, with over 9,000
+one simple question: “On a scale training sessions conducted
+from 0 to 10, how likely is it that globally in 2023.
+you would recommend da Vinci
+to a friend or colleague.” Bain & • Over 110 training centers in
+Company, the creators of the more than 26 countries support
+Net Promoter System, suggest a Intuitive’s hands-on lab courses
+score: above 0 is good, above 20 and skills assessments for
+is favorable, above 50 is excellent, surgeons, physicians, and OR
+and above 80 is world class. care teams.
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+* The Net Promoter Score calculates customer † Through October 2023 || IRCAD stands for Institut de Recherche contre
+loyalty and predicts business growth by les Cancers de l’Appareil Digestif, which is
+‡ See page 40 for important safety information,
+subtracting the percentage of detractors French for Institute for Research into Cancer
+including our Product Training Disclaimer.
+from the percentage of promoters in of the Digestive System.
+a company. For details on how NPS is § See Appendix C for details on our four-phase
+calculated, click here. training program
+raey
+rep
+snoitacilbuP
+)latot
+fo
+%(
+erutaretil
+level
+hgiH
+SOCIAL RESPONSIBILITY
+High-level evidence on Intuitive products and procedures continues to grow
+All publications
+High-level/total
+Environmental, Social, and Governance Report 2023 CONTENTS 15
+SOCIAL RESPONSIBILITY
+In 2023, more than 4,800
+surgeons were trained using
+Advanced Tissue Models
+across 62 training centers
+globally.
+Intuitive Learning Platform and SimNow • Surgeons can track their progress and identify areas opportunities. Our telepresence live-streaming feature allows
+Intuitive has developed a variety of tools to enhance surgeon and for improvement. surgeons, students, and proctors to remotely view da Vinci
+care team technology training. The SimNow Learning System helps procedures in real time. With Intuitive Telepresence, surgeons can
+surgeons focus on developing skills independently, at their own pace. Our platform supports 17 languages, tailoring courses to individualized experience surgery as if they were viewing through a 2D console in
+Our goal is to provide the appropriate content and delivery approach learning plans and product approvals in each country. In 2023, we the same room.
+to meet the needs of every learner. achieved a 63% increase in users completing learning plans outside
+the U.S. compared with 2022. Through 2023, our SimNow Learning Advanced Tissue Models
+Our latest simulator technology focuses on the core components System has accumulated over 68,000 surgeon training hours. Our Advanced Tissue Models (ATMs) offer a highly realistic training
+of a surgeon’s practice: experience. ATMs use ex-vivo tissue harvested from the food
+Our Hospital Learning Management tool enables robotic chain, reducing waste and eliminating the use of anesthesia and
+• Through learning exercises, surgeons can enhance their skills with coordinators to assign, track, and report on technology, procedure, other drugs. This contributes to a sustainable, standardized, and
+a variety of robotic-assisted surgical instruments, combination and simulation learning specific to their hospital’s training needs. In reproducible training experience. In 2023, we expanded training
+exercises, and robotic fundamental skills drills. 2023, we doubled the number of available technology learning plans, opportunities, especially in resource-constrained settings, and
+enhancing self-led opportunities for the entire care team. these models are now being used in 21 countries. In 2023, we also
+• Guided virtual reality allows surgeons to practice and develop introduced new training models to expand access to technical and
+proficiency on specific procedural skills before performing surgery. Remote case observation and telementoring surgeon-led training courses that meet USDA Animal and Plant
+Our library of virtual reality-based training is constantly updated The ability for experts to remotely observe surgeries can increase Health Inspection Service certification standards.
+so that surgeons have access to the most recent resources. surgeon and care team access to and uptake of mentoring
+Environmental, Social, and Governance Report 2023 CONTENTS 16
+SOCIAL RESPONSIBILITY
+Collaboration with our customers, medical and surgical
+societies, and academia
+We are improving our training offerings by working with surgical
+and medical societies globally to:
+• Help develop educational pathways
+• Establish competency benchmarks and metrics
+• Support curriculum development
+• Host courses for fellows and residents
+• Support Continuing Medical Education (CME) Through Genesis, we are able
+courses at society meetings to reduce waste through
+• Support educational research initiatives optimizing cleaning and
+sterilization training. From
+We support a number of collaborations with training institutions Q1–Q3 2023, our customers
+around the world, some of which are detailed in Appendix C. saved over $3M total in waste
+management costs in the U.S.
+Genesis program
+Intuitive’s Genesis program helps enhance the efficiency and In 2023, we introduced
+effectiveness of robotic-assisted surgical programs. Genesis includes new virtual Sterile Process
+best practice identification and implementation for identifying Department (SPD)
+opportunities to optimize efficiencies. Through this, surgical teams retraining events, training
+can improve resource management while reducing process variability. 395 participants from
+This no-cost consulting program helps hospitals standardize their 209 hospitals without
+programs and optimize operational and clinical performance. the need for travel.
+Supporting surgeon communities
+Learn more about how we are We continue to be committed to helping the surgeons and care
+helping to prepare the surgeons of
+teams who use our systems connect with and learn from each other.
+tomorrow and the mentors of today.
+Women in da Vinci Surgery
+Discover how a growing community Initiated by Intuitive five years ago, the Women in da Vinci Surgery
+of surgeons support each other in
+Symposium is a platform to connect women who use the da Vinci
+using Intuitive systems.
+system. In 2023, we brought together nearly 200 women surgeons
+and hospital executives for the annual symposium. Find out more
+about the symposium.
+System uptime Remote software updates keep our technology current without the
+My Intuitive for Peer Benchmarking Our Global Services team ensures system safety, reliability, and need for an on-site visit. Our 24/7 technical support is there when
+My Intuitive* connects customers to insights that can enable better uptime by capturing system performance data, generating insights, customers need it, backed by team members with an average of
+patient outcomes and a more efficient care team experience. My and taking action. We call this the virtuous loop—a cycle that 10-plus years of hands-on experience. We stage critical parts close
+Intuitive platform gives surgeons and care teams access to case enables continuous learning and reliability improvements in both to customers to ensure that service engineers can respond quickly.
+reports with a readout of procedure trends over time. My Intuitive software and hardware. This has enabled more than 99% uptime Sterile reprocessing training also helps maintain surgical instrument
+also allows surgeons to see how their data compares to their peers. performance and increased customer portal engagement, advancing reprocessing quality.
+to 17,000+ global users in 2023, compared with 13,800+ in 2022.
+Supporting customers and solving problems using our
+global service offerings OnSite®
+Our service and support offerings are focused on patient safety, Our OnSite® remote diagnostics enable real-time system diagnosis
+customer experience, and economic value, and are driven by our and hourly proactive system health reviews that minimize disruption
+customers’ needs, feedback, and insights. and unplanned service events, maximizing system availability.
+* Design and implementation for My
+Intuitive have been rigorously evaluated
+and awarded third-party certifications
+for privacy and security compliance with
+globally recognized HITRUST and NIST
+Cybersecurity and Privacy Frameworks.
+Environmental, Social, and Governance Report 2023 CONTENTS 17
+SOCIAL RESPONSIBILITY
+Supporting patient advocacy programs in the U.S.
+In 2022, we formed a U.S. Patient Advocacy Council with the goals
+of helping improve patients’ access to care and our understanding of
+key issues facing patients. The Council includes the following Patient
+Advocacy Groups (PAGs):
+• American Cancer Society Cancer Action Network
+• American Lung Association
+• Fight Colorectal Cancer
+• HealthyWomen
+• Obesity Action Coalition
+• ZERO Prostate Cancer
+In 2023, Intuitive supported these PAGs to raise awareness about
+specific diseases and minimally invasive care options. These efforts
+included public service announcements, educational materials,
+patient education events, promoting awareness of our clinical trials,
+webinars, and campaigns. In total, this work reached 1.9 million
+patients and counting.
+In 2023, we also supported PAGs to help raise awareness and
+advocate for public policies to improve access to cancer screenings
+and related care, including:
+• The Fight Colorectal Cancer Advocacy Summit to improve disease
+awareness and educate members about colorectal cancer and the
+need for screenings.
+• The Zero Prostate Cancer Advocacy Summit to raise awareness
+about prostate cancer and advocate for early detection methods,
+screenings, access to care, and coverage.
+• American Cancer Society Cancer Action Network to advocate
+Reduction of product waste take back the system. The returned systems are then upgraded
+for policies facilitating government research, access to coverage,
+Extended Use Program or refurbished for resale or are used to harvest parts for re-use.
+and screenings.
+To help hospitals lower the total cost of care and reduce waste, in In all cases, we recycle the material in parts and products that
+2020, we introduced the Extended Use Program for da Vinci X and can no longer be used. Additionally, the material in unusable
+Xi instruments in the U.S. and Europe. The program increases the returned instruments is also recycled. We provide guidance to all
+number of times certain system instruments can be used. Product our customers on how they can properly and responsibly dispose Since its launch in 2021, we’ve been
+teams enhanced instrument design, materials, manufacturing expired products. proud supporters of the American
+processes, and testing protocols to help improve instrument reliability. Cancer Society’s Get Screened
+Extended Use Program instruments underwent rigorous electrical, Flexible acquisition models program. This initiative encourages
+mechanical, and reprocessing testing to validate that they could We have developed a range of financing models to help hospitals regular cancer screening tests. In
+meet our performance and reliability standards at a greater number acquire the technology they need. Fifty-one percent of our 2023, this program resulted in 362,400
+of uses. In 2021, most of our European and all U.S. customers customers use a flexible financing arrangement.* A growing screenings for breast, cervical,
+migrated to using extended-use instruments. The program now number of these are usage-based arrangements, giving colorectal, and lung cancers, leading
+operates globally. customers the flexibility to pay as they go. to the diagnosis of 6,881 cases. The
+program boosted cancer screening
+System upgrades and unusable materials rates among patients by an average
+We offer customers the opportunity to upgrade their systems to the of seven percentage points.
+latest available technology. When they upgrade, we either assist the
+hospital in relocating the older system to a new point of care or we
+* Based on Intuitive’s internal analysis of
+2023 global financing data.
+Environmental, Social, and Governance Report 2023 CONTENTS 18
+SOCIAL RESPONSIBILITY
+Our people
+Inclusion and Diversity Women representation globally*†
+We integrate Inclusion and Diversity (I&D) principles throughout our
+2021 2022 2023
+work to build an inclusive, equitable, and diverse environment where
+every individual can belong and flourish.
+Women representation 35.6% 37.2% 37.7%
+I&D vision
+Women representation in manager and director levels 30.1% 32.1% 32%
+I&D at Intuitive Empowering our employees and
+A four-part strategy guides our I&D progress: customers to fully contribute
+Women representation at or above VP levels 22.9% 25% 25.7%
+toward our shared purpose of
+• Diverse workforce healing without constraints.
+Increase leader and employee representation to better reflect
+U.S. ethnically diverse talent*†
+the talent pools available through diverse talent sourcing, I&D mission
+strengthening our hiring process rigor and training, and thoughtful 2021 2022 2023 To build an inclusive, equitable
+succession and talent planning. and diverse environment where
+People of color representation 52.7% 54.7% 56.4%
+every individual can belong and
+People of color representation in manager and director levels 43.9% 44.7% 46.2%
+• Inclusive experience flourish—in our company and
+Help employees from all backgrounds feel welcome, supported, People of color representation at or above VP levels 20.4% 19.8% 21.3% the communities we serve.
+and valued through our employee resource groups (ERGs), inclusion
+training and education, and employee support.
+• Fair practices
+Openly share progress and continuously improve our people
+practices in areas such as representation, pay equity, and U.S. race/ethnicity representation: overall*†
+promotions.
+Asian Hispanic/Latino Black White Other groups‡
+35.7% 11.5% 5.3% 43.6% 3.8%
+• Industry engagement
+Engage with our customers and their patients, our employees,
+U.S. race/ethnicity representation: manager/director levels*†
+communities, suppliers, and other stakeholders to drive positive
+change. Asian Hispanic/Latino Black White Other groups‡
+30.9% 8.3% 3.9% 53.8% 3%
+Our strategy emphasizes that promoting I&D is a shared
+responsibility, both as an organization and among individual leaders
+and employees U.S. race/ethnicity representation: at or above VP level*†
+Asian Hispanic/Latino Black White Other groups‡
+Our progress
+11.5% 4.9% 2.5% 78.7% 2.5%
+We publish workforce diversity data to help our employees,
+shareholders, customers, and others better understand our
+workforce. While global and U.S. people of color metrics are a small
+U.S. race/ethnicity representation: women at Intuitive*†
+fraction of the entire diversity landscape, we consider them an
+indicator of our I&D practices. Asian Hispanic/Latino Black White Other groups‡
+38.2% 11.8% 5.8% 40.6% 3.6%
+View Intuitive’s Equal Employment
+Opportunity (EEO-1) report which
+U.S. race/ethnicity representation: men at Intuitive*† reflects U.S. government reporting
+requirements.
+Asian Hispanic/Latino Black White Other groups‡
+34.3% 11.4% 5.1% 45.4% 3.9%
+* Reflects Intuitive’s regular employee self- ‡ Other groups category includes: Native
+identified data. American/Alaskan Native, Hawaiian/Pacific
+Islander, and two or more races.
+† Data as of December 31, 2023. Percentages
+may not add up to 100 due to rounding.
+Environmental, Social, and Governance Report 2023 CONTENTS 19
+SOCIAL RESPONSIBILITY
+Organizations we work with
+to source diverse talent
+Leadership’s role in I&D In 2023, we invested in
+Our senior leaders play an important role in building and supporting partnerships and events
+inclusion and fair practices within their teams. In 2023, we rolled to engage candidates
+out inclusive leadership training to VP and above employees. across underrepresented
+Intuitive receives Pro Approximately 91% of our VPs have participated in this live training communities. Our ERGs
+Patria award program. and Talent Acquisition
+In 2023, Intuitive was honored team attended conferences
+to receive the Pro Patria Our I&D Council advises on I&D initiatives and milestones while including: National Society of
+award, recognizing us as monitoring program effectiveness. Black Engineers, National Sales
+a top military employer in Network, Society of Hispanic
+California. This annual award Employee resource groups Professional Engineers, Society
+from the Employer Support of Our employee resource groups (ERGs) provide community and of Women Engineers, Lesbians
+the Guard and Reserve (ESGR), support for employees who are members of a recognized minority Who Tech, Military Influencer
+acknowledges our support for group within the workforce, based on gender/gender identity, Conference, and Disability:IN.
+guard and reserve employees. sexual orientation, race/ethnicity, disability, or military veteran status.
+This year, the I&D team focused on implementing our ERG excellence
+framework, which included providing dedicated I&D support, tools,
+and resources; connecting ERGs to key internal stakeholders;
+recognizing and rewarding ERG leaders, and investing the growth
+and development of the ERG community. Professional development
+opportunities for ERG members in 2023 included quarterly interactive
+virtual workshops and individual executive coaching. Read more Talent acquisition
+about the 2023 initiatives our ERGs advanced in Appendix D. Our workforce strategy is centered on building a world-class team
+to pursue our mission while improving representation to reflect the In 2023, nearly 2,500
+Fair and equitable pay diverse talent pools available to us. This includes efforts to source employees in 20 countries
+Fair and equitable pay is integral to our commitment to employees diverse talent by using events, online communities, and sourcing participated in ERGs.
+and is upheld by our executive leadership team and board of partnerships to diversify candidate pools for open positions.
+directors. Our policy is to employ, retain, promote, and otherwise
+treat all employees based on merit, qualifications, and competence, We provide our talent acquisition team with custom diversity
+regardless of gender, race/ethnicity, or any other protected training to effectively promote inclusion and fairness throughout the
+characteristic. hiring process. This training focuses on challenges associated with
+unconscious bias, inclusive hiring practices, how to attract a diverse
+In 2023, we conducted a comprehensive pay equity audit for our full- pool of talent, and disability etiquette considerations. To mitigate
+time U.S. workforce, including adjustments for job roles and location, bias in screening and interviews, we’ve introduced “License to Hire”
+among other factors. The analysis included 100% of our global full- global training for hiring managers.
+time employees relative to gender and 100% of U.S. employees for
+Intuitive named 2023 race/ethnicity (61.5% of the global workforce). The results revealed Both Intuitive and the Intuitive Foundation* actively support
+Best Place to Work for that our adjusted pay gap based on U.S. self-identified gender nonprofit organizations working to promote awareness of and access
+Disability Inclusion showed female employees earning 99.3% of their male counterparts. to career and development resources in the communities where we
+Intuitive is proud to be named Our adjusted pay gap based on U.S. self-identified race/ethnicity seek talent. Read more about these initiatives here.
+a 2023 Best Place to Work indicated that employees of color earn 100% of what white
+for Disability Inclusion for the employees earn. Neither of these differences were statistically How we hire
+second consecutive year on significant, given our population size. We are proud to have strong Our talent acquisition professionals are always looking for team
+the Disability Equality Index. pay practices and policies that have helped maintain this level of pay members who want to make a difference and will enhance our
+equity and are committed to annual assessments of pay equity. inclusive culture. Read more about our hiring process here.
+Read more about our
+commitment to pay equity.
+* Created in 2018, the Intuitive Foundation
+is an independent 501(c)(3) charitable
+organization supported by Intuitive Surgical.
+Environmental, Social, and Governance Report 2023 CONTENTS 20
+SOCIAL RESPONSIBILITY
+Enhanced onboarding program Learning offerings Employee experience survey
+In 2023, we created the new year one journey onboarding framework We are intentional in program design to cater to individual employee Our annual employee experience survey gauges the satisfaction,
+and program, which helps employees get integrated, engaged, up learning preferences. Ranging from low commitment, on-demand engagement, and well-being of our workforce. It provides insight
+to speed, and productive more quickly and easily. We believe that learning with a focus on breadth of knowledge to high commitment, into workplace dynamics, highlighting areas for improvement and
+onboarding needs to be a structured, consistent, engaging, and connected learning with a depth of knowledge, our offerings fit a change. 2023 survey findings include:
+immersive journey that extends beyond the first few weeks and variety of needs.
+• 87% response rate
+guides new hires throughout their entire first year at the company.
+• 81% favorability
+At every stage of onboarding, employees gain new information and Talent practices
+• 90% of respondents stated their intent to stay
+insights, learn new skills, and build relationships that increase their We actively invest to support employee growth and contributions,
+sense of connection and belonging. empowering them to set career and development goals. Our career
+growth paths are regularly reviewed to ensure that we maintain a
+University Hiring Program scalable job framework that supports growth.
+The University Hiring Program (UHP) is an early career pipeline
+strategy to attract and develop talent. Our summer program
+provides students with the opportunity to gain insight into the
+medical device industry, obtain valuable work experience, and
+benefit from guidance and mentoring. In 2023, 150 students
+participated in the program. The UHP also had ERG representation
+at campus career fairs including Georgia Tech University,
+Florida A&M University, and Howard University.
+Employee development
+By implementing accessible design practices, scalable programs,
+and enduring practices, we seek to enable the growth of our To address employee
+employees, teams, and overall organization. feedback from our 2022
+employee experience survey,
+Our employee development framework focuses on learning we improved our annual
+in three key areas: promotion process in 2023,
+including leadership training
+• Enabling employee growth internally on consistent promotion
+Self-awareness, presence and personal brand, emotional criteria. We also rolled out
+intelligence, self-leadership, growth mindset, grit and resilience, our manager acceleration
+well-being, creativity program (MAP) workshop,
+reaching more than 700
+• Enabling employee growth in partnership with others people leaders. The workshop
+Influencing skills, teamwork and collaboration, communication focused on key behaviors,
+skills, motivating others, working cross-culturally, presentation skills skills, and processes for
+improved team leadership
+• Enabling employee growth with respect to the business and management.
+Strategic thinking, negotiation skills, time management, problem
+solving, goal setting/prioritization, Intuitive-specific business
+knowledge, decision-making, change management
+Environmental, Social, and Governance Report 2023 CONTENTS 21
+SOCIAL RESPONSIBILITY
+Total rewards Health, safety, and security
+We support our 13,600+ employees with a range of compensation, A safe and healthy work environment is a requirement for a
+benefits, and wellness programs. We continuously seek ways to productive and engaged workforce.
+improve our benefits, wellness, and compensation offerings to
+adapt to the changing needs of our workforce. Health and safety policy
+Our health and safety policy applies to all operations, including
+Employee compensation manufacturing, offices, and field employees worldwide. We aim
+Our comprehensive compensation programs include base salary, to achieve growth while continuously improving our practices in
+short-term cash incentives based on individual performance accordance with applicable laws. The practices outlined in the
+measures, retirement contributions, an employee stock purchase policy serve to benefit our employees and customers, as well as the
+plan, and longer-term incentives in the form of restricted stock communities in which we operate.
+units (RSUs) or cash-based bonus awards. We use multiple
+nationally and globally recognized market surveys to benchmark Supervisor expectations and responsibilities are documented in all
+and inform pay targets. Our employee compensation programs operating procedures. During training, we ensure that staff clearly
+regularly undergo robust global review, and senior executive understand their roles and responsibilities. We also train our staff
+pay decisions are reviewed and approved by the Compensation to follow specific procedures regarding our process for reporting
+Committee of the Board. See Appendix E for details on our health and safety incidents and have a defined injury and illness
+employee benefits program. prevention program that ensures incidents are handled accurately by
+management. Additional aspects of our health and safety practices
+are detailed in Appendix F.
+Learn more about executive
+compensation in our Proxy
+Statement.
+Workplace experience
+Accessibility
+Our accessibility policies prioritize seamless access for all
+employees to all facilities. We provide gender inclusive restrooms,
+dedicated lactation rooms, meditation spaces, and other
+accommodations and amenities.
+Employee workplace experience portal and committee
+Our high-quality work environment and workplace experience
+is governed by our workplace experience portal and committee.
+These platforms enable us to harness employee insights, address
+productivity obstacles, and create an overall positive workplace
+experience.
+Employees are encouraged to submit ideas via our request
+portal, initiating a process of ideation and assessment. Ideas
+are reviewed by the workplace experience committee with
+considerations including the scope of influence, resource
+considerations, and alignment with our corporate culture.
+Approved ideas are then implemented.
+Environmental, Social, and Governance Report 2023 CONTENTS 22
+SOCIAL RESPONSIBILITY
+Our community impact
+We aim to improve the communities where we live and work.
+Programs in collaboration with the Intuitive Foundation
+We work in collaboration with the Intuitive Foundation to reduce the
+global burden of disease and suffering through philanthropy, research,
+and education. The Intuitive Foundation’s approach includes surgical
+training, outreach program support, research grants, philanthropic
+contributions, and volunteer efforts in communities around the world.
+Volunteer efforts
+The Intuitive Foundation Volunteerism Committee fosters community
+engagement by offering local volunteer opportunities for Intuitive
+employees.
+Volunteer matching program
+To amplify our impact, in 2022, Intuitive and the Intuitive Foundation
+launched a volunteer matching program. Through this program,
+the Intuitive Foundation provides monetary matching to eligible
+charities and nonprofit organizations. For every hour volunteered by
+an Intuitive employee, the Intuitive Foundation donates $25 (or local
+currency equivalent) to the designated nonprofit organization. In
+2023, our employees collectively volunteered 9,596 hours, resulting in
+$232,850 in donations distributed among 152 different organizations.
+Volunteer time off policy
+At the start of 2024, Intuitive launched a volunteer program for our
+hourly U.S. employees. This program provides up to eight hours of
+paid volunteer time annually each year.
+Wellness challenges
+Explore details on additional
+Through a group wellness challenge, Intuitive employees can programs that the Intuitive
+participate in wellness activities to increase their personal wellbeing Foundation supports.
+and build stronger ties with their coworkers while earning up to $100
+per week per participant for the group’s chosen nonprofit. At the end
+of the challenge, the Intuitive Foundation will donate the amount
+raised by the group to the chosen non-profit. In 2023, Intuitive
+employees participated in 25 wellness challenges, yielding $540,000
+in donations to 35 different organizations.
+Philanthropic contributions Community grants
+Intuitive Foundation’s philanthropy committee aims to identify, Intuitive Foundation’s community grants program funds See Appendix G for examples of See Appendix H for information on
+our community impact programs Intuitive Ventures and funds.
+cultivate, and manage financial, in-kind, and partnership resources capacity building projects driven by 501(c)(3) nonprofit
+in progress.
+to support philanthropic programs and operations of the Intuitive organizations. In 2023, Intuitive Foundation granted nearly
+Foundation. The philanthropy committee supported several giving $300,000 in funding to eight organizations.
+campaigns in 2023, resulting in over $3 million donated to 1,722
+different causes through its donation matching program.
+Environmental, Social, and Governance Report 2023 CONTENTS 23
+SOCIAL RESPONSIBILITY
+Manufacturing tours
+At our manufacturing
+facilities, a team of
+knowledgeable training
+specialists regularly provide
+manufacturing tours to
+employees, suppliers, as
+well as guests like surgeons,
+Focus on innovation hospital administrators, and
+At Intuitive, we are relentless in our pursuit of improving healthcare— government officials. We
+from building leading-edge, integrated systems and software to also have a manufacturing
+providing education and support that aims to keep hospitals and tour on our YouTube channel,
+their staff at the forefront of minimally invasive care. providing a virtual “behind
+the scenes” look at how our
+Innovative manufacturing practices people and processes come
+At our locations around the globe, dedicated manufacturers know together to create da Vinci
+that everything they make lands in a hospital or other healthcare Surgical Systems.
+setting—and ultimately affects patients’ lives. Spurred on by this
+mission, we build robotic surgical equipment with meticulous
+attention to detail, and we’re constantly increasing productivity Hear from the Manufacturing team
+about their impact.
+through quick but careful thinking and hard work. From those
+team members designing our manufacturing systems to those of
+us assembling them, we bring a variety of skills and experience to
+our work, collaborating on complex products that make Intuitive
+a market leader in minimally invasive care.
+Celebrating design and engineering
+In August 2023, we celebrated our Design and Engineering Day,
+bringing together over 4,000 employees across the globe to
+experience system demos and exhibits, network with colleagues,
+celebrate progress, and hear from keynote speakers.
+Design and Engineering Day also serves as a platform for
+announcing employee awards, including Inventor of the Year, Intuitive owns or has
+Process Engineering Innovator of the Year, and our inaugural exclusive rights to more than
+Leonardo Leadership awards: 4,800+ patents* and 2,200+
+active patent* applications
+• Inventor of the Year worldwide, with the vast
+Established in 2009, the Inventor of the Year is awarded based majority developed internally
+on the number and significance of patent applications filed in by our employees and teams.
+a single year. Another factor is the level of engagement in the
+patent process. Patents play a critical role in protecting Intuitive’s
+intellectual property.
+• Process Engineering Innovator of the Year • Leonardo Leadership The 2023 award categories include:
+For the second year, Intuitive announced a Process Engineering The Leonardo Leadership awards were a new addition in 2023, and · Best in Service to our Mission
+Innovator of the Year award, recognizing non-patented innovations. honor employees within the innovation and operations teams who · Best Local Impact
+Process engineering plays a vital role at Intuitive, partnering with bring new technology and ideas to life and who reflect our values · Most Original
+new product development teams, collaborating on manufacturing and beliefs. · Best Methods
+design, developing component sourcing strategies, and creating · Best Data Utility
+or purchasing the manufacturing and automation equipment Analytics Fair · Most Awesome
+to produce products at scale. For products that have reached The Analytics Fair is another venue for celebrating Intuitive innovation
+production, teams work to stabilize them through the final and teams. The Analytics Fair program includes a keynote speaker, Team presentations are the highlight of the Analytics Fair each year,
+manufacturing review and provide sustained support throughout executive panel discussion, an analytics expo, awards for top data with colleagues across Intuitive sharing innovative approaches to
+the product lifecycle. projects, and networking. utilizing data to guide decision-making and strategy.
+* The counts prior to 2022 included exclusively
+licensed patents and applications.
+Environmental, Social, and Governance Report 2023 CONTENTS 24
+SOCIAL RESPONSIBILITY
+Supplier engagement and standards Inclusion and diversity in our supply chain In support of small
+A resilient supply chain community is integral to our mission of Engaging our suppliers on inclusion and diversity ensures our business businesses, we sourced
+delivering products that enable life-enhancing care. With global practices at all levels to facilitate a safe, inclusive, and accessible over 48% of our U.S. supply
+operations, Intuitive is committed to the highest standards of working environment for everyone along our supply chain. We ask our chain spend on direct
+business conduct and considers its suppliers an extension of our suppliers to self-certify their size and diversity and report on small materials used in our
+business. Intuitive expects the same demonstration of commitment business spend annually. products from U.S.-based
+to legal, ethical, environmental, and social responsibilities from small businesses in 2023.
+external suppliers.
+Key pillars of our Supplier Supplier selection criteria
+Code of Conduct include: We assess potential suppliers extensively, considering quality,
+capacity, technical capability, performance, on-time delivery,
+• Putting product quality financial stability, regulatory certifications, legal compliance, and
+and performance first with
+business management. Once selected, suppliers undergo appropriate
+commitment to continuous
+training, and their products undergo stringent quality evaluations.
+improvement
+We conduct annual business reviews and issue scorecard ratings
+• Maintaining ethical for key suppliers. We require our suppliers to maintain International
+business practices including
+Organization for Standardization (ISO) certifications, specifically ISO
+confidentiality, integrity,
+13485 for medical device quality management systems and ISO 9001
+and legal compliance
+for general quality management systems, in addition to complying
+• Commitment to social with all applicable laws and regulations.
+responsibility and
+environmental stewardship
+Suppliers must acknowledge and adhere to our Supplier Code of
+• Employee engagement Conduct. We employ third-party screening to ensure that suppliers
+practices including
+are aligned with the code of conduct criteria. To qualify for our new
+training and development,
+parts process, suppliers must submit compliance declarations for
+environmental health and
+new components. This rigorous process works to ensure that all
+safety, and human rights
+products we source from suppliers meet the highest compliance
+standards. To fulfill our commitment to patient care, we require
+suppliers to prioritize product quality and agree to standards
+through our Supplier Quality Agreement.
+Supplier scorecard
+Once we establish a partnership with a supplier, we assess their
+In 2023, 81% of suppliers performance using our internal supplier scorecard. This scorecard
+received scorecard emphasizes operational key performance indicators like quality,
+assessments by total delivery, and cost. In recent years, we’ve expanded the scorecard
+supply chain spend, to include human rights and environmental sustainability. This
+rolling 12 months. includes monitoring suppliers to ensure they do not engage in forced
+labor and confirming their alignment with ISO 14001 certification or
+implementation of another environmental policy.
+Workers rights and fair labor
+To uphold fair labor practices across our supply chain, Intuitive
+enforces comprehensive guidelines and policies through our Supplier
+Agreement, Quality Agreement, and Supplier Code of Conduct.
+Beyond the initial screening process, we engage our suppliers through
+surveys to monitor labor practices. Further, we employ SaaS tools to
+monitor updates related to our supply chain.
+Environmental, Social, and Governance Report 2023 CONTENTS 25
+SOCIAL RESPONSIBILITY
+Social responsibility metrics
+2019 2020 2021 2022 2023
+Focus on our customers and Da Vinci systems globally 5,582 5,989 6,730 7,544 8,606
+their patients
+States and territories 50 50 52 52 52
+Countries 67 67 69 70 71
+Procedures performed using da Vinci systems since inception 7.2 million+ 8.5 million+ 10 million+ 12 million+ 14.2 million+
+Procedures performed using da Vinci systems in specified year 1.2 million+ 1.2 million+ 1.5 million+ 1.8 million+ 2.2 million+
+How often a procedure using a da Vinci system begins (seconds) 26 25.4 19.8 16.82 13.79
+Ion systems placed at customer sites - - 129 321 534
+Total number of peer-reviewed scientific articles that reference Intuitive technologies to date 21,000+ 24,000+ 29,000+ 34,000+ 38,000+*
+New peer-reviewed articles in specified year 2,800+ 3,000+ 3,700+ 3,000+ 3,300+*
+Total surgeons trained on the use of da Vinci systems - - - 66,000+ 76,000+
+Surgeons trained on the use of da Vinci systems in the U.S. 32,800+ 33,000+ 35,000+ 37,000+ 40,400+
+Surgeons trained on the use of da Vinci systems outside the U.S. 19,800+ 22,000+ 25,000+ 28,000+ 35,700+
+Training sessions performed in specified year globally - 6,500+ 6,800+ 7,400+ 9,000+
+Active registered proctors globally - 1,100+ 1,000+ 1,200+ 1,400+
+Genesis total engagements in specified year 2,400+ 892 1,667 2,553 3,363
+Service uptime >98% >99% >99% >99% >99%
+Customer portal users (globally) 4,100+ 5,500+ 9,800+ 13,800+ 17,000+
+Talent and workplace Total number of employees 7,100+ 8,000+ 9,700+ 12,100+ 13,600+
+experience
+Female representation (global) 33.20% 33.60% 35.60% 37.20% 37.70%
+Female representation in manager and director levels 29.00% 28.10% 30.10% 32.10% 32%
+Female representation at or above VP levels 17.30% 19.40% 22.90% 25% 25.70%
+People of color representation (U.S. only) 49.70% 50.70% 52.70% 54.70% 56.40%
+People of color representation in manager and director levels 40.00% 41.00% 43.90% 44.70% 46.20%
+People of color representation at or above VP levels 16.70% 17.80% 20.40% 19.80% 21.30%
+Annual turnover rate - 6.40% 10.30% 10.90% 9.10%
+Employee engagement survey global participation rate >88% - >88% 89% 87%
+Glassdoor’s Best Places to Work ranking #7 #12 #41 #29 -
+Wall Street Journal Top 250 Best-Managed Companies #51 #72 #109 #222 #76
+Lost time incident rate (LTIR) - 0.09 0.08 0.11 0.11
+Total recordable incident rate (TRIR) - 1.27 1.19 0.73 0.61
+Focus on innovation Patents granted 2,900+ 3,400+ 4,200+ 4,300+† 4,800+†
+Patents pending 1,900+ 2,100+ 2,100+ 2,100+† 2,200+†
+Community impact Total number of employee volunteer hours - - - 2,836 9,596
+Total donation amount for volunteer matching through the Intuitive Foundation - - - $70,700 $232,850
+Number of organizations benefitting from volunteer hours and matching - - - 96 152
+Number of causes supported through giving campaigns - - - - 1,720+
+Total donation amount from giving campaigns (including donation matching) - - - $3.4 million $3 million+
+Supplier engagement Suppliers receiving scorecard assessments by total supply chain spend, rolling 12 months 66% 82% 81% 68% 81%
+* Through October 2023
+Supplier symposium attendance (biennial event) 165 N/A 376 N/A N/A
+† The counts prior to 2022 included
+Small Business Administration total spend with U.S. small businesses 74% 74.50% 76.20% 50.80% 48.60% exclusively licensed patents and
+applications.
+Environmental, Social, and Governance Report 2023 CONTENTS 26
+We continue to focus on improving
+Environmental
+our environmental sustainability
+sustainability
+efforts and made progress in 2023,
+outlined within.
+Environmental, Social, and Governance Report 2023 CONTENTS 27
+ENVIRONMENTAL SUSTAINABILITY
+Climate change and carbon stewardship
+We take a holistic view when assessing our carbon management 2021 Quantities 2022 Quantities
+responsibilities. Our core mission of improving the quality of Scope† Emission category (Metric Tons CO2e)¶ (Metric Tons CO2e)¶
+surgery and minimally invasive care interventions can also help to
+improve the total carbon efficiency* involved in providing needed Scope 1 Natural gas consumption 3,313 3,461
+interventions for patients.
+Scope 1 HVAC fugitive emissions 1,971 1,833
+Carbon efficiency contributed by our products and services is
+maximized through our ongoing efforts, while the absolute value of Scope 1 Company vehicles/fleet transportation 2,112 1,737
+our carbon emissions may rise as more surgical and interventional
+procedures are performed. Taken together, we estimate that Scope 1 Worldwide lab gas consumption 14 14
+growth in Intuitive-supported procedures increases the total carbon
+efficiency per patient episode of care over time. Scope 2 Purchased electricity 18,578 21,338
+Carbon footprint and greenhouse gas (GHG) emissions inventory Scope 3 Purchased goods and services: indirect 56,946 73,841
+We have conducted a thorough assessment of our carbon footprint,
+encompassing emissions from our operations, supply chain, and Scope 3 Purchased goods and services: direct 251,082 85,521
+value-added activities. This assessment, following GHG protocol, is
+our foundation for setting reduction targets and tracking progress. Scope 3 Downstream transportation and distribution 68,553 104,881
+Our combined scope 1, 2, and 3† GHG emissions for FY22‡ amounted
+to approximately 491,645 MT CO2e.§ Scope 3 Capital goods 30,218 78,241
+The slight decrease in our absolute emissions, 2.7% year over year, is Scope 3 Upstream transportation and distribution 29,146 63,865
+due to a change in our calculation methodology, which uses more
+accurate supplier-specific emissions factors rather than a spend- Scope 3 End-of-life treatment of sold products 11,707 13,380
+based method, leading to a reduction in our purchased goods and
+services: direct category by 66% year over year. The increases in Scope 3 Use of sold products 10,776 6,767
+our upstream and downstream transportation and distribution
+categories, 72% year over year, were due to procedure volume Scope 3 Business travel 9,194 20,534
+increases, and supply chain related challenges.
+Scope 3 Employee commute 8,711 13,464
+Carbon avoidance
+As mentioned in this feature area, Intuitive has utilized a combination Scope 3 Waste from operations 57 38 (36 nonhazardous; 2 hazardous)
+of clinical evidence and published journal data to calculate the carbon
+avoidance from da Vinci procedures. Based on more than 1.8 million Scope 3 Investments 2,697 2,730
+procedures in 2022, da Vinci procedures yielded a carbon avoidance
+of approximately 55,495 MT CO2e|| compared with laparoscopic surgery Total carbon footprint 505,075 491,645
+and approximately 179,207 MT CO2e|| compared with open surgery. As
+previously mentioned, we are working with medical consortiums and
+hospital systems to review and analyze our methodology and initial
+findings to continue exploring the full potential of surgical carbon
+avoidance.
+* Carbon efficiency is calculated by taking our † Scope 1 missions are direct greenhouse (GHG) Scope 3 emissions are the result of activities § Our GHG emissions inventory for 2022 has
+company’s carbon footprint and dividing it emissions that occur from sources that are from assets not owned or controlled by been externally assured by a third-party
+by the sum of da Vinci procedures in a given controlled or owned by an organization (e.g., the reporting organization, but that the vendor.
+year. emissions associated with fuel combustion in organization indirectly affects in its value
+boilers, furnaces, vehicles). chain. || This calculation is based on our verified 2022
+[Source: U.S. Environmental Protection Agency] carbon inventory. Estimates completed by the
+Scope 2 emissions are indirect GHG emissions company and actual impacts could vary.
+associated with the purchase of electricity, ‡ Carbon inventory numbers have a one-year
+steam, heat, or cooling. reporting lag. Data from 2023 will be assured ¶ Emissions numbers are rounded.
+and reported in the 2024 ESG report.
+Environmental, Social, and Governance Report 2023 CONTENTS 28
+ENVIRONMENTAL SUSTAINABILITY
+In 2023, we expanded our
+ocean transport program,
+increasing our utilization of
+ocean shipping from 38% in
+2022 to 51%. This shift led to
+a reduction in air shipping,
+resulting in a carbon savings
+of over 2,000 metric tons of
+CO2e.
+Carbon plan and decarbonization efforts Greener transportation logistics expansion
+In 2023, we created a carbon plan to estimate our future carbon Recovering from supply chain shocks during the pandemic, we are
+growth and decarbonization from the various efficiency projects in gradually shifting air freight to more economic and sustainable options
+place. The starting point for this plan is a systematic mapping of the of ocean and ground freight for transportation of goods and services.
+carbon inputs and outputs of our business operations. In 2023, we expanded our ocean transport program, increasing our In 2023, we published
+utilization of ocean shipping from 38% in 2022 to 51%. This shift led to a UK-specific carbon
+Our carbon plan outlines three key pillars for decarbonization: a reduction in air shipping, resulting in a carbon savings of over 2,000 reduction plan, following
+metric tons of CO2e. NHS guidance.
+• Greener transportation logistics expansion
+Pursuing reduction in logistics costs, which in turn results Local logistics improvements
+in lower carbon emissions. Previously, products returned from all global customers were sent
+back to our U.S. sites for recycling. In 2023, we worked with global
+• Energy management partners to enable recycling in the countries where shipments were
+Enhancing energy management and implementing renewable damaged, avoiding emissions associated with shipping materials
+energy solutions. back. We are working to expand this practice across all our facilities.
+In July 2023, our EMEA locations also converted some of our shipping
+• Commute and fleet management from express to standard.
+Enhancing fleet electrification and alternate commute options.
+Environmental, Social, and Governance Report 2023 CONTENTS 29
+ENVIRONMENTAL SUSTAINABILITY
+Energy management
+Energy efficiency is an important consideration in our building
+portfolio management. As an example, we implemented an
+energy usage optimization solution across all of our buildings larger
+than 50,000 square feet. Since 2022, our Facilities Maintenance
+Engineering team has used this data to improve energy efficiency.
+Our commitment to solar aligns with California and other regional
+clean energy targets and international climate agreements. We
+deploy on-site solar energy on our buildings in Sunnyvale, Aubonne,
+and Mexicali. As we expand our global presence, we are growing our
+photovoltaic capacity in our new sites around the world.
+Commute and fleet management
+We encourage employees to use public transit, and we have
+implemented electric vehicle (EV) infrastructure where possible.
+We have implemented 169 EV charging ports globally with a 39%
+average utilization rate, resulting in over 726 metric tons of reduced
+CO2e emissions.
+Global employee transportation initiatives
+We provide public transportation subsidies to sites where public
+transportation is practical. Across many of our other facilities, we
+are supporting additional alternatives, including electric bike shares,
+carpooling platforms, and employee shuttles.
+Carbon efficiency*
+Intuitive submitted its We are growing to meet expanding global demand for minimally
+first Carbon Disclosure invasive care. This growth is accompanied by additional emissions
+Project (CDP) report in July from the materials, transportation, and energy use needed to enable
+2023, reflecting data from the procedures. However, on a per procedure basis, we are creating
+2022. The insights resulting efficiency in our value chain to reduce the embedded carbon
+from the CDP report associated with making these materials, transporting them across
+enable informed, data- the supply chain, and enabling renewable energy use. To this end, we
+driven decisions aimed at estimate that total emissions for the entire episode of patient care
+identifying opportunities will decrease despite increased uptake of our products and services.
+for reduction.
+* Carbon efficiency is calculated by taking our
+company’s carbon footprint and dividing it by
+the sum of da Vinci procedures in a given year.
+Environmental, Social, and Governance Report 2023 CONTENTS 30
+ENVIRONMENTAL SUSTAINABILITY
+Harnessing earth’s heat
+At our Georgia manufacturing
+Climate risk and resilience facility, slated for completion in 2024,
+In 2023, conducted a study on physical impacts to our facilities and we will leverage geothermal energy
+those of our suppliers by climate-related factors in the decades of the as a renewable and clean power
+2030s to the 2080s. To do this we conducted climate-related scenario source. At our Sunnyvale campus,
+analysis to model the impact of climate-related physical risk. Utilizing we use thermal energy storage tanks
+the latest climate science, we applied localized climate projections to enhance energy efficiency.
+based on medium and high-emission scenarios (SSP2 4.5, SSP5- 8.5).
+We found the risks of water stress, extreme temperatures, and
+flooding are the greatest drivers of climate-related potential impact Our Peachtree Corners West building
+on our value chain. is designed to save 16% more energy
+through LED lighting and efficient
+Climate resilience through water management HVAC systems, use 93% less water
+Sustainable design involves mitigating environmental impact through cooling tower usage, and
+and proactively addressing climate risk. For example, on-site water eliminate potable water use in building
+retention bolsters resilience against rain events at our Peachtree operations through efficient system
+Corners, Georgia site, while dewatering measures at our Sunnyvale design and rainwater reclamation.
+campus enhance preparedness for heavy rains. • Cooling tower water use • Eliminating construction waste
+• Storage and collection of recyclables We prioritize recycling and salvaging non-hazardous construction
+On a broader scale, our global site diversification strategies will waste materials to ensure that we are using resources efficiently At our Mexicali facility, we’ve
+• Building product disclosure and optimization
+enable us to replicate functions and adjust production in response during construction. During construction of our Peachtree Corners implemented energy-efficiency
+• Electric vehicle charging
+to specific climate conditions occurring at different sites. West building, we diverted 96% of waste from landfills, surpassing measures within our waste processing
+• Indoor air quality the typical 75% diversion target for projects of this kind. operations, which align with current
+Green construction and responsible growth • Biophilic design industry standards and regulations.
+We continue to expand through numerous construction projects • Enhanced refrigerant management • Laptop recycling
+around the world, including in Sunnyvale, Calif.; Peachtree Corners, When our U.S.-based employees turn in functional laptops, we
+• Interior lighting management
+GA; Mexicali, Mexico; Parvomay, Bulgaria; Aubonne, Switzerland, and donate them to Tech Exchange. Leading up to 2023, over the past
+• Light pollution reduction
+Freiburg, Germany. three years, we donated over 1,100 laptops, which Tech Exchange • Native/adaptable plants
+• Enhanced commissioning uses to bridge the digital divide, providing computers, internet Utilizing native and adaptable plant species in our
+Green building certifications • Sensitive land protection access, and essential technology skills to those in need. outdoor landscapes, reducing water demand, and
+New buildings at our U.S. hubs (Sunnyvale, Peachtree Corners) enhancing ecosystem resilience.
+• Construction and demolition waste management
+and our Mexicali site are pursuing LEED platinum certification. In Water efficiency
+Europe, our Freiburg office is poised to attain DGNB gold status, Reducing waste, increasing recycling Our facilities are designed to maximize water efficiency, and include: • Non-potable water usage
+our new building in Aubonne aligns with Minergie certification, and Our in-house recycling program managed over 800 lbs. of proprietary Deploying non-potable water sources for landscape
+our construction in Bulgaria is tracking with LEED gold status. The waste in 2023, achieving a recycling rate of 100% and a carbon • Low-flow fixtures irrigation when appropriate.
+certification levels targeted for these projects are subject to change. reduction of 1,644 MT CO2e. Incorporating low-flow plumbing fixtures throughout
+facilities to minimize water consumption. • Greywater and rainwater retention
+Sustainability features across construction projects • Hazardous waste Implementing greywater and rainwater retention systems
+In many of our buildings, we have integrated these We are committed to the monitoring and tracking of hazardous • Advanced metering into our Peachtree Corners, GA site design, contributing
+sustainable features: waste generation and disposal within our organization. Intuitive Integrating advanced metering systems to monitor and manage to sustainable water management.
+maintains hazardous waste archives spanning three years, water usage, ensuring optimal efficiency.
+• Renewable energy production
+encompassing sources and disposal destinations. These records are
+See Appendix I for additional details
+• Building-level energy metering regularly maintained and subject to regular audits conducted by • Certified appliances
+on the sustainable features.
+• Optimized energy performance the California Unified Program Agency (CUPA). Installing Energy Star and WaterSense certified appliances,
+guaranteeing water usage optimization and reduced
+• Heat island reduction
+• Minimizing food waste environmental impact.
+• Indoor and outdoor water use reduction
+We’re minimizing food waste by optimizing inventory management,
+• Building-level water metering
+tracking data on employee consumption patterns, and fostering • Smart outdoor design
+• Rainwater management employee awareness. Over the past year, we have reduced an Designing ecosystems for our outdoor spaces that are
+average of 6.6% in food waste at certain U.S. sites. water-conscious, thus reducing the need for irrigation.
+Environmental, Social, and Governance Report 2023 CONTENTS 31
+ENVIRONMENTAL SUSTAINABILITY
+Environmental considerations for our products
+We strive to minimize the environmental impact and increase the
+We have reduced the plastic circularity of our products and packaging.
+weight in packaging by
+approximately 58% for our Xi Component circularity
+Stapling Reloads, by approximately For more than a decade, we’ve adhered to a policy of refurbishing
+58% for Xi High Flow Seal, and or repurposing returned components and systems. We recycle
+approximately 21% less for Xi parts from retired da Vinci Si systems, with approximately 95% of
+eDrape, per stock-keeping unit surgeon console components, approximately 55% of patient side cart
+(SKU). Moving forward, we will components, and roughly 5% of vision side cart components used
+continue to work to reduce use of in da Vinci X systems. Additionally, in the U.S., we use collapsible,
+plastics in packaging. reusable containers and corrugated totes, ensuring instrument
+protection during transit. Transitioning to electronic instructions for use establishing clear objectives, processes, and procedures, an EMS
+In July 2022, we received approval to use electronic instructions seeks to minimize negative environmental effects, enhance resource
+Packaging for use (eIFUs) instead of paper manuals for the X/Xi P10 software efficiency, achieve regulatory compliance, and promote sustainable
+Our packaging engineering team conducts regular reviews update in the U.S.* This makes the latest IFU content available to practices throughout our value chain. To date, most of our
+of packaging designs to identify opportunities for packaging customers anywhere, anytime. In 2023, we introduced eIFUs forthe operations are certified to the ISO 14001 standard.
+densification, reduced material thickness (downgauging), and P11 software update for da Vinci X/Xi and the P5 software update
+improved recyclability. The team also participates in Kilmer for da Vinci SP in 18 countries. The transition to eIFUs diverted EMS audits stimulate continuous improvement and play a crucial
+Innovations in Packaging (KiiP), a collaborative industry initiative approximately 102,000 lbs. of paper waste from landfills, saving over role in maintaining the integrity of our environmental management
+dedicated to advancing sustainable packaging for the betterment $2.9 million in costs in 2023 alone. We are working to expand the eIFU efforts. That is why we conduct annual internal and external audits.
+of patient outcomes and clinician satisfaction. program to additional countries and products. In 2023, we successfully completed two external audits in Mexicali
+and Sunnyvale, with the participation of over 150 employees. The
+Enhancing packaging densification Responsible procurement policy audits yielded no critical or major findings and acknowledged
+Our packaging design engineering team advances our packaging We encourage employees to prioritize environmentally preferred strengths in employee awareness and training.
+densification efforts. This involves optimizing the spatial arrangement products when they meet our business criteria, offer comparable
+of our products within the packaging and on pallets, while preserving value, and maintain our quality, performance, and compliance Regulated materials management
+device functionality and sterility. These efforts minimize packaging standards. Our procedures manage materials, parts, and sub-assemblies in
+material and waste for us and our customers. Ultimately, we aim to compliance-regulated materials requirements, including those
+create more efficient pallet designs, enabling us to fit more packages Environmental regulatory compliance directed at conflict minerals.
+on a single shipping pallet and reduce the number of shipments. We are dedicated to policies and practices that minimize negative
+impacts to the environment. Our Environmental Policy outlines our
+Review our Conflict Minerals Policy Read our conflict minerals report
+Another advantage of Reducing material thickness and improving recyclability approach.
+Statement for additional information. filed annually with the SEC.
+packaging densification is We’re examining our suppliers’ product portfolios to pinpoint
+increased efficiency in ethylene mono-material packaging options suitable for sterile barriers. Environmental Management System
+oxide sterilization, a highly Mono-materials offer recyclers clean waste streams, allowing Our commitment to environmental responsibility is exemplified
+regulated process by which for mechanical recycling or advanced recycling methods that through our ISO 14001 certification, a globally recognized benchmark
+many medical devices are promote circularity. for effective Environmental Management Systems (EMS). By
+sterilized to ensure patient
+safety. With packaging
+densification, we can maximize
+the number of devices sterilized
+Environmental sustainability metrics
+at a given time.
+2019 2020 2021 2022 2023
+See Appendix J for information on
+Direct (Scope 1) GHG emissions (MT CO2e) - - 7,410 7,045 In progress†
+our employee programs geared at
+environmental sustainability and Energy indirect (Scope 2) GHG emissions (MT CO2e) - - 18,578 21,338 In progress†
+awareness.
+Indirect (Scope 3) GHG emissions (MT CO2e) - - 479,086 463,262 In progress†
+Combined scope 1, 2, and 3 GHG emissions (MT CO2e) - - 505,075 491,645 In progress†
+* Paper IFUs are available on request
+† Waste collected and recycled (lbs.) 247.07+ 376.02+ 535.77+ 543.77+ 808
+Carbon inventory numbers have a one-year
+reporting lag. Data from 2023 will be assured
+and reported in the 2024 ESG report. GHG reduced through recycling (MT CO2e) 344.45 498.95 996.37+ 1,092 1,644
+Environmental, Social, and Governance Report 2023 CONTENTS 32
+We approach governance through clear
+Governance and policies and procedures that uphold
+transparency our values, manage risk, and maintain
+shareholder trust.
+Environmental, Social, and Governance Report 2023 CONTENTS 33
+GOVERNANCE AND TRANSPARENCY
+Corporate governance
+Board of directors surgeon, clinician, and healthcare administration perspectives. When
+Our board of directors* is responsible for reviewing corporate strategy, evaluating our board’s composition, we consider candidates who
+overseeing senior management and selecting the CEO, assessing bring deep knowledge and experience in their fields, possess unique
+risk management effectiveness, and protecting the interests of business skills, and provide diverse perspectives.
+shareholders and other stakeholders. Its oversight responsibility
+involves a variety of economic, environmental, and social factors. We are committed to having a board that includes people from a
+See our latest proxy statement filed
+wide range of backgrounds. Currently, five of our 12 board members
+with the Securities and Exchange
+We value inclusion and diversity at all levels of the organization. (42%) are women. We have four members (33%) who self-identify as
+Commission for more information
+Our board includes leaders with broad and diverse experience in Hispanic, Middle Eastern/Asian, and/or African American.
+about our governance structures and
+areas including management of large global entities, technology board charters.
+and innovation leadership, and healthcare experience, including
+Gary Guthart, PhD Craig H. Barratt, PhD Joseph C. Beery Amal M. Johnson Don R. Kania, PhD Sreelakshmi Kolli
+Chief Executive Officer Chairman, Board of Directors Chief Executive Officer Former Executive Chairman Former CEO and President EVP and Chief Digital Officer
+Intuitive Intuitive LunaPBC Inc. Author-it Software Corporation FEI Company Align Technology, Inc.
+Amy L. Ladd, MD Keith R. Leonard, Jr. Alan J. Levy, PhD Jami Dover Nachtsheim Monica P. Reed, MD Mark J. Rubash
+Stanford University Unity Biotechnology, Inc. Former Chairman and CEO Former CVP of Sales and Former CMO, SVP, and Former Strategic Advisor
+Medical Center Chairman Chrono Therapeutics, Inc. Marketing Group AdventHealth Celebration CEO Eventbrite, Inc.
+Intel Corporation AdventHealth
+* Except for our chief executive officer, Gary
+Guthart, all directors are independent as
+defined by the NASDAQ Stock Market listing
+requirements.
+Environmental, Social, and Governance Report 2023 CONTENTS 34
+GOVERNANCE AND TRANSPARENCY
+Governance and Nominating Committee
+The Governance and Nominating Committee is responsible for
+corporate governance and compliance matters and the nomination
+of the members of the board, the lead director (if applicable), and
+committees thereof. In addition, the Governance and Nominating
+Committee reviews and assesses Intuitive’s performance on
+environmental sustainability, social responsibility, and other related
+matters. Each year, management reports to the Governance and
+Nominating Committee on sustainability priorities, progress, and
+future plans.
+Audit Committee
+The Audit Committee assists the board in its general oversight of our
+financial reporting, internal controls, and audit functions. It is directly
+responsible for the appointment, compensation, and oversight
+of the work of our independent registered public accounting firm.
+The committee also oversees many aspects of risk management,
+including but not limited to guidelines and procedures to govern
+the risk management processes; disclosure controls and procedures;
+principal financial, regulatory, privacy, compliance, and cybersecurity
+risk exposures; and the steps undertaken to assess and address them.
+Compensation Committee
+Comprised of independent directors, the Compensation Committee
+oversees the company’s strategies relating to our human capital
+management function, as outlined in our policy statement. Oversight
+includes, but is not limited to pay equity, inclusion initiatives, employee
+engagement and diversity, compensation for executive officers, and
+ensuring compliance with SEC regulations.
+ESG-related management forums performance. We track progress by measuring fairness, pay equity, standards, ComplianceLine hotline, investigations, and corrective
+ESG review board engagement, and diversity across all levels of our organization, actions. It ensures that compliance risks or alleged violations are Learn more about our guidelines,
+Guided by our corporate mission, the ESG review board oversees surveying employees about perceptions of their Intuitive work appropriately evaluated, escalated, and addressed. The committee bylaws, and charters.
+long-term company ESG initiatives. The ESG review board is experience and encouraging employee involvement in I&D regularly reports to our Audit Committee.
+comprised of cross-functional senior leadership across key business community-building initiatives. Our employee workforce diversity
+functions and the c-suite. The board includes our Chief Medical data, including our U.S. EEO-1 report, is published on our website. Cybersecurity oversight
+Officer, General Counsel, Chief Financial Officer, VP People Our employee experience survey includes questions about belonging, Our senior executive leaders hold quarterly reviews of our information
+Experience and Inclusion and Diversity, EVP & Chief Strategy and commitment to I&D, fairness, and career development. and product security and brief the board of directors several times a
+Corporate Operations Officer, VP Global Public Affairs, and EVP year. We work with external third-party experts to monitor our security
+Global Business Services (GBS), who chairs the ESG review board. Our Compliance Committee measures and detect potential security issues. Our incident-response
+ESG management group reports to our EVP of GBS, a direct report to Our Compliance Committee oversees Intuitive’s activities with team identifies, investigates, and closes gaps to minimize risk in the
+the CEO. The EVP of GBS and our General Counsel both have direct respect to the laws, rules, and regulations applicable to our instance that a vulnerability or breach is detected.
+interactions with our board businesses and ensures the company’s reputation and integrity is
+of directors. protected. It is led by our General Counsel and Chief Compliance
+Officer and is responsible for the development, implementation,
+Inclusion and Diversity Council maintenance, and administration of our compliance programs. The
+Our senior leaders, I&D Council, and VP People Experience and I&D committee meets quarterly (and more frequently as needed), and
+regularly review quantitative and qualitative measures of our I&D oversees our codes, policies, training and education requirements,
+Environmental, Social, and Governance Report 2023 CONTENTS 35
+GOVERNANCE AND TRANSPARENCY
+Management systems Our Environmental Policy
+Management systems provide a structured framework for for Intuitive facilities
+planning, implementing, monitoring, and continually improving As part of our ESG work, we pursue
+our processes and operations. These systems enable us to strategies to mitigate our impact on
+enhance efficiency, reduce risks, ensure compliance, and foster the environment, prevent pollution, and
+a culture of innovation. protect the environment. We ensure
+compliance with laws, regulations, and
+Quality Management System other obligations while managing the
+Our quality teams drive continuous improvement through our life cycle of our products, solutions, and
+Quality Management System (QMS). Our QMS is International services in an environmentally responsible
+Standards Organization (ISO) 13485:2016 certified and complies manner. Our Environmental Policy is
+with the Medical Device Single Audit Program requirements and implemented through a comprehensive
+other global regulations. It consists of a quality manual and environmental management system
+procedures that contain specific responsibilities for establishing, where our performance is continually
+implementing, and maintaining our QMS. Monitoring our QMS monitored, reviewed, and improved.
+includes setting and tracking quality goals and metrics, quality
+data management reviews, internal and external audits, and
+corrective and preventive actions. We regularly evaluate and
+sharpen our quality management procedures and processes to
+help our internal auditors be responsive and agile in performing
+holistic reviews, internally identifying issues, and taking
+appropriate actions to improve over time.
+Information Security Management
+Our Information Security Management System encompasses Our Quality Policy
+information security, cybersecurity and privacy protection, and We provide high-quality, safe, and effective products
+is certified to the ISO 27001:2022 standard. and services to our customers. We achieve this
+with a ‘patients first always’ mindset, an effective
+Environmental Management System quality management system, and a commitment
+We work under an Environmental Management System (EMS) to compliance and continuous improvement. We
+framework based on the ISO 14001:2015 standard to define strive for excellence through regular reviews of
+objectives, monitor progress, and integrate sustainability our products and systems to ensure they meet
+into our decision-making. Our EMS provides a standardized customer needs and comply with all applicable global
+documentation structure, enhancing our ability to track regulatory requirements. Every Intuitive employee has
+sustainability goals and ensuring greater predictability and ownership of quality and contributes to the continued
+reliability in project results. In 2023, we attained a 98% improvement of what we do.
+completion rate for our employee EMS course.
+Quality Improvement Plan
+Providing high-quality products and services that our
+customers and their patients can trust is everyone’s
+job at Intuitive. In 2023, we embarked on an evolution
+of our QMS, taking a cross-functional approach to
+simplifying our processes and building a best-in-class
+quality system for the complex, global organization
+we are today and that will scale for the future. Our
+Quality Improvement Plan looks broadly at people,
+processes, and tools for opportunities to streamline
+and improve our Quality Management System.
+Environmental, Social, and Governance Report 2023 CONTENTS 36
+GOVERNANCE AND TRANSPARENCY
+Ethical business conduct of Business Conduct and Ethics. We issue periodic reminders to
+We believe that every employee is responsible for managing employees of their obligation to raise concerns related to ethics
+our company’s reputation by acting ethically and with integrity, and compliance via the ComplianceLine and other channels.
+as guided by our Code of Business Conduct and Ethics.
+The ComplianceLine hotline is staffed by an independent
+We engage and educate employees on ethics in a variety of ways, organization and is available 24 hours-a-day, 7 days-a-week. Callers
+including our Code of Business Conduct and Ethics, annual review can choose to remain anonymous and will be provided with a
+process, employee training, and communications. Our formal reference number that can be used for follow-up. Intuitive takes any
+disclosure document outlines the requirements and processes used reports of suspected ethical or compliance violations seriously. If you
+to maintain the highest standards of business conduct can be found have a concern, please make a report online at MyComplianceReport
+here, and is available in English, French, German, Spanish, Korean, (ID: INTS) or through the toll-free number 1-844-223-4166. Reporting
+Japanese, and Chinese. and investigation summaries are provided quarterly to our
+Compliance Committee.
+Anti-bribery, anti-corruption training, and transparency
+We abide by all anti-bribery laws in the countries in which we operate. Tax transparency
+This position is reflected in our policies and contracts with distributors We support strong corporate governance and financial transparency.
+and suppliers, who must comply with applicable anti-bribery and anti- Our Global Tax Policy Statement is just one aspect of this, and
+corruption laws and regulations as a condition of our contracts. outlines our tax transparency guidelines.
+Internal controls Managing accurate and compliant promotion of our products
+To help monitor compliance by the third parties with whom we Our sales and marketing practices align with industry standards and
+conduct business, we perform periodic audits for compliance with regulations, ensuring the accurate and compliant promotion of our
+anti-bribery and anti-corruption laws. Moreover, we continually products.
+review and refine our internal controls, including strengthening
+training and certification requirements of third parties with whom Advertising and promotion reviews
+we work. Our advertising and promotion materials undergo rigorous review
+and approval, including claims for use, safety, and performance.
+Compliance training All materials conform to U.S. Food and Drug Administration and
+Our compliance training and policies on anti-bribery, anti-corruption, international regulatory requirements, with truthful, accurate, and
+and ethical business conduct are regularly reviewed and updated. substantiated content.
+Training on our Code of Business Conduct and Ethics is available
+in seven languages and covers our expectations and requirements Training for sales and marketing teams
+regarding inclusion and diversity, anti-bribery and anti-corruption, Customer-facing employees, including sales and marketing teams,
+harassment and discrimination prevention, and managing data and complete our clinical and sales program, ensuring technical expertise,
+data privacy. clinical knowledge, and ethical practices in engaging with healthcare
+professionals. Completion of these programs is mandatory for
+We require all global employees to complete compliance training at employment.
+Read our ethical marketing See Appendix K for our
+the time of hire, annually, or as local regulations require, and each
+disclosure. corporate policies, statements,
+employee must demonstrate knowledge through an end-of-course Transparency and certificates.
+assessment. Intuitive makes annual disclosure of all payments to healthcare
+professionals through the U.S. Centers for Medicare & Medicaid
+Intuitive compliance hotline Services Open Payments database.
+See our Supplier Code of
+We expect our workforce to act ethically and with integrity at all
+Conduct for more details.
+times. Our ComplianceLine hotline helps sustain this strong culture
+of compliance. It provides a path for all employees, contractors,
+customers, vendors, third-party agencies, and others to report
+any concern or suspected violation of the company’s policies for
+accounting, human resources, internal controls, or auditing matters,
+U.S. or foreign laws, rules, regulations, or ethics—including our Code
+Environmental, Social, and Governance Report 2023 CONTENTS 37
+GOVERNANCE AND TRANSPARENCY
+Information security Clinical evidence programs and standards
+Intuitive is committed to protecting any information with which we Our global clinical affairs function consists of medical doctors,
+are entrusted by our employees, customers, or other stakeholders. biomedical engineers, public health scientists, clinical researchers,
+In compliance with medical device regulations, our cybersecurity data scientists, biostatisticians, medical writers, and other experts
+systems and processes adhere to global industry standards based on who provide robust, streamlined scientific value for our technologies
+the National Institute of Science and Technology (NIST) and Health and products. The clinical affairs team is responsible for strategic
+Information Trust Alliance (HITRUST) guidelines. Our information planning and scientific direction for evidentiary support of
+security management system is certified to the ISO 27001 framework. technology adoption and access, enabling informed healthcare
+Throughout the product lifecycle, from initial concept through end- decisions.
+of-life disposal, we pay careful attention to data types and flow,
+encryption mapping, and risk controls. Our clinical affairs team supports early feasibility research, studies for
+product approvals, and post-approval studies such as observational
+We reinforce protection by staying informed on emerging threats studies, outcomes research, real-world evidence studies, and
+and performing aggressive testing, continuous proactive monitoring, clinical registries across all Intuitive technologies. These categories
+and ongoing vulnerability analysis and patch deployment. Our of evidence creation and curation comply with various national
+multilayered approach to protecting data and systems includes: and international regulations and guidelines, including but not
+limited to: Code of Federal Regulations (CFR) Title 21*, ISO 14155:2020,
+• Mandatory employee training on security policies, data protection,
+and security awareness Council Directive 93/42/ECC, General Data Protection Regulation
+(GDPR), and European Medical Device Directive. Our clinical research
+• Review of risk notifications provided by global threat intelligence
+initiatives are available to all eligible patients, determined by
+resources followed by appropriate action as required
+criteria including the patient’s disease condition, health status, and
+• Remote-access protection to control access to our network,
+other factors such as the ability to fulfill study-related follow-up
+applications, and data
+requirements. All applicable clinical trials are registered and updated
+• Advanced cyber threat management technology tools on applicable local and regional clinical trial registration databases,
+such as ClinicalTrials.gov.
+• Privacy and data protection for virtual meetings and collaboration
+activities
+Publication of results and data transparency
+Information security training program We value scientific integrity and are committed to publishing
+All employees receive annual and ongoing training on information all research results in an objective and scientific manner. The
+security policy and related topics, including phishing exercises and manuscripts and abstracts generated from clinical evidence
+global data privacy laws. We offer on-demand continuing education initiatives supported by Intuitive are based on study design and
+courses on information security and business process alignment. analyses plans and the scientific datasets follow International
+Committee of Medical Journal Editors (ICMJE) guidelines, as per the
+agreed-upon terms in the clinical trial agreements. The vast majority
+of the peer-reviewed literature is published independently of Intuitive.
+Governance and transparency metrics
+2019 2020 2021 2022 2023
+Women representation: board of directors 30% 30% 36% 36% 42%
+People of color representation: board 10% 20% 27% 27% 33%
+Completion rate for all QMS compliance-related training - >99% >99% >98% >98%
+EMS training completion rate - - - 99% 98%
+* Parts 11, 21, 50, 54, 56
+Environmental, Social, and Governance Report 2023 CONTENTS 38
+Appendices
+Environmental, Social, and Governance Report 2023 CONTENTS 39
+APPENDICES
+Important safety information
+Serious complications may occur in any surgery, including surgery using the da Vinci
+system, up to and including death. Examples of serious or life-threatening complications,
+which may require prolonged and/or unexpected hospitalization and/or reoperation,
+include but are not limited to, one or more of the following: injury to tissues/organs,
+bleeding, infection and internal scarring that can cause long-lasting dysfunction/pain.
+Risks specific to minimally invasive surgery, including surgery using the da Vinci system,
+include but are not limited to, one or more of the following: temporary pain/nerve injury
+associated with positioning; a longer operative time, the need to convert to an open
+approach, or the need for additional or larger incision sites. Converting the procedure
+could result in a longer operative time, a longer time under anesthesia, and could lead
+to increased complications. Contraindications applicable to the use of conventional
+endoscopic instruments also apply to the use of all da Vinci instruments.
+For important safety information, indications for use, risks, full cautions and warnings
+please also refer to www.intuitive.com/safety.
+Individuals’ outcomes may depend on a number of factors, including but not limited
+to patient characteristics, disease characteristics and/or surgeon experience.
+Da Vinci SimNow
+The da Vinci SimNow is intended to augment, not replace, existing training programs
+for the da Vinci surgical systems.
+Product training disclaimer
+Intuitive only trains on the use of the da Vinci surgical system. The information provided
+during Intuitive training is not intended to substitute for formal medical training or
+certification. Intuitive is in no way responsible for surgical credentialing or training in
+surgical procedure or technique, nor are the training programs provided by Intuitive a
+replacement for hospital credentialing requirements. All curricula described are subject
+to change depending on available resources, as well as on the needs of the course
+participants.
+Some of the training described may be provided by organizations or entities other than
+Intuitive, and Intuitive is not responsible for the content of these programs. Surgeon
+proctors are independent contractors. The listed prices are for services rendered by the
+independent surgeon proctors. A list of surgeon proctors can be provided upon request.
+Intuitive does not train on surgical procedures or techniques, nor does it take
+responsibility for proctoring services provided by the independent surgeon proctors.
+The hospital/surgeon purchases the proctoring service as part of training they have
+independently determined to be part of their credentialing requirement; Intuitive’s role
+is merely to coordinate between the hospital/surgeon and the proctor. The proctors and
+the hospital/surgeon are always free to negotiate with each other directly.
+Product names are trademarks or registered trademarks of Intuitive Surgical or their
+respective owners. See www.intuitive.com/trademarks.
+Environmental, Social, and Governance Report 2023 CONTENTS 40
+APPENDICES
+Appendix A The Governance and Nominating Committee of of their impact and likelihood. The output of this assessment is functional program and initiative development, implementation,
+Taskforce for Climate-related Financial Disclosures (TCFD) Intuitive’s board of directors meets quarterly, and used to design the Internal Audit Plan for the coming year. and assessment, and ESG acts as a conduit between groups.
+reviews ESG topics at least twice a year.
+Section 1: • Opportunity development: The ESG function works collaboratively Compliance Committee: The cross-functional Compliance
+Climate-related governance • Sustainability and ESG topics are guided by a formal agenda and cross-functionally to measure and monitor environmental, Committee oversees Intuitive’s compliance with applicable laws,
+a) Describe the board’s oversight of climate-related tasks recommended by the Head of ESG and approved by the ESG social, and governance matters and develop opportunities including those related to ESG. It is led by our General Counsel and
+and opportunities review board Chair (Executive Vice President of Global Business for ESG risk mitigation, including those for climate risks. Chief Compliance Officer and is responsible for the development,
+Services). The topics are also reviewed and aligned with the General implementation, maintenance, and administration of our
+The Governance and Nominating Committee of the board of Counsel and ESG review board. Typical agenda topics include º Our ESG team includes specialists in carbon management, compliance programs. The committee meets quarterly (and more
+directors oversees our Environmental, Social, and Governance climate policies, practices, and priorities related to monitoring environmental regulations, regulated materials, ESG frequently as needed), and oversees our codes, policies, training
+(ESG) strategy. The Audit Committee of the board of directors and managing our carbon footprint, reporting requirements, metrics, and reporting. Key areas of work for the ESG and education requirements, standards, ComplianceLine hotline,
+oversees the assessment and mitigation activities associated with climate-related goals, progress on social responsibility programs, team include carbon footprint assessment, carbon investigations, and corrective actions. It ensures that compliance
+our overall company risks, in accordance with the Audit Committee environmental regulations, and a host of other governance items. plan and goals, overall climate risks to company, social risks or alleged violations are appropriately evaluated, escalated, and
+Charter. The Governance and Nominating Committee and Audit responsibility initiatives, and communicating with addressed. The committee regularly reports to our Audit Committee.
+Committee report to the overall board of directors on these topics. In addition, annually, the internal audit team conducts internal and external stakeholders, including regulatory
+an assessment of corporate risks, which may include agencies, customers, employees, and shareholders. Key Section 2:
+The image below depicts the decision system for climate-related ESG-related risks, and presents those risks and related business collaborators on climate risk assessment include Climate-related strategy
+financial risk assessment and management at Intuitive. overview responsibilities to the Audit Committee. financial services, legal, internal audit, risk management, a) Describe the climate-related risks and opportunities the
+supply chain, product operations, regulatory, facilities organization has identified over the short, medium, and
+• The arrows signify communication flow. • The Head of ESG ensures that ESG-related risks are noted,
+and that, as appropriate, plans are created to mitigate such management, workplace services, and investor relations. long term.
+• The blue boxes signify decision making bodies.
+risks. The Head of ESG also reports such risks and mitigation
+• The green boxes signify teams preparing content. plans to the Governance and Nominating Committee. º The Head of ESG is directly responsible for developing Climate related risks
+and monitoring our ESG activities and creating and Short term: (0-3 years):
+• The grey boxes signify implementation ownership.
+Ultimately, the ESG team is directly responsible for collecting, executing plans toward climate-related goals and • Physical risk from extreme weather patterns: Extreme weather
+reporting, and monitoring sustainability and ESG activities, risks, other reporting metrics. The Head of ESG’s annual presents a risk to operations at Intuitive site locations as well as
+Intuitive decision framework on climate-related and management actions while regularly briefing and aligning performance goals are tied to this responsibility. direct and indirect material suppliers. The threat of hurricanes,
+risk governance and management with the ESG review board and Governance and Nominating wildfires, or severe weather all have the capacity to disrupt
+Committee on these items. The ESG team is also responsible • Review: Intuitive’s ESG review board is comprised of cross functional critical supply chain elements. We expect these extreme weather
+for the company’s annual ESG Report and other ESG reporting. senior leadership from across key business functions. The board events will increase both in severity and frequency and remain a
+Management is responsible for the execution of sustainability includes our Chief Medical Officer, General Counsel, Chief Financial medium- and long-term risk to Intuitive. In the U.S., our operations
+Intuitive Board of Directors
+and ESG activities, risk identification, and mitigation (see Officer, Vice President People Operations, Executive Vice President and suppliers are subject to risk of hurricanes, drought, wildfire
+management section below in 1B for additional details). & Chief Strategy and Corporate Operations Officer, Vice President smoke, and air quality issues. In Europe, our regional offices are
+of Global Public Affairs, Senior Vice President & General Manager susceptible to extreme weather (cold); and in Mexicali, our location
+For more information about our governance structures and EU Commercial and Marketing, and Executive Vice President of is susceptible to extreme weather (heat) and drought.
+Board of Directors, Goverance Board of Directors, board charters, please see our latest proxy statement filed Global Business Services (GBS) who chairs the ESG review board.
+and Nominating Committee Audit Committee
+with the Securities and Exchange Commission (sec.gov). The EVP of GBS is also the supervisor to Head of ESG, and directly • Supply chain production capacity risk from regulations in supply
+reports to the CEO. The EVP of GBS and the General Counsel chain: New and/or stronger air quality and emissions standards
+b) Describe management’s role in assessing and fulfills the function to connect ESG to the CEO and reporting present potential challenges to our supply chain. These regulations
+managing climate-related risks and opportunities. to the Governance and Nominating Committee twice a year. may require direct and/or indirect material suppliers to reduce or
+even halt production on certain high-emission products to ensure
+ESG Review Board
+(Internal Executive Committee) Climate risks are identified by individual functions and then Opportunity implementation: Key business partners on climate compliance. This presents a risk to our supply chain if the sourcing
+collated by the ESG team. The management functions and teams risk assessment at Intuitive include finance, legal, internal of this product/component is constrained or sourced from a single
+listed on this page perform various activities that help aid in the audit, risk management, supply chain, product operations, source, particularly acute for sterilization suppliers in California.
+assessment, development, review of climate-related risks, and regulatory, facilities management and workplace services, and
+implementation of mitigation strategies. These groups work investor relations. Intuitive’s internal audit team, in conjunction • Financial risk from increased raw materials costs and subsequent
+together on cross-functional program and initiative development, with subject matter experts across the company, performs an pressure on profit margins caused by climate-related factors
+Functions: Head of ESG Functions:
+and the Head of ESG acts as a conduit between groups. annual risk assessment to help identify and manage company (energy cost): There are a variety of upward pressures on cost and
+Supply Chain ESG Team Internal Audit
+risks. Risks, including climate-related risks, are assessed and margins stemming from climate-related factors. Energy costs have
+Risk (Organization:
+(Organization:
+• Risk Assessment: Our internal audit team performs an annual prioritized based on impact and likelihood. This informs practical increased greatly recently, leading to significant uplifts in the cost
+Management Global Business
+Finance)
+Services) risk assessment to help identify significant risks to the company actions and resourcing associated with addressing/mitigating of raw materials, transportation, and general operations. These
+(Organization:
+and develops a related annual internal audit plan. This process these risks. All management functions aid in the assessment, costs must be either absorbed into margins or passed to the end
+Global Business
+begins by identifying risks through interviews with leaders development, review of climate-related risks, and implementation customer, which presents a cascading effect through our entire
+Services)
+across the organization and then ranking those risks in terms of mitigation strategies. These groups work together on cross- supply chain.
+Environmental, Social, and Governance Report 2023 CONTENTS 41
+APPENDICES
+• Market risk driven by changing investor and customer behavior • We have identified several medium- and long-term climate-related • Operations (energy): Impacts of climate-related risks include and the quantitative rankings, are summarized in a report shared
+attributed to perceived climate risk: Some investors and customers opportunities, which may reduce emissions and improve overall leveraging more sustainable energy sources to power business with both senior leadership and the board of directors
+are placing new or increasing emphasis on climate-related supply chain resiliency, efficiency, and cost. These opportunities operations (part of our carbon plan). This includes considerations Audit Committee.
+considerations when doing business. An example of this includes could involve product design and sourcing initiatives that address around the most efficient means of logistics/transportation, using
+the expectation of carbon reduction initiatives and associated both proactive climate initiatives and sustainability and climate renewable energy sources such as solar to power buildings, and Risk management in finance: From time to time, we may see a
+disclosures. Investors and customers are increasingly adding risks. These opportunities require multiyear plans and must be done looking to reduce dependencies on high carbon energy sources direct or indirect impact from natural hazards like drought, wildfires,
+climate-risk and climate mitigation as one of their decision criteria. in the context of our mission, strategy, and priorities. throughout the supply chain. floods, severe storms, hurricanes, and other weather-related events.
+If we cannot meet investor expectations, we may face challenges The financial consequence of the severity of these events could
+accessing capital and/or share value could decline. b) Describe the impact of climate-related risks and Impact of climate-related opportunities on the organization’s be significant if we are not prepared. Our risk assessments help
+opportunities on the organization’s businesses, strategy, businesses, strategy, and financial planning: in analyzing the company’s climate-related risks based on their
+Medium to long term: (3-25 years) and financial planning. In 2023, we created a carbon plan that seeks to deliver a impact versus likelihood, followed by a business impact assessment
+Additional risks in the medium to long term are: Impact of climate-related risks on the organization’s businesses, decarbonization target, set in alignment with industry standard to help score and prioritize critical operations and processes for
+strategy, and financial planning: carbon reduction setting principles. In the plan, detailed carbon practical actions and timely distribution of resources. We leverage
+• Competitive risk from new market entrants that employ carbon We measure value creation through our customers’ lenses and in mitigation are identified and tracked. these assessments to derive the financial and operational impact of
+or climate initiatives that change or shift customer preferences: alignment with our goal of delivering on the Quadruple Aim: better climate-related risk, which can lead to business interruption. We also
+As new market entrants continue to emerge into the robotic- clinical outcomes, improved patient experiences, improved care c) Describe the resilience of the organization’s strategy, taking work with climate risk experts and consultants from time to time
+assisted surgical space, customer behavior has the potential to be team experiences, and lower total cost to treat per patient episode. into consideration different climate-related scenarios, for guidance on existing and emerging risks associated with climate
+influenced by our carbon and/or climate initiatives and disclosures. Within this context, improvements in operating efficiency and cost including a 2°C or lower scenario. change.
+reduction are critical to better serve our company and customers. In 2023, we completed a full scope (scopes 1, 2, and 3) Greenhouse
+• Operational risk from new or emerging carbon pricing The impact of climate-related risks and opportunities are integrated Gas (GHG) carbon inventory, as disclosed on page 28 of this report. Supply chain risk management in global operations: Our Business
+regulations in our direct operations and in our supply chain: in our growth strategy and financial planning. For example, our Scopes 1, 2, and 3 for 2022 have completed the validation process. Continuity Plan takes into consideration the operational and
+New or emerging regulatory requirements may impact our ability board of directors and executive team focus on emissions reduction financial-related risks for various scenarios, such as supply chain
+to source materials used in our products, as well as impact the cost opportunities that also enhance operating efficiency and cost Section 3: interruption and/or disruptions at manufacturing locations. The team
+of materials. reduction over the long term. At functional levels of the company, Climate-related risk management conducts a business interruption assessment annually to validate the
+specific projects are being carried out across global teams to Disclose how we identify, assess, and manage level of insurance coverage purchased. This evaluation includes an
+Climate-related opportunities investigate dual sourcing, low-cost manufacturing, and supply chain climate-related risks. analysis of the financial metadata for each manufacturing location,
+Short term: resilience opportunities that may inform the product design and gross revenues minus variable costs to determine profit, and any
+• In 2023, we evaluated opportunities to reduce our carbon footprint manufacturing process in the long run. 3a) Describe the organization’s processes for identifying reductions to be considered for the redundancies established.
+over the long term, taking into consideration our mission, strategy, and assessing climate-related risks.
+and priorities. We focus on areas that improve our carbon footprint We understand that: This was addressed in 1A and 1B. Additional details for the key ESG team: In 2023, we worked with a leading consulting firm to
+while improving operational efficiency and reducing cost. Areas for • For products and services: Climate change risks will potentially management functions are elaborated below. To summarize, climate study the physical impacts on our facilities and those of our suppliers
+consideration could include use of renewable energy, transportation impact Intuitive products and services in a variety of ways, such risks are identified by individual functions (see below) and then by climate-related factors in the decades of the 2030s to the 2080s.
+of product via more energy efficient means, and changes in certain as: supply chain disruptions, financial pressure from increased costs collated by the ESG team. The ESG team regularly briefs and aligns To do this, we conducted climate-related scenario analysis to model
+product packaging to reduce plastic and paper use. These efforts of raw materials and energy, regulatory risks, and severe climate- with the ESG review board and board of directors’ committees on the impact of climate-related physical risk. Utilizing the latest
+may reduce our operating cost, while increasing the value of fixed related weather events. This could present challenges to customers these items. The ESG team is also responsible for external reporting climate science, we applied localized climate projections based on
+assets, benefitting our workforce, and reducing our exposure to in the form of product availability and price competitiveness. of the company’s ESG activities. Management is responsible for the medium and high emission scenarios (SSP2 4.5, SSP5- 8.5).
+future fossil fuel price increases. execution of sustainability and ESG activities, risk identification, and
+• Supply chain/direct and indirect sourcing: We manage a highly mitigation. In addition, several groups help fine-tune approaches to We found the risks of water stress, extreme temperatures, and
+• We have expanded our climate-related disclosures by responding to complex supply chain which is subject to climate-related risks. address any identified risks. flooding are the greatest drivers of climate-related potential impact
+the Carbon Disclosure Project (CDP), which enhances our ability to These risks include regulatory risks which could impact production on our value chain.
+respond to investor and customer inquiries. capacity of suppliers, physical risks from climate-related extreme/ The following teams perform thorough reviews of climate-related
+adverse weather events, and/or financial risks from increased risks: For risk mitigation, we act in the following ways:
+Medium and long term: raw materials and energy costs. These risks could also present Internal audit in finance: Our internal audit team performs an • Insurance coverage: Where commercially available and cost-
+• We have adopted an integrated campus approach, where we can challenges in the company’s ability to source and manufacture annual risk assessment to help identify and manage business risks. effective, a moderate amount of financial risk is offset by
+co-locate certain functions, including manufacturing, engineering, products to meet customer demand. The Head of Internal Audit interviews senior leaders across our key purchasing and maintaining relevant insurance, such as business
+commercial operations, customer and sales training, and various business functions to understand their perspective on the current interruption insurance. Case studies are done for specific sites to
+administrative areas. Co-locating our teams into these hubs, • Facilities and manufacturing physical footprint: We have a and potential future risks to the company. In addition to obtaining assess the cost of operational disruption and the impact it will have
+located in geographies where we can support our customers locally, global corporate and manufacturing footprint across a global senior leaders’ general feedback on risks, leaders are asked to review on company revenue and gross margin.
+can help reduce our environmental impact and create efficiencies network of key collaborators. The decisions to build or move a prioritized list of risk categories and rank them in terms of potential
+in supply chain access, customer training and support, and facilities or operations will be impacted by climate-related risks impact to the company (based on severity of risk and likelihood • Finished goods (FG) inventory: General risk management for
+customer service. The build out of these campuses is a multiyear and will take into consideration the mitigation of these risks. of occurrence). Additionally, the internal audit team leverages the climate and regional issues leverages the FG inventory for short-
+effort that began in 2020. feedback and report to help determine internal audit projects for the term buffering. We hold approximately 8 to 12 weeks of FG
+upcoming quarters. These findings, both the qualitative feedback products in our networks depending on the criticality and life cycle
+Environmental, Social, and Governance Report 2023 CONTENTS 42
+APPENDICES
+of the parts. This buffering strategy is driven through our executive • Through the SCRM framework, risk assessment via risk Appendix B
+quarterly meeting. We are also driving multi-plant strategies, dual categorization measures are conducted, taking into consideration Global Reporting Initiative (GRI)*
+sourcing, and buffering on components to ensure FG production. the severity of the risk, likelihood of impact, and complexity of risk
+mitigation efforts.
+GRI 2: General disclosures 2021 GRI 305: Emissions 2016
+We have conducted several risk mitigations audits, assessments,
+as well as preventive and mitigative actions and activities, and • The SCRM framework is designed to focus on specific types of p. 7 2-3 Reporting period, frequency, and contact point p. 28 305-1 Direct (Scope 1) GHG emissions
+are aware that more work can be done in these areas. We are risk, which can then be viewed in aggregate and used to measure
+committed to continuing our investment of resources to continue operational risk across the organization. These risk programs p. 26 2-7 Employees p. 28 305-2 Energy indirect (Scope 2) GHG emissions
+building a resilient program with a more flexible inventory that include, but are not limited to financial risk, cyber security risk,
+p. 34-35 2-9 Governance structure and composition p. 28 305-3 Other indirect (Scope 3) GHG emissions
+addresses any gaps in insurance coverage. geopolitical risk, geographic risk, and part level engineering
+2-10 Nomination and selection of the highest
+and sourcing (attribute) risk. Elements of the SCRM framework p. 34-35 GRI 306: Waste 2020
+governance body
+b) Describe the organization’s processes for managing climate- include climate risk, under the pillar of geographic events, such as
+related risks. hurricanes, severe weather, and wildfires. p. 34 2-11 Chair of the highest governance body p. 31-32 306-2 Management of significant waste-related impacts
+To summarize, climate risks are identified by individual functions (see 2-12 Role of the highest governance body in overseeing
+p. 35, 41 GRI 401: Employment 2016
+below) and then collated by the ESG team. The ESG team regularly • The SCRM team is managed under product operations with the management of impacts
+briefs and aligns with the ESG review board and board of directors’ alignment across corporate cross-functional stakeholders. The 2-14 Role of the highest governance body in
+p. 8, 41 p. 26 401-1 New employee hires and employee turnover
+sustainability reporting
+committees on these items. In addition, the internal audit team collective responsibility of these groups is to review the scope and
+401-2 Benefits provided to full-time employees that are not
+performs an annual risk assessment process to identify current and effectiveness of the SCRM program. p. 41 2-17 Collective knowledge of the highest governance body p. 44
+provided to temporary or part-time employees
+future risks to the company, and there is a category that currently
+p. 3 2-22 Statement on sustainable development strategy GRI 403: Occupational health and safety 2018
+includes climate-related risks. Going forward, climate-related risk will Section 4:
+403-1 Occupational health and safety management
+be a dedicated category. Climate-related metrics and targets p. 25, 35-38 2-23 Policy commitments p. 22, 44
+system
+4a) Disclose the metrics used by the organization to assess
+403-2 Hazard identification, risk assessment,
+In addition to this formal process, the internal audit team regularly climate-related risks and opportunities in line with its p. 25, 35-38 2-24 Embedding policy commitments p. 44
+and incident investigation
+holds informal discussions with leaders to discuss changes in the strategy and risk management process.
+p. 37 2-26 Mechanisms for seeking advice and raising concerns p. 44 403-3 Occupational health services
+business and macro-environment to identify if any updates to the
+Overall carbon emissions from scope 1, scope 2, and scope 3
+audit plan are warranted. Based on these conversations, there is an GRI 3: Material topics 2021 p. 22, 44 403-5 Worker training on occupational health and safety
+sources are considered when assessing our climate-related risks and
+opportunity for the internal audit team to learn about and prioritize
+opportunities. The ESG team uses carbon emissions data and related
+p. 8, Appendix A 3-1 Process to determine material topics p. 44 403-6 Promotion of worker health
+projects related to climate change.
+metrics to track progress against goals. Additional metrics of interest
+403-7 Prevention and mitigation of occupational health and
+include: p. 8, Appendix A 3-3 Management of material topics p. 44
+safety impacts directly linked by business relationships
+3c) Describe how processes for identifying, assessing, and
+managing climate-related risks are integrated into our • Work continuity resilience, as measured by level of insurance GRI 201: Economic performance 2016 p. 26 403-10 Work-related ill health
+overall risk management. coverage, which is leveraged my multiple corporate functions,
+201-2 Financial implications and other risks and
+Appendix A GRI 404: Training and education 2016
+Here are some specific examples of frameworks (and processes), including our Board of Directors Audit Committee opportunities due to climate change
+in addition to the response in 3a. 404-2 Programs for upgrading employee skills and
+GRI 203: Indirect economic impacts 2016 p. 21
+• Energy intensity, as measured by kilowatt hour/gross square feet, transition assistance programs
+Risk assessment framework: Functional leaders/executives are which is leveraged by our facilities management team. p. 45-46 203-1 Infrastructure investments and services supported GRI 405: Diversity and equal opportunity 2016
+assigned as risk owners. Risk owners are charged with identifying,
+GRI 204: Procurement practices 2016 p. 19, 34 405-1 Diversity of governance bodies and employees
+reporting, mitigating, and monitoring risks that can impact our 4b) Disclose scope 1, scope 2, and scope 3 greenhouse gas
+ability to achieve business objectives. Self-assessments, changes to (GHG) emissions 405-2 Ratio of basic salary and remuneration
+p. 25 204-1 Proportion of spending on local suppliers p. 20
+the regularity environment, emerging risks, and market trends are Please refer to 2023 ESG annual report, page 28. of women to men
+key sources of information to identify climate-related risks. For the GRI 205: Anti-corruption 2016 GRI 413: Local communities 2016
+risk assessment, we use a standardized approach of measuring risk 4c) Describe the targets used by the organization to manage
+205-2 Communication and training about anti-corruption 413-1 Operations with local community engagement,
+likelihood versus risk impact against key business criteria including climate-related risks and opportunities and performance p. 37 p. 18, 20, 23, 45-46
+policies and procedures impact assessments, and development programs
+operational, regulatory/compliance, financial, legal, and reputational. against targets.
+GRI 206: Anti-competitive behavior 2016 GRI 415: Public policy 2016
+Each risk is assigned a weightage after determining the effectiveness
+In 2023, we also created a carbon plan to manage our
+of the controls to address the risk. The risk owner uses the weightage decarbonization goals and targets. This plan includes: 206-1 Legal actions for anti-competitive behavior,
+p. 37 p. 37 415-1 Political contributions
+as guidance for prioritization and to develop action plans. anti-trust, and monopoly practices
+• Company’s growth projections and climate risk factors are overlaid
+on the baseline carbon inventory to estimate the business-as-usual GRI 207: Tax 2019
+Supply Chain Risk Management (SCRM) framework: Involving the scenario.
+components listed below, SCRM is designed to identify, communicate, p. 37 207-1 Approach to tax
+• Carbon mitigation efforts are identified and estimated to complete
+and mitigate potential risks and disruptive events across the
+the emissions reduction solutions. Intuitive considers all options
+p. 37 207-2 Tax governance, control, and risk management
+company for direct materials.
+and a balanced approach between operational efficiency projects,
+renewable solutions, and supply chain logistics to help reduce scope * Intuitive has reported the information
+207-3 Stakeholder engagement and management
+p. 37 cited in this GRI content index for the
+1, 2, and 3 sources systematically. of concerns related to tax
+period January 1–December 31, 2023,
+with reference to the GRI Standards.
+• The company will consider the Science Based Target Initiative
+(SBTi) and other emerging methodologies for future scope 1 and 2
+emissions targets.
+Environmental, Social, and Governance Report 2023 CONTENTS 43
+APPENDICES
+Appendix C Appendix D LGBTQ+ issues, enables advocates, and provides support for those • Social well-being
+Training programs and collaborations Intuitive Employee Resource Groups (ERGs) who need it. It helps create an environment where employees feel Caregiver support, perks and discounts, and other special programs
+The four phases of our training pathway include: BLACK at Intuitive comfortable bringing their authentic selves to work. PRIDE organizes
+BLACK (Brave Leaders and Allies for the Advancement of Community events that enable people to connect and embrace unique identities, • Lyra is our Mental Health provider that extends a range of
+• Technology Training Phase I through Knowledge) at Intuitive is committed to the recruitment, bring awareness and education to the broader Intuitive community resources to our employees and their dependents, including work
+Introduction to da Vinci Technology: Before attending employee development, and professional advancement of Black about the experiences of LGBTQ+ employees, and participate in and life solutions beyond mental health support.
+a technology training session at an Intuitive training center, employees across the company. The BLACK at Intuitive ERG conferences and recruiting events. The PRIDE ERG recognized LGBTQ+
+our program begins with an introduction to our system, tools, leadership team develops programs that leverage members’ unique History Month with a focus on health equity, hosting a panel of • As of 2023, Intuitive employees have access to a company-
+and technology. experiences in order to enhance their careers, accelerate the hiring LGBTQ+ surgeons and hospital administrators to share examples of sponsored membership on the UrbanSitter platform, providing
+of diverse talent, and drive systemic change at Intuitive and beyond. specialized care and how Intuitive’s products support patients. a network of trusted caregivers to address diverse caregiving
+• Technology Training Phase II To commemorate Black History Month in 2023, BLACK at Intuitive requirements from childcare and senior care to house cleaning and
+da Vinci Technology Training (TR-100/TR-200): Following their hosted a webinar, highlighting Black leaders at the company who VETS pet sitting.
+introduction to the technology, surgeons are immersed in self-led exemplify excellence. VETS (Veterans Engaged for Teamwork and Support) supports
+and hands-on training activities designed to increase proficiency military veterans across the company, honoring those who • In 2022, we introduced Cariloop Caregiver Support as employee
+and confidence with the system. Diverse-Abilities defend, serve, and inspire our mission while providing connection, benefit. The platform connects users with a dedicated Care Coach.
+The Diverse-Abilities ERG is dedicated to ensuring that people with camaraderie, and opportunities to give back to the larger This service helps provide support to caregiving employees across
+• Training Phase III disabilities are represented, valued, and deeply embedded into the community. VETS celebrates key moments of honoring and a range of topics like locating suitable providers, understanding
+Initial Case Series Plan (TR300 & Proctoring): This phase focuses culture at Intuitive. They highlight contributions of employees with remembrance throughout the year, as well as engaging the broader diagnoses, managing payment for care, and more.
+on the clinical application of technical skills through attendance at disabilities and promote understanding, compassion, and respect company in giving campaigns for nonprofit organizations supporting
+a peer-to-peer course and a series of proctor-guided cases. for those with visible and non-visible disabilities. Diverse-Abilities veterans and their families. In 2023, the VETS ERG focused on the • Accolade is a resource that connects employees with health
+contributes to our participation in Disability:IN’s Disability Equality themes of service and sacrifice, highlighting military families and assistants and nurses to navigate health care pathways, including
+• Training Phase IV Index (DEI), where Intuitive has been named a top-scoring company. spouses as well as coordinating fundraisers to assist veteran mental no-cost telehealth and video visits and expert second opinion
+Continuing Development (TR 400-500): Phase four is based In 2023, Diverse-Abilities hosted a panel of Intuitive employees health, homelessness, and healthcare. services.
+on a central element of our training philosophy: continuous who shared their complex journeys with mental health and mental
+development. Intuitive supports a surgeon’s training journey, illness, helping to spread awareness and offer perspective to fellow Women Intuitive Network Employee wellness
+through all stages of their career. employees. The Women Intuitive Network (WIN) is committed to cultivating Our wellness offerings promote a holistic approach to good health. In
+an environment at Intuitive where all women-identified employees 2023, we rolled out GIThrive, a no-cost benefit to support employees†
+Training collaborations include but are not limited to: ¡HOLA! can grow and thrive, with emphasis on hiring, developing, retaining, with digestive health issues. The Intuitive Total Rewards team
+The Royal College of Surgeons of England ¡HOLA! (Hispanic Origins and Latinx Advocacy) creates opportunities and advancing women. In 2023, we consolidated multiple women’s highlights health awareness months, including Obesity Care Week,
+The Royal College of Surgeons of England (RCS England) has to illuminate shared stories and experiences that bring together groups groups into a single ERG focused on supporting all women Colorectal Cancer Awareness Month, and Fibroid Awareness Month—
+introduced a three-year program aimed at fast-tracking the Intuitive’s Hispanic and Latin American community. ¡HOLA! promotes within the organization. WIN’s collaboration with InPAC during providing employees with educational and benefits resources.
+integration of robotics in national healthcare and training surgeons and elevates its members through collaboration, development, Women’s History Month featured a guest speaker who discussed
+in robotic-assisted surgery (RAS). The initiative seeks to establish a mentoring, and networking. They support belonging and camaraderie, the importance of authentic leadership in fostering community, Ways of Working
+professional network to shape the future of surgery through RAS providing a representative voice that shapes our culture and strategies connection, trust, and the value of vulnerability. We have instituted a new Ways of Working (WoW) model that
+development on a national level. for building diverse, authentic, and high-performing teams. For focuses on balancing high performance, productivity and employee
+Hispanic Heritage Month in 2023, the ¡HOLA! ERG hosted a webinar, needs. With our new WoW model, employees operate under one of
+Intuitive’s collaboration with RCS England focuses on transforming “Latinos: Driving Prosperity, Power, and Progress,” highlighting the Appendix E four work models: onsite, set schedule, purposeful onsite, and remote.
+surgical practices and reviewing RAS evidence for improved patient diversity within the Hispanic community and their contributions Employee benefits Our goal with WoW is to attract, retain, develop, and engage our
+outcomes. The program aims to build a network of RAS experts and to society. Employee recruitment, performance, development, engagement and world-class team—and create a working environment that allows us
+surgeons, aligning with the UK government’s workforce plan for well being are essential in building our company. That is why we offer to effectively pursue our mission and achieve our goals.
+the NHS. InPAC comprehensive benefits that begin on the first day of employment.
+The Intuitive Pan-Asian Community (InPAC) is a place for Asian and Our holistic Total Rewards benefits package provides health and
+An independent expert group will oversee research, training, data Pacific Islander employees and allies across cultures to connect, lifestyle benefits for employees* and their families and, in many Appendix F
+quality improvement, and public awareness initiatives, while RCS find support, build community, share celebrations, and advance locations, includes: Health and safety practices
+England provides dedicated robotics e-learning resources and professional development. The group helps its members realize Our health and safety practices entail the following:
+integrates RAS into its broader learning offerings. Read more here. their full potential and develop leadership. In 2023, InPAC invited all • Physical well-being
+employees to celebrate Asian American and Pacific Islander (AAPI) Medical, dental, vision, fertility support, and other special programs • Hazard risk identification and assessment
+Newcastle Surgical Training Centre Heritage month and held Diwali celebrations. The events featured Our global ergonomic program assesses and mitigates ergonomic
+In Newcastle, England Europe’s inaugural robotic surgery school cultural experiences, including food and dance, providing an • Emotional well-being risks. Employees have access to job hazard analysis sheets to
+features a state of the art operating theater, offering hands-on opportunity to learn more about countries across the Asian region. Paid time off, sick and family care leave, mental health support, identify hazardous situations to be assessed and corrected.
+experience to approximately 30 trainee surgeons. In collaboration and pregnancy and postpartum support
+with the Newcastle Surgical Training Centre, the goal is to equip the PRIDE • Enhancing safety knowledge and skills
+next generation of surgeons with RAS skills from the outset, with PRIDE is an inclusive community of LGBTQ+ employees, family • Financial well-being We provide a range of opportunities for employees to enhance
+plans to expand the program nationwide. Read more here. members, and allies that fosters visibility, raises awareness of Retirement plans, life, death, and disability insurance, tuition their safety knowledge and skills. Globally, we offer CPR/First
+assistance, and access to our employee stock purchase plan Aid certification, emergency response team training, ergonomic
+* All employees who work 20 hours a week † This program is available to all employees
+or more are eligible for benefits, as are and dependents (age 18 and older) enrolled
+dependents, including spouses/domestic in an Intuitive Surgical Blue Shield medical
+partners, children up to age 26, and children plan at no cost. Participation in GIThrive is
+of any age who are disabled. private and confidential.
+Environmental, Social, and Governance Report 2023 CONTENTS 44
+APPENDICES
+• U.S. Department of Labor Occupational Safety
+guidance, and safety suggestions. In the U.S. and Mexico, our reached seven schools, 550 students, and 24 teachers in 2023. Intuitive Baja California’s program to nurture local talent by providing support
+and Health Administration
+BeSafe program enables direct communication among company India also donated bicycles, assembled by our employees, to help to university students. In 2023, we joined this initiative on behalf of
+officials, employees, and first responders during emergencies. • National Fire Protection Association Agastya students commute to school. These children reside in a the medical device industry, collaborating with four local universities
+village where public transportation is infrequent or non-existent. to further its goals. In October 2023, we hosted facility visits as part
+• Federal Emergency Management Agency
+• Awareness training of a CETYS University Engineering Symposium, where we educated
+• U.S. Environmental Protection Agency
+Employees complete annual environmental awareness training Career days at Intuitive Taiwan student attendees about this program, marking our ongoing
+that promotes awareness, compliance, and participation in our • Local and state agencies Intuitive Taiwan and the Children Welfare League Foundation commitment to this government-led initiative.
+environmental management efforts. In 2023, we achieved a (CWLF) recently collaborated on a series of career days. Attendees
+training completion rate of 100% within 60 days of assignment. Mexico experienced simulations of surgery and even got to test drive the
+da Vinci system, sparking newfound aspirations. CWLF expressed Appendix H
+• Instituto Mexicano del Seguro Social (IMSS)
+• Indoor air quality (Translation: Mexican Institute of Social Security) gratitude for this investment in the children’s future, emphasizing Intuitive Ventures and ESG investment fund
+The practical steps we take to ensure that our employees have the importance of such initiatives in nurturing inspiration and hope. Intuitive Ventures invests in companies reimagining the future
+• Secretaría del Trabajo y Previsión Social (STPS)
+access to clean air include: using air filtration systems, monitoring of minimally invasive care. Their global focus spans diagnostics,
+(Translation: Ministry of Labor and Social Welfare)
+air quality, incorporating operable windows, and using construction Programs in México medtech, therapies, and digital health. companies reimagining the
+materials that emit fewer pollutants. • Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) Internship program future of minimally invasive care. Their global focus spans diagnostics,
+(Translation: Secretariat of Environment and Natural Resources
+In 2023, Intuitive Mexicali welcomed university interns from across medtech, therapies, and digital health.
+• Occupational injury and incident reporting • Procuraduria Federal de Proteccion al Ambiente (PROFEPA) México.† This program offers two six-month cohorts, engaging nearly
+Global resources for reporting health and safety events are (Translation: Federal Attorney for Environmental Protection) 30 students. Notably, three interns secured full-time positions at Focus of Intuitive Ventures
+accessible to all employees. Our internal policies cover the process • La Comisión Estatal de Servicios Públicos de Mexicali Intuitive. This initiative demonstrates Intuitive’s commitment to Intuitive Ventures extends Intuitive’s commitment to converging
+for reporting health and safety events and we maintain records in (Translation: Mexicali State Public Services Commission nurturing and hiring local talent. robotic systems, digital tools, and clinical need in search of new
+compliance with applicable regulatory requirements. ways to understand, diagnose, treat, and manage disease.
+• Civil Protection
+CETYS scholarship program
+Health and safety audits Global Following the highlights outlined in our 2022 ESG report, Intuitive Ventures applies Intuitive’s strengths and abilities in the
+In accordance with our ISO 14001-certified EMS, we conduct external Intuitive is committed to providing six full scholarships to promising fields of robotic surgery and minimally invasive care to support
+• International Organization for Standardization (ISO) 14001
+and internal audits annually at our in-scope sites. Our health, undergraduates at CETYS University. Last year, we welcomed the independent initiatives in four focus areas:
+• International Organization for Standardization (ISO) 13485
+safety, and security inspection program includes quarterly audits first two scholars, and this year, we awarded two more scholarships,
+• Improving access and coordination
+of U.S. manufacturing buildings and weekly checks of hazardous for a total of four students enjoying the benefits of this initiative. lowering the barriers to minimally invasive care through driving
+accumulation areas. Behavior-based safety audits occur bi-monthly Fatality rate disclosures efficient, cost-effective, accessible and coordinated care
+for manufacturing supervisors and monthly for directors, while In the U.S., incidents are reported to Cal/OSHA, while in Mexicali, CETYS Business and Management Conference
+• Precision diagnostics and interventions
+annual CUPA* inspections occur at our primary manufacturing we contact STPS and Social Security. Globally, we report to the Intuitive Mexicali hosted a Business and Management conference
+leveraging the convergence of medtech, life sciences, and
+locations in Santa Clara and Sunnyvale. At our Mexicali site, monthly trade association. Intuitive prioritizes employee safety and health, for 30 students from CETYS Universidad. This event facilitated therapeutics to drive precise diagnostics and interventions
+quality inspections are performed across technicians, managers, and maintaining systems for incident reporting and mitigation. connections between these students and local career opportunities, in minimally invasive care
+supervisors and the fire department conducts an annual inspection setting them on the path to future success.
+• Secure, enriched digital ecosystems
+and hazardous waste accumulation is inspected weekly. In Aubonne,
+unlocking the potential of novel healthcare data to enhance
+an ISO 14001 audit is conducted internally and externally on an Appendix G UNAM Nursing School Robotic Surgery Education minimally invasive care
+annual basis, and health and safety walkthrough is performed Global community impact programs As part of our commitment to nurturing healthcare talent, Intuitive
+quarterly. Programs in Asia Pacific supported UNAM’s nursing graduate program. We hosted faculty ESG Investment Fund
+The India Literacy Project visits to familiarize professors with our company. In September, In 2023, for the first time, we allocated $100M of our investments into
+Relevant operating guidelines and procedures In 2023 we continued our commitment to operating in accordance nursing students visited Intuitive to learn about robotic-assisted an ESG money market fund, which directly contributed a portion of
+We adhere to the latest industry-specific guidelines and procedures with India’s Corporate Social Responsibility (CSR) mandate, enacted surgery and the role of nurses during robotic surgery. its management fees to community development, with an emphasis
+for sustainability and efficiency, aligning with recommended in 2014, by supporting the India Literacy Project. The India Literacy on affordable housing. This decision underscores our commitment
+protocols set forth by regulatory agencies. Our workflows encompass Project (ILP), a volunteer-based organization operating in the U.S. Tecnológico de Monterrey and Universidad Xochicalco Visits to aligning our investment objectives with our environmental, social,
+guidelines from the following regulatory agencies: and India, aims to promote literacy and education in India. Intuitive is dedicated to building strong relationships with Mexican and governance principles.
+universities. We explored a partnership with Tecnológico de
+U.S. ILP’s primary goal is to help children in government schools attain Monterrey, aiming to deepen the integration medical robotics into
+grade-appropriate skills and develop pathways to productive careers. their curriculum and explore potential dVRK partnerships. In addition, Appendix I
+• California Division of Occupational Safety and Health (DOSH),
+better known as Cal/OSHA In 2023, Intuitive India supported the Multi-Dimensional Learning Space Universidad Xochicalco invited Intuitive to present on robotic Sustainability features in our built environment:
+(MDLS), which seeks to transform seven government schools into vibrant surgery, exposing 300 medical students to its benefits. We are now Renewable energy production
+• Country of Santa Clara Department of Environmental Health
+learning environments by equipping teachers with purpose-built tools considering a partnership to enhance robotic surgery training in their Reduces environmental and economic harms associated with fossil
+• U.S. Food and Drug Administration (FDA) like hands-on science kits, digital content, and effective teaching curriculum. fuel energy and reduce greenhouse gas emissions by increasing the
+techniques. Additionally, these schools’ learning infrastructure will supply of renewable energy projects and foster a just transition to a
+• Medical Device Reporting (MDR)
+be upgraded to include smart classrooms, science labs, and libraries, Economy and Innovation Secretary green economy.
+• FDA’s Center for Devices and Radiological Health (CDRH)
+facilitating immersive and experiential learning. Overall, this program Intuitive participates in the Economy and Innovation Secretary of
+* CUPA stands for Certified Unified Program † Students from universities in other cities/
+Agencies administered by the Enforcement states are also encouraged to apply.
+and Emergency Response Division (EERD)
+under the Department of Toxic Substances
+Control.
+Environmental, Social, and Governance Report 2023 CONTENTS 45
+APPENDICES
+Building-level energy metering Biophilic design ESG Learning Summit for Earth Day Appendix K
+Supports energy management and identifies opportunities for Supports and improves human health, well-being, and productivity The ESG Learning Summit for Earth Day*, hosted in Sunnyvale, CA, Corporate policies, statements, and certificates
+additional energy savings by tracking building-level energy use . by providing and incorporating elements of nature in the indoor gave attendees the opportunity to gain knowledge on sustainability
+environment. initiatives across the company and hear from some of our leaders on See https://www.intuitive.com/en-us/about-us/company/legal/
+Optimized energy performance the ways in which ESG enriches our patients-first mission. governance
+Increases levels of energy performance to reduce environmental and Enhanced refrigerant management
+economic harms associated with excessive energy use and greenhouse Helps to reduce ozone depletion and support early compliance World Environment Day
+gas emissions that disproportionately impact frontline communities. with the Montreal Protocol while minimizing direct contributions World Environment Day, established by the United Nations in 1974
+to climate change. and celebrated annually on June 5th, serves as a pivotal global
+Heat island reduction platform for environmental advocacy. In 2023, our global employees
+Minimizes inequitable effects on microclimates and human health, Interior lighting management engaged in a photo challenge, capturing natural landscapes to
+especially frontline communities, and wildlife habitats. Promotes occupants’ productivity, comfort, and well-being raise environmental awareness and foster creativity. In Mexicali,
+by providing high-quality lighting. over seventy employees pledged to embrace eco-friendly practices,
+Indoor and outdoor water use reduction educate their families about recycling and energy conservation,
+Uses water-saving techniques divert to divert less water from Light pollution reduction and adopted trees for planting. Furthermore, Mexicali employees
+our rivers, bays, and estuaries, which helps keep the environment Increases night sky access, improve nighttime visibility, and reduces volunteered to enhance a local school’s environment by painting,
+healthy. It can also reduce water and wastewater treatment costs the consequences of development for wildlife and people. cleaning, and planting trees, benefiting nearly 250 children.
+and the amount of energy used to treat, pump, and heat water.
+Enhanced commissioning Intern water treatment plant research project
+Building-level water metering Further supports the design, construction, and eventual operation Interns from Intuitive Mexicali, who are students at the Universidad
+Supports water management and identifies opportunities of a project that meets the owner’s project requirements for energy, Autónoma de Baja California, conducted a feasibility study for
+for additional water savings by tracking water consumption. water, indoor environmental quality, and durability. the restoration of a local water treatment facility initially used for
+sports and green area irrigation. The study is now completed, and
+Rainwater management Sensitive land protection a cost-benefit analysis is underway. Intuitive is considering direct
+Reduces runoff volume and improves water quality by replicating Mitigates the development of environmentally sensitive lands and investment in the facility’s restoration or exploring alternative means
+the natural hydrology and water balance of the site, based on reduce the environmental impact from the location of a building to provide irrigation water to the community. These interns received
+historical conditions and undeveloped ecosystems in the region to on a site. compensation from Intuitive and resources from Technológico
+avoid contributing to flooding downstream in frontline communities. de Mexicali, empowering local students to contribute to their
+Construction and demolition waste management community while gaining valuable technical skills for their future
+Cooling tower water use Reduces construction and demolition waste disposed of in landfills careers.
+Conserves water used for cooling tower makeup while controlling and incineration facilities by recovering, reusing, and recycling
+microbes, corrosion, and scale in the condenser water system. materials. Environmental engagement in Aubonne
+At our site in Aubonne, Switzerland, efforts are underway to identify
+Storage and collection of recyclables Source: U.S. Environmental Protection Agency local initiatives that reduce carbon emissions and align with the
+Reduces the waste that is generated by building occupants and UN Sustainable Development Goals. Organized by EH&S EMEA, two
+hauled to and disposed of in landfills. workshops have been conducted thus far, with plans to establish a
+Appendix J local sustainability team to drive and oversee the implementation
+Building product disclosure and optimization Employee environmental sustainability education and awareness of the project. In addition, employees in Aubonne participated in
+Encourages the use of products and materials for which life-cycle a volunteer opportunity to remove invasive plants in a protected
+information is available and that have environmentally, economically, Across Intuitive Business Series – ESG natural area of the canton of Geneva. These efforts are important
+and socially preferable life-cycle impacts. The “Across Intuitive Business Series” (AIBS) is an employee for supporting biodiversity preservation as well as ecosystem health
+education initiative delving into fundamental topics about Intuitive, and function.
+Electric vehicle charging introducing various departments, and fostering connections among
+Helps to reduce pollution by promoting alternatives to conventionally our workforce. At the AIBS session in April 2023, our Head of ESG
+fueled automobiles. presented our company’s ESG roadmap, engaging panelists in a
+dialogue about the implications of ESG in their respective domains.
+Indoor air quality This enlightening session drew an audience of more than 1,300
+Promotes occupants’ comfort, well-being, and productivity by employees worldwide.
+improving indoor air quality.
+* Earth Day is an annual event observed on
+April 22 (Saturday) to demonstrate support
+for environmental protection. First held on
+April 22, 1970, it now includes a wide range of
+global events coordinated by EarthDay.org,
+reaching 1 billion people in over 193 countries.
+Environmental, Social, and Governance Report 2023 CONTENTS 46
+

@@ -1,0 +1,2388 @@
+FY23 Purpose Report
+The Power of Purpose
+Introduction 2 Future 33
+Our Purpose and our progress in fiscal 2023 Help advance a sustainable and regenerative
+future for our planet
+A message from Chuck Robbins 3
+FY23 highlights 4 The Plan for Possible 34
+ESG at Cisco 5 Clean energy transitions 35
+Goals and progress 6 Circular transformation 41
+Feature stories 8 Resilient ecosystems 44
+Power 12 For All 46
+Build and deliver technology responsibly to Address root causes of inequity, eliminate
+securely power the world’s connectivity barriers, and foster lasting, generational change
+Security, privacy, and trust 13 Crisis response 47
+Human rights 15 Economic empowerment 51
+Digital inclusion 20 Learning and digital skills 54
+Ethics and integrity 22 Social justice 58
+Partnering for Purpose 61
+Public policy and advocacy 61
+Inclusive 23
+Accelerate fairness, inclusion, and equitable Looking Ahead 62
+access to opportunity
+Our Purpose can’t just be something we look
+Diversity, equity, and inclusion 24
+back on
+Employee experience 27
+Health and wellbeing 29 A message from Fran Katsoudas 63
+Employee community impact 31
+Forward-looking statements
+This report contains forward-looking statements regarding future events. All statements other than statements of historical facts
+are statements that could be deemed forward-looking statements. These statements are based on current expectations, estimates,
+forecasts, and projections about the industries in which we operate and the beliefs and assumptions of our management. Readers
+are cautioned that these forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions that
+are difficult to predict, including those identified in our most recent filings with the Securities and Exchange Commission on Form 10-K
+and Form 10-Q. Forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to
+update any forward-looking statement.
+Cisco continuously strives for transparency in our reporting on our environmental, social, and governance (ESG) initiatives, goals,
+and progress. We set ambitious goals knowing that they may be difficult to fully achieve, but we strive to meet them within the
+designated time frames all the same. Acquiring other companies can potentially impact our progress towards our ESG goals. We
+will transparently report on our progress, including any impacts from acquisitions.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 2
+Cisco is the worldwide
+leader in technology that
+powers the Internet.
+Our products and services include
+networking, collaboration solutions, security
+solutions, wireless and mobility, data center,
+Internet of Things (IoT), video, analytics, and
+software solutions.
+1984 84,900 About this report
+founded employees This Purpose Report shares Cisco’s progress in its fiscal year (FY)
+2023 toward its Purpose to Power an Inclusive Future for All. But
+it is not the full story of our progress. Our ESG Reporting Hub
+US$57 billion 95
+contains detailed information on many of the topics covered
+in this report, as well as policies and additional disclosures for
+FY23 revenue countries
+specialized audiences. Throughout the report, we provide links to
+specific pages in the ESG Reporting Hub where additional detail
+is available.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 3
+A message from Chuck Robbins
+“
+Running a great business shouldn’t be at odds with caring for
+Cisco has made a difference
+and contributing to the communities where a company operates. for more than one-eighth of the
+world’s population—a testament
+The dynamic world we live in needs businesses to do both, and suffering and for causes that change lives. We’re also proud to bring to what we can achieve when
+companies that successfully find that balance earn customer trust, our customers and partners along with us through initiatives like
+people and purpose intersect in
+respect from their peers, and create a culture that attracts and Partnering for Purpose, helping to amplify our impact because we
+service of communities."
+retains the best people. know we can’t solve these issues alone.
+Each year, we are proud to share this report that demonstrates Through our innovation, we’re helping customers securely connect
+having environmental, social, and governance (ESG) and corporate everything to make anything possible. We’re also driving sustainability
+social responsibility efforts woven into a business strategy is in a meaningful way with products and solutions, such as IoT, Silicon
+not just good for the world; it also creates important business One, and power over ethernet, that help customers reduce energy
+opportunities. Through our commitments and actions, Cisco also consumption. With technologies such as artificial intelligence (AI)
+continues to reaffirm its support of the Ten Principles of the United quickly taking shape, we continue to see endless possibilities for
+Nations Global Compact (UNGC) in the areas of Human Rights, Labor, technology to change lives and experiences in countless ways. We
+Environment, and Anti-Corruption, which Cisco signed in 2001. also recognize the need to harness the power of technology ethically
+and responsibly as we shape and define the future alongside our
+Through a powerful combination of our technology, our people, and
+customers and partners.
+our purpose—to power an inclusive future for all—we have helped
+customers and communities all around the globe, and this year For nearly 40 years, Cisco’s technology has been at the heart of
+we’re celebrating an amazing milestone. In 2016, we set a goal to connections—helping customers run their businesses every day
+positively impact 1 billion people by fiscal 2025, and I’m incredibly and bringing more opportunities to more people around the world.
+proud to share that we’ve surpassed that goal more than a year We are incredibly proud of this history—the impact we’ve made and
+early. Together, we have made a real, tangible difference for more milestones we’ve achieved—but we know there is more to do to care
+than one-eighth of the world’s population. This is truly a testament for our planet and build a more inclusive and equitable future for
+to what a company can achieve when its people and purpose everyone. At Cisco, we work hard every day to prove that running a
+intersect in service of communities. good business and a passion to do good absolutely can and should
+live in the same place—because when they do, change and progress
+It also speaks to the importance of a culture that fosters opportunities
+take giant steps forward toward a better world for all of us.
+and supports people as they go out and do good in the world.
+From global conflicts to natural disasters, we often see that the
+most marginalized communities are usually impacted the most.
+In fiscal 2023, 85 percent of our employees took action to give
+back to communities and support causes close to their hearts. Our Chuck Robbins
+people continue to show up in times of crisis, for those who are Chair and Chief Executive Officer
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 4
+The power of Purpose in FY23
+The Plan for Possible 1.1 billion
+our environmental sustainability strategy to connect a people positively impacted through our social impact
+regenerative future grants and signature programs (FY16-FY23)
+Learn more about our validation methodology.
+1300 #1 91% US$461M
+Country Digital Best Company to Work of electricity for Cisco in cash and in-kind
+contributions provided by
+Acceleration active or For in 16 countries, facilities came from
+Cisco and the Cisco
+completed projects in according to Fortune and renewable sources
+Foundation, including US$387M
+50 countries since 2015 Great Place to Work in in-kind contributions for
+Cisco Networking Academy
+85% US$19.8M
+of employees committed to fund climate
+participated to drive solutions through the Cisco
+community impact Foundation, cumulative
+#2 73% 20.5M+
+ranked in the Gartner® increase in representation learners reached through
+of all employees who
+2023 Supply Chain Top 25: Cisco Networking
+self-identify as African
+High Tech report1 Academy in 190 countries
+American/Black from entry
+level through manager since 1997
+(FY20 base year)
+1 GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the United States and internationally and is used herein with permission. All rights reserved. Gartner does not endorse any vendor, product, or service depicted in its research publications, and
+does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties,
+expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 5
+ESG at Cisco
+Our reporting is informed by an ESG materiality assessment1 and
+aligns with globally recognized frameworks. We also support ESG focus areas*
+the United Nations’ Sustainable Development Goals (UN SDGs)
+and share the UN’s vision for peace and prosperity for people
+and the planet. We have been a participating company in the
+Environmental Social Governance
+UNGC since 2001, and our ESG strategy and priorities, which
+are shaped by our stakeholder engagement and ESG materiality
+assessment1 initiatives, align with and support the SDGs. Below, ● Climate change and GHGs ● Inclusion and diversity ● Corporate governance
+explore some examples: ● Circular economy ● Talent ● Data security and privacy
+● Operational waste ● Human rights and working ● Business ethics
+conditions in the supply chain
+● Environmental regeneration ● Innovation and
+and protection ● Employee wellbeing responsible technology
+● Water ● Employee health and safety
+and labor rights
+● Digital inclusion
+● Community impact
+Global Reporting Sustainability Accounting
+● Critical human needs and
+Initiative (GRI) Standards Board (SASB)
+disaster relief
+● Economic empowerment
+* These ESG focus areas are the topics identified in our fiscal 2023 ESG materiality assessment.1 The topics found to be of greater significance are noted in bold.
+Task Force on Climate-related
+Financial Disclosures (TCFD)
+Visit Cisco’s ESG Reporting Hub for more information on:
+Our strategy Key ratings and rankings
+Stakeholder engagement and ESG materiality1 Policies, positions, and guides
+1 ESG materiality, as referred to in this report, and our ESG materiality assessment process are different from “materiality” in the context of Securities and Exchange
+Commission (SEC) disclosure obligations. Issues deemed material for purposes of our ESG reporting and for purposes of determining our ESG strategy may not be
+CDP (formerly Carbon United Nations Sustainable considered material for SEC reporting purposes, nor does inclusion of information in our ESG reporting indicate that the topic or information is material to Cisco’s
+Disclosure Project) Development Goals (SDGs) business or operating results.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 6
+Goals and progress
+We measure progress on engaging employees, reducing environmental impacts, and advancing our Purpose to Power an Inclusive Future for All
+through quantitative enterprise goals that we report against each year. Here’s where we stand on these goals in fiscal 2023.
+Our people Social Justice Actions
+By FY23: Sustain 80% community impact participation, as Learn more about our Social Justice Actions. By FY25: Social Justice Action 8, Commit to Historically Black
+measured by employees’ actions, including advocating for Colleges and Universities (HBCUs): Commit US$150 million
+FY20 is the base year for metrics that are not year-over-year.
+causes they care deeply about, volunteering, donating, and to preserve the legacy and sustainability of HBCUs, with
+participating in programs that positively impact communities. By FY25: Social Justice Action 1, Support community US$50 million to fund science, technology, engineering, and
+partnerships, legislation, and advocacy: Donate US$5 mathematics (STEM) education and US$100 million to drive
+M aintained >80% participation in community impact for
+million to African American/Black (AA/B) nonprofit technology modernization.
+fourth year in a row
+organizations advocating for equity and justice.
+US$37.5 million spent on STEM education
+Our global communities
+US$4 million donated between FY20 and FY23
+US$66 million spent on technology upgrades
+By FY25: Positively impact 1 billion people through social By FY23: Social Justice Action 2, Increase representation:
+By FY25: Social Justice Action 10, Diversify our partner
+impact grants and signature programs. Achieve a 25% increase in representation of all employees
+ecosystem: Commit US$50 million to increase the diversity
+who self-identify as AA/B from entry level through manager
+A CHIEVED. 1.1 billion people positively impacted between in our partner ecosystem by increasing the number of
+and a 75% increase in representation from Director to VP+
+FY16 and FY23 AA/B-owned technology companies and increasing
+level, by expanding our diverse talent pipeline.
+Learn more about our validation methodology. opportunities to accelerate the financial growth of AA/B-
+ACHIEVED. owned partners.
+By FY32: Provide digital and cybersecurity skills training
+to 25 million more learners over the next 10 years through 73% increase (entry level through manager) Increased AA/B-owned companies in our partner ecosystem
+Cisco Networking Academy.
+103% increase (Director) Special focus on 17 Acceleration partners
+3.7 million learners trained in FY23
+240% increase (Vice President and above)
+By FY25: Social Justice Action 11, Invest in next generation
+By FY24: Social Justice Action 7, Supplier engagement: tech innovation: Invest US$50 million in startups and
+Double how much we spend with diverse suppliers and venture funds led by diverse leaders.
+receive reporting on diversity metrics from 95% of our
+Ongoing investment in startups and venture funds led by BIPOC,
+preferred suppliers.
+Latinx, and female leaders
+108% increase in diverse supplier spend between FY20 and FY23
+Note: Progress against all goals listed by fiscal year is measured through the end of the
+fiscal year, unless otherwise noted.
+88% of preferred suppliers reported diversity metrics in FY23
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 7
+Goals and progress
+(continued)
+Climate change and GHG emissions Circular design, products, and packaging Supplier climate targets
+Net-zero goal: By FY25: 100% of new Cisco products and packaging By FY25: 80% of Cisco component, manufacturing, and
+incorporate Circular Design Principles.5 logistics suppliers by spend have a public, absolute GHG
+By 2040: Reach net-zero GHG emissions across our value
+emissions reduction target.9
+chain by reducing absolute Scope 1, 2, and 3 emissions by 27% meeting circular design criteria
+90% (FY19 base year).1 92% with targets
+By FY25: Reduce foam used in Cisco product packaging by
+We are reporting progress through the near-term
+75% as measured by weight (FY19 base year).6 By FY25: 70% of Cisco component and manufacturing
+targets below:
+suppliers by spend achieve a zero-waste diversion rate at
+22% reduction
+one or more sites.10
+Near-term targets
+By FY25: Increase product packaging cube efficiency by
+60% by spend with at least one certified site
+By FY25: Reduce absolute Scope 1 and Scope 2 emissions
+50% (FY19 base year).7
+by 90% (FY19 base year).1
+65% cumulative improvement
+48% reduction
+By FY25: 50% of the plastic used in our products (by weight)
+By FY30: Reduce absolute Scope 3 emissions from
+will be made of recycled content.8
+purchased goods and services, upstream transportation
+24% recycled content
+and distribution, and use of sold products by 30% (FY19
+base year).2,3
+14% reduction (based on Cisco’s current Scope 3 emissions
+calculation methodology and subject to change)4
+Note: Progress against all goals listed by fiscal year is measured through the end of the fiscal year.
+1 We will neutralize any remaining emissions by removing an equal amount from the atmosphere.
+2 The baseline and progress reported for our 2030 goal includes: purchased goods and services from manufacturing, component, and warehouse suppliers; upstream transportation and distribution from Cisco purchased air transportation; and use of sold products.
+3 We updated our methodology in fiscal 2023 for calculating "Scope 3 Category 11: Use of sold products" to further align with the Greenhouse Gas Protocol. For more information on our current methodology, as well as data and goal tracking using our previous methodology, visit
+the Historic GHG methodology discussion in the Strategy, goals, and emissions data section on our ESG Reporting Hub.
+4 We expect our progress to fluctuate year-over-year based on the number and type of products we sell each year. Due to increased product sales, there was an increase in GHG emissions in fiscal 2023, thus progress has decreased from fiscal 2022.
+5 The scope of this goal is limited to hardware products and associated packaging, excluding: standalone components (e.g., chassis, ASICs, optical modules); standalone basic product accessories (e.g., power cables, brackets); Original Equipment Manufacturer products (where
+Cisco does not own the design); products and packaging of nonintegrated acquisitions. Product and packaging designs achieving a score of 75 percent or higher are counted toward the goal.
+6 To improve measurement accuracy, we changed our methodology for this goal in fiscal 2023 to calculate the foam used in our shipped product packaging instead of the total foam purchased from suppliers. The base year (fiscal 2019) foam use was recalculated using the
+updated methodology, and fiscal 2023 progress is measured against this.
+7 Packaging efficiency is measured by comparing the size of the product relative to the packaging, using dimensional weight. Dimensional weight uses volume and a standard dimensional factor to calculate the weight of a package. In this methodology, the packaging efficiency
+metric is based on the difference of the normalized dimensional weight (by volume) between the baseline and current year. In fiscal 2023, we updated our calculation methodology to improve accuracy. We will continue to report progress toward this goal annually through
+fiscal 2025. This goal applies to high-volume packaging requiring redesigns.
+8 The scope of this goal excludes plastics contained in commodity components (e.g., plastic screws, fans, and cables) and in products designed and manufactured by our Original Design Manufacturers.
+9 Suppliers are expected to set absolute GHG emissions reduction targets or intensity targets that produce an absolute emissions reduction during the target period. Cisco encourages suppliers to set targets in line with an approved science-based methodology. Progress toward
+this goal is quantified using Cisco’s supply chain spend which can vary annually. Cisco will continue to work with suppliers to set their own absolute GHG emissions reduction targets, and to report progress toward this goal annually through fiscal 2025.
+10 According to current standard definitions used in certification protocols, “zero-waste” diversion is defined as a 90 percent or greater overall diversion of solid, nonhazardous wastes from landfill, incineration (waste-to-energy), and the environment. Diversion methods can include
+reduction, reuse, recycling, and/or compost.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 8
+One billion
+lives positively
+impacted
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 9
+One billion lives
+positively impacted
+How many lives could we impact if we pushed
+ourselves to truly create a better world for all?
+In 2015, our newly appointed CEO, Chuck Robbins, some of the greatest challenges in this increasingly
+asked us this question. In response, we went BIG, interconnected and technologically driven world. We
+knowing that if we made a bold commitment we invested in innovative global partners through our
+could make a profound difference. Social Impact grants and Cisco Networking Academy.
+So we set an ambitious goal: to positively impact For a goal this big, we sought out promising nonprofits to The blueprint for 1 billion
+1 billion people by 2025. develop and scale technology-based solutions to critical
+What does it take to reach 1 billion people? As we celebrate this remarkable
+challenges facing vulnerable, underserved communities
+milestone, we’re sharing what we learned on our journey to 1 billion. We believe
+This year—more than a year ahead of our schedule—
+around the world. We worked with local and national that our guiding principles can be applied to organizations of any size to drive
+we’ve reached our goal. In fact, we’ve surpassed it.
+governments to expand economies, and across a increased social impact.
+spectrum of nonprofits to develop the workforce of the
+We have positively impacted 1.1 billion lives.
+START WITH “WHY” BUILD A RIGOROUS TRACKING
+future and fulfill the promises of digital inclusion.
+METHODOLOGY
+We’ve positively impacted approximately one-eighth of Start with defining your “why.” For each
+the world’s population. Now we’re looking ahead. company, this is going to look a little Tracking and validating impact is a
+different—and that’s a good thing. Root complex but crucial process, critical for
+This extraordinary milestone was made possible by the As we consider the next goal we'll set for ourselves, we're your “why” in the products and services transparency and accurate reporting.
+thinking about the future of our Purpose and the impact it for which your company has expertise,
+passion and dedication of our leaders and employees,
+and in the areas of your purpose that are INVEST IN POTENTIAL
+is having on the world. We’re reflecting on the intertwined
+along with the exceptional work of our global nonprofit
+passions for your people.
+challenges facing our communities and how we can While investing in proven solutions can
+partners and the leadership of the Cisco Foundation
+and Cisco Networking Academy. leverage our learnings, our strengths, and our technology CLEARLY DEFINE YOUR address immediate needs, identifying
+and investing in new and innovative
+to scale impact and build community resilience. INTENDED IMPACTS
+solutions will help scale and amplify your
+People were at the center of our work as we focused
+We know we’re stronger with our partners at our side. There are many ways to define impact, impact over time.
+on crisis response, learning and digital skills development,
+so get clear about how your company
+Together, we can create a world where everyone
+and economic empowerment. For a goal this large, we
+will define and measure it.
+thrives. We hope you’ll join us as we continue our
+needed help. It was critical to expand our ecosystem
+journey to power an inclusive future for all.
+of partnerships so we could create solutions to
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 10
+Empowering communities
+through digital access
+It wasn’t long ago that an organization’s strategy and its technology were considered separate, their reliance on one another a
+convenience, but not a necessity. That time has passed.
+Not only have strategy and technology become deeply intertwined for Through Cisco Networking Academy, we’re working to address this skills gap
+organizations of all kinds, but technology increasingly drives the ways in and help stave off a potential skills crisis. It is one of the longest-standing IT
+which we pursue our personal, academic, and professional lives. Digital skills-to-jobs programs worldwide, and since its inception we’ve trained over
+access is no longer a privilege for some, but a necessity for all. 20.5 million learners in 190 countries, 11,700 academies, and 27 languages.
+And we’re looking ahead to the future. In early October 2022, we announced
+But something stands between us and a future in which we can all participate.
+a new goal, to offer digital and cybersecurity skills training to 25 million more
+A digital divide exists between those who can connect and obtain the skills
+global learners over the next 10 years.
+to participate, and those who cannot. This gap limits people and communities
+from engaging with our societies and an increasingly digital, global economy. There is incredible opportunity in meeting the challenges of this moment.
+And with the rise of new technologies, the gap is growing. Closing the skills gap will not only benefit companies and societies
+around the world, but also open doors of opportunity for many who are
+Closing this divide would have a transformative impact on both the lives of
+disproportionately impacted by economic inequality, such as women, ethnic
+individuals and the global economy. According to PwC, global inclusion in
+minorities, and people with disabilities. The potential economic benefit of
+the Internet could bring 7 percent of the world’s population above absolute
+these efforts is also staggering—according to WEF research, accelerating
+poverty levels and add US$6.7 trillion to global economic output.
+progress on education and upskilling could add US$8.3 trillion to global gross
+domestic product by 2030.
+As a company founded on connection, we know Cisco has a role to play
+in connecting the unconnected. Through our Country Digital Acceleration
+No single entity can close the digital divide. The private sector, governments,
+(CDA) program, we co-invest and co-innovate to expand access and harness
+educational institutions, nonprofits, and communities must work together in new
+connectivity in communities around the world. In partnership with government
+ways as we look ahead. The pace of change in technology is only increasing,
+leaders, CDA helps countries and communities reach their digitization goals,
+and we must increase the velocity of our collaboration to meet it.
+expand online access, and open opportunities for more people to connect to
+digital resources like education, healthcare, and jobs. It's often said that “knowledge is power.” As we enter the fourth industrial
+revolution, these words were never truer. As we look ahead, digital access and
+With the advent of generative artificial intelligence (Gen AI) and an evolving
+skills will be fundamental to participating in our societies and economies. We
+cybersecurity threat landscape, all workers need opportunities for digital skilling
+can’t afford to wait, and we can’t afford to leave anyone behind. We can close
+and reskilling. The World Economic Forum (WEF) estimates that half the global
+the divide and open opportunities, for all.
+labor force may need reskilling over the next two years, and 1.1 billion jobs will
+be transformed by technology in the coming decade. WEF also estimates that
+3 million cybersecurity experts are needed to support the current global economy.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 11
+The power and possibility
+in addressing the climate crisis
+Climate change is here, and its impacts are painfully evident: the last decade was the hottest on record, storms have grown increasingly
+powerful, and catastrophic fires are regular occurrences.
+We’re at a pivotal moment, but with bold, strategic, and collective action, we can help Crucial work to address the climate crisis is already underway in the private sector,
+mitigate the worst outcomes of climate change, ensuring the opportunity to build an and this momentum creates an incredible and transformative opportunity. But those
+inclusive future for all. of us in the private sector can do more to help accelerate access to affordable
+renewable energy. If more businesses move away from approaching environmental
+All sectors have a responsibility to address the climate crisis, including the private sector.
+goals as a checklist, we can also create new opportunities for our companies and our
+We must begin by taking a strategic approach to decarbonizing our own operations
+communities to succeed. The private sector must come together to share our learnings
+and value chains, and promoting science-based plans, goals, and commitments. This
+and develop best practices in order to build an ecosystem of partnership to scale our
+fiscal year, Cisco announced our new environmental sustainability strategy, The Plan for
+impact. We can help catalyze transformation when we work to align our efforts.
+Possible, focused on accelerating our transition to clean energy, circular transformation,
+and investing in resilient ecosystems. We must also take a new approach to our investments. With a more strategic
+approach, the private sector can help build climate and economic resiliency, drive
+Building a net-zero world will also require all communities to access more renewable
+a digital and sustainable transformation, and set up vulnerable countries and
+energy. Innovative technologies have lowered the cost of generating wind, solar,
+communities for success in the future. And this shift can help create economic
+hydro, and geothermal energy, making them more abundant and available than
+opportunities. According to the International Renewable Energy Agency (IRENA),
+ever. But connecting renewables to our existing power grids is a challenge. Digital
+worldwide employment in renewable energy could reach more than 38 million in
+infrastructure is needed to make grids “smarter,” better able to monitor and balance
+2030. Through our CDA Program, Cisco takes a bold approach to co-investment and
+energy demands and quickly connect to renewable sources. With digital grids, we
+co-innovation. One example of this work is our partnership with Enel Group, Italy’s
+can reduce black- and brown-outs while accelerating the clean energy transition.
+largest electricity provider. Together, we’re accelerating the transition to a low-carbon
+electrical grid across Italy. The work is underway, and it has the capacity to scale.
+Updating and digitalizing global grids will require significant investments. According to
+Through an expansion of our partnership with Mercy Corps, we’re also focused on
+BloombergNEF research, the cost to make necessary grid upgrades to support a global
+new ways to foster climate adaptation and resilience in the Horn of Africa, and the link
+net-zero trajectory will be approximately US$21 trillion by 2050. Government initiatives
+between climate change and humanitarian crises.
+like the European Green Deal and the United States’ National Climate Resilience
+Framework are driving focus, funding, and action toward net-zero goals. But globally,
+There is power and possibility in the private sector working in new ways to address the
+many communities are not seeing equitable levels of investment and momentum.
+global climate crisis. If we can rise to the occasion and meet the moment, we’ll do good
+for our businesses and good for the world.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 12
+Power
+Build and deliver technology
+responsibly to securely power
+the world’s connectivity
+Increased connectivity, greater computing power, massive
+data volumes, and changing global conditions dramatically
+impact how we engage with the digital world. New
+technologies such as Gen AI present new opportunities, but
+also new risks. As we work to securely connect and protect
+people and businesses—and support workers in our supply
+chain—we take a mindful and systematic approach. We
+design and build solutions with security, privacy, and human
+rights in mind so that our partners, customers, and their
+users can leverage the power of connected technologies to
+improve their lives, meet their business objectives, and fulfill
+their potential.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 13
+Security, privacy,
+and trust
+Emerging regulations and fast-evolving technology mean If it’s connected, you're protected
+that the cybersecurity landscape is continuously changing.
+Many network administrators don’t think of legacy hardware like routers
+Amid this change, one thing remains constant: Cisco’s commitment
+and switches as vulnerable parts of their networks. Systems that were
+to being trustworthy, transparent, fair, accountable, and resilient
+designed, built, and deployed years ago couldn’t anticipate today’s
+regarding the data entrusted to us and the solutions we deliver
+advanced and nefarious cyber attacks, which have become more
+to customers.
+prevalent, sophisticated, and complex. With increasing demands on IT
+and networking professionals, it can be a challenge to replace end-of-
+Trust is difficult to earn and maintain, yet easy to lose. We build
+service and end-of-life equipment. It can also be difficult for customers
+confidence among our customers and stakeholders through action:
+to prioritize the implementation of critical security updates and patches.
+sharing up-to-date information about emerging threats, leveraging
+a secure development lifecycle process that embeds security
+Cisco has been sounding the alarm on the importance of updating
+and privacy controls into our products and solutions, complying
+and maintaining deployed network infrastructure for years. In 2023,
+with global cybersecurity and privacy laws and regulations, and
+we joined forces with technology providers, security experts, and
+promoting responsible use of technologies like AI. Teams of
+network operators to launch the Network Resilience Coalition to raise
+professionals are working in these areas across Cisco, and ongoing
+awareness of the issue from various perspectives, understand its true
+security and privacy awareness, education, and training available
+scope and scale, and provide recommendations and a coordinated
+for all employees enables us to remain continuously vigilant and
+framework for improving network security. It helps to bridge the gaps
+maintain a strong security and privacy posture.
+between vendors of networking technology, like Cisco, and customers
+who manage complex networking systems with limited resources.
+As a technology solution provider to businesses and organizations
+Together, we can better plan how to manage risk and optimize the
+globally, we face many of the same security and privacy challenges as
+secure operation of critical networking equipment over its lifespan.
+our customers. Cisco shares leading practices developed in-house
+with our customers and other businesses to help them enhance
+their own privacy and security so that they can confidently deliver
+Learn more about
+secure and privacy-aware solutions for their own customers.
+security, privacy, and trust.
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 14
+Embracing transparency in Keeping the lights
+software development on in a war zone
+We work to enhance transparency, security, and privacy across The Russian invasion of Ukraine
+our network. Cisco is committed to meeting customer needs for began nearly two years ago—but
+software transparency, including requirements that stem from cyber aggression against Ukraine
+the U.S. Executive Order on Improving the Nation's Cybersecurity began much earlier and remains
+and the pending European Union's Cyber-Resilience Act. an important battlefront in the war.
+Cisco Talos provides cybersecurity
+Our Cisco Trust Portal allows on-demand access to Cisco security, solutions to Ukrainian government
+trust, and privacy compliance documents. In addition, our Privacy by organizations and their critical
+Design approach reflects our responsible use of personal data, infrastructure, and recently extended
+which continues to be important to our customers, as seen in the protection to 45,000 endpoints in Ukraine.
+2023 Data Privacy Benchmark Study.
+In 2023, Talos found another way to help
+Ukraine beyond the cyber realm—by ensuring the
+Training the next generation
+country’s energy sector could continue to function despite
+of security professionals Russian kinetic attacks on critical infrastructure. Ukraine’s high-
+voltage electrical substations depend on the Global Positioning
+System (GPS) for precise time synchronization, which is essential for
+Cisco promotes technology skills through programs like Cisco
+critical tasks. Ukraine is saturated with electronic interference from
+Networking Academy, and in 2022 we partnered with the U.S. White
+the war, from Russia, and Ukraine itself. This makes it very difficult
+House to expand and enhance the United States’ cyber workforce
+to keep power output stable, resulting in distribution challenges and
+through education and training. In addition, the U.S. Department
+possible blackouts. In response, Talos spearheaded a months-long
+of Labor certified three Cisco digital- and cybersecurity-focused
+effort to design and deploy custom devices to Ukraine that help
+apprenticeships, helping to enable public and private entities to
+substations to deliver a consistent power supply—keeping the lights
+source diverse, work-ready apprentices.
+on for a nation at war.
+Talos, Cisco’s threat intelligence arm, hosted a cohort of interns
+and partnered with Cisco Crisis Response to train nongovernmental
+organizations on security and privacy fundamentals.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 15
+Human rights
+Advances in technology present new challenges and
+considerations about how the technologies people
+and businesses use every day impact human rights.
+Cisco integrates a human rights by design approach to address
+salient human rights issues across our business. We published
+our Global Human Rights Policy more than a decade ago, and we
+update it regularly to reflect new developments in the way Cisco
+manages potential human rights impacts. We continue to mature
+our approach to these issues through enhanced governance, as
+well as the development of policies and procedures aimed at
+addressing human rights impacts across the value chain.
+Governance of human
+rights issues
+In fiscal 2023 we established a new Environmental, Social, and Public
+Policy Committee on Cisco’s Board of Directors, which oversees
+human rights issues and other ESG matters. Our Business and
+Human Rights team oversees human rights policy and implementation
+Cisco rose to third place from
+across Cisco, while our Supply Chain Sustainability team conducts
+11th out of 60 information and
+human rights due diligence in our supply chain. Two cross-functional,
+executive-level committees—our Human Rights Advisory Committee communications technology
+and Supply Chain ESG Committee—provide guidance on human rights
+(ICT) companies on Know the
+risks and strategy.
+Chain’s benchmark, which
+assesses companies’ abilities
+to manage human rights risks in
+their supply chain.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 16
+A human-centered approach to the product lifecycle
+Cisco considers potential human rights impacts at every stage of our value chain. We assess effects on stakeholders,
+including vulnerable workers in our supply chain, users of our products and solutions, and other impacted populations.
+Here’s how:
+RESPONSIBLE MINERAL COMPONENT AND PRODUCT PRODUCT DESIGN PRODUCT-LEVEL DILIGENCE PRODUCT END-OF-LIFE
+SOURCING MANUFACTURING
+Human rights impact assessments Cisco strives to identify and prevent We design products to allow for
+We collaborate with supply chain Supply chain workers in manufacturing and Responsible AI impact human rights harms associated with self-service data wiping, helping
+partners to promote responsible facilities face a variety of potential assessments help us design and the use of our technology. As part to ensure a right to privacy. Cisco
+sourcing of minerals and to identify risks, including forced labor, safety build our products. We consider of this effort, Cisco complies with works with a number of e-scrap
+and prevent sourcing from mines hazards, and chemical exposure. We the needs of vulnerable users, human rights driven trade controls recyclers and other partners
+linked to armed conflict or human work across our global supply chain intended and unintended uses and conducts human rights due who disassemble our equipment,
+rights violations. to identify and mitigate these risks. of our products, and unique use diligence on transactions that present and we hold those partners
+Workers can leverage Cisco’s EthicsLine cases to address potential risks. heightened potential human rights accountable to our Supplier Code
+as a grievance mechanism to share risks, considering product capabilities, of Conduct.
+concerns with Cisco if they are unable purposes, and users.
+to resolve issues with employers.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 17
+Sourcing minerals responsibly Addressing modern slavery and Promoting worker rights
+protecting vulnerable workers
+While Cisco does not directly procure minerals from mines or the Cisco is a founder and active member of the RBA and adopted the
+smelters or refiners (SORs) that process them, we collaborate with RBA Code of Conduct as our Supplier Code of Conduct. The Code
+Cisco’s supply chain is vast and global. Engaging with suppliers to
+suppliers to conduct due diligence in accordance with our Responsible sets standards for labor, health and safety, environment, ethics, and
+drive conformance to our human rights policies is an ongoing effort
+Minerals Policy. Cisco is a member of the Responsible Minerals Initiative management systems, and Cisco assesses our suppliers’ conformance
+that requires constant vigilance. Our due diligence occasionally reveals
+of the Responsible Business Alliance (RBA) where we participate to the Code using tools such as self-assessments and third-party
+that workers in our supply chain have paid recruitment fees, which
+in working groups to increase SOR participation in third-party audit audits. In fiscal 2023, 169 Cisco supplier facilities completed RBA
+is considered a risk of bonded labor and is against Cisco policy. In
+schemes. Conformance to these industry standards is important as it audits. We estimate these audits covered more than 446,000 workers
+fiscal 2023, at nonconformant supplier facilities where workers were
+serves as an indicator of decreased likelihood of human rights risks, in our supply chain.1
+identified as having paid prohibited recruitment fees, we oversaw the
+links to conflict financing, and the existence of corruption in the trade
+reimbursement of US$2.2 million to 1865 workers. We work to incorporate the perspectives of people who work in our
+of minerals. In Cisco’s supply chain, 71 percent of the 3TG (tantalum,
+supply chain to inform our human rights programs. In fiscal 2023,
+tin, tungsten, and gold) SORs and 61 percent of the cobalt refiners
+Certain groups, including ethnic minorities, migrant workers, women,
+we conducted a Human Rights Impact Assessment that included
+reported by our surveyed suppliers were conformant or active in a
+children, and LGBTQ+ communities, face heightened risk for forced
+interviews with hundreds of workers to identify human rights risks
+third-party audit program. Cisco also works to improve conditions
+labor and other human rights risks. To demonstrate our commitment
+and concerns. We are incorporating these insights into our human
+for miners and the communities they live in globally.
+to protect these groups, Cisco published the Respecting the Rights of
+rights strategy, programming, and due diligence processes.
+Vulnerable Groups Policy, as an extension of our existing human rights
+Cisco is a member of the Public-Private Alliance for Responsible
+commitments, in fiscal 2023.
+Minerals Trade and the European Partnership for Responsible Minerals
+(EPRM). We support the EPRM-funded Sustainable Trade in Artisanal
+446,000+
+Gold program, which benefits miners in Burkina Faso by improving
+and scaling responsible sourcing tools and practices. We also
+supply chain workers covered by
+contribute to the RCS Global Better Mining program, which monitors
+audits conducted during fiscal 20231
+working conditions at artisanal and small-scale mines in and around
+the Democratic Republic of the Congo.
+Learn more about our efforts related
+to human rights in our supply chain.
+1 The RBA is an industry standard scheme
+which allows suppliers of multiple customers
+to demonstrate conformance to a single
+responsible business conduct standard. ESG
+Reporting Hub
+Number of workers represents the total
+supply chain workers in the entire supplier
+facility audited.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 18
+Improving health and safety
+Cisco works to build suppliers' capabilities to identify and address
+health and safety issues. Since fiscal 2022, we have partnered with
+the nonprofit Social Accountability International to implement its
+TenSquared program that runs for 100 days and brings together In October 2023, Cisco
+supply chain workers and managers to collaboratively address
+was named a Leader in the
+occupational health and safety challenges. Deploying TenSquared
+Global Child Forum's annual
+has revealed that greater worker engagement can yield sustainable
+solutions to workplace safety issues, such as the consistent use of benchmark report. This
+personal protective equipment or the safe operation of machinery.
+designation recognizes that
+The program increases managers’ awareness of workers’ abilities to
+contribute solutions, while simultaneously helping workers feel more Cisco has taken concrete steps
+comfortable sharing their ideas.
+to embed children's rights into
+Countering the cyber company practice, including
+following up through monitoring,
+mercenary market
+transparent reporting, and
+Cisco continues to observe a concerning growth in the use of “cyber
+programs to create action for
+mercenaries,” private-sector actors who develop and provide intrusive
+cyber capabilities to their clients—often governments—for a fee. These children's rights.
+capabilities allow access to networks, computers, phones, or Internet-
+connected devices in ways that violate human rights and undermine
+democratic principles. While these tools are often billed as a way to
+fight terrorism and crime, they are often deployed against dissidents,
+activists, and journalists instead.
+As we take a security-first approach to our products and services, we
+also continue to advocate for both industry partners and governments
+worldwide to support a secure online ecosystem. In 2023, we were
+a principal co-author of the Cybersecurity Tech Accord’s principles
+limiting offensive operations in cyberspace, which received favorable
+mention at the Summit for Democracy hosted in Washington, D.C.
+by the governments of the United States, Costa Rica, Kenya, Korea,
+Netherlands, and Zambia.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 19
+Taking a principled approach
+to artificial intelligence
+Advances in AI, including generative AI, have the potential to A cross-functional team of Cisco subject matter experts developed TTrraannssppaarreennccyy
+revolutionize our industry and transform many aspects of how we live, our AI Impact Assessment process, modeling it on Cisco’s PIA
+work, and connect. These tools also have the potential to provide program. Through this process, trained assessors gather information
+false, misleading, and biased outputs and expose confidential and to surface and mitigate risks associated with the intended, as well
+personal information. In Cisco’s 2023 Data Privacy Benchmark Study, as unintended, use cases for each submission. These assessments
+62 percent of respondents said that they were concerned about look at various aspects of how AI could be used during product
+PPrriivvaaccyy Cisco FFaaiirrnneessss
+businesses’ use of AI, with 60 percent saying they have already lost development, including by the development team, as well as for the
+some trust in organizations because of their AI use. model, training data, fine tuning, prompts, privacy practices, and Responsible AI
+testing methodologies. The ultimate goal is to identify, understand, Principles
+For Cisco, responsible business practices are core to who we are.
+and mitigate any issues related to Cisco’s RAI Principles of transparency,
+And over the years, as we’ve incorporated AI technology to design
+fairness, accountability, privacy, security, and reliability.
+differentiated solutions and help our customers connect, automate,
+and stay secure, we’ve done so with a keen focus on respecting We follow this assessment process when our engineering teams are
+privacy and human rights along the way. developing a solution or feature powered by AI. We also use it when
+Cisco engages a third-party vendor to provide AI tools or services for SSeeccuurriittyy AAccccoouunnttaabbiilliittyy
+At its core, AI is about data. And if you’re using data, privacy
+our internal operations.
+is paramount. In 2015, we created a dedicated privacy team to
+embed privacy by design as a core component of our development
+methodologies. This team is responsible for conducting privacy
+impact assessments (PIAs) as part of the Cisco Secure Development
+RReelliiaabbiilliittyy
+Lifecycle. These PIAs are a mandatory step in our product development
+lifecycle and our IT and business processes.
+As the use of AI became more widespread, and the implications more
+novel, it became clear that we needed to build upon our foundation
+of privacy to develop a program to match the specific risks and
+opportunities associated with this new technology. In 2022, we
+published Cisco’s Responsible AI (RAI) Principles to document
+our position on AI and our RAI Framework to operationalize our
+approach. Cisco’s RAI Framework aligns to the National Institute of
+Standards and Technology (NIST) AI Risk Management Framework
+and sets the foundation for our AI Impact Assessment process.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 20
+Digital inclusion
+As digital technologies advance, those without access Providing educational content
+risk being left further behind.
+to offline communities
+Barriers to access can take many forms, including lack of
+infrastructure, affordability, and accommodations for users with
+Many of our investments through Cisco and Cisco Foundation
+disabilities. Cisco works strategically to address each one, so that
+connect unconnected communities to the Internet. In remote parts
+more people can enjoy the benefits of digital connections.
+of the world, where around-the-clock connectivity is not possible
+or practical, we find ways to deliver digital content and services that
+users can access even when an Internet connection is out of reach.
+For example, the nonprofit World Possible creates miniature
+networks using remote area servers that save terabytes of mobile
+1 in 3 people worldwide
+data downloads and enable schools, libraries, and nongovernmental
+lack Internet access. organizations (NGOs) to access educational and digital content that
+they otherwise would have no way to access. World Possible uses
+Increasing Internet access
+a mobile app connected to a cloud-based content catalog. Content
+and affordability could is copied to a device, transported to a remote server location, and
+synchronized securely with a community server. At the same time,
+bring 500 million people
+email communication, usage statistics, and requests for new content
+out of poverty and increase
+updates are collected from the site. Our recent investment expanded
+global economic output by education access in remote areas of over 53 countries, including
+Kiribati, Cambodia, Guatemala, and Malawi.
+US$6.7 trillion.
+Cisco also invests in CODE.org to provide computer science curricula
+to remote and rural communities in Latin America, Asia, and Africa.
+Our most recent investment supported platform architecture upgrades
+that improved user experience, including for low-bandwidth and
+Learn more about Cisco's offline learners.
+work toward digital inclusion.
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 21
+Powering inclusion
+Digitization for good COUNTRY DIGITAL
+through accessibility
+ACCELERATION PROGRESS
+1300
+Cisco is working to accelerate disability inclusion with our
+products, workplace policies, and our partnerships. Since 2015, Cisco has collaborated with governments, industries, and academia to advance national
+active or completed CDA
+digital agendas through the CDA program. Technology has enormous potential to deliver economic
+projects in
+We are a signatory to the Valuable 500 commitment, growth, create jobs, and improve the lives of citizens. However, it can also create digital divides and
+a global partnership of 500 companies, representing reinforce existing inequities. Through CDA, we enable countries to embrace the potential of digital
+50
+22 million employees, working together to end disability and deliver technology that supports inclusion and accessibility for all. Here are a few ways that CDA
+exclusion in the workplace. projects are making a difference: countries
+Our Cisco Webex Platform Design team is making updates
+to better serve people with vision impairments. According
+HEALTHCARE INFRASTRUCTURE IN INDIA
+to a WebAIM survey, almost half of web users use a screen
+magnifier when browsing websites, with a quarter using We collaborated with the Assam state government and NGO Piramal Swasthya to launch “Niramay,” a
+400 percent magnification. Our upgrades will allow users to pilot program to strengthen digital healthcare infrastructure. We supported the deployment of AMRIT, a
+interact with Cisco Webex tools at this zoom level. We also technology platform developed by Piramal Swasthya to create and store electronic health records. AMRIT
+recognize the importance of accessibility in virtual meetings, was deployed in 24 health centers, three primary care clinics, and three first referral units to enable
+where, according to a recent survey, over 60 percent of faster diagnostics, telemedicine interactions, and collection of medical data at the grassroots level.
+respondents experience accessibility barriers. In May 2023,
+Webex introduced a new integration in collaboration with
+Voiceitt, a leading speech recognition technology for
+non-standard speech. This integration provides AI
+EMERGENCY PREPAREDNESS IN COLOMBIA
+captioning and transcription capabilities, making it easier
+for people with speech impairments to participate fully and We partnered with the government to pilot a flood warning system in an area with limited connectivity
+be understood during virtual meetings. and no electricity. A solar-powered system provides an alert when a nearby river is at risk of
+flooding, providing the local government with valuable time to mobilize disaster response.
+We’re enhancing accessibility in the Cisco workplace.
+Through Social Justice Action 12, we conducted interviews
+across the business, including people who identified as
+disabled or neurodivergent, leading to a new suite of
+CRISIS SUPPORT IN THE UNITED STATES
+resources to help employees of all abilities thrive.
+We partnered with the City of El Paso to launch El Paso Helps, an online portal through
+which people experiencing crisis and homelessness can access social services. A live
+agent can offer assistance for basic needs, housing placement, emergency shelter, and
+connections to trained social workers.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 22
+Ethics and integrity
+At Cisco, we pride ourselves on a culture of integrity, both CHART 1:
+in the workplace and the marketplace. Our ethical culture
+Reports to Ethics Office
+includes feeling safe, speaking up, and raising concerns.
+2021 2022 2023
+Cisco’s values and high expectations of employees are expressed
+1190 1646 1644
+in our Code of Business Conduct (COBC). Employees certify to the
+COBC and complete training on its content. In fiscal 2023, 99.9
+percent of Cisco employees completed their annual certification and
+training within 45 days of launch. The latest training included a section
+dedicated to reminding and encouraging employees to speak up freely.
+Cisco also translated the Ethics Line into additional languages in
+CHART 2:
+2023, and we continue to do so to reach our increasingly global
+population. If an employee identifies a concern or has a question that Fiscal 2023 reports by type
+the COBC doesn’t answer, we encourage them to reach out to the
+Ethics Office, their human resources representative, a member of
+the Legal team, or their manager. Increasingly, Cisco is focused on
+emphasizing our ethical culture to our partner network, encouraging
+partners to use the Ethics Office to raise questions or report potential
+ethics violations.
+Learn more about how to
+report a concern.
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 23
+Inclusive
+Accelerate fairness, inclusion, and
+equitable access to opportunity
+Cisco’s commitment to our people powers our ability to
+drive positive societal change. We are recognized among
+the world’s best workplaces, and we continually strive to
+improve. For us, doing right by our people is not only a moral
+imperative but a strategic one. Fostering a thriving, inclusive,
+and supportive workplace culture is intrinsically linked to our
+broader purpose of powering an inclusive future for all.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 24
+Diversity, equity,
+and inclusion
+Our employees come from every walk of life and every part of the
+world, and there is power in those perspectives.
+Our business has always been about enabling people to connect and collaborate
+across distance and difference. We believe diversity, equity, and inclusion (DEI)
+is a core competency that we leverage to accelerate and amplify Cisco’s existing
+business goals and mission. It is intrinsic to who we are—and who we intend to
+be long into the future.
+Over the past several years, we have seen many organizations commit to—then
+back away from—DEI work. The opposite is happening at Cisco. Many of our
+programs that support underrepresented employees have been in place for more
+than a decade. In 2020, we deepened our work to create a more diverse and
+inclusive workplace and to address historic inequities both within and beyond our
+company. In fiscal 2023, we strengthened our top-level commitment with two
+key appointments: Gloria Goins, Cisco’s new Chief Diversity, Equity, and Inclusion
+Officer, and Brian Tippens, Cisco’s first Chief Social Impact Officer.
+DEI informs all aspects of how Cisco recruits, develops, and engages our people.
+Through fairness assessments, we look beyond pay to support equity in terms of
+promotions, stock grant values, and bonuses. We enable employees to share their
+pronouns through our technology and encourage them to connect with others
+through employee resource groups, which we call Cisco Inclusive Communities.
+Our teams accomplished a lot over the past few years—and we know that we still
+have a long way to go. We won’t stop until we’ve realized our vision of creating
+an inclusive future for everyone, everywhere.
+Learn more about DEI.
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 25
+Catalyzing change through Inclusive Communities
+Nearly a third of our employees are members of at least one Cisco Inclusive Community. These groups drive their
+own initiatives aligned to Cisco’s DEI strategy to support full-spectrum diversity and work together across our global
+enterprise, driving engagement and creating a more Conscious Culture. Some examples of what our communities
+focused on in fiscal 2023:
+Adult Caregivers Network Connected Disability Awareness
+Network 29
+Providing education and resources for
+our caregiver community Raising awareness of accessibility, disability, Inclusive
+and neurodivergence
+Communities
+Conexión
+316
+Interfaith Network
+Launching a leadership coaching program for
+Advocating for policy that's sensitive to the
+Latinx and Hispanic employees chapters across
+needs of people with faith
+77
+Connected Asian Affinity Network
+countries
+Helping Asian and Asian American employees PRIDE LGBTQ+ & Allies
+further their careers 1000+
+Driving inclusion in Cisco and local communities
+volunteer leaders
+Connected Black Professionals
+Women of Cisco
+Recruiting and retaining Black talent
+Highlighting intersections between DEI
+and sustainability
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 26
+Making connections that accelerate careers
+Cisco has programs to build relationships and create opportunities for underrepresented employees. Now that each of these
+programs has been in place for several years, we’re starting to see meaningful results: After these programs, I really felt like
+that’s where my career started to
+accelerate. It’s where I realized what
+The Multiplier Effect The Proximity Initiative Jump and DARE
+my potential could be, and I really
+started to work toward that. It taught
+Asks Cisco leaders to pledge to sponsor Encourages one-on-one dialogues about lived Retains future women leaders by providing
+me to be brave and courageous.
+an employee with a different background experiences between leaders and employees the knowledge and tools needed for their
+And you feel like you’re supported
+from themselves across the full spectrum of diversity career journeys at Cisco
+by some really close friends, even
+100% 2100+ 2400+ though you start out as strangers.”
+of Cisco leaders at or above proximity meetings current alumnae of the - N ish Parkar, Marketing and Communications
+Leader, Jump and DARE alumna
+Vice President level have pledged held since 2019 DARE and Jump programs
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 27
+Employee
+experience
+We know we get the best ideas and insights when we Catalyzing team development
+listen to and learn from our people.
+Through internal research and feedback channels, our employees
+One of the channels for employees to provide regular candid
+shared their interest in greater development resources. In response,
+feedback is through our Real Deal survey, first launched in fiscal 2016.
+we developed a quarterly program for all Cisco employees,
+Recent responses highlighted a common theme—the need for clearer
+Illuminate. We began our Illuminate journey in 2022, and in fiscal
+pathways for career advancement. This helped shape the launch
+2023 we continued to expand our program with new areas of
+of Career & Learning, Cisco’s first dedicated career strategy that
+focus for collective growth. Illuminate your Career aimed to inspire
+employees can use to accelerate their professional development. It is
+all employees to unlock their career aspirations by building their
+built on the idea that careers need to be driven by individuals, enabled
+brand and growing their network, and visits to our internal Career
+by leaders, and supported by the systems around us.
+& Learning site increased 591 percent following the event. Access
+to personalized one-on-one career coaching sessions was also
+Our people strategy is also guided by ongoing Future of Work
+extended to all Cisconians. Illuminate Your Team enabled leaders
+research, which analyzes the employee experience and helps inform
+and teams to engage in self-paced workshops focused on building
+solutions for employees navigating hybrid work. From this research
+healthy, high-performing teams in a hybrid world. After the event,
+and our Real Deal insights, we learned that regular check-ins with
+90 percent of attendees reported confidence that the action plans
+leaders predict higher employee engagement and career success,
+they developed would help their team work better together.
+and our people want more consistent and open conversations with
+their leaders. These findings helped inform the new performance and
+Upskilling our teams at a
+development strategies we rolled out this year to help ensure the
+success of our leaders and teams.
+crucial moment
+2.3 million Technology continues to shape our world and our work. Now more
+than ever, technical literacy is crucial for workers in many fields. Cisco’s
+Team Space Check-Ins submitted
+TECH for Non-TECH program focuses on upskilling and career mobility
+for people in nontechnical roles and provides a better understanding
+85% 8%
+of the technical aspects of Cisco’s products. Interactive virtual classes
+of employees submitted increase from cover topics like cloud computing, networking, data science, security,
+Check-Ins fiscal 2022 software development, and emerging technologies. In fiscal 2023 we
+launched 21 new course offerings and reached 7471 attendees.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 28
+The power of our people
+In fiscal 2023, over 220 new volunteers joined
+the Ambassador Hub, an internal site to foster
+engagement among the greatest champions
+of our Cisco culture. The space recognizes
+employees who have participated in our
+onboarding program for new hires and shared
+their stories in live panel discussions.
+Nurturing our culture
+from day one
+New Cisconians learn about all aspects of our company as part of
+their orientation—My Onboarding Journey—and Culture Ambassadors
+are there to welcome them! By volunteering to join panels as part of
+the orientation process, Culture Ambassadors foster our company
+culture and a sense of community through sharing their knowledge
+and mentorship. They share their perspectives and experiences,
+and help create an inclusive environment where new employees
+By sharing our stories, challenges,
+from around the world feel supported, empowered, and encouraged
+and solutions, we provide a more to bring to life one of Cisco’s guiding principles—give your best. As Learn more about employee experience.
+holistic understanding of what it expressed by one volunteer panelist, Lisa Andrews: “When we foster
+means to be a part of Cisco.” dynamic, successful teams that collaborate and perform, our business,
+ESG
+people, and communities all benefit.” Reporting Hub
+- Mohit Sharma, Consulting Engineer
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 29
+Health and
+wellbeing
+We help employees take care of themselves and their Broadening support
+families, recognizing that a healthy workforce is the
+for neurodiversity
+foundation for a thriving and resilient organization.
+To ensure that our health and wellbeing programs align with employees’ Listening to our neurodivergent employees is integral to creating
+needs, we actively seek input through Real Deal surveys, extensive a workplace where all can thrive. In fiscal 2023, we created a
+wellbeing research, partnership with our Inclusive Communities, global Neurodivergent focus area of the Connected Disability
+monitoring of healthcare trends, and more. Awareness Network (CDAN). Additionally, the CDAN chapter in our
+Europe, Middle East, and Africa (EMEA) region partnered with Lexxic,
+Embracing diverse a consultancy that helps organizations develop neurodiverse-friendly
+environments, to provide education and resources tailored to the needs
+parenting challenges
+of neurodivergent employees. In the United Kingdom, we incorporated
+neurodivergence and sensory considerations into the remodel of our
+Cisco offers a range of benefits that acknowledge and address the London office, setting a precedent for future workplace design. These
+unique demands of parenthood. RethinkCare, a program to support advancements have been largely driven by neurodivergent employees
+Cisco parents of children with a learning, social, or behavioral themselves, sparking transformative dialogues and fostering meaningful
+challenge, or a developmental disability, offers expert consultations, changes within the organization.
+evidence-based education, and a library of skill-based content. New
+in fiscal 2023, we expanded offerings to provide support and advice Evolving the Cisco
+on various modern-day parenting issues, including managing child
+Mind Set program
+tantrums, communicating effectively with teenagers, and navigating
+device usage.
+Cisco Mind Set empowers employees to manage stress and enhance
+their overall wellbeing. In fiscal 2023, we launched a pilot initiative to
+Learn more about health, wellbeing, and transform this individual-focused program into a team experience.
+benefits, as well as programs to keep This shift fosters culture change by encouraging entire teams to
+employees safe. embark on mindfulness training together, integrating mindfulness
+practices into team rituals and work practices.
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 30
+Championing women’s wellness
+Cisco doesn’t shy away from difficult conversations on sensitive
+topics. Our Women of Cisco Inclusive Community’s annual Women
+of Impact event featured discussions on crucial women’s health
+concerns, like “Mastering Midlife,” which opened up conversations
+about menopause-related issues and featured senior leaders
+sharing their personal stories. The ripple effect of these powerful
+conversations extended regionally, notably in the United Kingdom,
+where employees and experts engaged in public discussions about
+infertility, menstruation, and loss of a child.
+Conversations are just the beginning. Cisco also demonstrated its
+dedication to women’s health with a new virtual pelvic health program
+in the United States. This pioneering initiative provides virtual physical
+therapy for pelvic health at various life stages, addressing the needs
+of those with vaginal anatomy who may never intend to have children,
+those trying to conceive, those who have already given birth, and
+those in menopause.
+Prioritizing mental health equity
+We are committed to creating a work environment that values and
+prioritizes mental health and wellbeing—and destigmatizes seeking At Cisco, we recognize that mental
+treatment for mental health concerns. Recognizing the importance health is health. We can only build a
+of affordability for mental health care, Cisco recently embarked on a
+culture of inclusivity and authenticity
+comprehensive mental health parity analysis, examining the coverage
+when we support our people across
+gap between physical and mental health needs in various countries. In
+all aspects of health and wellbeing.”
+several locations, we adjusted coverage so that mental health support
+mirrors what is provided for physical health concerns. But some gaps - S heila Champion-Smeeth,
+remain, due to the complex landscape of insurance markets and Global Head of Wellbeing
+healthcare systems in certain parts of the world. As we continue to
+advocate for necessary changes in provider networks, we not only
+enhance support for our own employees but also help drive broader
+improvements across the industry.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 31
+Employee
+The power of participation
+community impact
+SINCE FY20:
+>80%
+Giving back is an important aspect of our culture. It’s a
+employee community impact participation
+way for our employees to bring Cisco’s purpose to life—
+every year, including advocacy,
+and it’s a sign of employee engagement.
+volunteering, donations, and more
+In fiscal 2023, 85 percent of employees participated in community
+impact—the highest level yet. We measure impact by employees’ US$127 million
+actions, including advocating for causes they care about, environmental
+raised through employee donations
+sustainability actions, volunteering (virtual and in-person), donating,
+and matching gifts
+digital give-back experiences, and learning about nonprofits through
+lunch-and-learns. We also launched a new Community Impact Portal
+2 million
+and removed the monetary minimum to nominate a nonprofit for
+donation matching, lowering the barrier for employees to take action. As volunteer hours recorded
+a result, we raised more than US$27 million in fiscal 2023 in employee
+donations and matching gifts to nonprofits. 7100+
+We completed a three-year study that examined Cisco employees’ global causes and U.S. schools supported
+participation in community impact alongside their performance,
+including their likeliness to remain at Cisco, get recognized, and get
+IN FY23:
+promoted. The results confirmed what we have long suspected:
+employees, leaders, and teams that engage in community impact 71,000+
+outperform those who do not. Employees who take at
+employees took action to give back
+least one community impact
+This finding aligns with countless anecdotal examples of employees
+who are empowered to champion causes they care about, engage action per year, compared US$27 million
+their teams to get involved, and gain valuable leadership skills to those who do not, have:
+in employee donations and matching gifts
+that contribute to their professional development. This correlation
+suggests that if Cisco can attract employees who are excited about ● Lower attrition
+702,000+
+our community impact mission, these employees will build upon our ● More promotions
+existing momentum—and go even further to bring our purpose to life.
+● More recognition from peers employee volunteer hours
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 32
+Protecting our environment Connecting inclusion and impact
+Cisco employees are highly engaged on sustainability. We have 24 Green Cisco’s Inclusive Communities engage employees around an identity
+Team Networks worldwide that drive environmental change, offer or topic of interest, including community engagement. For example,
+resources and training on circular design and sustainability solutions, we launched HAVEN to expand opportunities for people interested in Sparking change in Lebanon
+and host an annual SustainX event in celebration of Earth Day. addressing homelessness in their communities. Our Women in Science
+and Engineering group organized career panels, coaching events, and In fiscal 2023, a Cisco Inclusive Community,
+For more than 25 years, we have hosted electronics recycling
+mock interviews for women exploring science, technology, engineering, Lebanese at Cisco, participated in a range of
+events, gathering 111 tons of material in 2023. Employees also
+and mathematics (STEM) careers. The Alzheimer’s Support Network impactful initiatives:
+participate in volunteer cleanup events. For example, Thottikallu Falls
+held its annual executive auction and raised US$152,000 for Cisco's
+is a popular natural area and attraction near Bangalore, India, but ● E mpowering youth: Collaborating with Life
+National Alzheimer's team, making Cisco the #1 tech fundraising
+Project 4 Youth, members conducted mock
+littering and pollution have impacted the falls’ natural beauty. In fiscal
+team to participate in the Walk to End Alzheimer’s. Pride LGBTQ+ & interviews with economically disadvantaged
+2023, over 250 Cisco volunteers participated in the area's cleanup
+Allies established a new chapter in Singapore, organized Pride events youth, sharpening their interview skills and
+and gathered over 2200 pounds of trash.
+globally, and engaged with Cisco leaders in support of a US$100,000 fostering confidence in their professional
+development.
+donation made through Cisco's donor-advised fund at the Silicon Valley
+We also recently launched “Ask The Experts,” a program where
+Community Foundation to the Human Rights Campaign, whose mission ● Philanthropy in action: Partnering with
+employees can hear from Cisco thought leaders on how emerging
+arcenciel, a nonprofit that serves marginalized
+is to end discrimination against LGBTQ+ people and realize a world that
+technologies are used to power a more sustainable future.
+communities, Cisco donated over US$600,000
+achieves fundamental fairness and equality for all.
+worth of Cisco products and technology,
+connecting 12 centers across the country.
+● F ueling warmth: In response to a nationwide
+power outage, members raised funds and
+secured 10 tons of fuel for an elder care
+I am constantly inspired by
+home in North Lebanon, ensuring comfort
+stories of people across during the harsh winter.
+Cisco, in different cities and ● R amadan outreach: During Ramadan,
+countries, who give back. members partnered with nonprofit Ahla
+Fawda to host a meal for the Lebanese Civil
+Through our technology,
+Defense, a public emergency medical service.
+philanthropy, and
+The community also distributed food parcels
+community engagement, and partnered with the Cisco Foundation to
+we have a real opportunity donate a defibrillator to the organization.
+to make a significant mark
+Learn more about our
+on this planet.
+employees in action.
+-J onathan Davidson,
+EVP/GM, Cisco Networking
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 33
+Future
+Help advance a sustainable and
+regenerative future for our planet
+Around the world, businesses are undergoing two
+simultaneous shifts: the digitization of their operations,
+products, and services, and the demand from stakeholders
+to decarbonize and embrace a regenerative future. Cisco
+is supporting our customers in both of these transitions.
+We lead the way by reducing the environmental impacts of
+our own operations, designing more energy-efficient and
+circular products, engaging our suppliers to reduce their
+impacts, and investing with intention in communities at the
+forefront of the climate crisis.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 34
+The Plan for
+Possible
+Transition to Evolve to a Invest in resilient
+In a world where climate change is amplifying
+clean energy regenerative, ecosystems
+natural disasters, food shortages, and mass
+circular model
+migrations, we are embedding sustainability
+into the way we operate.
+Through collaboration, we believe we can help build not just a
+sustainable future, but a regenerative one. This means moving
+to a mindset in which we build the capacity of our social and
+environmental systems to heal and thrive.
+Cisco published its first corporate citizenship report in 2005. Our plan to
+Lead in energy-efficiency Adopt business models to extend Reduce the impacts of our
+Since that time, global atmospheric carbon levels have innovation the value of our products and business on water, waste,
+increased from approximately 379 to 419 parts per million. connect a reduce environmental impacts ecosystems, and biodiversity
+Average land and ocean temperatures have increased by Connect clean energy and
+regenerative Invest in technology Enable communities to adapt to
+digitize the grid
+more than half a degree. With this sense of urgency in mind, incubation to be at pace with climate realities
+Cisco revealed The Plan for Possible, our next-generation future environmental science
+Collaborate with our Cultivate skills and talent for
+environmental sustainability strategy, in fiscal 2023. The
+customers, partners, and Champion a digital, the regenerative economy
+strategy has three priorities, as seen at right. suppliers to accelerate the nature-positive value chain,
+energy transition leveraging our global reach Deploy Cisco technology
+Underpinning our new strategy is an enhanced governance to protect and restore
+Continue to increase our ecosystems and biodiversity
+model, led by Cisco’s first Chief Sustainability Officer,
+use of renewable energy in
+Mary de Wysocki. In fiscal 2023, we created the Cisco Harness AI, IoT, and blockchain to
+Cisco’s operations
+advance regenerative models
+Sustainability Council, with representation from functions
+across the business, to drive cross-company governance
+and execution. We also established governance processes
+for external communications, public goals, and claims related
+to environmental sustainability.
+Read more about how we’re driving sustainability
+across each of these priorities and explore data.
+Through enhanced governance, we are managing risk,
+increasing the transparency with which we communicate
+about sustainability, and upholding the high level of trust our ESG
+Reporting Hub
+customers and others have come to expect from Cisco.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 35
+Clean energy
+transitions
+GHG emissions reduction goals
+Cisco has an opportunity to speed the transition to
+Net-zero goal
+low-carbon energy within our own business and
+among our suppliers, customers, communities, and
+By 2040: Reach net-zero GHG emissions across our value
+other stakeholders.
+chain by reducing absolute Scope 1, 2, and 3 emissions
+by 90% (FY19 base year).1
+Our focus on GHG emissions reduction is captured in our goal to
+reach net zero across our value chain (Scopes 1, 2, and 3) by 2040. We are reporting progress through the near-term
+This goal has been approved by the Science Based Targets initiative targets below:
+(SBTi) under its Net-Zero Standard, which is aligned with the need to
+limit global temperature rise to 1.5°C above preindustrial levels. Cisco
+Near-term targets
+was one of the first technology hardware and equipment companies
+to have its net-zero goal validated under the SBTi Net-Zero Standard. By FY25: Reduce absolute Scope 1 and Scope 2 emissions by 90% (FY19 base year).1
+Cisco’s approach to reaching net zero is anchored in reducing 48% reduction
+emissions across the value chain. Our goal is to reduce all scopes
+By FY30: Reduce absolute Scope 3 emissions from purchased goods and services, upstream
+of emissions by at least 90 percent by 2040 and use high-quality transportation and distribution, and use of sold products by 30% (FY19 base year).2,3
+carbon removal offsets to reduce no more than 10 percent of our
+14% reduction (based on Cisco’s current Scope 3 emissions calculation methodology and subject to change)4
+residual emissions.
+1 We will neutralize any remaining emissions by removing an equal amount from the atmosphere.
+2 The baseline and progress reported for our 2030 goal includes: purchased goods and services from manufacturing, component, and warehouse
+suppliers; upstream transportation and distribution from Cisco purchased air transportation; and use of sold products.
+3 We updated our methodology in fiscal 2023 for calculating "Scope 3 Category 11: Use of sold products" to further align with the Greenhouse Gas
+Protocol. For more information on our current methodology, as well as data and goal tracking using our previous methodology, visit the
+Historic GHG methodology discussion in the Strategy, goals and emissions data section on our ESG Reporting Hub.
+4 We expect our progress to fluctuate year-over-year based on the number and type of products we sell each year. Due to increased product sales,
+there was an increase in GHG emissions in fiscal 2023, thus progress has decreased from fiscal 2022.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 36
+How our footprint determines our path forward Learn more about emissions reduction
+strategy, goals, and data.
+ESG
+Cisco fiscal 2023 emissions and decarbonization strategies by category Reporting Hub
+23 5
+% %
+PROCUREMENT AND PRODUCT LOGISTICS (Scope 3 Category 4)
+MANUFACTURING (Scope 3 Categories 1 and 2)
+We are addressing emissions produced by upstream
+About one fourth of our emissions come from transportation and distribution of our products by
+purchased goods and services (including capital prioritizing ocean over air and engaging with suppliers
+goods). For Cisco, this includes manufacturing and to shift lower-emission modes of transport.
+warehousing of Cisco components and products,
+<1
+and procurement of goods that support Cisco’s %
+business. We are engaging with our suppliers to better
+DIRECT OPERATIONS (Scope 1 and 2)
+understand their use of renewable energy, to set
+emissions reduction goals, and to help them engage Emissions from the operation of Cisco facilities and
+with their own suppliers to tackle emissions. assets account for 1 percent of our emissions—but they
+are also within our direct control. We’re addressing
+70
+% them through investments in renewable energy, energy
+efficiency, and building and fleet electrification.
+PRODUCT USE (Scope 3 Category 11)
+2
+The largest portion of our emissions results from the %
+energy our products consume during use. We are
+ALL OTHER SCOPE 3 EMISSIONS
+addressing these emissions by investing in product
+energy efficiency through cooling systems, optics, and A small percentage of our emissions come from other
+power sources, as well as working to understand our Scope 3 categories such as employee business travel
+customers' renewable electricity use and strategy. and commuting, downstream product transport,
+and end of use product treatment. We are exploring
+opportunities to reduce emissions in these categories.
+Note: Numbers may not add up to 100 percent due to rounding.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 37
+Developing more
+sustainable products
+The majority of Cisco's Scope 3 emissions are attributable to product
+use. By embedding circularity and sustainability into the design of
+our products, we can have a significant impact. We are working to Enabling smart grids
+reduce our Scope 3 emissions, and our customers’ emissions, by
+Enel, Italy’s largest electricity provider, uses
+engineering more energy-efficient products and developing solutions
+Cisco technology to monitor its energy grid
+that can power smart buildings and other sustainable infrastructure.
+and preemptively address faults or failures.
+For example, the recently announced Cisco Silicon One G200 chip
+Cisco also helps Enel connect to renewable
+optimizes workloads while keeping costs and power low. For over a
+energy sources, like solar and wind energy,
+decade, Unified Computing System servers have been engineered
+at scale, speeding the transition to a low-
+with sustainability in mind. The product recently received the 2023
+carbon electrical grid. See our ESG Reporting
+Sustainability, Environmental Achievement, and Leadership (SEAL)
+Hub for more ways we’re helping customers.
+Sustainable Product Award. Built with modular, easily removable
+components, its upgradeable designs help to extend the use of the
+chassis, power supply, cooling, and other major components, and
+are optimized for repair, reuse, and eventually recycling. The latest
+X-Series architecture also features technology innovations such as
+efficient 54V power distribution, intelligent fan controls, zone-based
+cooling, and 80 Plus Titanium-rated power supplies.
+Our customers and partners are a key part With network infrastructure growing increasingly complex, the Nexus
+of our environmental strategy to build a Dashboard provides a single focal point to unite data center and cloud
+regenerative future. We are in a unique networking operations. Operators can use telemetry to learn about
+position to help them make progress their network’s impact on energy, cost, and emissions through Cisco
+Nexus Dashboard Insights sustainability reports. Similarly, the Webex
+toward their sustainability goals and enable
+Control Hub recently launched the Carbon Emissions Insights widget,
+them to optimize energy consumption,
+which allows companies to view the estimated energy consumption
+lower costs, achieve greater performance,
+and carbon emissions of their Cisco devices.
+and minimize their carbon footprint."
+-Mary de Wysocki, Chief Sustainability Officer
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 38
+Focusing on our direct operations
+Cisco has been developing and executing on initiatives to reduce and Environmental Design (LEED®) and International WELL Building
+the environmental impact of our facilities for more than 15 years. In Institute’s WELL v2 Building Standard with five more in progress.
+fiscal 2023, we implemented 27 energy efficiency projects that avoid These certified spaces make up 19 percent of our building portfolio.
+approximately 4.9 GWh of energy consumption and 2100 metric tonne
+We also continue to advance sustainability in our global data centers
+carbon dioxide equivalent (CO2e) each year. To reduce Scope 1 and 2
+by focusing on sustainability in design, optimized operations, energy
+emissions and make progress on our near-term target, we plan to
+management, asset recovery and reuse, and responsible procurement.
+invest approximately US$39 million in renewable energy, energy
+efficiency, and electrification projects between fiscal years 2023
+and 2025. This includes a multiyear project to electrify fuel-burning
+heating systems in our buildings and increase the use of electric
+vehicles in our European company car fleet.
+48%
+In fiscal 2023, approximately 91 percent of our global electricity
+reduction in Scope 1 and 2 GHG
+came from renewable energy sources, including 100 percent in the
+emissions from FY19 baseline
+United States, Canada, and various other countries. We are also
+making significant strides in India, where 81 percent of our electricity
+91%
+came from renewable sources in fiscal 2023. We will continue our
+focus on both our onsite and offsite renewable energy efforts over
+of global electricity came from
+the next few years.
+renewable sources in FY23
+Through our hybrid work strategy, we are adopting more sustainable
+building practices that are not only more efficient, but also make for 19%
+more productive places to work. By focusing on the quality, rather
+of our building portfolio is
+than the quantity, of facilities, we have reduced real estate square
+LEED/WELL certified
+footage by 15 percent since August 2017. As of fiscal 2023, we
+have 35 Cisco facilities with green building certifications, such as
+the United States' Green Building Council’s Leadership in Energy
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 39
+Addressing emissions in our Collaborating with clean
+supply chain energy initiatives
+Engaging our suppliers is necessary to reduce the emissions that Cisco also supports suppliers in their clean energy transitions. In In January 2023, Cisco joined the Eco-Skies Alliance, which brings
+arise from manufacturing and transporting our products. Along with fiscal 2023, we engaged with suppliers through surveys and in direct together United Airlines and leading global corporations to help
+reaching net-zero emissions across our value chain by 2040, Cisco conversations to better understand their own challenges in GHG power lower-emissions air travel by investing in sustainable aviation
+has a near-term target to reduce emissions in our supply chain and emissions reductions and renewable energy utilization. Looking fuel (SAF). SAF is a biofuel with similar properties to conventional
+from our customers’ use of our products by 30 percent by fiscal 2030 ahead, we are working on developing a renewable energy strategy to jet fuel but a smaller carbon footprint. Depending on the feedstock
+(fiscal 2019 base year).1 The first step in reducing our supply chain help us guide suppliers in accessing clean energy solutions that are and technologies used to produce it, SAF can reduce lifecycle
+GHG emissions is to ensure our suppliers are committed to making right for them and that add new renewable energy to the grid. Learn GHG emissions dramatically, compared to conventional jet fuel. For
+emissions reductions and tracking and reporting on those efforts. more about supplier engagement on emissions reduction in our ESG now, SAF is not widely available and is not yet incorporated in our
+That’s why Cisco also set a goal to have 80 percent of our component, Reporting Hub. emissions accounting reporting. With this investment, however, Cisco
+manufacturing, and logistics suppliers by spend set a public, absolute is sending a demand signal to support increased production of SAF.
+GHG emissions reduction target by fiscal 2025. We collaborate
+Cisco also recently joined the RE100 initiative, which brings together
+with suppliers to reduce the emissions of their operations, such as
+businesses committed to 100 percent renewable electricity.
+supporting initiatives to reduce energy use and providing resources for
+Sourcing more renewable energy is an important part of Cisco’s
+emissions accounting and absolute or science-based target setting. Supplier climate target
+goal to reach net zero by 2040 and our near-term Scope 1 and 2
+In fiscal 2023, we piloted the RBA's new Emissions Management Tool
+target. Beyond helping us make progress toward our own goals,
+with key manufacturing suppliers to help businesses better understand By FY25: 80% of Cisco component,
+joining RE100 supports Cisco’s ambition to increase clean energy
+energy use and related emissions at their sites. manufacturing, and logistics suppliers by
+access globally and contributes to the private-sector demand for
+spend have a public, absolute GHG emissions
+renewables. We also continue to engage with renewable energy
+reduction target.2
+providers and buyers through the Clean Energy Buyers Alliance
+92% with targets (CEBA) and the U.S. Environmental Protection Agency's Green
+Power Partnership, and we are a founding member of the Asia
+Clean Energy Coalition.
+1 The baseline and progress reported for our 2030 goal includes: purchased goods and services from manufacturing, component, and warehouse
+suppliers; upstream transportation and distribution from Cisco purchased air transportation; and use of sold products.
+2 Suppliers are expected to set absolute GHG emissions reduction targets or intensity targets that produce an absolute emissions reduction
+during the target period. Cisco encourages suppliers to set targets in line with an approved science-based methodology. Progress toward this
+goal is quantified using Cisco’s supply chain spend which can vary annually. Cisco will continue to work with suppliers to set their own absolute
+GHG emissions reduction targets, and to report progress toward this goal annually through fiscal 2025.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 40
+Growing an ecosystem for climate finance
+Addressing the climate crisis is not only a matter of keeping carbon in the ground and
+out of the atmosphere. It’s also about putting money in the right places—specifically, with
+organizations and solutions that are working on decarbonization solutions and programs PROGRESS TOWARD CISCO
+that can lead to a regenerative future. FOUNDATION'S COMMITMENT
+TO FUND US$100M IN CLIMATE
+An estimated US$125 trillion is needed to achieve net zero globally, including investments SOLUTIONS THROUGH FISCAL 2030
+in clean energy, agriculture, food, and land use. While many businesses have begun
+US$10.1 million
+to invest in decarbonization, there is still not nearly enough money where it’s needed,
+particularly in terms of funding for early-stage solutions. Currently, less than 2 percent in grants since fiscal 20211
+of philanthropic dollars goes toward addressing climate change. As with the need to
+draw down carbon and regenerate depleted ecosystems before it’s too late, we need US$9.7 million
+to catalyze investments in the right places—and fast.
+in investments since fiscal 20211
+In 2021, the Cisco Foundation committed to fund US$100 million in climate solutions over
+the next 10 years. The funding takes two main forms: impact investments in for-profit
+ventures and grant funding for nonprofits and NGOs. This innovative blended finance
+approach allows the Cisco Foundation to seek out and scale the best solutions, no matter
+their profit model or financing avenues available to support such early-stage ventures.
+The Cisco Foundation’s focus on systems change connects disparate stakeholders and
+encourages capital flows. As a result, the Cisco Foundation partners with financing
+To bring about a more sustainable future, entirely new
+organizations that provide funding to others. These include Enduring Planet, which
+levels of innovation and investment are necessary. The
+provides revenue-based financing and grant advancements that allow climate startups to
+Cisco Foundation has responded to this call. I’m confident
+continue operating while they wait for grant funding. Another partner, Trailhead Capital,
+that our blended finance approach will inspire other
+backs entrepreneurs building innovations for regenerative food and agricultural systems.
+For Vesta, a hybrid nonprofit/public-benefit enterprise, the Cisco Foundation provided corporate foundations to fill key climate finance gaps and
+both initial grants and an early-stage impact investment for coastal carbon capture. drive forward high-impact, inclusive climate solutions.”
+- J ocelyn Matyas, Lead, Cisco Foundation Climate Impact Investing
+1 Totals may vary from the summation due to rounding.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 41
+Circular
+transformation
+Circular economy goals
+Now is the time to transition from an economy that By FY25: 100% of new Cisco products and By FY25: 50% of the plastic used in our products
+extracts resources and eventually wastes them, to packaging incorporate Circular Design (by weight) will be made of recycled content.4
+a circular one that finds new uses for products and Principles.1
+24% recycled content
+their inputs. 27% meeting circular design criteria
+By FY25: 70% of Cisco component and
+We aim to transform our business to extend the useful life of our
+By FY25: Reduce foam used in Cisco product manufacturing suppliers by spend achieve a
+products and provide ongoing services.
+packaging by 75% as measured by weight zero-waste diversion rate at one or more sites.5
+(FY19 base year).2
+We are embedding circularity into how we design our products 60% by spend with at least one certified site
+and packaging. This means designing to enable reuse, minimize 22% reduction
+environmental impacts, drive innovation, and realize value for our
+stakeholders. We are deploying new offerings that can help Cisco By FY25: Increase product packaging cube
+and our customers capture more value throughout a product’s life, efficiency by 50% (FY19 base year).3
+such as IT payment solutions supporting circularity-as-a-service
+65% cumulative improvement
+models. And we are striving to minimize waste and extend the
+lifecycle of our products by recapturing hardware and redeploying
+1 The scope of this goal is limited to hardware products and associated packaging, excluding: standalone components (e.g., chassis, ASICs, optical
+those assets through remanufacture, reuse, and recycling. This modules); standalone basic product accessories (e.g., power cables, brackets); Original Equipment Manufacturer products (where Cisco does not
+own the design); products and packaging of nonintegrated acquisitions. Product and packaging designs achieving a score of 75 percent or higher are
+circular approach is both good for business and good for the planet.
+counted toward the goal.
+2 To improve measurement accuracy, we changed our methodology for this goal in fiscal 2023 to calculate the foam used in our shipped product
+packaging instead of the total foam purchased from suppliers. The base year (fiscal 2019) foam use was recalculated using the updated methodology,
+and fiscal 2023 progress is measured against this.
+3 Packaging efficiency is measured by comparing the size of the product relative to the packaging, using dimensional weight. Dimensional weight uses
+volume and a standard dimensional factor to calculate the weight of a package. In this methodology, the packaging efficiency metric is based on
+the difference of the normalized dimensional weight (by volume) between the baseline and current year. In fiscal 2023, we updated our calculation
+methodology to improve accuracy. We will continue to report progress toward this goal annually through fiscal 2025. This goal applies to high-volume
+packaging requiring redesigns.
+4 The scope of this goal excludes plastics contained in commodity components (e.g., plastic screws, fans, and cables) and in products designed and
+manufactured by our Original Design Manufacturers.
+5 According to current standard definitions used in certification protocols, “zero-waste” diversion is defined as a 90 percent or greater overall diversion
+of solid, nonhazardous wastes from landfill, incineration (waste-to-energy), and the environment. Diversion methods can include reduction, reuse,
+recycling, and/or compost.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 42
+Incorporating circular
+design principles
+Circular design means designing products and systems that enable
+reuse, minimize environmental impacts, drive innovation, and realize
+value for our stakeholders. We align to 25 Circular Design Principles
+organized across five focus areas:
+1. Material use
+2. Standardization and modularization
+3. Packaging and accessories
+4. Smart energy consumption
+5. Disassembly, repair, and reuse
+In fiscal 2023, we continued to integrate our Circular Design Principles
+into core design processes and operations. We also provided
+opportunities for employees to learn more about circular design and
+better incorporate the Principles into their work. We organized product
+teardowns, where cross-functional teams took apart and analyzed
+components of selected products and packaging to identify ways to
+improve their design for circularity. Additionally, we collaborated with
+our recycling partners to inform how we design products for end of life.
+A group of supply chain engineers from Cisco's Collaboration team also
+visited one of our recycling partner’s sites, where they learned how
+products were disassembled for recycling. This greater understanding
+can inform engineers' future design and material use decisions.
+Reducing plastic use
+Read more about our
+In fiscal 2023, we continued working on several projects focused on
+circular design program.
+reducing the use of plastic and, where plastic could not be designed
+out, increasing the use of recycled plastic. For example, Cisco's
+ESG
+Collaboration team redesigned products such as the Webex Room Reporting Hub
+Bar to use at least 55 percent postconsumer recycled resin.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 43
+Making packaging circular Recovering and redeploying
+Cisco equipment
+Protecting the product is the first priority for packaging, as repairing
+or replacing products that are damaged in transit creates additional
+negative business and environmental impacts. However, there are Our customers are increasingly considering new ways to extend the New services program
+lifecycle of their equipment. In addition to Cisco Refresh, which allows
+many ways we reduce packaging and make the packaging we do use reduces need to ship
+customers to purchase remanufactured products with like-new
+more sustainable, such as:
+replacement equipment
+warranties, in fiscal 2022 Cisco Capital launched Cisco Green Pay,
+● Optimizing space in our packaging, including using multipack an IT payment solution supporting circularity that provides a path
+solutions for high-volume products Cisco’s Supply Chain Services & Logistics
+for customers of all sizes to acquire Cisco products in a manner
+organization supports customer and partner
+● Removing unnecessary materials that prioritizes sustainability. At the end of the contract, Cisco will
+hardware Return Material Authorizations (RMAs),
+● Using alternative materials that are renewable, recyclable, or both reuse, remanufacture, or recycle the loaned equipment, replacing
+which are issued when a product is returned
+out-of-date hardware with updated models. The program offers
+to Cisco—whether at end-of-life or as part of
+predictable payments for five years, up to a 5 percent discount on
+a service need. A new services program aims
+equipment, free shipping of returned assets, and a confirmation
+to reduce the number of RMAs that result from
+that the product has entered Cisco's Circular Economy Program.
+service requests.
+Cosentino, a global manufacturer of countertop and flooring products,
+Cisco Customer Experience (CX) organization
+was the first customer to leverage a Cisco Green Pay agreement.
+led the development and implementation of
+"By cycling out our network every three years, we eliminate e-waste
+Intelligent RMA Experience (IRE) innovation,
+and ensure we always have the most reliable and secure hardware
+which aims to accelerate the resolution of
+available," says Diego Zengin, Cosentino's Chief Technology Officer.
+cases involving an RMA and to enable a
+seamless RMA experience requiring minimal
+touch for the customer, and reducing risk of
+Read more examples of our progress damage to the product. IRE provides RMA
+on packaging sustainability. support using an AI/ML (machine learning)
+prediction engine and robotic process
+ESG automation. In fiscal 2023, IRE helped avoid over
+Reporting Hub
+5000 RMAs through automation of workflows to
+troubleshoot some of the most common issues
+with products in the field. This process helps
+reduce carbon emissions and supports Cisco’s
+circular economy efforts.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 44
+Resilient
+ecosystems
+As Cisco products are manufactured by our suppliers, water
+In addition to transitioning to clean energy and adopting
+stewardship within the supply chain is another area in which we
+a circular flow of materials, Cisco is helping safeguard
+engage. We work to improve the river basins and ecosystems where
+the water, land, and ecosystems that businesses and
+our suppliers operate, focusing on both internal and external water
+communities depend on.
+management. As a member of the Alliance for Water Stewardship
+Within our own operations, we conserve water, reduce waste, and (AWS), we are proud to be a part of a global movement to advance
+protect wildlife habitats near our office locations. We also work good water stewardship practices. In collaboration with ICT peers,
+with our suppliers to promote environmental stewardship practices we engage high-water-consuming supplier areas located in high-
+throughout our value chain. More broadly, our products and water-stress areas in water stewardship programs.
+investments can be used to monitor and manage local resources and
+In fiscal 2023, we worked with GAIASCAPE Studio under Friends
+ecosystems. Support from the Cisco Foundation is helping to protect
+of Nature, a China-based environmental NGO, to train suppliers to
+and regenerate ecosystems while supporting communities in adapting
+improve onsite water stewardship through nature-based solution
+to the realities of a changing climate.
+workshops, including rainwater harvesting systems, landscaping,
+and wastewater treatment. We also cohosted a “water field trip” with
+Water stewardship in our 98%
+AWS and an industry peer for high-water-consumption suppliers to
+operations and supply chain learn about the importance of wetland and water source protection on of Cisco key suppliers1 disclosed to CDP
+China’s Qiandao Lake. (formerly Carbon Disclosure Project)
+Water is a vital resource that we share with the communities where
+we operate. Over the past few years, we have implemented water 76%
+conservation projects in our direct operations that are still conserving
+In FY23, we withdrew 2464 m3 of water, a of Cisco key suppliers1 set water-related
+water today, like our comprehensive water management system at our
+targets in CDP
+25%
+Bangalore campus. In fiscal 2023, we withdrew 2464 cubic meters
+decrease from FY19.
+of water in our direct operations globally, a 25 percent decrease
+16
+since fiscal 2019. Annually, we use the World Resources Institute's
+(WRI) Aqueduct tool to better understand our water use and risks.
+Learn more about supplier sites engaged in ICT water
+The Aqueduct tool revealed that 35 percent of Cisco’s water use by
+our water initiatives. stewardship program
+volume is withdrawn from water-stressed areas.
+1 Key suppliers means Cisco Contract Manufacturers, Strategic Original Design ESG
+Reporting Hub
+Manufacturers and Hardware Suppliers in the top 80 percent of spend in fiscal 2023.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 45
+Reducing waste in our operations Protecting biodiversity
+and ecosystems
+As employees returned to offices worldwide, our waste generation
+increased slightly. However, the percentage of waste we’ve diverted
+Cisco recognizes that climate change and environmental degradation
+from landfill has also increased, from 75 percent in fiscal 2022 to
+can quicken habitat loss, which in turn accelerates the impacts of
+78 percent in fiscal 2023. We achieved this diversion rate through
+climate change by undermining natural defenses against extreme
+reuse, recycling, composting, and donations.
+weather, like forests and coastline ecosystems.
+We also engage suppliers on waste and set a goal that 70 percent of
+The Cisco Foundation’s US$100 million commitment to climate
+our component and manufacturing suppliers by spend will achieve a
+solutions helps protect and restore sensitive agroecosystems. One
+zero-waste diversion rate at one or more sites by fiscal 2025. As of
+recent grantee, PlantVillage, supports smallholder farmers in Africa
+fiscal 2023, 60 percent of suppliers had reached this goal.
+in transitioning to more regenerative and resilient farming practices,
+including planting trees on the periphery of their farms. The Cisco
+CHART 3: Foundation supported a pilot study that leverages technology to
+plan and track the benefits of these agroforestry practices, such
+Fiscal 2023 operational waste streams
+as improved soil health, erosion prevention, and shade and wind
+protection, as well as possible community income via carbon markets.
+Also, Cisco strives to protect the natural world and its species in our
+own operations and beyond. For nearly a decade, Cisco surveillance,
+data, and analytics technology have been used to protect endangered
+species and their habitats around the world through Connected
+Conservation—the first solution of its kind to proactively protect
+animals while allowing them to roam freely.
+Learn more about how Cisco
+manages operational waste.
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 46
+For All
+Address root causes of inequity,
+eliminate barriers, and foster
+lasting, generational change
+The most important words of Cisco’s purpose statement
+are the final two: “for all.” We strive to create a better future
+for all, by all, and with all stakeholders who share our vision.
+The ambitions we’ve set and the change we seek cannot
+be achieved by any one company working alone. We scale
+our efforts by collaborating with customers, peers, partners,
+and nonprofit/NGO grantee partners to bring this new future
+to life.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 47
+Crisis response
+A climate refugee in Africa and a person sleeping on
+the streets of California share a common struggle—the
+yearning for basic life necessities and a place to call home.
+Cisco’s commitment to vulnerable populations worldwide addresses
+critical needs arising from political instability, natural disasters, and
+housing insecurity. Through the Cisco Crisis Response (CCR) team, we
+stand with those in need, offering more than just temporary aid.
+In times of crisis, the ability to connect is one of the most critical and
+immediate needs. As a provider of networking technology, we are
+uniquely positioned to securely connect and empower vulnerable
+communities through digital access, enabling them to rebuild their lives
+and create a brighter future. We provide financial support, equipment,
+expertise, training, consulting, and deployment capabilities to support
+our partners and affected communities.
+Over the past 20 years, we have helped humanitarian and emergency
+response organizations set up robust networks to deliver life-saving
+aid. However, nonprofit organizations are often disproportionately
+susceptible to cyber attacks, leaving them exposed in critical situations
+and putting already vulnerable populations at even greater risk.
+In response to these challenges, we prioritize the security of the
+networks we build, by providing extensive consultation and leveraging
+Cisco’s suite of security products to protect our nonprofit partners
+and the communities they serve. By addressing these pressing issues
+head-on, our partners can operate with confidence and safeguard
+their vital humanitarian missions. Learn more about our
+crisis response.
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 48
+Combatting homelessness
+Destination: Home 5-Year Impact
+Building on the US$60 million donated to nonprofit Destination: Home
+between 2018 and 2022, Cisco granted US$5 million to Destination:
+Home in 2023 to continue its efforts to address homelessness in
+Silicon Valley. Over the past five years, our efforts have focused on We finance impactful strategies that tackle homelessness at its core, securing stable homes
+developing affordable housing; preventing homelessness through for our most vulnerable neighbors. And we've made impressive progress so far.
+financial, legal, and other assistance programs; improving Wi-Fi
+access in affordable housing developments; and supporting the
+14,923 3300+ US$1.5 YEAR 1 (2017-2018)
+hardware and software needs of residents.
+individuals from new homes across billion+ 215
+Cisco has also been a corporate partner of Covenant House since
+5414 33 in other funding households served through
+2014, volunteering and fundraising to address youth homelessness.
+leveraged for homelessness prevention programs
+Our employees mobilized around this issue, including participating households prevented developments housing production
+in "sleep outs" during which they sleep outdoors for a night to raise from becoming homeless funded since 2018 in Santa Clara
+YEAR 6 (2022-2023)
+County through
+awareness and funds about the homelessness crisis. Just seven
+our investment 1600
+Cisco employees participated as sleepers in 2014, a number that
+grew to 754 in 2022. Over the past five years, Cisco employees have households served through
+homelessness prevention programs
+raised US$10 million for Covenant House.
+CISCO AND COVENANT Households 61% 37% 89%
+HOUSE IN FY23
+served through include heads of extremely
+children household with low income at
+US$2.5 million
+homelessness a disabling enrollment
+condition
+raised during FY23 prevention
+Sleep Out events programs
+750+
+Cisco employees participated
+in Sleep Out events across
+multiple cities and countries
+US$1.2 million
+in Cisco product donations
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 49
+Supporting forcibly displaced
+communities from Ukraine
+In the past decade, the global refugee crisis has more than doubled in
+scope, with 110 million displaced people in 2023. Cisco and the Cisco
+Foundation are focused on ensuring migrants and refugees have
+Internet access. In fiscal 2023, we were especially focused on aiding
+Ukrainians affected by war. Much of this work centered on digital
+services and solutions that leveraged connectivity, including:
+● Providing technical guidance and consulting support to build
+emergency communications vehicles for the World Food
+Programme’s Emergency Telecommunications Cluster
+● Managing 29 communications networks established in 2022,
+supporting the United Nations High Commissioner for Refugees
+● Funding feature enhancements to LifeForce Ukraine, a digital
+platform developed by AI for Good, aimed at providing accurate
+Deepening our commitment to
+and secure information on available services and resources for
+more than 8 million internally displaced Ukrainians
+climate change resilience
+● Supporting the Norwegian Refugee Council’s (NRC) Digital
+Community Hubs platform, which serves as a central point of
+Cisco and Mercy Corps, a global humanitarian NGO, recently
+engagement for crisis-affected people, offering referrals to
+completed a transformative five-year Technology for Impact
+essential services and resources
+partnership, leveraging digital solutions to deliver aid and
+● Providing grant funding for the International Rescue Committee’s
+development assistance more efficiently. The partnership has
+Signpost platform, which provides critical life-saving information
+reached 13.8 million people across 45 countries. Cisco committed
+to those displaced by disasters and conflict
+US$5 million to expand our partnership and focus on climate
+adaptation and resilience in the Horn of Africa, where over 20 million
+people are threatened by droughts. With this investment, Mercy Learn more about how
+Corps will empower pastoralist communities in the region with digital Cisco supports refugees.
+tools and resources to make climate-risk-informed decisions and
+manage environmental resources more effectively. The goal is to ESG
+Reporting Hub
+apply the lessons and technologies developed in East Africa to other
+regions similarly affected by climate disruption.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 50
+Scaling our crisis response team
+The CCR community is comprised of 600 dedicated staff and employee
+volunteers who donate their time and expertise to support the CCR
+team and its NGO partners.
+In 2023, CCR concentrated on building the capacity of its volunteer
+community outside the United States, with a focus on the Philippines
+and Australia. Cisco prepositioned emergency communications kits,
+established teams, and conducted onsite trainings in these regions to
+enhance response capabilities and preparedness.
+20+
+Responded to natural disasters CCR GRANTS IN FISCAL 2023
+and humanitarian crises with
+US$8.9 million Bolstering communications
+in product donations for disaster response
+US$2.9 million
+Our Network Emergency Response Vehicles (NERVs) provide fast and secure
+in cash grants communications when existing communications may be disrupted. In 2023, we
+FUNDING EQUIPMENT released version 2.0 of these vehicles, which integrate a wide array of Cisco and
+US$2.5 million+ Cisco Meraki technologies in a four-wheel-drive platform, offering reliable connections
+for first responders and agencies during emergencies like storms and wildfires.
+in disaster campaigns
+The NERVs feature fully redundant components, Meraki network-based wireless
+(employee donations + matching gifts)
+access points, hyperconverged compute clusters, and IoT solutions for constant data
+monitoring and control. In the latest NERVs, all networking equipment is powered by
+50+
+batteries that can be recharged as the truck drives—or by connecting with external,
+PERSONNEL NETWORK solutions consulting engagements solar-panel arrays—enhancing reliability in a disaster scenario.
+SUPPORT
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 51
+Economic
+empowerment
+Cisco and the Cisco Foundation’s investments aim to Building bridges in rural Africa
+create equitable access to opportunities and empower
+individuals and families to be resilient and thrive. Cisco partners with Bridges to Prosperity, an organization focused
+on building footbridges in rural areas of Africa to help alleviate
+We focus on three critical pillars of economic empowerment: skills to
+poverty and close the gap between regions experiencing uneven
+careers, entrepreneurship, and financial inclusion.
+economic growth. These seemingly simple structures play a crucial
+role in economic empowerment by providing communities with
+Our strategy is iterative and adaptive, designed to enable rapid
+access to education, healthcare, and markets that were previously
+response to emerging issues, needs, and opportunities within the
+out of reach. Bridges to Prosperity also provides training to local
+sector, at both a global and regional level. Our investments focus on
+laborers, builders, and engineers and helps develop local skills
+underserved communities that face heightened challenges due to the
+and capacity. Building on their proven, evidence-based model,
+lingering effects of the pandemic, humanitarian crises, and climate-
+Cisco invested in their latest initiative—Fika Map—which leverages
+related natural disasters, as well as preexisting social and economic
+the power of technology, machine learning, and data to equip
+challenges. During this time of intense need, we’re doubling down
+and enable government agencies, local communities, and other
+on our guiding principles for this sector: Stability, Agency, Resilience,
+stakeholders to identify transportation barriers and prioritize where
+Independence, and Economic Security.
+to build bridges. Fika Map also addresses a critical data equity issue
+in low- to middle-income countries, empowering local communities
+to make data-informed decisions.
+CONNECTIVITY VIA
+FOOTBRIDGES CAN ENABLE:
+36%
+increase in wages
+Learn more about our economic empowerment
+and our social investment strategy.
+75%
+increase in farmer profitability
+ESG
+Reporting Hub
+60%+
+women entering labor market
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 52
+Empowering women-led Training problem-solvers
+companies and innovations across Zimbabwe
+Less than 3 percent of venture capital funding is invested in women- Nkosana Butholenkosi Masuku, a 28-year-old from Zimbabwe, won
+led companies. Astia addresses this disparity for companies led by the fifth annual 2023 Global Citizen Prize: Cisco Youth Leadership
+women, especially women of color. Cisco has provided early-stage Award and a US$250,000 grant for his outstanding work creating
+funding and subsequent investments to develop Astia Connect, the learning platform, Sciency Learning. Inspired by his experience
+a tech-enabled platform through which all of their deal sourcing, teaching in rural schools, Sciency Learning provides affordable and
+screening, and investment occurs. Cisco’s funding helped Astia accessible STEM education to students across Zimbabwe. Having
+deliver on its mission to level the investment playing field for more reached over 65,000 learners to date, Nkosana hopes to reach
+than 1300 women-led companies each year. Recent funding enabled 1 million more across Africa in the next five years.
+Astia to reach a more diverse investor pool and more completely
+support investments in highly innovative women-led ventures globally.
+Advancing opportunities for
+Cisco and Villgro®, an Indian social enterprise incubator, joined forces
+skills training
+to launch Tvaran, an India-based startup accelerator program. Seven
+winning startups, all led by women entrepreneurs, were selected to
+Generation helps adults of all ages achieve economic mobility participate in Tvaran’s inaugural year and received support, resources,
+by training, placing, and supporting learners in careers that and mentorship. These startups address various facets of climate
+would otherwise be out of reach. With a footprint in 18 countries, resilience—including waste management, sustainable agriculture, plastic
+Generation targets a diverse spectrum of learner groups who have waste reduction, and sustainable mobility. Explore the impact report
+been disproportionately affected by unemployment. The majority for more details on this program.
+of Generation learners identify with underrepresented communities
+within their respective countries. The Cisco Foundation invested to
+enhance Generation’s digital training ecosystem, which will allow the The Global Citizen Prize:
+nonprofit to offer a unified and streamlined experience for learners,
+Cisco Youth Leadership Award
+alumni, and staff across its network.
+Since 2018, Cisco and Global Citizen have partnered to recognize young people
+who are working to end extreme poverty and using technology as a force for
+88% 3X good. The five extraordinary young winners from around the world have been
+honored for their solutions in education, agriculture, clean water, and healthcare.
+of Generation participants average
+employed 180 days after increase The Youth Leadership Award is awarded annually to an individual aged 18-30
+and includes a US$250,000 prize paid to the organization to which the individual
+job placement in income
+contributes to help them scale and amplify their impact.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 53
+Cisco and NESsT forge a path to
+sustainable impact
+REFUGEE EMPLOYMENT INITIATIVE NESsT AMAZONIA INITIATIVE
+A good job with a reliable income is a critical ingredient for rising out of poverty. But
+for people in many parts of the world, the traditional job market isn’t accessible. That’s
+One year 1 million+
+where locally based social enterprises come in. Often located in remote, low-income,
+or environmentally vulnerable areas, these organizations can act with their communities’ since its inception, the NESsT Refugee farmers reached in the
+needs and best interests in mind. Employment portfolio has made a 10 Brazilian states where
+significant impact ManejeBem operates
+NESsT’s mission is to invest in these social enterprises and help entrepreneurs along the
+way. In partnership with Cisco and IKEA Social Entrepreneurship, NESsT launched the
+2000+ 3000+
+Refugee Employment Initiative. The program invests in impact-oriented enterprises that
+provide job opportunities, career training, and support services to refugees in Poland and individual refugees were provided farmers provided with web
+Romania, creating 3000 jobs and improving the lives of 5000 people. with skills training, language courses, and mobile apps from Elysios
+and legal aid that help farmers improve the
+Cisco and NESsT are also helping Brazilian farmers address rapid deforestation through
+planning and documentation of
+the NESsT Amazonia Initiative. The NESsT Amazonia Initiative consists of 50 enterprises, 3800
+agricultural activities
+spanning from Indigenous enterprises that support fishers along the Amazon River to
+early-stage tech enterprises delivering and scaling climate solutions in the Amazon. refugee families received
+Nearly 60 percent of the enterprises supported are led by Indigenous peoples. wraparound services, offering support
+in housing, childcare, education,
+Since its inception, the NESsT Amazonia Initiative has mapped 750 enterprises and
+and psychological assistance
+evaluated and monitored 20 value chains. Its portfolio has sustained over 8300 jobs.
+Through this initiative, for example, NESsT is supporting two local tech social enterprises, 450+
+ManejeBem and Elysios. ManejeBem empowers small-scale farmers with digital tools that
+promote sustainable agricultural practices. Elysios equips farmers with web and mobile jobs created and sustained for refugees
+apps to optimize planning, documentation, and regulation compliance, helping to increase
+crop yields and reduce resource usage.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 54
+Learning and
+digital skills
+Many people have the talent and drive to succeed in
+technology careers but need help developing the right
+skills to pursue job opportunities.
+Cisco Networking Academy, one of Cisco’s signature social impact
+programs, empowers learners with in-demand tech skills and bridges CISCO NETWORKING
+the education-employment divide. ACADEMY
+47
+As one of the world’s longest-standing IT skills-to-jobs programs,
+Cisco Networking Academy offers world-class learning products
+courses offered
+through a robust partner ecosystem. We provide IT courses and
+in up to
+operate a web-scale platform, collaborating with an unmatched
+ecosystem of 11,700 academies. This approach meets learners 27
+where they are, whether through a high school, vocational college,
+university, correctional facility, nonprofit, or independent learning languages
+through our Skills for All platform. We focus not just on skills, but
+16.8%
+on providing resources to support people on their career journeys,
+connecting students to job opportunities.
+growth in student
+participants since FY22
+While core in-demand tech skills aligned to globally recognized
+certifications—such as Cisco Certified Support Technician (CCST)
+Security, CCST Networking, Cisco Certified Network Associate We also use AI-based features to enhance the learning experience.
+(CCNA), CyberOps Associate, and DevNet Associate—remain a For instance, our Skills for All platform uses AI to assess learners’ Learn more about Cisco
+priority, we also understand the evolving needs of learners in the competencies both at the start of and during their courses. Through Networking Academy.
+digital landscape. In fiscal 2023, the program continued to expand a feature called “My Knowledge Check,” learners can evaluate their
+our learning portfolio with subjects like entrepreneurship, English for skill mastery throughout a course. Using an adaptive assessment to Networking
+Academy
+IT, cybersecurity, data science, and programming. This helps equip efficiently determine their proficiency across a large amount of course
+learners with critical skills to support work in AI and thrive in the content, learners can identify their strengths and areas that may
+ever-changing digital world. require more attention.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 55
+25 years of Cisco Networking Academy
+Cisco Networking
+In fiscal 2023, Cisco Networking Academy celebrated its 25th anniversary, Academy achievements
+reaching 20.5 million learners across 190 countries since 1997. As we marked these
+SINCE 1997 IN FISCAL 2023
+successes, we also announced an ambitious next phase goal: to provide digital
+and cybersecurity skills training to 25 million more learners over the next 10 years 20.5 million 11,700
+through Cisco Networking Academy.1
+students reached globally academies
+27% 190
+Our roadmap to 25 million more students Networking
+female students countries
+Academy
+Cisco Networking Academy provides an equitable and inclusive workforce
+development program on a global scale. Our goals around the world include:
+95% 29,700
+of students surveyed instructors
+say that Networking
+AMERICAS EUROPE, MIDDLE EAST, AND AFRICA ASIA PACIFIC, JAPAN, Academy helped them 22%
+AND CHINA
+obtain a job and/or
+Train 200,000 people in the United Train 10 million people in digital and cybersecurity female instructors
+educational opportunity4
+States with cybersecurity skills skills over the next 10 years, across the region. Train 6.7 million people with digital
+by 2025.2 Progress: 1.4 million people in FY23 and cybersecurity skills by 2032. 188,000 94%
+Progress: 50,000 people in FY23 Progress: 1 million people in FY23 of instructors say that
+students have self-
+Train 3 million people in Africa in digital and Networking Academy
+reported a disability5
+Launch a cybersecurity cybersecurity skills by 2032—representing an Train 500,000 people in India with helped them become
+a better educator6
+apprenticeship program aligned estimated US$200 million of in-kind contributions. cybersecurity skills by 2025.2
+with the Department of Labor’s Progress: 605,000 people and US$41.3 million in Progress: 219,000 people in FY23
+1 From beginning of fiscal 2023 through end of fiscal 2032, unless
+Registered Apprenticeship Program. in-kind contributions in FY23
+otherwise noted.
+Provide digital upskilling training
+Completed 2 From fiscal 2023 through end of fiscal 2025.
+Train 10,000 Ukrainian refugees in Poland via for 50,000 women annually across 3 From fiscal 2023 through end of fiscal 2024.
+Partner with Brazil’s National Cisco4Ukraine by 2024.3 Brunei, Fiji, India, Indonesia, 4 Based on student outcome surveys of students participating in Cisco
+certification courses between fiscal 2005 (when exit surveys began)
+Industrial Apprenticeship Service Progress: 4200 Ukrainian refugees in FY23 Malaysia, the Philippines, Thailand, and fiscal 2023.
+to advance digital training and and Vietnam through 2032. 5 Since July 2019 when Cisco started collecting this data; self-reporting
+innovation in the country. Train 2.6 million people in the European Union with Progress: 135,000 women in FY23 is optional.
+6 Based on instructor survey participants in fiscal 2023 who were
+digital and cybersecurity skills by 2032.
+Completed actively teaching.
+Progress: 444,000 people in FY23
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 56
+A more secure future
+When Camilla Ngala Timfe was a teenager in Cameroon, she would go to a
+cyber café to spend time on the Internet. Years later, when she immigrated
+to the United States with her two young children, she continued to explore
+Knowledge is
+her interest in technology, and particularly in online safety. Soon, she
+power. When you
+enrolled in the Cisco Networking Academy Program at the Community
+know what you’re
+College of Baltimore County.
+doing, it gives
+you confidence.” While juggling part-time work at night to support her family, Camilla
+embraced the program, honing her skills and gaining confidence. She
+- Camilla Ngala Timfe
+found the concise course topics and manageable practice sessions
+especially beneficial for reskilling into the IT industry. She also appreciated
+the practicality of tools like Cisco Packet Tracer, which enables users to
+construct virtual networks, input commands, and verify connectivity.
+Of particular value was the knowledge she acquired around networking. “If
+you don’t know how the network works, you won’t know how to protect the
+data,” Camilla explained. “In cybersecurity, knowledge of the network and
+networking itself is very important.”
+Leveraging her networking foundation to excel in her career, she evolved
+from an intern to a security analyst for a financial consulting firm. “Cisco
+Cisco Networking Academy Networking Academy has been a critical part of my career progression,”
+Camilla reflected. “Without the networking knowledge that I got from the
+partners with nearly half of
+program, I wouldn’t be able to impact my teams the way I have. My career
+all community colleges in
+growth wouldn’t have been what it was.”
+the United States
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 57
+Elevating K-12 education
+and teacher professional
+development
+Cisco and the Cisco Foundation invest in early stage, technology and reinforce learning. This platform encourages learners to share
+enabled, replicable, and scalable education solutions. These and remix their code projects in a safe, secure, and moderated
+solutions expand digital inclusion for all children and positively environment. Our investments resulted in 406,000 youth in 2022
+impact attendance, behavior, and course outcomes. We partner with demonstrating evidence of learning in computer science.
+NGOs around the world to tackle pressing issues, including bridging
+Cisco also joined forces with CommonLit, a nonprofit focused on
+student learning gaps caused by pandemic-related school closures,
+improving literacy, to expand access to free digital reading and writing
+increasing female participation in STEM subjects, and supporting
+lessons, create distance learning resources, and train teachers in best
+teacher capacity-building in lower-income countries. For example, the
+practices for vulnerable students in low-income schools. CommonLit’s
+Cisco Foundation partnered with ed-tech startup Darsel to address Advancing gender equality in tech
+impact has been significant, with operations spanning over 88,000
+math education challenges in Jordan, where six in 10 students
+schools in the United States and 195 countries and territories,
+lack math proficiency, due in part to lack of access to qualified math Launched in 2014, the Women Rock-IT program
+reaching almost 7 million students in English and Spanish.
+teachers and technology. Darsel’s AI-powered personalized learning addresses gender disparity in tech by encouraging and
+chatbot has engaged over 2000 seventh-grade math teachers and enabling young women to pursue careers in STEM fields.
+benefited more than 50,000 students, leading to national adoption in At the 2023 event for International Girls in ICT Day, our
+COMMONLIT'S IMPACT
+Jordan and ongoing expansion in India and Nigeria. focus was on women using technology to address climate
+7 million
+change and protect the planet. The virtual broadcast
+We partner with the Raspberry Pi Foundation to support Code Club
+had over 5000 live viewers and included a Learn-A-Thon
+students positively impacted per year
+World, a free online platform that helps children ages 9 to 13 learn
+focused on cybersecurity in 41 countries. More than
+to code and be creative using digital technology. Reaching over across the United States and Latin America
+200 Cisco volunteers worldwide facilitated live events
+3 million students annually, with an emphasis on female participation
+2x and career talks. Visit Women Rock-IT to learn more.
+and focused country engagements in Kenya, South Africa, and Accelerated learning gains up to the
+India, students use Code Club World to engage in hands-on coding academic year average
+WOMEN ROCK-IT IMPACT SINCE 2014
+projects, earn badges, and complete quiz features to demonstrate
+2 million+ 91
+participants live broadcasts
+974,000+ 156
+course enrollments speakers
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 58
+Social justice
+We believe in equal rights, equitable access to
+opportunity, and standing up to injustice.
+In 2020, we transformed our longstanding advocacy for social justice Cisco's AACPC, completed critical installations to modernize CAU OUR IMPACT
+into a global, enterprisewide commitment to inspiring action and technology infrastructure, meet NIST cybersecurity standards, and
+US$150 million
+creating lasting change. ensure their eligibility for Title IV Federal Student Aid.
+committed to HBCUs over five years, which includes
+Guided by our Social Justice Beliefs, we designed 12 Actions for Social We've also donated Cisco Networking Academy services, provided
+US$100 million for technology upgrades and
+Justice to bring together the full power of our technology, our people, a Certified Leasing and Finance Program Certification Scholarship
+US$50 million for students pursuing STEM education
+and our ecosystem. We embarked on a five-year journey backed by training to students, and we sponsored the Black Economic Alliance
+a US$300 million commitment to address systemic challenges and Endowment, a US$1 million endowed chair to help empower the next
+US$66 million
+empower communities for an inclusive future. Cisco’s 12 Actions initially generation of CAU entrepreneurs.
+focused on tackling inequities faced by the AA/B community. Now, in software donated FY20-FY23
+we’re building a strategic framework that can be adapted and scaled
+46 NIST
+across the full spectrum of diversity.
+assessments completed FY20-FY23
+Building a bridge for HBCUs
+30
+In 2020, Cisco committed US$150 million over five years to the
+technology installations completed FY20-FY23
+strategic recovery and sustainability of America's HBCUs, with
+US$100 million going toward technology modernization to keep
+US$1.5 billion
+colleges compliant with cybersecurity risk standards established by
+NIST. By the end of fiscal 2023, Cisco had invested US$66 million in in Title IV Federal Funding preserved at HBCUs
+services and software, which also preserved more than US$1.5 billion
+in Title IV funding. We also enlist our African American Cisco Partner
+Community (AACPC) to do the technology installations.
+See how Cisco is helping Clark Atlanta
+Cisco’s collaboration with Clark Atlanta University (CAU) is a powerful University enhance its network security.
+example of the impact we’re driving through our social justice
+commitments. To start, we’ve donated over US$1.7 million in security
+software and services. The CAU IT team and Procellis, a member of
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 59
+Our Social Justice Beliefs
+At Cisco, we believe in fairness and equity for all. Our commitment to
+advancing Social Justice is grounded in six core beliefs. Our beliefs
+inspire us—and guide us—in advocating for justice, equitable treatment,
+and changing systems to be more inclusive around the world.
+Technology for good Proximity
+Technology connects us. It makes the world better. We're committed We educate ourselves by getting closer to people who have lived—and
+to building technology that encourages people to create new are living—through injustice, hatred, prejudice, or discrimination simply
+possibilities. And we defend against any misuse of our technology to for being who they are. It's that empathy and understanding that
+censor, oppress, or bring injustice against anyone. drives us to act boldly.
+Equity Security of being
+Social justice isn't political. It's a call for fairness and solutions that We stand for the most fundamental of human rights—the security
+confront injustice and create economies, cultures, and communities of being—to protect people who are targets of prejudice, hate,
+where everyone can thrive. and violence. Supplier diversity
+Coalescence
+at Cisco
+We're creating a culture that brings our employees, suppliers,
+Cisco’s Supplier Diversity Program and our
+communities, and partners together to take action and drive
+Social Justice Action 7 focus on extending our
+meaningful change.
+commitment to full spectrum diversity to the owners
+Full-spectrum diversity and employees of businesses that supply billions
+in goods and services that we purchase every
+We believe that social justice must ultimately be addressed across year. This year we exceeded our goal to double
+the full spectrum of diversity, including gender identity, age, race, the amount we spend with diverse suppliers by
+ethnicity, sexual orientation, disability status, nationality, religion, 2023. We track not only diversity of ownership in
+military status, background, culture, experience, strengths, our supplier community, but also the diversity of
+and perspectives. preferred suppliers’ employees that directly support
+Cisco. In turn, we share resources with suppliers
+about how they can drive diversity and create
+strong cultures within their own workforces.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 60
+Highlights of our progress
+Fiscal years 2020 through 2023 (FY20-FY23).
+FY20 is the base year for metrics that are not year-over-year.
+By FY25: Social Justice Action 1, Support By FY24: Social Justice Action 7, Supplier By FY25: Social Justice Action 10, Diversify our
+community partnerships, legislation, and engagement: Double how much we spend partner ecosystem: Commit US$50 million to
+advocacy: Donate US$5 million to AA/B nonprofit with diverse suppliers and receive reporting increase the diversity in our partner ecosystem
+organizations advocating for equity and justice. on diversity metrics from 95% of our by increasing the number of AA/B-owned
+preferred suppliers.1 technology companies and increasing
+US$4 million donated between FY20 and FY23
+opportunities to accelerate the financial growth
+108% increase in diverse supplier spend
+of AA/B-owned partners.
+between FY20 and FY23
+By FY23: Social Justice Action 2, Increase
+Increased AA/B-owned companies in our
+representation: Achieve a 25% increase in 88% of preferred suppliers reported diversity
+partner ecosystem
+representation of all employees who self-identify metrics in FY23
+as AA/B from entry level through manager and a Special focus on 17 Acceleration partners
+75% increase in representation from Director to
+By FY25: Social Justice Action 8, Commit to
+VP+ level, by expanding our diverse talent pipeline.
+HBCUs: Commit US$150 million to preserve the By FY25: Social Justice Action 11, Invest in next
+ACHIEVED. legacy and sustainability of HBCUs, with US$50 generation tech innovation: Invest
+million to fund science, technology, engineering, US$50 million in startups and venture
+73% increase (entry level through manager)
+and mathematics (STEM) education and US$100 funds led by diverse leaders.
+103% increase (Director)
+million to drive technology modernization.
+Ongoing investment in startups and venture funds
+240% increase (Vice President and above)
+US$37.5 million spent on STEM education led by BIPOC, Latinx, and female leaders
+US$66 million spent on technology upgrades
+Learn more about our
+Social Justice Actions.
+Note: Progress against all goals listed by fiscal year is measured through the end of the fiscal year, unless otherwise noted. ESG
+Reporting Hub
+1 T he timeframe for this goal is calendar year 2023.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 61
+Partnering for
+Purpose
+Partnering for Purpose is an initiative that was launched at Cisco ● Over 1300 volunteer hours accumulated during a week of give-back
+Partner Summit in November 2022. It aligns with our commitment activities that involved multiple partners in the United States,
+for an inclusive future and makes it easier for our partners, customers, Canada, and Latin America
+and suppliers around the world to collaborate with us in order to ● The many partners engaged in our new Allied Partner model who
+accelerate and amplify our collective positive impact around the world. are mentoring minority-owned businesses and working together
+to build their own diverse companies and cultures
+Since launch, we’ve seen it grow into a movement that includes
+It is fulfilling to see how purpose is playing a significant role in the ways
+our partners and Cisco sharing best practices and collaborating in Public policy and advocacy
+in which our partners drive innovation. This was demonstrated through
+different ways to amplify and grow this work together. We’ve seen
+the many purpose-driven submissions received in the new Partnering
+actions big and small that all help to drive our purpose such as: Cisco develops and advocates for pro-technology
+for Purpose category of the 2023 Global Partner Innovation Challenge.
+policies and regulations. We engage with
+● ePlus working with Cisco and its own customers to provide
+The winners in this category included: governments at all levels, focusing on public
+digital skills training for over 300 middle school girls through
+policies that support Cisco, our partners, and
+their successful Girls Re-Imagining Tomorrow (GRIT) program
+● Long View Systems in Canada and Kiw One in Spain for
+our customers, as well as enabling our purpose
+innovations addressing environmental sustainability, helping their
+to Power an Inclusive Future for All. Visit our
+customers achieve their ESG objectives and net-zero targets
+Government Affairs website for more information
+Championing sustainability through ● Connect Professional Services in Egypt for innovation leveraging
+on our policy priorities, including:
+technology to address the access to healthcare in remote areas
+professional excellence
+● LiteScape Technologies in the United States for their innovation ● Unlocking the power of the Internet
+Cisco and Ingram Micro united to launch the first Cisco Partnering in ensuring vulnerable and marginalized populations can stay ● Supporting sustainability
+connected to family and loved ones
+for Purpose Initiative in Australia: Blackbelt Certification for a ● Free trade and inclusive trade policies
+Better Future. Both companies pledged donations to Planet These inspiring submissions not only highlight the ingenuity and
+● Investing in people and knowledge
+Ark, an Australian environmental nonprofit, for every Black Belt innovative spirit of Cisco’s partners, but also show how doing good is
+● Preserving an open Internet
+Sustainability Certification completed. The initiative surpassed good business when we create a lasting, positive impact on the world
+its goal with 202 Black Belt Sustainability Certificates issued, around us. ● Protecting innovation
+representing a 154 percent increase in Cisco Environmental ● Promoting investment
+Sustainability Specialized Partners and a AU$40,000 donation ● Security against evolving threats
+to Planet Ark. The increase in certifications and specializations Get involved with Partnering for Purpose.
+● Building next-generation wireless networks
+translates into more skilled people designing more environmental
+savvy solutions for our customers.
+ESG
+Reporting Hub
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 62
+Looking
+Ahead
+Our Purpose can’t just be
+something we look back on
+Each year we look back at our accomplishments and
+the positive impact we’ve made in the world, but we
+can’t stop there. To continue driving lasting change,
+we must also look ahead and consider the changing
+terrain, identify challenges and trends, and recognize
+opportunities. We find our way forward by leveraging
+our unique strengths to do good for our communities,
+good for our business, and good for all.
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 63
+A message from
+Fran Katsoudas What is the purpose of a Purpose Report? Historically we’ve used our bear the brunt of its impact. And due to a lack of infrastructure and
+Purpose Report as an opportunity to reflect on the year’s work and the technological advancement, they are often the least equipped to
+progress we’ve made against our goals, to quantify our impact, and respond to natural disasters. While the digital economy continues to
+Chief People, Policy, and to highlight the people and lives we’ve touched. Several years ago, grow, 2.6 billion people remain unconnected, denying them access to
+we realized that intersecting our business, technology, and innovation the opportunities and resources available. The consequences of each
+Purpose Officer
+together with our Purpose allowed us to focus where we could have crisis exacerbate others—access to education is disrupted, progress
+the biggest impact. We also recognized that if we designed and for women and girls is set back, and extreme poverty rates rise.
+operationalized our purpose thoughtfully, we could drive impact while
+Pursuing our Purpose can and must be the glue that brings
+driving business results—creating something lasting and real.
+us together to meet this moment and address these complex,
+Any company looking to successfully execute their business strategy interconnected issues. The question we must continue to ask as
+must consider the changing terrain, identify upcoming challenges and we look ahead is, how?
+trends, and anticipate how to best meet evolving requirements. The
+Crisis response won’t solve these issues.
+same is true for purpose.
+We must build resilient communities.
+Our biggest challenges are interconnected
+and interdependent. To get ahead of compounding shocks, we must embed resilience
+in all aspects of our communities. Resilient communities are those
+The past several years brought us all unprecedented challenges, and equipped with the necessary tools and resources to adapt and
+a world more prone to polarization than before. But instead of binary bounce back in the face of various challenges, including natural
+questions and issues, a more multipolar world has emerged, requiring disasters, economic disruptions, and social crises. Over the past few
+us to operate with more nuance and greater context than ever. In years, we’ve seen that many communities around the world don’t
+this context one thing is clear—we are more interconnected and have what they need to withstand, respond, and recover from the
+interdependent than ever. challenges we have and will face.
+Our lives and futures are linked by our shared dependence on our Our efforts to bring our Purpose to life can be harnessed and
+planet and its environments. We have a global responsibility to solve focused on building resilient global communities. When we defined
+the climate crisis together. We see the growth of an increasingly our Purpose, to Power an Inclusive Future for All, we operationalized
+digital and global economy, keeping us connected through the work of our teams to co-innovate with partners leveraging
+ecosystems of financial interdependence. And as we learned in the connectivity; address the digital skills gap; drive sustainability,
+recent pandemic, our collective health is also inextricably linked. inclusivity, and social justice; and support new ideas with partnerships
+and impact grants. All these bodies of work have a place in building
+Global crises also continue to grow increasingly interconnected—and
+community resilience.
+the consequences disproportionately fall on vulnerable communities.
+Developing nations who often contribute the least to climate change
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 64
+We can’t do it alone. In Africa, we have a powerful opportunity
+to build resilience and opportunity.
+I often speak about how in the arena of purpose and social impact,
+there should be less competition. When we see a problem, those of
+This summer, I spent eight weeks in Africa. I have been honored to be to drive impact. Cisco has invested in infrastructure, cross-sector
+us focused on this work are so often compelled to jump in, offering
+Cisco’s Executive Sponsor of the continent for several years, and while collaboration, support for innovation, and new approaches to
+our company’s help. But no one company can solve deeply complex
+I had visited many times in the past, this summer was different. I had partnership—investments that I believe could help create the potential
+issues, and we can do so much more and amplify our work when we
+time to connect more deeply with customers, partners, and community for many African countries to “leapfrog” technologically and create
+do it together. I recognize the irony in saying this in an annual report
+organizations, and listen to their challenges and opportunities. new dynamics.
+focused on quantifying and celebrating the impact of our company.
+A better approach as we look ahead will be to consider how we can There is tremendous global interest in the continent today, and We can approach communities and our work in new ways with our
+accelerate solutions by partnering—particularly with organizations it’s easy to see why: Africa has the world’s youngest population, private sector peers, governments, nonprofits, and community
+whose strengths complement our own. incredible innovation, and cities that are rapidly expanding, creating members. We can solve community challenges by leveraging the
+cycles of growth. The energy is palpable. There are also challenges, strengths and expertise of all organizations with proximity.
+I’ve learned that when we try to tackle issues alone, we often create
+including political upheaval and its impact on communities, unstable
+fragmented solutions. When many companies are building stand- If we can shift our approach—to partner, collaborate, and endorse,
+energy grids, threats posed by climate change, and limited access to
+alone solutions in a community, the community bears the burden of rather than compete—I believe we will not only build thriving, resilient
+the Internet and the services and opportunities it provides.
+bringing them together. A community, like a customer, has specific communities across Africa, but also open opportunities for our
+needs and can only take in so many solutions at one time. It's a Spending time on the continent taught me about the local, nuanced company’s unique offerings to shine, driving even greater success.
+delicate dance for all companies and all leaders, but I truly believe the issues facing the communities and how we can better cooperate
+future of Purpose work in the private sector lies in our taking a more
+collaborative, less independent approach.
+When you invest in communities and build resilience, you aren’t just
+protecting against future shocks. You’re opening up the potential for
+exponential opportunity and growth.
+Purpose can flex. It operates in a lane that is
+valued around the world, giving all of us who
+do this work the space to create and iterate,
+to sway and pivot, and find our rhythm. And
+when we do, pursuing our Purpose holds
+the door open for economic initiatives."
+Intro Power Inclusive Future For All Looking Ahead FY23 Purpose Report | 65
+Where do we go from here?
+Our Purpose can’t just be something we look back on—we must also look ahead.
+There is no doubt that the path forward for business in a multipolar world is
+less clear. There is significant work ahead to address risks in supply chains
+and manufacturing, and complex questions on how to best navigate a shifting
+geopolitical terrain. But should these challenges and uncertainties also apply to
+Purpose? I don’t think so. In fact, in this moment when many are shying away
+from a global mindset and approach, our Purpose work proceeds by pursuing
+what is most meaningful, regardless of whether that is at the local or global
+level. Purpose can flex. It operates in a lane that is valued around the world,
+giving all of us who do this work the space to create and iterate, to sway and
+pivot, and find our rhythm. And when we do, pursuing our Purpose holds the
+door open for economic initiatives.
+As we close the year in which we reached a goal of positively impacting
+1 billion people, I’m looking ahead to the next goal we’ll set for ourselves.
+We’ll continue to drive positive impact if we integrate the lessons of the
+past and take a new approach in the days and years ahead. If we approach
+problems as an ecosystem of partner organizations, each leveraging our unique
+strengths, we’ll do good for our communities, good for our businesses, and
+good for all.
+Fran Katsoudas
+Executive Vice President and
+Chief People, Policy, and Purpose Officer
+Americas Headquarters
+San Jose, CA, USA
+Asia Pacific Headquarters
+Singapore
+Europe Headquarters
+Amsterdam, The Netherlands
+Cisco has approximately 400 offices worldwide. Addresses, phone numbers, and fax numbers are listed on the Cisco website at www.cisco.com/go/offices.
+Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the United States and other countries. To view a list of Cisco
+trademarks, go to this URL: www.cisco.com/go/trademarks. Third-party trademarks mentioned are the property of their respective owners. The use of the word
+“partner” does not imply a partnership relationship between Cisco and any other company. (111OR)
+© 2023 Cisco and/or its affiliates. All rights reserved. This document is Cisco public information.
+Version 5, April 2024
+Forward-looking statements
+This report contains forward-looking statements that are subject to the safe harbors created under the Securities Act of 1933, as amended, and the Securities
+Exchange Act of 1934, as amended. All statements other than statements of historical facts are statements that could be deemed forward-looking statements.
+These statements are based on current expectations, estimates, forecasts, and projections about the industries in which we operate and the beliefs and
+assumptions of our management. Words such as “expects,” “anticipates,” “targets,” “goals,” “projects,” “intends,” “plans,” “believes,” “momentum,” “seeks,”
+“estimates,” “continues,” “endeavors,” “strives,” “may,” variations of such words, and similar expressions are intended to identify such forward-looking statements.
+In addition, any statements that refer to (1) our goals, commitments, and programs; (2) our business plans, initiatives, and objectives; (3) our assumptions and
+expectations; (4) the scope and impact of our corporate responsibility risks and opportunities; and (5) standards and expectations of third parties are forward-
+looking. Readers are cautioned that these forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions that are difficult
+to predict, including those identified in our most recent filings with the Securities and Exchange Commission on Form 10-K and Form 10-Q. Forward-looking
+statements speak only as of the date they are made, and we do not undertake any obligation to update any forward-looking statement.
+Cisco continuously strives for transparency in our reporting on our ESG initiatives, goals, and progress. We set ambitious goals knowing that they may be difficult
+to fully achieve, but we strive to meet them within the designated time frames all the same. Acquiring other companies can potentially impact our progress
+towards our ESG goals. We will transparently report on our progress, including any impacts from acquisitions.

@@ -1,0 +1,1420 @@
+
+2023 CSR Report About Verisk Table of Contents
+About Verisk
+Verisk (Nasdaq: VRSK) is a leading data, analytics, and technology provider serving clients
+in the insurance ecosystem. Using advanced technologies to collect and analyze billions
+of records, we draw on unique data assets, insurance industry knowledge, and technological
+expertise to provide valuable solutions that are integrated into client workflows. We offer
+predictive analytics and decision support solutions to clients in rating, underwriting, claims,
+catastrophe, weather risk, and many other fields. In the United States and around the world,
+we help clients protect individuals, communities, and businesses. With teams across more
+than 20 countries, Verisk consistently earns the Great Place to Work® Certified™ company
+designation and fosters an inclusive culture where all team members feel they belong.
+For more information, visit Verisk.com and the Verisk Newsroom.
+For more information on Verisk’s Corporate Social Responsibility program, please visit our
+CSR website.
+To access Verisk’s policies, governance documents, and annual financial and sustainability
+reports, please visit our ESG Resource Library.
+2 / ©Verisk / verisk.com
+2023 CSR Report A Message to Our Stakeholders Table of Contents
+A Message to
+Our Stakeholders
+I’m pleased to share our 2023 Corporate Social and transition risk scenario analyses, described how The Company also conducted a human rights risk
+Responsibility Report, a report that marks the tenth Verisk businesses are capitalizing on the opportunities assessment aimed at identifying potential areas of
+year of Verisk’s sustainability journey. associated with climate change, and summarized our human rights risk in the Company’s operations and
+efforts and progress to reduce emissions 21% by 2024 supply chain.
+The journey has been inspired by our mission to be compared with a 2019 baseline.
+the leading strategic data analytics and technology Those are just some of the highlights. None would
+partner to the global insurance industry and by our We continued to embrace the challenge of building have occurred but for the efforts of our corporate
+commitment to maximize stakeholder value over the and maintaining an outstanding workplace culture. sustainability team under the leadership of Chief
+long term. Our passion for the mission and the depth Our efforts are evidenced by the relationships we’ve Sustainability Officer Pat McLaughlin, who
+of our commitment to stakeholders have helped drive established to create opportunity, the training we established and guided our program, and the
+progress year after year and sustain our momentum deliver to enhance performance and growth, and the contributions and accomplishments of my 7,000+
+despite the challenges facing all businesses, such as networks we encourage to help all employees feel Verisk colleagues around the world who make it
+a global pandemic and the “great resignation” or welcomed and valued. Our results are evidenced by possible to take each step. I’m proud to be associated
+the bespoke challenges associated with our the deep bench of experienced and skilled with them. They understand the importance of the
+business alone. professionals we’ve called upon over the past 24 destination and come to work each day prepared to
+months to replace retiring or departing senior leaders; continue the journey.
+The initial steps of our journey, small but sincere, consistently strong employee engagement scores; and
+have since given way to longer strides marked by recognition by the Great Place to Work Institute in
+sharper vision and greater confidence. Our business multiple countries year after year.
+is now strictly aligned with the needs of the global
+insurance industry we serve and, in large part, Verisk’s Board of Directors continued to strengthen its
+strengthened by the environmental, social, and oversight of the business, adopting a risk dashboard Lee M. Shavel
+governance initiatives we’ve implemented along and risk review calendar requiring in-depth President and Chief Executive Officer
+the way. Last year was no exception. assessments of six risk categories throughout the
+year, in anticipation of forming a Risk Committee of
+During 2023, Verisk published its first-ever report in the Board during 2024. The Company reinforced its
+accordance with the framework recommended by the codes of conduct and associated marketplace and
+Task Force on Climate-related Financial Disclosures workplace policies with an extensive training
+(TCFD). The Report featured the results of physical curriculum required of all employees and contractors.
+3 / ©Verisk / verisk.com
+2023 CSR Report Table of Contents
+Table of Contents
+Working with Purpose 05 Governance 33
+Much of our work helps people, communities, and businesses Led by our Board of Directors, Verisk reinforced its commitment to
+become stronger, more resilient, and more sustainable. See examples sound governance through strengthened risk oversight, new policies,
+from the past year. mandatory training initiatives, and transparency.
+Environmental 12 Appendix A: SASB Disclosure 38
+During 2023, Verisk published its first-ever report in accordance with For the fourth consecutive year, Verisk has published a report
+the framework recommended by the Task Force on Climate-related in accordance with the Sustainability Accounting Standards
+Financial Disclosures (TCFD). Review the highlights to learn how the Board (SASB) template for professional and commercial
+Company is addressing the TCFD’s four pillars: Governance, Strategy, services companies.
+Risk Management, and Metrics and Targets.
+Corporate Leadership 43
+Social 20
+Meet Verisk’s executive leadership team and Board of Directors.
+Verisk’s approach to employee engagement, training and
+development, and diversity and inclusion has resulted in recognition
+by the Great Place to Work® Institute in multiple countries.
+Charitable Giving 28
+Our corporate giving strategy, which aligns with our mission, is
+supplemented by support for organizations serving communities
+where our employees live and work, a matching gifts program, and
+paid time off for volunteering.
+4 / ©Verisk / verisk.com
+Working
+with Purpose
+“For more than 50 years, our work has contributed
+to impactful solutions and informed public policy, and
+many of our colleagues have applied their professional
+expertise to help the communities where they live
+and work.”
+– Patrick McLaughlin, Chief Sustainability Officer
+2023 CSR Report Working with Purpose Table of Contents
+Much of our work helps people, The Dataset also includes updated subnational gas concentration pathways. Not surprisingly, the
+socioeconomic indices measuring the adaptive research indicates that, during the next several
+communities, and business
+capacity of nations, the sensitivity of societies to decades, a warming climate will affect the amount
+become stronger, more resilient, climate change, and overall climate vulnerability. of area susceptible to wildfires in many parts of
+The updated information complements existing the western U.S.
+and more sustainable. Here are
+national-level transition indices, which quantify
+examples from the past year. risks associated with emissions, climate litigation, Climate plays an important role in influencing the
+carbon policies, and environmental regulations. frequency, intensity, and extent of wildfires. Its impact
+on wildfire risk is a growing concern, especially as
+In addition, with data covering more than 170 temperatures rise and droughts become more frequent
+Verisk Maplecroft Unveils Climate Risk
+environmental, political risk, and human rights issues, and more extreme, creating the conditions favorable
+Dataset, Providing End-to-End Geospatial Verisk’s research into the interconnected nature of risk for wildfires. Continued development in areas exposed
+Insight into Physical and Transition Risks can also help organizations identify where secondary to wildfires compounds the risk. In addition to climatic
+climate impacts such as food insecurity, migration, changes, the model considers such variables as
+economic instability, and civil unrest may emerge. the abundance and dryness of vegetation that fuels
+Verisk Maplecroft has launched a new Climate Risk
+wildfires and the weather conditions suitable for
+Dataset to help insurers, corporates, banks, and
+spreading them.
+investors identify exposures to current and future
+climate risks.
+The projections were developed in consultation with
+members of Verisk’s Climate Advisory Council, leading
+Based on the latest climate model projections,
+climate experts who provide strategic guidance on the
+the Dataset features Verisk’s newly released climate
+evolving state of climate change and feedback on the
+scenarios, which assess how physical risks such as
+solutions Verisk is developing. Verisk clients use the
+heat, precipitation, drought, and sea level rise will
+Wildfire Model to assess the risk of future losses for
+evolve over time across different emissions pathways.
+property exposures; inform climate risk reporting to
+The Dataset also includes global risk indices covering
+regulators, investors, and other stakeholders; and
+Climate-related socioeconomic vulnerabilities and an
+develop mitigation and adaptation strategies for
+array of transition issues.
+their businesses and customers.
+In all, the Climate Risk Dataset covers 32 hazards and Climate Change Projections Incorporated
+During the past year, Verisk participated in public
+issues globally, and the Climate Scenarios encompass
+into U.S. Wildfire Model to Help forums in the states of California and Washington
+16 physical climate risks across seven time periods
+Stakeholders Understand Future Risk to inform stakeholders about the tools used by the
+and three emissions pathways. The combination
+industry to understand wildfire risk and encourage
+amounts to more than 330 global climate hazard risk
+indices with subnational granularity, which enable the Verisk has released climate change projections data-driven approaches to addressing potential
+identification of risks to assets and specific locations for its U.S. Wildfire Model, providing a probabilistic market implications associated with wildfire in
+across global operations, supply chains, and portfolios. view of future wildfire risk through mid-century vulnerable areas of the western U.S.
+across multiple socioeconomic and greenhouse
+6 / ©Verisk / verisk.com
+2023 CSR Report Working with Purpose Table of Contents
+According to the report, with accelerating global risk
+and rising uncertainty, corporations and investors can
+no longer afford to consider resilience as a defensive
+measure. Instead, it must be brought to the forefront
+of strategic thinking and ingrained within their
+growth strategies. The winners will be those that
+can successfully anticipate a progressively opaque
+and complex world that is shaped by increasingly
+interconnected risks.
+The report, which builds on a more extensive research
+paper published by the WEF and Verisk on the value of
+rethinking and prioritizing organizational resilience,
+was produced for members of the World Economic
+Forum’s Consumer Industries Partner Community.
+2023 Global Modeled Catastrophe Losses
+Report Helps Stakeholders Understand the
+Drivers of Extreme Event Loss
+Joint Report by World Economic The report, Rethinking Resilience in an Age of
+Using loss metrics from Verisk’s latest suite
+Forum and Verisk Maplecroft Analyzes Unpredictability, utilizes a unique, horizon-scanning
+of extreme event models and updated industry
+methodology, combining Verisk Maplecroft’s Industry
+Future Risks to the Resilience of exposures, the Company’s 2023 Global Modeled
+Risk Analytics with analysis from its team of political,
+Consumer Industries Catastrophe Losses report estimated modeled insured
+human rights, and environmental experts. The Industry
+annual average losses from natural catastrophes at
+Risk Analytics quantify 51 ESG and political risks
+$133 billion. According to the report, that means the
+A new report authored by the World Economic Forum across 198 countries for 80 different industries.
+insurance industry should be prepared to experience
+(WEF) and Verisk Maplecroft found that agriculture
+total insured losses from natural catastrophes well in
+is the weakest link in consumer supply chains because
+The analysis shows that civil unrest, modern slavery
+excess of $100 billion every year.
+of its high exposure to a range of environmental, social,
+and more stringent human rights due diligence laws,
+governance (ESG), and political risks that consumer
+and climate change vulnerability were the top three
+Over the past five years, actual insured losses from
+industries will need to prioritize if they are to build
+challenges confronting all sectors identified as
+natural catastrophes globally have averaged $101
+resilience in the face of an increasingly interconnected
+consumer industries over the short, medium, and long
+billion, compared to an average of approximately
+global risk landscape.
+terms. Agriculture stood out as having the highest risk.
+$70 billion over the previous five-year period.
+7 / ©Verisk / verisk.com
+2023 CSR Report Working with Purpose Table of Contents
+The report also quantifies the difference between hurricanes by providing complimentary access to
+insured and economic losses—the protection gap— ALERTTM—real-time information that goes beyond
+which represents the cost of catastrophes to society, meteorological data to include summaries of
+much of which is ultimately borne by governments exposure at risk and potential impacts.
+and individuals. With insured losses from natural
+catastrophes representing only about one-third of The Red Cross intends to use ALERT’s insured loss
+more than $400 billion in total economic losses, estimates—based on the event’s actual parameters
+the global protection gap appears to be sizable. calculated using Verisk extreme event models specific
+to the location and peril—to better analyze and project
+used to predict how pollutants will affect the ambient
+Multiple factors are contributing to the higher deployment and resource priorities earlier in its response
+environment and whether new or existing sources
+estimates, including a rise in exposure values, process. Soon after the arrangement was finalized, the
+comply with regulatory standards governing emissions
+continued construction in high-hazard areas, an Red Cross accessed ALERT for information about
+concentrations. The models are also useful when
+inflationary environment that continues to drive Hurricane Idalia.
+designing industrial facilities, helping architects and
+up repair costs, and the effects of climate change
+engineers configure their sources to minimize the
+on different atmospheric perils. The American Red Cross prevents and alleviates
+ambient impacts.
+human suffering in the face of emergencies by
+The report is complimentary. In addition to clients, mobilizing the power of volunteers and the generosity
+The pre-assembled and easy-to-use programs
+it helps inform multiple sectors including emergency of donors. Access to ALERT puts the American Red
+associated with the models can be accessed by
+management, hazard mitigation, public disaster Cross on equal footing with Verisk’s leading clients,
+users—such as air quality consultants, regulatory
+financing, risk pooling, and other government-led reinforcing our commitment to strengthen resilience
+agencies, and research organizations—using a secure
+risk- and loss-mitigation initiatives aimed at for individuals and communities worldwide.
+web interface. AER also supports university professors
+enhancing global resilience.
+who use the tool in classrooms, teaching students the
+fundamentals of performing air quality calculations.
+Cloud-Based Offering from AER Gives
+Users Easy Access to Air Quality Models AER is dedicated to advancing scientific understanding
+of the atmosphere, ocean, and space environments
+Scientists at Verisk’s Atmospheric and Environmental and translating this knowledge into actionable
+Research (AER) business have transitioned a package information for clients.
+of standard air quality models from their AQCast
+service to an AWS cloud platform, enabling users with Complimentary Access to ALERT
+varying levels of sophistication to perform emission
+Service Now Helping the American Red
+and dispersion calculations—that is, air
+Cross Prepare Its Response Efforts to
+quality forecasts—on their own.
+Major Catastrophes
+Air quality models are essential to the permitting
+process for smokestack industries such as power Verisk Extreme Event Solutions is helping
+plants and many manufacturing facilities. They are the American Red Cross strengthen its situational
+Photo credit: Scott Dalton/American Red Cross
+assessments of major catastrophic events such as
+8 / ©Verisk / verisk.com
+2023 CSR Report Working with Purpose Table of Contents
+Verisk Buildings Data Being Used Verisk’s national database of building characteristics, Building code evaluations have a similar public
+ranging from age and construction to building
+safety component: Comparatively speaking,
+to Help Local Authorities and Energy
+footprints, helps drive the domestic heat demand communities with well-enforced, modern building
+Networks Assess Decarbonization model and underlies a range of calculated heating codes fare better during catastrophic events such
+Pathways for the UK metrics, such as estimated annual demand and peak as hurricanes, representing an investment that saves
+heating loads. Verisk was invited to participate in the lives and reduces property losses. Verisk’s work in
+Verisk’s comprehensive database of buildings and project because it is the only source in the commercial conjunction with FEMA’s National Flood Insurance
+their characteristics has become an essential element market that maintains building fabric information at Program helps assess community-level efforts to
+of geospatial models and planning tools being used by the requisite level of detail and coverage. reduce and avoid flood damage to insurable properties.
+a range of public and private stakeholders in the UK to
+identify and assess their future energy demands and Engagement with Municipal Officials In addition to these activities, Verisk hosted a two-day
+potential decarbonization pathways. Promotes Awareness of Industry conference to discuss emerging issues facing the
+fire service. The conference involved senior leaders
+Approaches to Identify and Mitigate
+representing the U.S. Fire Administration, the National
+Property Risk
+Association of State Fire Marshals, the National Fallen
+Firefighters Foundation, the National Fire Sprinkler
+Through a combination of in-person and virtual Association, and the Fire Department of the City of
+presentations, Verisk professionals conducted nearly New York.
+175 sessions involving community officials interested
+in learning more about the Company’s evaluation of
+municipal fire suppression capabilities, building code
+enforcement efforts, and floodplain management
+practices. The presentations drew more than
+7,700 attendees.
+The municipal fire protection evaluations Verisk
+One such project already underway—Project RESOP, conducts in the United States on behalf of the
+or Regional Energy System Optimisation Planning—is property/casualty insurance industry confirm
+integrating data from multiple sources in a single tool response area boundaries; communications and
+to help develop the rollout of low-carbon technologies dispatch capabilities; the adequacy of staffing, training,
+for individual communities such as Dundee, Scotland. apparatus, and equipment; and the availability and
+The project is modeling estimated demand building by sufficiency of water sources needed to address
+building and the impact of potential solutions across structure fires. Many communities have reported
+the community, including the use of heat pumps, that they rely on Verisk’s criteria to plan, budget,
+rooftop solar panels, and charging points for and justify improvements in their fire protection.
+electric vehicles.
+9 / ©Verisk / verisk.com
+2023 CSR Report Working with Purpose Table of Contents
+Verisk professionals, who include medical, legal, Rating classifications identify comparable exposures,
+and insurance specialists, also reviewed and resolved allow premium and loss data to be aggregated
+more than 50,000 conditional payment recovery consistently, and ultimately provide the structure for
+claims related to the Medicare program, returning informed underwriting, coverage, and pricing decisions.
+approximately $15 million to the Medicare Trust Fund. There are approximately 1,000 rating classifications
+associated with Verisk’ General Liability program and
+Verisk’s efforts—which enhance the ability to approximatel 450 rating classifications associated
+coordinate benefits, recover conditional payments, with it Businessowners program.
+and accurately allocate costs between public- and
+private-sector payers—help keep the Medicare The changes to the Businessowners program were
+Trust Fund solvent for the approximately 65 among 160 new classifications designed to keep
+million beneficiaries who depend on it. pace with a broader transformation involving small
+businesses. More than 300,000 new small businesses
+Verisk Claims Services Help U.S. Medicare New Rating Classifications Help Insurers have been created each year in four of the past five
+Trust Fund Serve the Needs of Beneficiaries Keep Pace with Sustainability Transformation years, with many engaging in new or nontraditional
+activities or services not contemplated by
+and Payers
+existing classifications.
+Verisk has introduced additional rating classifications
+As the largest provider of Medicare compliance in its General Liability and Businessowners programs
+Regulatory Need Spurs Significant
+services in the industry, Verisk plays a critical role in to help insurers address new exposures emerging from
+coordinating the interests of injured parties, employers, the sustainability transformation. The new Enhancement to Verisk’s Mozart
+insurers, and Medicare itself to ensure that claims are classifications reflect risk associated with activities Form Composer® Technology
+settled fairly and expeditiously and that costs are involving electric vehicles, electric vehicle charging
+apportioned appropriately. stations, solar panel contractors, coworking spaces,
+How can insurance regulators apply consistent
+and more. A new classification aimed at organic mulch
+standards when reviewing a myriad of insurance carrier
+During 2023, Verisk reported more than 2 million and soil product manufacturing will be added in 2024.
+policy forms? That’s a complex challenge made even
+coverage records to Medicare as part of Medicare’s
+more daunting when the many topics addressed by the
+mandatory reporting requirements with respect to
+forms aren’t always expressed in the same language
+beneficiaries who have coverage under non-group
+by different insurance companies, or even by the same
+health plan arrangements, or who otherwise receive
+company across multiple lines of business.
+judgments, settlements, or other types of payment
+from liability insurance, no-fault insurance, or workers’
+The challenge prompted Verisk to develop a
+compensation. In addition, Verisk submitted nearly $1
+major innovation for its Mozart Form Composer®
+billion in workers’ compensation set-aside funds to the
+technology, leading to the creation of Mozart
+Centers for Medicare & Medicaid Services for review
+for Regulators.
+and approval, which helps protect beneficiaries from
+a post-settlement denial of Medicare payments.
+10 / ©Verisk / verisk.com
+2023 CSR Report Working with Purpose Table of Contents
+Mozart® was designed initially to help insurance climate change and increased seismic activity, whether In the absence of robust data for the U.S., the team
+carriers manage the policy language in their solar panels represent an emerging fire risk, and how surveyed data from Australia, Germany, Italy, Japan,
+proprietary insurance forms against the language in electric vertical take-off and landing aircraft (“eVTOLs”) and the United Kingdom to examine the extent of fire
+similar forms filed by Verisk. The system contains may be flying certain passenger routes in selected risk presented by the installation of solar panels. Their
+more than 860,000 forms in its repository and cities in the very near future. findings: Far fewer than 1% of all solar installations
+continues to grow. catch fire and, even then, the causes of such fires
+Reporting on the potential impact of droughts on could involve faulty installation, the presence of
+Mozart for Regulators builds on this technology with maritime shipping, the team highlighted that record flammable vegetation, defective components, and age,
+a new, active learning solution that incorporates both drought conditions forced Panama Canal officials to among others.
+machine learning and a human-in-the-loop approach impose draft depth limitations on commercial cargo
+over a language model that regulators can easily train vessels. These measures caused a maritime traffic Thanks to their drone-like design and use of batteries,
+to detect complex topics such as “civil commotion” jam on both sides of the canal and cost shipping the team reported that eVTOLs may offer a safer and
+within the context of particular lines of business. The companies time and money in their efforts to greener option than gas-powered helicopters. NASA
+solution enables regulators to track the treatment of move goods and raw materials. sees a wide range of use cases for the vehicles,
+those topics across multiple insurers no matter how ranging from air taxi services and last-mile cargo
+they are worded in a policy form. The team also reported that, in recent years, hauling to deployment in wildfire suppression.
+geologists have observed an apparent correlation
+Emerging Issues Team Offers Perspective between water weight on the earth’s surface and
+the potential for earthquakes. Past seismic activity
+on New and Unique Risks Facing Insurers,
+has prompted some researchers to investigate the
+Risk Managers
+potential effects of increased global precipitation
+and drought on earthquake frequency.
+Verisk’s emerging issues team continues to
+monitor a wide range of developments and trends
+to help insurers and risk management professionals
+better identify and understand the risk exposures
+of the future.
+Among the topics they spotlighted during 2023: The
+potential impact of droughts on maritime shipping and
+associated supply chains, the potential links between
+11 / ©Verisk / verisk.com
+Environmental
+“As a critical partner to the global insurance industry,
+whose participants rely on Verisk’s rating, coverage,
+and claims services to drive their businesses, we view
+this [TCFD] report as more than just an exercise in self-
+reflection. It’s an acknowledgment that we understand
+and appreciate the trust our clients place in Verisk and
+a commitment to not take such trust for granted.”
+– Lee M. Shavel, President and Chief Executive Officer
+2023 CSR Report Environmental Table of Contents
+Governance
+During 2023, Verisk published
+its first-ever report in accordance Verisk’s governance framework includes a Board of An overview of Verisk’s climate governance structure
+with the framework recommended Directors and Board-level committees responsible for and a description of roles and responsibilities are
+the evaluation of major financial and operational risks presented in Chart 1 and Table 1, respectively.
+by the Task Force on Climate-
+to the enterprise and oversight of the Company’s ESG
+related Financial Disclosures strategy, including public disclosures. The Chief
+Executive Officer and senior leadership team set
+(TCFD). The highlights are
+strategic priorities to mitigate risk, capitalize on
+summarized below and the full opportunities, and promote resource stewardship.
+report can be accessed here.
+Introduction and Overview
+Verisk engaged Agendi, a leading independent
+consultant and accredited CDP services provider,
+to help structure the deliberative processes, conduct
+the physical and transition risk scenario analyses,
+and guide the preparation of content. A broad,
+multidisciplinary team of Verisk professionals
+participated, including senior representatives from
+all line and staff departments in the Company.
+The resulting report addressed the four pillars set
+forth in the TCFD framework: Governance, Strategy,
+Risk Management, and Metrics and Targets. The
+following is a summary of each section.
+13 / ©Verisk / verisk.com
+2023 CSR Report Environmental Table of Contents
+Table 1: Description of climate governance roles and responsibilities
+Board of Directors • Meets quarterly and as necessary to review major financial and operational risks to the enterprise and as part of a corporate-wide annual
+Risk Survey addressing all risks to the enterprise, including Climate-related risks.
+• Actively monitors internal operational strategies, including those related to the security of data, vulnerabilities associated with office and
+work environments, and the safety of employees.
+• Engages management on business strategies, which include quantifying investments that help customers address risks associated with
+climate- and weather-related events.
+Governance, Corporate • Meets semi-annually and as necessary to evaluate the Company’s key ESG risks and opportunities, including its climate strategy, and
+Sustainability, and provides oversight of the Company’s public disclosures and shareholder engagement concerning sustainability matters.
+Nominating Committee
+• Assists the Board by overseeing the Company’s corporate sustainability program.
+Audit Committee • Conducts a quarterly review of the full risk dashboard, including Climate-related risks, that follows from the Company’s annual Risk Survey.
+of the Board
+• Reviews Verisk’s annual greenhouse gas emissions inventory, including progress against emission reduction targets.
+Chief Executive • Sets Verisk’s operational agenda for addressing stakeholder expectations associated with climate change.
+Officer (CEO)
+• Champions critical investments and resource allocations required to address strategic Climate-related risks and opportunities.
+• Promotes responsible environmental stewardship, including measuring and disclosing carbon-related emissions against specified emission
+reduction targets.
+Senior Vice President • Leads Verisk’s annual Risk Survey, which identifies the Company’s most significant internal and external risks in terms of likelihood and
+(SVP), Enterprise potential impact.
+Risk Management
+• Provides regular updates to the Board on the status of mission-critical risks.
+Chief Sustainability • Provides leadership in aligning corporate priorities with the sustainability expectations of stakeholders.
+Officer (CSO)
+• Leads the company’s annual emissions inventory, climate reporting, and progress against the Company’s climate strategy.
+• Communicates Verisk’s ESG stewardship commitments and progress to internal and external audiences.
+Business Unit • Assess Climate-related risks and opportunities within the parameters of their respective operations.
+Presidents
+• Collaborate with senior leadership to address risk and pursue Climate-related business opportunities, including acquisitions, investments in
+new and existing products, and consideration of new markets.
+14 / ©Verisk / verisk.com
+2023 CSR Report Environmental Table of Contents
+Strategy b. Transition Risk Analysis c. Opportunities
+Verisk assessed potential exposure associated The Company’s climate and weather solutions,
+Verisk conducted quantitative and qualitative climate
+with four categories of transition risk across short-, summarized in Chart 2, will continue to evolve from
+scenario analyses to assess the propriety of its current
+medium-, and long-term time horizons. Transition three core activities: (1) providing tools to promote
+operating assumptions and strategies associated with
+risks are those associated with achieving a lower- greater understanding around the likelihood and
+physical and transitional risks and the alignment of
+carbon global economy: Policy and Legal, consequences of a catastrophic event; (2)
+existing climate adaptation plans.
+Technology, Market, and Reputation. Each transition aggregating and analyzing data to promote
+was considered within the context of factors likely to programs that incentivize loss-mitigation efforts;
+a. Physical Risk Analysis
+mitigate, reduce, or prevent such risk from emerging. and (3) continuing to conduct scientific research
+The physical risk analysis encompassed six hazards: that leads to operational uses benefitting society.
+Four acute hazards (heatwave, hurricane/cyclone, The report concluded that Verisk is not exposed
+inland flooding, and wildfire) and two chronic to any physical or transition risks that could There are also many opportunities for optimizing
+hazards (sea level rise and water stress). It was be characterized as having critical impact and efficiency, minimizing resource consumption, and
+conducted using Shared Socioeconomic Pathways potentially requiring a major pivot of business, reducing emissions. The focus will include four
+(SSP) scenarios developed by the Intergovernmental strategy, or financial planning. areas: (1) effective space utilization; (2) an optimal
+Panel on Climate Change (IPCC) depicting a “middle technology infrastructure; (3) travel management;
+of the road” scenario and a “worst case” scenario. and (4) increased engagement with suppliers.
+The “middle of the road” scenario (SSP 2-4.5)
+assumes a scenario where the world follows a
+path in which social, economic, and technological
+trends do not shift markedly from historical
+patterns. The “worst case” scenario (SSP 5-8.5) is
+premised on deteriorating climate and weather
+conditions arising from unabated emission levels
+continuing over the long term.
+The output of the quantitative analysis was
+then reviewed against a qualitative assessment
+model devised by Agendi. The model provided an
+impact score by assigning qualitative estimates of
+severity and resiliency for each of the six physical
+hazards.
+15 / ©Verisk / verisk.com
+2023 CSR Report Environmental Table of Contents
+Chart 2: Verisk’s Climate and Weather Services
+Global risk indices Extreme event models
+• Assess physical and transition climate risk across 198 countries. • Extreme event models for 80+ countries help customers assess
+• Address more than 30 hazards and issues, with the majority the threat of various perils associated with climate risk.
+assessed at the subnational level. • Examples include a hurricane model for the U.S.; an inland flood model
+• Help clients conduct portfolio, corporate, and asset-level risk for central Europe, Great Britain, Japan, and the U.S.; a multiperil crop
+assessments and scenario analyses. insurance model for Canada, India, and the U.S.; and a typhoon model for
+China, Japan, Southeast Asia, and South Korea.
+Scientific applications benefitting society Individual risk assessment
+• Study atmospheric and oceanographic changes, climate, weather, • Address-level risk information in the U.S. to help insurers underwrite
+and associated phenomena. and price individual policies and manage portfolio exposure.
+• Contribute to a broad scientific ecosystem and help transform • Exposures include flood, hurricane, severe thunderstorm, tornado, wildfire,
+leading-edge research into operational uses that benefit society. winter storm, and more.
+• Solutions range from an autonomous carbon dioxide and methane • Scores from Building Code Effectiveness Grading Schedule (BCEGS®) and
+measurement system to real-time flood mapping solutions. Public (fire) Protection Classifications (PPC®).
+• On-site property surveys to meet the specific requirements of clients.
+Event response and claims management Loss estimates for global risk and supply chain
+• Track events in real time, inform response and recovery efforts, • Independent loss estimates on catastrophes and large individual
+and empower clients to resolve insurance claims quickly and accurately. losses, widely accepted as triggers in many traded financial
+• Real-time weather analytics and loss estimates, video collaboration tools market instruments, including reinsurance contracts,
+to triage and fast-track property claims, claims management and reporting catastrophe bonds, catastrophe swaps, industry loss warranties,
+software, repair and reconstruction cost-estimating software, personal contents and other derivative instruments.
+estimations, and more.
+• ClaimSearch®, the world’s largest database of property/casualty claims.
+• Integrated fraud prevention capabilities.
+Risk management platforms Community hazard mitigation programs
+• Robust data and analytics integrated into risk management • Assessments of municipal building codes/enforcement on behalf
+platforms and tools that clients use to manage asset- and of the U.S. insurance industry.
+portfolio-level exposure associated with location, climate, • Evaluations of fire suppression capabilities across nearly 45,000
+weather, and extreme events. U.S. fire protection districts.
+• Touchstone® enterprise risk-modeling platform and Sequel • Complimentary training and consulting for municipal building code
+Impact are utilized across the insurance industry. and fire officials interested in strengthening resilience.
+16 / ©Verisk / verisk.com
+2023 CSR Report Environmental Table of Contents
+The report noted that Verisk is well positioned The Company’s Business Continuity Program is also Verisk reports emissions on both a location-basis and a
+to address the potential impact of physical and an essential part of the risk management framework, market-basis. Absolute Scope 1 and 2 emissions
+transition risk on its business. The Company is helping to ensure the continuity of critical business calculated on a location-basis—that is, before
+advantaged by (1) an efficient and nimble operating processes in the event of an incident rendering renewable energy certificates (RECs) or their equivalent
+model, (2) long-term investments in technologies that facilities inaccessible, computer systems inoperable, are applied—indicate that Verisk exceeded its internal
+increase data-processing efficiencies and empower and/or employees unavailable. The Program target to reduce such emissions 21% by 2024
+remote working capabilities, (3) the establishment incorporates standards compliant with ISO compared with a 2019 baseline. After discounting the
+of formal engagement channels with key clients and 22301:2019 requirements and oversight by a effects of the 3E and Financial Services divestments,
+suppliers, and (4) a continued focus on developing Crisis Management Team composed of senior Verisk’s actual reduction through year-end 2022 was
+innovative Climate-related solutions. executives representing various disciplines. approximately 30.5% compared with the 2019 baseline.
+Risk Management Metrics and Targets The internal target was calculated by Ecometrica,
+a CDP-accredited solutions provider using Science
+Based Targets initiative (SBTi) guidance aligned with a
+Verisk’s most comprehensive examination of Table 13 in the report, which presents Verisk’s CDP-
+1.5°C global future.
+risk takes place as part of an annual Risk Survey. reported emissions for the period 2019-2022,
+The survey engages a wide variety of corporate is reproduced below.
+and business unit leaders to identify the most
+important risks to the Company. At the completion
+of the Survey, all risks are ranked by their level of
+impact and assigned to various members of the
+management team who are responsible for creating
+and implementing action plans, which may be
+subject to future audit. The results of the Survey
+and subsequent assignments are shared with
+Verisk’s Board of Directors, with the status of
+those identified as mission-critical risks reviewed
+with the Board on a quarterly basis.
+In addition to the corporate-wide annual Risk Survey,
+Verisk also conducts Information and Technology
+Risk Management Assessments, Location Risk
+Assessments, and Employee Travel Safety
+Risk Assessments.
+17 / ©Verisk / verisk.com
+2023 CSR Report Environmental Table of Contents
+Verisk has remained focused on a multiyear
+strategy that increases operational efficiency and
+lowers costs while delivering meaningful emissions
+reductions across its data-processing activities, real
+estate footprint, and on-site services. Emissions
+measured per unit of revenue and per full-time
+equivalent employee (FTE) are key indicators of
+Verisk’s efforts to reduce emissions and improve
+operational efficiency.
+Graphs 1 and 2 illustrate trends in Verisk’s location-
+based emissions intensity (Scope 1 and 2) measured
+on the basis of revenue (per million $) and employee
+counts (per average annual FTE). The trends are
+measured from 2015, the year of the Company’s
+first emissions inventory, and are unadjusted for
+the effects of acquisitions and divestments.
+18 / ©Verisk / verisk.com
+2023 CSR Report Environmental Table of Contents
+Verisk Continues Tree Plantings in Recognition of Earth Day
+For the seventh consecutive year, Verisk celebrated Earth Day by planting
+trees in conjunction with The Canopy Project®, an initiative sponsored
+by EARTHDAY.ORG (EDO).
+The latest gift will add 10,000 mangrove trees to India’s Sundarbans
+ecosystem, on top of the 10,000 trees funded by Verisk during 2022. The
+Sundarbans region, located at the mouth of the Ganges and Brahmaputra
+Rivers, adjoins the Bay of Bengal, and the project is crucial to protect the
+region from threats posed by rising sea levels, frequent storms, and the
+inundation of salt water into agriculture lands.
+According to EDO, reforestation efforts will help protect the coastline, restore
+fisheries and other marine life, and further promote the natural resilience,
+biodiversity, and economic viability of the area. Mangroves also serve as
+powerful carbon sinks. In addition to the environmental benefits, the project
+will include efforts aimed at educating local villagers about the importance of
+the mangroves to help ensure their survivability and success.
+This is the third time Verisk’s Earth Day gift has helped sponsor a project in
+India. In other years, gifts have been used to support projects in Brazil,
+California, Cameroon, and Puerto Rico.
+Additional information on the project can be found here.
+Photo credit: NASA / EarthDay.org
+19 / ©Verisk / verisk.com
+Social
+“We recognize the importance of attracting and
+retaining top talent and fostering an inclusive culture
+where our employees and company can grow together.”
+– Sunita Holzer, Chief Human Relations Officer
+2023 CSR Report Social Table of Contents
+Our Workplace
+We value Learning. Our deep domain expertise
+enables us to invent the future for the industry and our
+clients.
+We value Caring. We care about growing our business,
+our capabilities, and our skills and about helping our
+customers and communities grow with resilience.
+We value Results. Good stewards, we continually
+innovate processes and technologies that deliver
+productivity and cost-effectiveness at scale.
+Percentages are based on a total employee population
+of 7,457 as of 12/31/2023.
+21 / ©Verisk / verisk.com
+2023 CSR Report Social Table of Contents
+Employee Engagement Recognizing Verisk as a Great Place to Verisk was also recognized by Great Place to Work
+Work on multiple Best Workplaces™ lists.
+Verisk actively seeks feedback from employees
+when they first join the Company, after they For the eighth consecutive year, Verisk received For the third consecutive year, Great Place to Work
+complete their first 90 days on the job, through an certification from Great Place to Work® for outstanding UK named Verisk among UK’s Best Workplaces for
+annual engagement survey of all employees, and workplace culture in the United States. Verisk received Women™, an award recognizing the fair representation
+through exit interviews. These opportunities are the fourth-time certification in the United Kingdom, Spain, of women in the workforce and in management; UK’s
+foundation of a continuous loop of engagement, and India, and second-time certification in Poland. Best Workplaces in Tech™, celebrating companies that
+feedback, action, and change. Collectively, these countries represent approximately excel in creating collaborative environments that drive
+87.5% of our global workforce. innovation and personal growth for their employees;
+The centerpiece of the process—Verisk’s annual and UK’s Best Workplaces for Wellbeing™, which
+employee engagement survey—is a confidential, Great Place to Work is a global authority on workplace assesses company support for the work-life balance,
+voluntary exercise conducted by an independent, culture and the impact of employee experience on fulfillment, job satisfaction, psychological safety, and
+third-party provider to ensure the integrity and revenue, talent acquisition and retention, and financial security of its employees.
+impartiality of the results. Employees are encouraged innovation. To achieve certification, Verisk surveyed
+to participate. The survey includes questions that employees on the extent to which they reported a For the second consecutive year, Great Place to Work
+(1) gauge employee sentiment regarding past events, consistently great workplace experience—considering named Verisk one of the Best Workplaces in Málaga™
+present experiences, and future expectations, and factors such as company leadership, values, inclusivity, (Spain), an award celebrating companies leaving a
+(2) explore various facets of the employee experience, and innovation. mark on the sustainable growth of the region while
+including learning and development, leadership fostering a culture of trust and innovation.
+effectiveness, alignment with purpose and values,
+diversity and inclusion, feedback and recognition, Verisk was also named to the 2023 Great Places
+and well-being. The questions designed to gauge to Work: Best Workplaces in the UK™ (for super large
+employee sentiment comprise the engagement index. organizations), Spain, and Poland—awards
+Insights from the balance of the questions in the recognizing a culture of trust, pride, and camaraderie.
+survey help inform our annual action planning
+process, guiding our efforts to foster an engaging
+and fulfilling employee experience.
+Verisk’s employee engagement score for 2023
+was 78%. Over the past four years, employee
+engagement scores have consistently ranged
+between 76% and 78%.
+22 / ©Verisk / verisk.com
+2023 CSR Report Social Table of Contents
+Learning and Development Learning Breaks career path, which includes much of the same
+training. For its part, Verisk offers participating
+The Company also welcomed more than 9,600
+Verisk takes a multi-tiered approach to help attendees to targeted live and virtual training employees a combination of incentives including
+employees grow as people and professionals, with sessions—known as “Learning Breaks”—on topics payment for courses, study aids, and exam fees,
+programs encompassing leadership development, such as performance management, motivation, paid time off to prepare for exams, paid time off to
+on-demand learning, organized learning breaks, and feedback, and creativity. These also included take exams, bonuses for passing exams, incremental
+support for professional certification and continuing regional “Career Con” events featuring expo-style adjustments in salary, recognition for milestones,
+professional education across multiple disciplines. career fairs for internal employees. and payment of fees associated with memberships
+in professional societies. At year-end 2023,
+approximately 150 employees were part of the
+In addition to voluntary learning and development
+Actuarial Program, including 35 Fellows and 45
+programs, Verisk also requires employees and
+Associates of the Casualty Actuarial Society,
+contractors to complete an extensive curriculum
+and more than 85 employees were engaged
+of mandatory training programs to promote risk
+as business analysts.
+awareness and avoidance. The curriculum is
+described in the Governance section.
+Verisk’s Insurance Education Program is designed
+for employees wishing to increase their insurance
+Leadership Development
+knowledge by pursuing a course of study leading to
+A critical aspect of Verisk’s talent strategy is to
+one of the industry’s professional designations such
+build and support a strong leadership pipeline.
+as those offered by the Insurance Institute of America,
+During 2023, more than 300 participants completed
+as well as Chartered Property Casualty Underwriter,
+nearly 2,200 hours of leadership training aimed at
+Insurance Data Management Associate, Project
+rising professionals and first-time managers. All
+Management Professional, Registered Professional
+new managers were invited to participate within
+Liability Underwriter, and Workers Compensation
+the first few months after assuming their roles.
+Certified Professional. Verisk’s support differs by
+Professional Development program but includes a combination of payments
+On-Demand Learning
+Verisk supports a range of programs for employees that may cover preparatory classes, study aids and
+All employees are encouraged to take advantage interested in developing professional expertise and exam fees, paid time off for study and exam days,
+of Verisk’s On-Demand Learning Program, which the advancing their careers. Two of the leading programs bonuses associated with the successful completion
+Company makes available through LinkedIn Learning. are described below: of exams and programs, recognition for milestones,
+Courses are self-selected and self-paced. During 2023, and payment of fees associated with memberships
+nearly 5,300 employees consumed more than 12,000 in professional societies. At year-end 2023, Verisk
+Verisk’s Actuarial Program is designed for employees
+hours of training. Among the most popular courses: was represented by nearly 140 employees who had
+wishing to gain a thorough understanding of actuarial
+“Customer Experience Leadership,” “SQL Essentials,” earned such designations.
+science and the property/casualty insurance industry.
+“Excel Essentials,” and “Build a Personal Learning
+The program offers an actuarial career path structured
+Plan and Stick With It.”
+to lead to a potential fellowship in the Casualty
+Actuarial Society, as well as a business analyst
+23 / ©Verisk / verisk.com
+2023 CSR Report Social Table of Contents
+Verisk also encourages and supports employees Diversity and Inclusion Employee Network Mentoring
+pursuing and maintaining professional designations A global mentoring program sponsored by Verisk’s
+or best-practice certifications across a wide range Verisk is committed to providing a workplace that Employee Networks is helping participants find an
+of associated disciplines, including but not limited reflects our global presence and where multiple inclusive space in which to develop themselves, grow
+to cybersecurity (e.g., ISC2’s Certified Information perspectives are valued as a driver of innovation their careers, and build community. In the third and
+Systems Security Professional, GIAC’s Certified and excellence. largest cohort to date, 224 mentee/mentor pairs
+Incident Handler, and Offensive Security’s Offensive enrolled in the program, spanning 14 business
+Security Certified Professional), meteorology Employee Networks functions in 30 locations across 11 countries.
+(e.g., the American Meteorology Society’s Certified They recorded nearly 2,000 hours of mentoring
+The Company embraces its commitment to being
+Consulting Meteorologist), and human resources throughout 2023.
+an inclusive workplace by sponsoring nine Employee
+(e.g., Society for Human Resource Management
+Networks. The most recent Employee Network—
+SHRM-Certified Professional and SHRM-Senior
+the Verisk Indigenous Network—was launched in
+Certified Professional).
+September in conjunction with the National Day for
+Truth and Reconciliation in Canada. It honors our
+Lean Six Sigma
+Indigenous colleagues and promotes reconciliation
+The aim of Verisk’s Lean Six Sigma program is efforts through learning, truth-telling, and
+to promote greater efficiency, better service, and celebrations of their history and contributions.
+increased satisfaction for both internal and external
+clients. Employees participate on a voluntary basis. Almost one-third of Verisk employees are members
+More than 2,500 current employees have earned of an Employee Network:
+“yellow belt” certifications, which cover fundamental
+principles and skills. Since the program was launched
+at Verisk in 2017, more than 150 employees have Days of Understanding
+earned “green belt” certifications, attesting to the In furtherance of the CEO Action Pledge for
+capability in undertaking process improvement Diversity & Inclusion, Verisk hosted its second
+initiatives. installment of Days of Understanding in July.
+Led by members of our Employee Networks,
+Over the years, credentialed employees have the sessions explored courageous topics and
+completed more than 1,000 successful projects, large conversations around colorism, transgender
+and small, that save time, reduce costs, and improve rights, women’s rights, working parent challenges,
+the employee and customer experience alike. During and navigating a civilian world as veterans.
+2023, Verisk’s Lean Six Sigma team led or supported
+multiple global initiatives that are helping Verisk grow The kickoff session featured guest speaker
+while saving more than 60,800 hours companywide. Doug Melville, author and Global Head of Diversity,
+The team also developed a strategy to reduce the Equity & Inclusion for an international luxury holding
+size of Verisk’s office footprint, an initiative that company. More than 1,000 Verisk employees around
+will ultimately lower operating costs and reduce the world participated, and they reported a 98%
+greenhouse gas emissions. approval rating in the post-event survey.
+24 / ©Verisk / verisk.com
+2023 CSR Report Social Table of Contents
+Network Highlights In commemoration of Veterans Day and National
+Verisk Asian Employee Network hosted a discussion Veterans and Military Families Month, Verisk
+on the evolution and pros and cons of Asian American Valor Network hosted a symposium featuring
+and Pacific Islander (AAPI) Heritage Month; sponsored RecruitMilitary’s Chris Newsome, who discussed
+a panel that shared insights on working in politics and how companies can support veterans facing the
+developing federal policy; and listened to Jenny Low, challenges of transitioning to civilian life.
+Director of Constituency Affairs for New York State
+Governor Kathy Hochul, describe the impact Verisk Women’s Network celebrated Women’s
+volunteering has made on her transition from the History Month by organizing a virtual presentation
+private sector to the public sector. The Asian Employee and engagement session with Julia Boorstin, CNBC’s
+Network also participated in a joint event with the Senior Media & Tech Correspondent and author of
+Verisk Pride Network and Verisk REACH Network When Women Lead. To commemorate Breast Cancer
+to discuss a book, The Hidden Assault on Our Civil Awareness Month, the Jersey City Women’s Network
+Rights by Kenji Yoshino. sponsored a raffle for the Susan G. Komen Foundation
+and organized a “pink-out walk” in mid-October. Photo credit: Thurgood Marshall College Fund
+Verisk Pride Network hosted a powerful session in
+advance of Transgender Awareness Month, inviting The Jersey City chapter of Verisk Parents Network
+British playwright and actress Abigail Thorn to discuss organized a back-to-school supply drive to help Scholarship
+the state of transgender rights across the globe. support Jersey City families in need. New backpacks,
+Verisk’s multiyear financial commitment to the
+notebooks, folders, calculators, pens, pencils, and
+Thurgood Marshall College Fund helps students
+Verisk REACH Network celebrated Juneteenth other supplies were donated to the Triangle Park
+at Historically Black Colleges and Universities
+by joining Rev. Dr. Forrest Pritchett, director of the Community Center.
+access the education and resources necessary
+Martin Luther King, Jr. Leadership Program at Seton
+for a successful career.
+Hall University, for an event that featured traditional Supporting Education and
+Juneteenth cuisine. Employees could also sign up
+Promoting Career Opportunities In Verisk’s headquarters community of New Jersey,
+for a Juneteenth-inspired cooking class with Kadon
+the Company offers partial scholarships to students
+Barnwell, executive chef at Cree Wine Company.
+Through scholarship, sponsorship, and internship, pursuing a business or STEM-related degree at
+Verisk supports a variety of organizations that promote Rutgers University and St. Peter’s University. In
+Verisk Unidos Network helped employees tap into the
+educational and career opportunities for deserving addition, the Company supports the Rutgers Business
+year’s Hispanic Heritage theme of “Prosperity, Power,
+candidates. Here are highlights from 2023. School B-Star Program, where Verisk staff engaged
+and Progress” with a discussion led by Utah State
+with students to provide a perspective on the soft
+Senator Luz Escamilla. In 2008, she was elected to
+skills necessary to prepare for the transition to the
+the Utah State Senate, becoming the first Latina
+corporate world.
+elected to the Senate and the first immigrant
+elected to serve in the Utah state legislature.
+25 / ©Verisk / verisk.com
+2023 CSR Report Social Table of Contents
+Verisk also supports SEEDS, a New Jersey-based organization dedicated to improving the
+lives of motivated, high-achieving students from low-income households by giving them access to top-
+tier educational opportunities. In addition to providing financial support, Verisk hosted a workshop
+featuring participants in the Company’s Early Career Foundations Program and Data Science Excellence
+Program, who spoke to their personal educational and career journeys and offered advice to SEEDS
+scholars.
+Sponsorship
+In addition to its traditional recruiting channels, Verisk attracts qualified candidates by engaging
+professional and industry organizations, including those advancing the interests of underrepresented
+groups. During 2023, Verisk sponsored organizations and programs supporting women, people of color,
+the LGBTQ+ community, and others.
+National African American Insurance Association
+AnitaB.org Grace Hopper Celebration
+(NAAIA)
+Association of Professional Insurance Women
+Northeastern University Women in Technology
+(APIW)
+Black Engineer of the Year Award (BEYA) Organization Latino Actuaries (OLA)
+10,000 Interns Foundation Reimagining Inclusion for Social Equity (RISE)
+Code Path SheCanCode
+Photo credit: SEEDS
+Gamma Iota Sigma Women in Machine Learning & Data Science
+International Association of Black Actuaries (IABA)
+26 / ©Verisk / verisk.com
+2023 CSR Report Social Table of Contents
+Verisk is also proud to partner with RecruitMilitary,
+an organization serving military personnel making the
+transition to civilian life. Open positions at Verisk
+are automatically posted to the RecruitMilitary site, and
+Verisk’s recruiters have access to review candidate
+resumes submitted to the site.
+Internships
+Verisk is a long-time supporter of YearUp, a not-for-
+profit organization whose mission is to close the
+opportunity divide by ensuring that young adults
+have access to the skills, experiences, and support
+that will help empower them to reach their potential
+through higher education and careers.
+Since beginning the relationship in 2015, Verisk
+has hosted nearly four dozen YearUp students
+for six-month internships in various departments
+across the Company, such as Finance, Information
+Security, Information Technology, and Marketing.
+Upon completion of their internships, a significant
+percentage of the students convert to full- or part-time
+positions at Verisk, including 4 out of 5 from 2023.
+In addition to supporting the YearUp program,
+Verisk offers paid summer internships, experiential
+education opportunities, and apprenticeships.
+Photo credit: YearUp
+27 / ©Verisk / verisk.com
+Charitable Giving
+Verisk’s approach to giving reflects the company’s
+mission to help people, communities, and businesses
+become stronger, more resilient, and more sustainable.
+It operates on four tiers: At the corporate level, at the
+business unit level, through a matching gifts program,
+and with support for employee volunteering.
+2023 CSR Report Charitable Giving Table of Contents
+Corporate Giving Verisk Supports Efforts by GeoHazards International to
+Make Nepal’s Schools Safer During Earthquakes
+Support from Verisk helped GeoHazards International
+We seek opportunities with organizations addressing
+(GHI) complete construction of an earthquake-resistant
+issues of global and local significance, whose missions
+school building in Nepal. In addition to keeping children
+and activities complement our professional expertise
+safer, the project integrated training for local masons,
+and brand, and where a combination of our unique
+including women, in an area that faces very high
+data analytics, tools, professional expertise, and financial
+seismic risk. Learn more about the project here.
+assistance can help the recipients maximize the impact
+and reach of their efforts. Corporate gifts are typically
+made to support specific projects or purposes. The Verisk is also helping GHI explore the feasibility
+following stories highlight four of our 2023 engagements. of introducing “earthquake desks” to vulnerable
+schools in western Nepal, where such desks potentially
+Verisk Extends Commitment to Help the represent an immediate improvement in safety for
+International Rescue Committee Prepare for existing schools that wouldn’t otherwise be rebuilt
+Humanitarian Emergencies or refitted for decades. The project follows Verisk’s
+prior support of a successful earthquake desk project
+Since 2017, and now into 2024, Verisk will supplement
+involving schools in neighboring Bhutan. The desks
+its financial support for the International Rescue
+manufactured in Bhutan—each sheltering two children
+Committee (IRC) by providing complimentary access to
+and light enough to move easily—proved to withstand a
+Verisk Maplecroft’s geopolitical risk analytics and
+vertical drop of rock and concrete weighing nearly half a
+country-level experts—key ingredients in preparation
+ton, while standard desks flattened under a lesser load.
+of the IRC’s annual Emergency Watchlist.
+Gift from Verisk Helps The Bowery Mission Improve
+The Emergency Watchlist identifies the 20 countries
+Program Effectiveness Photo credit: The Bowery Mission
+at greatest risk of experiencing deteriorating
+humanitarian crises during the succeeding year and Support from Verisk is helping The Bowery Mission’s
+helps the IRC strategize the deployment of staff and Program Effectiveness and Strategy team analyze and
+Founded in the 1870s, The Bowery Mission serves
+resources in anticipation. As a global humanitarian align operating procedures and project management
+people experiencing homelessness in the New York
+response organization, the IRC’s dedicated field teams to achieve better outcomes for the clients they serve.
+City metropolitan area, providing individuals with
+enter some of the most dangerous and challenging
+emergency food, shelter, and personal care and
+places on earth, providing healthcare and clean It’s the latest in a series of gifts from Verisk that
+providing longer-term residential programs to
+water, protective services for women and children, helped The Bowery Mission purchase and implement
+help men and women transform their lives.
+education, and economic support. a new case management system to support the
+Program Effectiveness and Strategy team. In addition
+You can learn more about the 2024 Emergency to financial assistance, Verisk’s Lean Six Sigma
+Watchlist here. experts also conducted training for key personnel
+tasked with executing process improvements to
+strengthen services.
+29 / ©Verisk / verisk.com
+2023 CSR Report Charitable Giving Table of Contents
+Business Unit Giving United States of America
+• American Red Cross
+Each year, a percentage of Verisk’s charitable
+• America’s Freedom Festival
+funds are allocated to the Company’s business units
+• Asheville Area Habitat for Humanity
+to support organizations that serve the communities
+• CarePoint Health
+where we live and work or are of special interest to
+• Carolina Wildlife Center
+our employees. During 2023, gifts were made to the
+• Center for Disaster Philanthropy
+following organizations.
+• Dartmouth-Hitchcock Health
+Carbon Monoxide Alliance
+• DuPagePads
+Canada Spain
+• Federal Alliance for Safe Homes (FLASH)
+• GiveDirectly
+Photo credit: Team Rubicon • Autism Canada • Cruz Roja • Halo Flight
+• Fundación ONCE
+• Int’l. Assoc. of Women in Fire and
+Verisk’s Property Estimating Tool Helps Team United Kingdom • Ronald McDonald Emergency Services
+Rubicon Serve Communities Dealing with Disasters House – Malaga
+• Liberty Science Center
+Access to Verisk’s Xactimate® property claims • Blood Cancer UK • Maui Food Bank
+estimation software continues to help Team Rubicon • Brain Tumour Poland • Mobilization for Justice
+carry out critical parts of its mission to serve Research • National Association of Hispanic Firefighters
+communities dealing with disasters. • cathARTic C.I.C. • Malopolska Hospice • National Association on Mental Illness
+• Lewisham Local for Children • New City Kids
+Xactimate is the insurance industry’s most powerful • Parkinson’s UK • New Mexico Out of School Time Network
+and comprehensive tool for measuring and scoping • Renewable World • North Utah County Cycling Club
+Germany
+losses and creating accurate estimates of the cost • Spread a Smile • Portland Art Museum
+of repairs. It includes up-to-date and reliable local • The Flying Seagull • Rainforest Trust
+information on building costs and materials. Team Project • Kindernöte e.V. • Roadrunner Food Bank
+Rubicon uses Xactimate to estimate the scope and • Unseen • Tafel Köln • St. Louis Park Emergency Program
+value of its work following disasters and validate bids • WaterAid • St. Lucy’s Emergency Shelter
+from contractors during the home rebuilding process. India • Success in Education Foundation
+• Sweet Paws Rescue
+Singapore
+Team Rubicon is a veteran-led humanitarian • United Way of • Team Rubicon
+organization built to serve global communities Hyderabad • Team Walker
+before, during, and after disasters. During 2023, • Willing Hearts • The Hoboken Shelter
+it completed 134 operations, calling on nearly 29,000 • United Way of Utah County
+volunteers to serve 260 communities. • Vermont Community Foundation
+• Wildlife Center of Southwest Florida
+30 / ©Verisk / verisk.com
+2023 CSR Report Charitable Giving Table of Contents
+Matching Gifts Program Volunteering collected donations. They also grabbed their gardening
+tools to spruce up the surroundings of a local
+healthcare center and educational facility.
+Verisk matches the giving preferences of employees Verisk encourages volunteerism. Employees have the
+and retirees who make donations to recognized option of using eight hours of paid time to participate
+United Kingdom
+501(c)(3) organizations in the United States and in an event organized for Verisk Volunteer Week or use
+registered charitable organizations in the United their time throughout the year to support a cause of Our colleagues in Newcastle helped develop a new
+Kingdom. Subject to program limits, matches are their own choosing. community memory garden by moving 10 tons of
+made at 100% of the underlying donation, up to annual topsoil into raised beds, planting 1,500 daffodil bulbs,
+giving caps of $5,000 per employee and $2,500 per This year’s Verisk Volunteer Week—the tenth and removing weeds. As a result of their hard work,
+retiree. consecutive year of the event—saw employees the project was completed about four months ahead
+around the world join forces for a number of of schedule, and the garden is expected to be in full
+Employee gifts supported a wide variety of cultural, meaningful activities. Here are highlights from bloom during the spring of 2024.
+educational, humanitarian, medical, and social several countries:
+causes, such as: United States
+India
+More than 360 team members at our Jersey City
+• Boston Dialogue Foundation Our colleagues in Hyderabad participated in headquarters packed 40,000 meals for Rise Against
+• Dana-Farber Cancer Institute multiple projects, with more than 100 team members Hunger, an organization whose mission is to nourish
+contributing 300 hours of service. Among other things, people and communities in need.
+• Greater Chicago Food Depository
+they sponsored lunch at a local school, serving meals
+• Hawaii Community Foundation for approximately 275 students, distributing goodies, Our team members in Bradenton, Florida, teamed up
+• Islamic Relief USA and awarding prizes for academic excellence. They with Feeding Tampa Bay to bag, box, and distribute
+cleaned, cut, and stored vegetables at a local kitchen 344 meals to food-insecure families living in
+• Jane Goodall Institute
+that provides meals to children in government-run
+Manatee County.
+• PBS Foundation schools. They also organized a blood drive.
+• Shanti Bhavan Children’s Project
+Nepal
+• St. Jude Children’s Research Hospital
+Our colleagues in Kathmandu volunteered at a school
+• Tuesday’s Children
+for children with special needs, where they distributed
+• UNICEF meals and connected with the students and their
+teachers.
+• World Central Kitchen
+Poland
+In Krakow, our colleagues helped local families in need
+by donating the proceeds of two events: A fundraiser
+where team members auctioned goods and services
+and a bake sale organized by the Women’s Network.
+They volunteered at an animal shelter where they
+helped clean the facility, tended to the greenery, and
+31 / ©Verisk / verisk.com
+2023 CSR Report Charitable Giving Table of Contents
+Recognizing Our Exceptional Volunteers Here are Verisk’s 2023 recipients: • Safe Families for Children
+(Central Indiana Chapter)
+Each year, Verisk selects 25 or more employees who $1,000 Hannah Barnhart
+volunteer in their communities and whose service— • Sustainable Food Center
+measured in terms of time, tenure, or impact—is Jess Gaffney
+• Asheville Area Habitat for Humanity
+exceptional. Verisk recognizes their efforts by
+Miriam Lowenfield-Jayne • The Switch
+making donations in their name, up to $1,000,
+Shani Clarke and
+to the organizations they serve. • Asociación Ministerio Casa de Paz
+Harry Norton-Steele
+Laura Romero
+This year’s class of honorees includes an employee • Clear Path for Veterans New England • Whispering Pines Volunteer Fire Department
+who volunteers as a civics and citizenship instructor Michael Simonian Robert Holso
+for refugees coming to the United States; another who
+• ConfiKids
+founded a not-for-profit focused on violence prevention $500
+Kristin Papianou
+following the senseless murder of her nephew; multiple
+• Eli’s Garden of Healing
+employees who serve as volunteer firefighters or
+Crystal Cathcart • 4th Bramshill Scout Group
+emergency medical technicians (EMTs) in their
+Steve Cossu
+communities, including one who assists healthcare • Faithful Servant Missions
+professionals providing pro bono medical services to John Chitty • AlmaGea ODV
+the homeless population of Krakow, Poland; and others Sara Wejdenstolpe
+• Grace’s Kitchen
+who lend their minds, hands, and hearts to a variety of Andrew Hughes • HindiUSA
+programs that help children, protect animals, feed the Hemant Chowdhary
+• Hanover Township Volunteer Fire Company
+hungry, build or rehabilitate homes, promote financial
+Steve Kandianis • Knights of Columbus - Mother Seton Council #5427
+literacy, support veterans, and more.
+Michael Fusco
+• Hearts & Bones Rescue
+Photo credit: Asheville Area Habitat for Humanity Erin Hunkemoeller • Laurel House
+• Hoboken Volunteer Ambulance Corps Kevin Broomall
+Lachlan Mountjoy • Leap201
+• International Rescue Committee Kim Yan Lim
+Mara Kellogg • Navajeevanam Multipurpose
+• Literacy Together Social Service Society
+Lindsay Hussey Jeevan Rapolu
+• Mifflinburg Hose Company • New York African Chorus Ensemble
+William Bekanich Josanna McCaskill
+• Missions Ministries • Rotten Rottie Rescue
+John Trovinger Robert Harrell
+• Fundacja Przystań Medyczna • Southwark Refugee Communities Forum
+Adam Czepielik Jonathan Clarke
+32 / ©Verisk / verisk.com
+Governance
+“Our commitment to responsibility encompasses the
+workplace and the marketplace. Our responsibility for
+meeting the commitment is borne by every employee,
+including our senior executives.”
+– Kathlyn Card Beckles, Chief Legal Officer
+2023 CSR Report Governance Table of Contents
+Led by our Board of Directors, Verisk Supplements Conflict of Enterprise Risk Management, Global Protection
+Interest Policy with Disclosures Services, Human Resources, Law, Privacy, and Security
+Verisk reinforced its commitment
+departments, meets at least quarterly and more often
+Required of Senior Staff
+to sound governance through as may be necessary. The anonymity associated with
+the whistleblower process is safeguarded during
+strengthened risk oversight, As noted in Verisk’s Code of Business Conduct and
+such reviews.
+Ethics, a “conflict of interest” occurs when a person’s
+new policies, mandatory training
+private interest interferes, or even appears to interfere,
+initiatives, and transparency. in any way with the interests of the Company, From Policy to Practice: Verisk Conducts
+including its subsidiaries and affiliates. Its First Human Rights Risk Assessment
+Board Takes Steps to Strengthen An extensive Conflict of Interest description, including At its December 2022 meeting, Verisk’s Human Rights
+Operational Oversight, Continue examples, is included among the Employee Covenants Committee authorized a desktop risk assessment
+each employee must acknowledge annually. Taking aimed at identifying potential areas of human rights
+“Say-on-Pay” Votes
+the obligation one step further, Verisk implemented a risk in the Company’s operations and supply chain. It
+Conflict of Interest Disclosure during 2023, which was was intended that the initial exercise would be followed
+The Audit Committee of Verisk’s Board of
+administered to nearly 1,000 employees categorized by a discussion about the magnitude and materiality of
+Directors has strengthened its risk oversight
+as senior-level staff. All potential conflicts were any such exposure and what, if anything, Verisk should
+processes with management by adopting a risk
+reviewed and investigated, and action was taken as do to monitor, mitigate, or avoid the risk going forward.
+dashboard and risk review calendar that requires
+necessary to mitigate the actual or potential conflict
+in-depth assessments of six risk categories at
+of interest that was reported. The risk assessment was subsequently conducted
+various Committee meetings throughout the year.
+by Verisk Maplecroft, a Verisk business that has
+The six categories are: Technology and Cyber,
+Verisk Takes Steps to Ensure Proper deep expertise in human rights and social risk and
+Economic/Financial, Legal and Regulatory, Societal/
+an industry-leading data set encompassing 31 global
+Talent, Environmental, and Geopolitical. These and Investigation, Resolution of Complaints
+indices covering the entire range of civil, political, and
+other risk assessment and risk management Made Through Whistleblower Hotline
+labor rights. The combination of Verisk Maplecroft
+activities are expected to be consolidated in a
+indices, known spend by country, and the size of the
+newly formed Risk Committee of the Board,
+Verisk’s Whistleblower Hotline is managed associated workforce suggested that, on a relative
+which will be appointed in 2024.
+independently of Verisk, operates at all hours basis, human rights risk appears to be greatest
+every day of the year, is open to anyone, is accessible when associated with operations in three countries.
+At the 2023 annual shareholders meeting, online or by phone, and is available in 23 languages.
+management recommended, and shareholders
+Although none of the findings suggest a material risk,
+overwhelmingly approved, a proposal to continue
+During 2023, the Company added a level of oversight the Human Rights Committee adopted a number of
+the Company’s practice of holding annual “say-on-
+to the process by appointing a committee to review actions to strengthen risk mitigation strategies, insofar
+pay” votes on executive compensation.
+the reported concerns, and their investigation and as such strategies govern the hiring and onboarding
+resolution, and to identify any systemic risks or of employees and the credentialing of suppliers and
+Verisk’s Board currently consists of ten directors, trends that should be mitigated. The committee, which business partners.
+nine of whom are independent. Six of the ten includes representatives from Verisk’s Compliance,
+represent diverse categories.
+34 / ©Verisk / verisk.com
+2023 CSR Report Governance Table of Contents
+Verisk’s Human Rights Committee consists of Verisk’s affect employees around the world. The Policy also contracts with a leading risk and compliance
+CEO and the senior leaders representing the following encourages employees to be active partners in this organization to determine whether any Tier 1 suppliers
+functions: Compliance, Enterprise Risk, Human process by acknowledging a duty to act responsibly are subject to sanctions. The organization also scans
+Resources, Law, Procurement, and Sustainability. in terms of protecting themselves and others. content daily from news sources in approximately 200
+countries, triggering risk alerts when suppliers may
+Verisk Adopts an Employee Health An Employee Health and Safety Committee has have been implicated in possible violations of laws or
+been appointed to oversee the implementation and regulations, including those involving modern slavery
+and Safety Policy
+operation of this Policy, including the associated or other human rights abuses.
+communication of the Policy to employees, the
+Verisk has adopted an Employee Health and Safety
+resolution of alleged violations and grievances During “Commitments Month,”
+Policy, which describes the Company’s commitment
+related to this Policy, and periodic reports to
+to promoting the welfare of its workforce beyond the Verisk Employees and Contractors
+Verisk’s Board of Directors.
+statutory and regulatory requirements promulgated Complete Mandatory Training Programs to
+by the jurisdictions where the Company operates.
+Promote Risk Awareness and Avoidance
+2023 Statement on Modern Slavery
+The Policy addresses Verisk’s approach to Highlights Employee Training,
+During an early spring period known as
+promoting the physical and mental well-being of Supplier Monitoring
+“Commitments Month” (formerly known as
+employees by describing the range of services and
+Commitments Week), nearly 7,000 employees
+benefits the Company offers, including various Verisk’s Statement on Modern Slavery and 700 contractors completed an extensive
+programs supporting employee health, wellness, summarizes the steps taken by the Company to curriculum of mandatory training programs
+work-life balance, and emergency needs, among educate employees and contingent workers about to promote risk awareness and avoidance.
+others. The Policy also describes the Company’s the risk of modern slavery and human trafficking
+commitments regarding building safety, workplace and describes how Verisk monitors Tier 1 suppliers Courses are role- and location-specific and offered
+safety, job safety, and safety associated with the for potential violations. in multiple languages. The requirements are applicable
+operation of vehicles in Verisk’s automobile fleet.
+at all levels of the Company, up to and including
+In some cases, the Policy consolidates commitments
+The Statement, which is signed by Verisk’s chief Verisk’s chief executive officer and senior business
+made in existing Company policies and procedures
+executive officer and approved by the Board of leaders.
+governing individual aspects of workplace
+Directors, has been published annually since 2017.
+expectations and behavior.
+Among employees and
+As noted in the Statement, all workforce members,
+Verisk’s Human Resources Department is responsible including contingent workers, are required to annually contractors working at year-end,
+for addressing employee needs related to health and
+acknowledge that they have read Verisk’s Human
+approximately 99% had satisfied
+well-being. Verisk’s Global Protection Services team,
+Rights Policy and complete an online, interactive
+which takes an all-hazards approach to safety and modern slavery training program as part of the their training requirements.
+security, is responsible for providing Verisk’s
+Company’s mandatory annual training curriculum.
+immediate response to incidents that potentially
+The Statement also describes how the Company
+35 / ©Verisk / verisk.com
+2023 CSR Report Governance Table of Contents
+Commitments Month – March 15 - April 15, 2023
+Course Name Language Scope
+Compliance, Privacy, and Information Security
+Anti-Bribery & Corruption English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Ethical Workplace Conduct and Respectful Communication English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Data Governance English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Data Privacy English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+General Compliance English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Security Awareness English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Insider Trading English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Intellectual Property English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Modern Slavery English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Antitrust & Competition English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Compliance, Privacy Role-Based
+Health Information Portability & Accountability Act (HIPAA) English Specific individuals
+Unfair Deceptive and Abusive Acts or Practices (UDAAP) English Specific individuals
+Fair Credit Reporting Act English Specific individuals
+Active Shooter: Awareness and Preparedness English All U.S. employees and contractors
+Inclusion and Diversity
+LGBTQ+ English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Workplace Diversity/Racism in the Workplace English, German, French Canadian, Chinese, Spanish, Italian, Polish All required
+Bias in Hiring [people managers only] English, German, French Canadian, Chinese, Spanish, Italian, Polish Specific individuals
+Anti-Harassment & Discrimination
+Anti-Harassment & Discrimination Global Employee English, German, French Canadian, Chinese, Spanish, Italian, Polish All as specified
+Anti-Harassment & Discrimination Global Manager English, German, French Canadian, Chinese, Spanish, Italian, Polish All as specified
+Anti-Harassment & Discrimination Canada Employee English, French Canadian All as specified
+Anti-Harassment & Discrimination Canada Managers English, French Canadian All as specified
+Anti-Harassment & Discrimination Germany Employee English, German All as specified
+Anti-Harassment & Discrimination Germany Managers English, German All as specified
+12 State/Country specific Anti-Harassment & Discrimination courses English All as specified
+for Employee
+12 State/Country specific Anti-Harassment & Discrimination courses English All as specified
+for Managers
+36 / ©Verisk / verisk.com
+2023 CSR Report Governance Table of Contents
+In addition to the Commitments Month training, all Verisk employees and contractors are required 2023 SASB Report and 2022 EEO-1 Report
+to provide written acknowledgment of key policies, such as the Company’s Global Privacy Policy and
+Human Rights Policy. Employees are also required to acknowledge a series of covenants such as For the fourth consecutive year, Verisk has published
+Verisk’s Zero Tolerance for Harassment. a report in accordance with the Sustainability
+Accounting Standards Board (SASB) disclosure
+framework for professional and commercial services
+Anti-Bribery & Corruption English, German, French Canadian, Chinese, companies. The framework helps companies identify
+All required
+Policy Acknowledgement Spanish, Italian, Polish and report on the sustainability-related risks and
+opportunities that the SASB deems to be most
+relevant to the financial performance of companies in
+Clean Desk Policy English, German, French Canadian, Chinese, the sector. Verisk’s 2023 SASB Report is attached as
+All required
+Acknowledgement Spanish, Italian, Polish Appendix A.
+Verisk has also disclosed its U.S. Equal Employment
+Verisk Data Principles English, German, French Canadian, Chinese, Opportunity Commission (EEOC) 2022 Employer
+All required
+Policy Acknowledgement Spanish, Italian, Polish Information Report (EEO-1 Component 1), which
+provides workforce demographic data about
+the Company’s U.S. workforce. The report is available
+Employee Covenants English, German, French Canadian, Chinese, in Verisk’s ESG Resource Library located here.
+Employees only
+Acknowledgement Spanish, Italian, Polish
+Visit Verisk’s ESG Resource Library
+Failure to Prevent the to find information about Verisk’s
+English, German, French Canadian, Chinese,
+Facilitation of Tax Evasion All required
+Policy Acknowledgement Spanish, Italian, Polish policies, governance documents,
+and annual financial and
+Global Privacy Policy English, German, French Canadian, Chinese, sustainability reports.
+All required
+Acknowledgement Spanish, Italian, Polish
+Human Rights Policy English, German, French Canadian, Chinese,
+All required
+Acknowledgement Spanish, Italian, Polish
+Workforce Information Handling English, German, French Canadian, Chinese,
+All required
+Policy Acknowledgement Spanish, Italian, Polish
+37 / ©Verisk / verisk.com
+Appendix A
+SASB Report
+2023 CSR Report Appendix A Table of Contents
+Appendix A
+2023 SASB Disclosure
+Sustainability Accounting Standards Board (SASB)
+Professional & Commercial Services
+About this Report For more information on Verisk’s Corporate Social Responsibility program, please visit our CSR website.
+To access Verisk’s policies, governance documents, and annual financial and sustainability reports, please visit our
+The information presented in this report follows
+ESG Resource Library.
+guidance from the SASB Industry Standard: Professional
+& Commercial Services. The report covers the period
+from January 1 to December 31, 2023, for Verisk
+Analytics and its companies, unless otherwise noted.
+Data Security
+About Verisk
+SASB code and accounting metric Response
+Verisk (Nasdaq: VRSK) is a leading data, analytics, and
+technology provider serving clients in the insurance SV-PS-230a.1 Verisk’s Approach to Cybersecurity describes our approach
+ecosystem. Using advanced technologies to collect and Description of approach to identifying to identifying and addressing data security risks.
+analyze billions of records, we draw on unique data and addressing data security risks
+assets, insurance industry knowledge, and technological
+expertise to provide valuable solutions that are SV-PS-230a.2 Verisk’s Approach to Cybersecurity and its privacy notices describes
+integrated into client workflows. We offer predictive Description of policies and practices our policies and practices relating to the collection, usage, and retention
+analytics and decision support solutions to clients in relating to collection, usage, and of customer information.
+rating, underwriting, claims, catastrophe, weather risk,
+retention of customer information
+and many other fields. In the United States and around
+the world, we help clients protect individuals,
+communities, and businesses. With teams across more SV-PS-230a.3 Verisk complies with legal, regulatory, and applicable industry requirements
+than 20 countries, Verisk consistently earns the Great (1) Number of data breaches, involving customers’ confidential business information, personal data breaches,
+Place to Work® Certified™ company designation and (2) percentage that (a) involve customers’ and the number of customers and individuals affected. Except as a matter of
+fosters an inclusive culture where all team members feel confidential business information and (b) are public record, Verisk does not disclose this information.
+they belong. personal data breaches,
+(3) number of (a) customers and (b)
+For more information, visit Verisk.com and the Verisk individuals affected
+Newsroom.
+39 / ©Verisk / verisk.com
+2023 CSR Report Appendix A Table of Contents
+Workforce Diversity and Engagement
+SASB code and accounting metric Response
+SV-PS-330a.1
+Percentage of (1) gender and
+(2) diversity group representation
+for (a) executive management,
+(b) non-executive management,
+and (c) all other employees
+1 Charts include full-time, part-time, and temporary workers only.
+2 The percents exclude “Not Specified” since there is no information in the system for these employees.
+Definitions
+• Executive Management: As per the SASB definition, strictly up to two levels under the CEO (including individual contributors and excluding executive
+administrative assistants)
+• Non-executive Management: All other management levels (including individual contributors and excluding Executive Management)
+• Other Employees: All others, excluding Executive Management and Non-executive Management
+Verisk’s commitment to achieving an inclusive and engaged workforce is supported by the following:
+• The responsibilities and action plans outlined in our Statement on Racial Equity and Diversity
+• Diversity and Inclusion Policy
+• A Zero Tolerance for Harassment Policy
+• Competitive salary and benefits, paid time off, flexible work schedules and telecommuting options,
+along with access to and financial support for professional development and education
+• Support for nine Verisk Employee Networks, including the Accessibility Network, Asian Network, Indigenous Network,
+Parents Network, Pride Network, REACH Network, Unidos Network, Valor Network, and Women’s Network
+• An annual Employee Engagement Survey
+For more information, please visit Verisk’s annual Corporate Social Responsibility Report and Our People and Our Culture pages on our CSR website.
+40 / ©Verisk / verisk.com
+2023 CSR Report Appendix A Table of Contents
+For more information about our employee engagement and our certifications from Great Place to Work, please see p. 22 in our 2023 CSR Report.
+Professional Integrity
+SASB code and accounting metric Response
+SV-PS-510a.1 Verisk sets a high and uniform standard of fair and ethical behavior for its management, employees, and suppliers.
+Description of approach to ensuring The following policies and documents outline these standards:
+professional integrity
+• Anti-Bribery and Corruption Policy • Supplier Code of Conduct and credentialing process
+• Code of Business Conduct and Ethics • Whistleblower Policy
+• Statement of Policy Concerning Trading Policies • Human Rights Policy
+• Statement on Modern Slavery
+Verisk employees acknowledge covenants covering various topics, including insider trading and tipping, conflicts of interest,
+an obligation of confidentiality, and computer and information security.
+Verisk also supports our commitment to business integrity with mandatory training for our employees across a wide range of topics.
+SV-PS-510a.2 In accordance with Securities and Exchange Commission (SEC) requirements, Verisk discloses all material legal proceedings in its annual reports
+Total amount of monetary losses on Form 10-K and quarterly reports on Form 10-Q filed with the SEC. See our SEC Filings page for additional information.
+as a result of legal proceedings
+associated with professional integrity
+41 / ©Verisk / verisk.com
+2023 CSR Report Appendix A Table of Contents
+Activity Metrics
+42 / ©Verisk / verisk.com
+Corporate
+Leadership
+2023 CSR Report Corporate Leadership Table of Contents
+Corporate Leadership
+Lee M. Shavel Nick Daffan Sunita Holzer Maroun S. Mourad
+President and Chief Information Chief Human President, Claims
+Chief Executive Officer Relations Officer Solutions
+Officer
+Stacey Brodbar Dianne Green Saurabh Khemka
+Rob Newbold
+Head of Investor Head of Diversity and Co-President,
+President,
+Relations Inclusion Underwriting
+Extreme Event
+Solutions
+Solutions
+Doug Caccese David J. Grover Elizabeth Mann Tim Rayner
+Co-President, Controller, Chief Chief Financial President,
+Underwriting Accounting Officer Officer Specialty Business
+Solutions Solutions
+Kathlyn Card Beckles Melissa Hendricks Patrick McLaughlin Samantha Vaughan
+Chief Legal Chief Marketing Chief Sustainability Chief Privacy Officer
+Officer Officer Officer
+Yang Chen
+Head of Corporate
+Development and
+Strategy
+44 / ©Verisk / verisk.com
+2023 CSR Report Corporate Leadership Table of Contents
+Board of Directors
+Bruce Hansen Independent Chair Wendy Lane Kimberly S. Stevenson
+Retired Chairman and Chief Executive Officer, Experienced Board Director, Insurance Retired Executive, Technology and
+ID Analytics and Global Information Services Industries Global Information Services Industries
+Executive Committee Finance and Investment Committee; Talent Management and Executive Committee; Governance, Corporate Sustainability
+Compensation Committee and Nominating Committee; Risk Committee (Chair);
+Talent Management and Compensation Committee
+Vincent Brooks
+Samuel G. Liss
+Retired Four-Star General, U.S. Army Therese M. Vaughan
+Principal, WhiteGate Partners LLC
+Governance, Corporate Sustainability, and Nominating Retired Chief Executive Officer,
+Committee; Risk Committee; Talent Management and Audit Committee; Finance and Investment Committee
+Compensation Committee National Association of Insurance Commissioners
+Lee M. Shavel Audit Committee; Executive Committee; Governance,
+Jeffrey Dailey Corporate Sustainability, and Nominating Committee (Chair)
+Chief Executive Officer, Verisk Analytics
+Retired Chief Executive Officer, Farmers Group, Inc
+Executive Committee; Finance and Investment Committee; Olumide Soroye
+Talent Management and Compensation Committee (Chair)
+President and Chief Executive Officer,
+Intelligent Operating Solutions, Fortive Corporation
+Kathleen A. Hogenson
+Audit Committee; Executive Committee; Finance and
+President and Chief Executive Officer,
+Investment Committee (Chair); Risk Committee
+Zone Oil & Gas, LLC
+Audit Committee (Chair); Executive Committee; Governance,
+Corporate Sustainability and Nominating Committee;
+Risk Committee
+45 / ©Verisk / verisk.com
+© 2024 Verisk Analytics, Inc. Verisk Analytics, the Verisk Analytics logo, BCEGS, Mozart, Mozart Form Composer,
+and PPC are registered trademarks and Verisk and the Verisk logo are trademarks of Insurance Service Offices,
+Inc. Touchstone is a registered trademark and ALERT is a trademark of AIR Worldwide Corporation. Xactimate
+is a registered trademark of Xactware Solutions, Inc. All other product or corporate names are trademarks or
+registered trademarks of their respective companies. z230062 (4/24).

@@ -1,0 +1,5011 @@
+Securing
+Our Digital
+Future
+FY23
+Environmental, Social
+and Governance Report
+CCCCOOOOVVVVEEEERRRR OOOOPPPPTTTTIIIIOOOONNNN 2222
+Table of Contents
+Environmental,
+Social and
+Governance Report
+Introduction: Joint Letter Environmental: Our Social: Our Communities
+03 20 51
+IIInnntttrrroooddduuuccctttiiiooonnn
+from Our Leadership Science-Based Strategy
+52 Fiscal 2023 At-a-Glance
+03 Joint Letter from Our Chairman and 21 Fiscal 2023 At-a-Glance 53 Cybersecurity Education and Training: Inspiring
+Chief Executive Officer and Our Lead and Investing in the Future
+22 Climate Strategy: Comprehensive
+Independent Director Carbon Reduction 57 Employee Volunteering and Giving: Making an
+AApbpourotach
+04 FY23 ESG At-a-Glance Impact That Matters
+23 Science-Based Targets: A Clearly Defined
+Pathway to Emissions Reduction 58 SPOTLIGHT: Impact in Every Corner
+of the Globe
+24 Sustainable Operations: Driving
+Decarbonization 59 Charitable Investments:
+Cybersecurity
+Uplifting Our Communities
+Cybersecurity 25 SPOTLIGHT: 100% Renewable Electricity
+& Privacy
+at Our Santa Clara HQ
+26 Sustainable Value Chain:
+Partnering for Success
+28 Stakeholder Engagement: Creating
+EEnnvviirroonnmmeennttal a Thriving Sustainability Ecosystem
+Social: Our People Governance: Our Integrity
+05 About: Palo Alto Networks & 30 60
+Our Approach to ESG 31 Fiscal 2023 At-a-Glance
+SSoocciiaall:: 61 Fiscal 2023 At-a-Glance
+32 Human Capital Management:
+OOuurr WPeoorpklfeorce 62 Corporate Governance: Effective
+06 Fiscal 2023 At-a-Glance Our People Strategy
+Decision-Making
+07 Our Purpose: A Secure Future for All 33 Inclusion & Diversity:
+63 Board Diversity: Embodying Our Commitment
+08 Our Business: Solving Driving Innovation and a Secure Future for All
+to Equity
+SSoocciiaall:: Cybersecurity Challenges 36 Talent Acquisition: Attracting the Best
+64 Risk Oversight: Proactive Mitigation
+OSuupr pSluieprpsliers 09 Our Approach: Achieving Meaningful 37 SPOTLIGHT: Finding Talent Today to Help and Management
+Outcomes through ESG Secure a Safer Tomorrow
+65 Executive Compensation: Linked to ESG Goals
+11 ESG Oversight: A Responsibility Mindset 38 Talent Development and Growth:
+66 Ethics & Corporate Behavior: Doing the
+Personalization and Choice
+Right Thing
+SSoocciiaall::
+40 Employee Engagement:
+67 SPOTLIGHT: Increasing Transparency and
+OOuurr CCoommmmuunniittiieess Cultivating a Most Loved Workplace
+Communicating Clearly
+42 Benefits: Focused on Personalization
+68 Global Policy: Shaping a Secure Future
+43 Safety: Providing Safe & Secure
+Hybrid Workplaces
+GGoovveerrnnaannccee::
+OOuurr IInntteeggrriittyy
+Cybersecurity & Privacy: Social: Our Suppliers Appendix
+13 44 70
+Our Secure Digital Future
+45 Fiscal 2023 At-a-Glance
+71 About This Report: Increasing Transparency
+46 Supply Chain Practices:
+AAppppeennddiixx 72 Data: Our FY23 Performance Data Table
+14 Fiscal 2023 At-a-Glance Our Extended Culture of Responsibility
+76 FY23 Content Index: Mapping Our Disclosures
+15 Our Products & Services: Protecting Vital 48 High-Risk Suppliers:
+83 Stakeholder Engagement: Shaping Our Priorities
+Societal Systems Managing Risks from the Start
+84 ESG-Related Policies: Providing
+16 SPOTLIGHT: Investing in Innovation and 49 SPOTLIGHT: Annual Supplier Recognition Event
+Essential Guidance
+Harnessing AI
+50 Supplier Diversity:
+85 Forward-Looking Statements and Disclaimers
+17 Information Security: Business-Wide Increased Quality and Innovation
+Safeguards
+18 Workforce Cybersecurity Awareness: A Robust
+Training Program
+19 Personal Data and Privacy: Maintaining
+Customer Trust
+2
+Introduction: Joint
+Introduction: Joint Letter from Our Chairman and
+Letter from Our Environmental,
+Social and
+Chief Executive Officer and Our Lead Independent Director
+Governance Report
+Leadership
+IIInnntttrrroooddduuuccctttiiiooonnn Today, so much of what we do as a society is online. Education, Investing in our global workforce. Delivering on our business
+healthcare, consumer spending, infrastructure, transportation strategy is only possible with the best team. We introduced
+and even national security have all been digitized. At Palo Alto Global Hiring Committees to help us hire the best people,
+Networks, we protect people’s digital lives and vital social took the Equal Pay Pledge to advance equity, continued
+AApbpourotach
+Introduction structures from rapidly scaling cybersecurity threats to personalize our employee experience and earned more
+and disruptions. than 40 employer awards this fiscal year. This people-first
+approach extends across our entire value chain and includes a
+Cybersecurity
+Joint Letter from Our Chief Executive Cybersecurity We are proud that our best-of-breed commitment to make our operations as inclusive as possible.
+& Privacy
+Officer and Lead Independent Director product platforms, strategic customer
+Partnering with our communities to make a lasting impact.
+services and employees power a world
+We are taking steps to support the next generation of diverse
+EEnnvviirroonnmmeennttal where each day is safer and more secure
+cybersecurity and technology experts. We renewed and
+than the one before.
+enhanced our support for Black and Hispanic scholars,
+continued to change the face of tech as a founding partner
+SSoocciiaall::
+of Women in Cybersecurity (WiCyS) and reached more than
+OOuurr WPeoorpklfeorce As a company built on trust, it is imperative that we continue
+500,000 students through our Cybersecurity Academy since
+to be a leader in responsible business practices. We are proud
+the program began in 2013.
+Nikesh Arora
+to share our fiscal 2023 Environmental, Social and Governance
+SSoocciiaall::
+(ESG) Report, our third ESG report. In this report, you’ll find
+OSuupr pSluieprpsliers Commitment at the highest levels. Driving progress starts
+examples of our bold approach to emissions reductions and
+with engagement and oversight from the full Board and
+renewable energy, how we build an employee-centric culture,
+strategic guidance from the Board’s ESG and Nominating
+the partnerships that uplift our communities, our strong
+SSoocciiaall::
+Committee. Our ESG Executive Council sets our overall
+governance practices, how we operate with integrity, and how
+OOuurr CCoommmmuunniittiieess
+strategy and our cross-functional ESG Steering Committee
+our core products and services help keep society safe
+leads program implementation. Board involvement allows us
+and secure.
+to respond proactively to new opportunities and assures local
+GGoovveerrnnaannccee::
+teams and managers that the organization’s full support is
+OOuurr IInntteeggrriittyy
+Science-based climate strategy. Our climate strategy is
+behind them as they carry out our ESG goals.
+future-focused, data-driven and science-based. In fiscal
+2023, our emissions reduction targets were approved by
+Fiscal 2023 was a strong year for Palo Alto Networks. We are
+AAppppeennddiixx
+the Science-Based Targets Initiative, aligning with the Paris
+excited about the bright future that lies ahead.
+Agreement’s goal to limit global warming to 1.5°C above pre-
+industrial levels. We were also named to CDP’s A-List and the
+Thank you,
+U.S. EPA’s Green Power Partnership.
+John M. Donovan
+Nikesh Arora John M. Donovan
+Chairman and Lead Independent Director Chair,
+Chief Executive Officer ESG & Nominating Committee 3
+FY23 ESG At-a-Glance
+Environmental,
+Social and
+Governance Report
+As the leading cybersecurity company, it is our business and our responsibility to help our enterprise customers keep their infrastructure safe and secure in a sustainable manner, while
+delivering a return for our investors. Moreover, we believe our responsibilities extend beyond customers and investors. We are equally responsible to provide safety, security and sustainability
+to our workforce, suppliers, communities and environment.
+IIInnntttrrroooddduuuccctttiiiooonnn
+Our priority focus areas in fiscal 2023 are listed in the below graphic.
+AApbpourotach FY23 Highlights
+Cybersecurity
+ENVIRONMENTAL
+Cybersecurity
+& Privacy
+Climate Contracted for
+targets 100%
+A LIST
+EEnnvviirroonnmmeennttal
+2022
+SOCIAL validated by the Science- renewable electricity
+CLIMATE
+Based Targets Initiative at our headquarters
+Investing in our global workforce
+SSoocciiaall:: and communities
+OOuurr WPeoorpklfeorce
+SOCIAL
+SSoocciiaall::
+Introduced
+OSuupr pSluieprpsliers
+26% Global
+of
+global employees Hiring
+SSoocciiaall::
+self-identify
+OOuurr CCoommmmuunniittiieess Committees to ensure
+as women
+ENVIRONMENTAL GOVERNANCE
+quality and equity
+Executing an ambitious Operating with integrity through the hiring process
+GGoovveerrnnaannccee::
+science-based strategy
+OOuurr IInntteeggrriittyy
+GOVERNANCE
+AAppppeennddiixx
+50% 80%
+of Board of
+Directors are diverse based Board Directors
+on Directors’ gender, race, are independent
+ethnicity and/or nationality
+Read more about our ESG approach on page 10.
+4
+Environmental,
+About: Palo Alto
+Social and
+Governance Report
+Networks and
+IInnttrroodduuccttiioonn
+Approach
+Our Approach
+Fiscal 2023 At-a-Glance
+About
+Our Purpose
+Our Business
+Our Approach to ESG
+Cybersecurity
+ESG Oversight
+& Privacy
+CEnyvbierorsnemceunritty
+We are committed to creating a world where
+each day is safer and more secure than the
+Social:
+Environmental one before.
+Our Workforce
+SSoocciiaall::
+OSuupr pPleieorpsle
+06
+Fiscal 2023 At-a-Glance
+SSoocciiaall::
+OOuurr SCuopmpmlieurnsities 07
+Our Purpose: A Secure Future for All
+SGoocviearln: ance:
+08 Our Business: Solving
+OOuurr CInotemgmriutynities
+Cybersecurity Challenges
+Governance: 09 Our Approach: Achieving Meaningful
+Appendix
+Our Integrity Outcomes through ESG
+11
+Appendix ESG Oversight: A Responsibility Mindset
+5
+Fiscal 2023 At-a-Glance
+Environmental,
+Social and
+Governance Report
+As the leader in cybersecurity, our
+IInnttrroodduuccttiioonn
+Incorporated Countries
+mission is to make each day more
+End customers secure than the day before and to
+Approach 2005
+Fiscal 2023 At-a-Glance protect our digital way of life. We
+About
+Our Purpose in 180 countries
+recognize our duty to bring that same
+Our Business
+Our Approach mentality to ESG. We strive to make
+Cybersecurity
+ESG Oversight
+& Privacy the world more environmentally
+secure, more socially responsible
+Headquarters
+74 major
+and better-governed than the day
+CEnyvbierorsnemceunritty
+Santa Clara,
+product releases before. This is imperative to earning
+in FY231,2 and keeping the trust and confidence
+Social:
+California
+Environmental
+Our Workforce of our external and internal
+stakeholders."
+SSoocciiaall::
+OSuupr pPleieorpsle
+Employees
+$1.6 billion
+SSoocciiaall:: worldwide
+OOuurr SCuopmpmlieurnsities invested in R&D
+1
+13,948
+SGoocviearln: ance:
+OOuurr CInotemgmriutynities
+Governance:
+Appendix FY23 Total Revenue 1 As of July 31, 2023.
+Our Integrity
+2 Major product release is defined as full or dot release with
+1 significant new capability, new or add-on modules, or
+$6.9 billion
+subscription services, new software or hardware appliance
+models, significant PAN-OS, acquired capabilities and
+Appendix
+significant new platform support.
+Dipak Golechha
+Chief Financial Officer, Palo Alto Networks 6
+Our Purpose: A Secure Future for All
+Environmental,
+Social and
+Governance Report
+We believe that everyone has a fundamental right to safety and security. As our lives and societies become increasingly digital, we use the power of innovation and technology to
+IInnttrroodduuccttiioonn
+help create a more secure, sustainable and equitable future for all.
+Approach
+Our cybersecurity platforms help businesses, nonprofits and governmental organizations protect and secure complex operations. We work across industries and communities to share reliable intelligence that
+Fiscal 2023 At-a-Glance
+About prevents attacks and protects power grids, water supplies, financial systems and other critical infrastructure. By providing visibility, insights, technology, automation and flexibility, we help our customers operate
+Our Purpose securely today and prepare them for tomorrow.
+Our Business
+Our Approach We boldly and proudly protect our digital way of life, enabling people everywhere to enjoy convenient, efficient, private and secure access to essential services in our interconnected digital world.
+Cybersecurity
+ESG Oversight
+& Privacy
+CEnyvbierorsnemceunritty
+OUR VISION OUR MISSION
+A world where each day is safer and more secure To be the cybersecurity partner of choice,
+Social:
+Environmental
+Our Workforce
+than the one before. protecting our digital way of life.
+SSoocciiaall::
+OSuupr pPleieorpsle
+SSoocciiaall::
+OUR VALUES
+OOuurr SCuopmpmlieurnsities
+Co-created with our employees, we believe our corporate values make us a better company.
+SGoocviearln: ance:
+OOuurr CInotemgmriutynities
+Governance:
+Appendix
+Our Integrity
+Appendix
+7
+Our Business: Solving Cybersecurity Challenges
+Environmental,
+Social and
+Governance Report
+Innovating for a Providing a Multiplatform Product Portfolio
+IInnttrroodduuccttiioonn
+Better Tomorrow
+We offer our customers value across four fundamental areas:
+Approach
+Fiscal 2023 At-a-Glance
+About We innovate to outpace cyberthreats and cybersecurity
+Our Purpose
+so organizations can embrace current, new and emerging
+Our Business
+technologies with confidence. We provide next-generation
+Our Approach
+Cybersecurity
+cybersecurity to thousands of customers globally, across sectors.
+ZERO TRUST CODE TO CLOUD™
+E &S G P rO iv ve ars cig yht Our cybersecurity platforms and services are backed by
+PLATFORM PLATFORM
+industry-leading threat intelligence and strengthened by
+best-in-class automation.
+Network security that Cloud security that ensures
+CEnyvbierorsnemceunritty
+ensures every connection every cloud application
+Showing the
+is secure is secure
+Social:
+Way to Secure
+Environmental
+Our Workforce
+We empower enterprises, organizations, service providers and
+SSoocciiaall:: government entities to protect themselves against today’s
+OSuupr pPleieorpsle
+most sophisticated cyberthreats and cybersecurity breaches.
+As a leading provider of Zero Trust solutions, we deliver AI-DRIVEN SECURITY INCIDENT RESPONSE,
+next-generation Zero Trust network access to secure today’s OPERATIONS PLATFORM ADVISORY SERVICES
+SSoocciiaall::
+hybrid workforces. Using Zero Trust principles, we secure
+OOuurr SCuopmpmlieurnsities AND THREAT
+users, applications and infrastructure. Our security solutions
+SecOps that is powered by INTELLIGENCE
+are designed to reduce customers’ total cost of ownership by
+a real-time security engine
+SGoocviearln: ance: improving operational efficiency and eliminating the need for
+Strategic security partner
+OOuurr CInotemgmriutynities siloed point products.
+through managed and
+proactive security services
+Governance:
+Appendix
+Our Integrity and world-renowned
+intelligence
+Appendix
+8
+Our Approach:
+Environmental,
+Social and
+Achieving Meaningful
+Governance Report
+Outcomes through ESG
+IInnttrroodduuccttiioonn
+Approach
+Fiscal 2023 At-a-Glance
+About
+Our Purpose
+Palo Alto Networks has always been a values-based company, and core ESG principles
+Our Business
+Our Approach are a long-standing and integral part of our day-to-day operations and culture. To
+Cybersecurity
+ESG Oversight achieve our corporate vision of a safe and secure world and protect our digital way
+& Privacy
+of life, we must also do our part to keep the planet and our communities healthy
+and thriving.
+CEnyvbierorsnemceunritty
+We execute meaningful ESG initiatives that support our corporate purpose. These include using our
+platform to protect people's digital lives and vital societal systems from ever-changing cybersecurity
+challenges, driving ambitious climate action, building an employee-centric culture, extending our
+Social:
+Environmental
+Our Workforce culture of responsibility to our supply chain, uplifting our communities and operating with integrity
+and purpose.
+SSoocciiaall::
+In 2023, we continued our dedicated focus on improving our programs and further integrating
+OSuupr pPleieorpsle
+ESG topics into our business. From elevated environmental initiatives, such as setting emissions
+reduction goals aligned to Science-Based Targets, to increased transparency in our governance and
+disclosures, including mapping to the United Nations Sustainable Development Goals in this report,
+SSoocciiaall::
+we have made strides to advance along our ESG journey. We also continued to focus on the unique
+OOuurr SCuopmpmlieurnsities
+contributions we can provide to the world: making cybersecurity easier to understand, increasing
+access to it for youth, and providing educational opportunities to inform and inspire the strong,
+SGoocviearln: ance:
+diverse cyber workforce of both today and tomorrow.
+OOuurr CInotemgmriutynities
+We monitor our ESG performance, as measured by industry rating institutions. Over the past three
+years, our overall ESG performance improved across the entities we track. Still, we recognize
+Governance:
+Appendix
+that we will always have more to do, particularly as stakeholder interest, regulatory matters and ESG
+Our Integrity
+frameworks evolve. We continue to evolve our practices and remain diligent in our effort to achieve
+our place as an industry leader in ESG.
+Appendix
+9
+Environmental,
+Our priority focus areas in fiscal 2023 are listed in the below graphic.
+Social and
+Governance Report
+Confirming Our Priority
+Focus Areas ENVIRONMENTAL
+Executing an ambitious science-based strategy
+IInnttrroodduuccttiioonn
+We consider our business and operational impacts, stakeholder
+impacts, and investor and customer interests when defining
+Driving sustainable operations, a sustainable value chain and a sustainable business ecosystem. Priorities
+Approach our ESG priorities. To confirm our priority focus areas, we first
+include science-based decarbonization, renewable electricity, collaboration with employees, suppliers
+Fiscal 2023 At-a-Glance reviewed and integrated leading ESG reporting frameworks
+About and customers, and climate and clean energy policy advocacy.
+Our Purpose (including the Global Reporting Initiative [GRI], the Sustainability
+Our Business Accounting Standards Board [SASB] Standards, a part of the
+Our Approach International Financial Reporting Standards [IFRS],, and the
+Cybersecurity
+ESG Oversight World Economic Forum’s Stakeholder Capitalism Metrics), ESG
+& Privacy
+benchmarking and best practices, as well as ESG ratings such
+SOCIAL
+as Morgan Stanley Capital Investments (MSCI), Institutional
+Shareholder Services (ISS) and Sustainalytics. Investing in our global workforce and communities
+CEnyvbierorsnemceunritty
+Motivating and developing our people and reinforcing our culture of personalization and respect. Priorities
+Throughout the year, we engage stakeholders including
+include talent development, inclusion and diversity, employee engagement, well-being, and employee
+investors, customers, suppliers, business leaders, employees,
+Social:
+health and safety.
+Environmental regulatory agencies, local, state and federal entities,
+Our Workforce
+governmental and international communities, nongovernmental/
+Helping people protect their digital way of life and enabling communities to thrive. Priorities include
+nonprofit organizations and the communities in which we
+cybersecurity education and awareness, investing in a robust and diverse cybersecurity workforce,
+SSoocciiaall:: operate to help identify and prioritize the ESG factors important
+employee volunteering and giving, and charitable investments.
+OSuupr pPleieorpsle to stakeholders and to our business. The Executive ESG Council
+and ESG Steering Committee consider these insights when
+Partnering closely with our suppliers to extend our culture of responsibility. Priorities include supplier
+refreshing our priorities, strategy and efforts. Please see our
+SSoocciiaall::
+integrity, reducing supply chain emissions, managing high-risk suppliers and supplier diversity.
+Stakeholder Engagement Table on page 83 for more information.
+OOuurr SCuopmpmlieurnsities
+We integrate and consider these priority topics throughout our
+SGoocviearln: ance: business — from designing our offices to meet highly regarded
+OOuurr CInotemgmriutynities environmental standards to how we develop talent, compete for
+GOVERNANCE
+business, serve our customers, work with suppliers and support
+our communities.
+Operating with integrity
+Governance:
+Appendix
+Our Integrity
+Underpinning our work is our foundational value of integrity. Priorities include corporate governance,
+Board diversity, ESG transparency, and implementation and monitoring of compliance with relevant
+codes of business conduct and ethics, and their attendant policies, including our Human Rights Policy.
+Appendix
+10
+ESG Oversight: A Responsibility Mindset
+Environmental,
+Social and
+Governance Report
+At Palo Alto Networks, ESG is overseen and governed at
+IInnttrroodduuccttiioonn
+the highest levels by our Board of Directors, executive-
+ESG AND NOMINATING COMPENSATION AND
+level leadership and subject-matter experts who lead COMMITTEE PEOPLE COMMITTEE
+Approach
+efforts across our business.
+Fiscal 2023 At-a-Glance • Primary responsibility for ESG
+About • Diversity and inclusion
+Our Purpose matters
+• Pay equity
+Our Business Setting the Tone for ESG • Board recruiting, including
+• Human capital management,
+Our Approach
+Cybersecurity diversity
+including recruitment,
+ESG Oversight
+& Privacy The Board and its applicable committees provide guidance
+• Sustainability development and retention
+and oversight to management on ESG matters. Our ESG and
+• Legal and regulatory • Integrating ESG goals into
+Nominating Committee meets quarterly and is responsible
+executive compensation
+compliance (excluding
+CEnyvbierorsnemceunritty for setting our priorities and monitoring our performance. Our
+plans/arrangements
+financial and tax)
+Compensation and People Committee, Audit Committee and
+• Compensation risk
+Security Committee serve important and complementary roles • Stakeholder engagement
+management
+Social: in ESG oversight (described in the visual at right). Committees
+Environmental
+Our Workforce regularly receive information on related matters from our • Management
+succession planning
+executives, functional leaders and subject-matter experts.
+Our Lead Independent Director and management team share Board of
+SSoocciiaall::
+feedback received from our stockholders with the Board. Directors
+OSuupr pPleieorpsle
+AUDIT COMMITTEE SECURITY COMMITTEE
+SSoocciiaall::
+• Processes and controls • Product security and
+OOuurr SCuopmpmlieurnsities
+to ensure ESG disclosures data security
+are complete and accurate
+• Cybersecurity, risk
+SGoocviearln: ance:
+• Enterprise risk management exposure and related
+OOuurr CInotemgmriutynities
+(ERM) pertaining to financial, controls
+accounting and tax matters
+• ERM related to security,
+Governance: • Legal and regulatory compliance incident response and
+Appendix
+Our Integrity related to financial and business risk
+tax matters
+• Internal ethics compliance,
+Appendix
+including code of ethics and
+whistleblower program
+11
+Environmental,
+Social and
+Governance Report
+Proactive Executive
+ESG Governance Structure
+IInnttrroodduuccttiioonn
+Leadership
+Approach We have a cross-functional, ESG Executive Council
+BOARD OF DIRECTORS
+Fiscal 2023 At-a-Glance (the "Council") led by our Chair and CEO that includes our ESG and Nominating Chair and Chief
+About
+Our Purpose general counsel, chief people officer and chief financial Committee Executive Officer
+Approves priorities, provides guidance and oversight, and
+Our Business officer. The Council sets our overall ESG strategy, objectives
+monitors performance in all areas of our ESG programs
+Our Approach and initiatives, provides guidance on program implementation
+Cybersecurity
+ESG Oversight and oversees the ongoing enhancement of our approach.
+& Privacy
+Chief Executive
+The Council regularly receives analysis and presentations General Counsel
+Officer ESG EXECUTIVE COUNCIL
+covering current and emerging ESG-related risk topics and
+Sets ESG strategy, objectives and initiatives, and oversees
+program statuses.
+CEnyvbierorsnemceunritty
+corporate-wide ESG program implementation
+Chief People Officer Chief Financial Officer
+The Council empowers our ESG Steering Committee to
+oversee program implementation and to pursue activities to
+Social:
+Environmental achieve our objectives and goals. The Steering Committee, ESG STEERING COMMITTEE
+Our Workforce
+which meets monthly, includes employee representatives
+Chair: Sr. Director, Global Corporate Responsibility
+from our accounting, corporate responsibility, internal audit,
+Recommends strategies, leads implementation of ESG programs,
+SSoocciiaall:: investor relations, legal, operations, SOX and external reporting
+pursues ESG objectives and stays on top of current developments
+OSuupr pPleieorpsle
+assurance, product and people teams. In fiscal 2023, the Vice
+President of Hardware Products joined the Steering Committee
+in recognition of the important role our products and services
+SSoocciiaall::
+play in executing our strategies, including the environmental
+OOuurr SCuopmpmlieurnsities
+benefits related to product performance. The Steering
+Senior VP,
+Committee oversees the work of our subject-matter experts who
+SVP, Chief SVP, VP, Deputy
+Director, Global Supply Chain
+SGoocviearln: ance: implement our ESG programs. Accounting Worldwide General Counsel,
+Corporate Operations and
+Officer Operations Corporate
+OOuurr CInotemgmriutynities Responsibility Procurement
+Governance:
+Appendix
+Our Integrity
+VP, Deputy SVP, Investor Head of SOX &
+General Relations and VP, Internal VP, Hardware External
+Counsel, Ethics Corporate Audit Products Reporting
+Appendix and Compliance Development Assurance
+12
+Environmental,
+Cybersecurity
+Social and
+Governance Report
+& Privacy:
+IInnttrroodduuccttiioonn
+Our Secure
+AApbpourotach
+Cybersecurity
+Digital Future
+Cybersecurity
+Fiscal 2023 At-a-Glance
+& Privacy
+Our Products & Services
+SPOTLIGHT
+Information Security
+As an innovation-led cybersecurity company,
+Environment
+Workforce Cybersecurity
+Awareness we use the power of our platforms to protect
+Personal Data and Privacy
+people's digital lives.
+Social:
+Our Workforce
+Environmental
+Social:
+Social:
+Suppliers
+14
+Our People
+Fiscal 2023 At-a-Glance
+Social:
+Social:
+Our Communities 15 Our Products & Services: Protecting Vital
+Our Suppliers
+Societal Systems
+Governance:
+SPOTLIGHT: Investing in Innovation
+Social: 16
+Our Integrity
+and Harnessing AI
+Our Communities
+17 Information Security:
+Appendix
+Governance:
+Business-Wide Safeguards
+Our Integrity
+18 Workforce Cybersecurity Awareness:
+A Robust Training Program
+Appendix
+19 Personal Data and Privacy:
+Maintaining Customer Trust
+13
+Fiscal 2023 At-a-Glance
+Environmental,
+Social and
+Governance Report
+Cybersecurity, sustainability and
+IInnttrroodduuccttiioonn
+social impact are interlinked: As
+technology is increasingly used to
+AApbpourotach
+connect communities, conserve
+energy and keep people healthy and
+Cybersecurity
+Cybersecurity
+Fiscal 2023 At-a-Glance
+safe, it’s our job at Palo Alto Networks
+& Privacy
+Our Products & Services
+to deliver increasingly better security
+SPOTLIGHT
+750M+ 74 major
+Information Security
+outcomes that safeguard our
+Environment
+Workforce Cybersecurity
+Awareness new and unique events analyzed product releases digital way of life, our societies and
+Personal Data and Privacy
+and detected each day our planet.”
+Social:
+Our Workforce
+Environmental
+Social:
+Social:
+Suppliers
+Our People
+Social:
+Social:
+Our Communities
+Our Suppliers
+Governance:
+Social:
+Our Integrity
+Our Communities
+4,400+ 30+
+Appendix
+Governance:
+Our Integrity
+product team employees
+Palo Alto Networks
+drive innovation products use AI 1
+Appendix
+Lee Klarich
+Chief Product Officer, Palo Alto Networks
+1 Number is cumulative since 2019; some products are still in development.
+14
+Our Products & Services:
+Environmental,
+Social and
+Protecting Vital Societal Systems
+Governance Report
+IInnttrroodduuccttiioonn
+Businesses, educational institutions, financial and
+healthcare systems, government services, vehicles,
+AApbpourotach
+homes and lives are connected to the internet like
+never before. The right digital tools can make societies
+Cybersecurity
+Cybersecurity safer, healthier and more sustainable. But the more
+Fiscal 2023 At-a-Glance
+& Privacy
+we depend on complex and interconnected digital
+Our Products & Services
+SPOTLIGHT systems, the more critical it becomes to keep them
+Information Security secure and running smoothly.
+Environment
+Workforce Cybersecurity
+Awareness
+This is why vital organizations, systems and services all over the
+Personal Data and Privacy
+world rely on Palo Alto Networks and the power and protection
+Social:
+of our industry-leading cybersecurity platform to stay safe and
+Our Workforce
+Environmental
+secure. We prevent cyberattacks, anticipate new threats before
+they arise, and partner with each customer to provide solutions
+tailored to their needs.
+Social:
+Social:
+Suppliers
+Our People In doing so, together with our ecosystem partners and
+customers, we’re helping to lead the way in building a safer
+Social:
+society and creating a more secure future.
+Social:
+Our Communities
+Our Suppliers
+Governance:
+Social:
+Our Integrity
+Our Communities
+Appendix
+Governance:
+Our Integrity
+Appendix
+15
+Environmental,
+Social and
+Governance Report
+SPOTLIGHT
+Investing in Innovation and Harnessing AI
+IInnttrroodduuccttiioonn
+The threat landscape is rapidly intensifying. Attacks are happening more quickly than organizations can respond, and the rise of artificial intelligence (AI) has led to new forms of malware, social
+engineering attacks, AI-driven botnets and more. Governments, social institutions, businesses and individuals are all at risk.
+AApbpourotach
+These threats demand a high-powered innovation engine. Our product team is made up of more than 4,400 employees, and they’ve met increased consumer demand, taking us from a single-product
+company to one with three leading platforms in just five years. These include:
+Cybersecurity
+Cybersecurity
+Fiscal 2023 At-a-Glance
+& Privacy
+Our Products & Services
+SPOTLIGHT
+Information Security
+Environment
+Workforce Cybersecurity
+Awareness
+Personal Data and Privacy
+Social:
+Our Workforce
+Environmental
+Social:
+Social:
+Suppliers
+Our People
+ZERO TRUST CODE TO CLOUD™ AI-DRIVEN SECOPS
+Social:
+Social:
+Our Communities
+Our best-in-class network security platform uses leading Three-quarters of cloud code bases consist of open-source Our autonomous SecOps delivers near-real-time security,
+Our Suppliers
+hardware and software firewalls, as well as SASE, to ensure code, and 80% of open-source code contains at least one building on our five-year legacy of category-leading products
+that every connection is secure. vulnerability. Our cloud security platform ensures the security to help the SOC.
+Governance:
+Social: of every cloud application.
+Our Integrity
+Our Communities
+We’ve embraced machine learning since its earliest days, and beginning in fiscal 2016 we released our first AI-based product. Today, we leverage AI across our entire portfolio, including all three
+Appendix
+Governance: platforms and 30+ products and modules.
+Our Integrity
+AI provides near-real-time capabilities for all our tools, delivering unparalleled detection and response. For example, Cortex XSIAM is a SecOps tool that combines our knowledge of every known attack
+pattern (Palo Alto Networks detects more than 275,000 new attack patterns each day) with AI-based prediction and analytics to protect against new, as yet unseen attack patterns. Solutions such as
+Appendix these not only guard against the current threat landscape but will protect systems well into the future.
+16
+Information Security:
+Environmental,
+Social and
+Business-Wide Safeguards
+Governance Report
+IInnttrroodduuccttiioonn
+Palo Alto Networks maintains a written information security program. Our chief Data security risks are addressed through our Third-Party Risk Management program, which is
+information security officer is responsible for overseeing and implementing the compliant with frameworks such as SOC2, ISO27001 and FedRAMP. A complete listing of our
+AApbpourotach
+certifications can be found on our Technical Certifications page.
+program. Our program includes administrative, technical and physical safeguards
+reasonably designed to protect the confidentiality, integrity and availability of
+Cybersecurity
+Our Risk Management program consists of the following:
+Cybersecurity end-user data, and is appropriate to the nature, size and complexity of Palo Alto
+Fiscal 2023 At-a-Glance
+& Privacy
+Networks’ business operations.
+Our Products & Services
+• Continuous cycle of third-party assessment and monitoring
+SPOTLIGHT
+The Security Committee of our Board of Directors reviews our cybersecurity strategies and risks and • Alignment with industry standards
+Information Security
+Environment oversees risk mitigation related to cyberthreats and cybersecurity. Six of our 10 Board directors have
+Workforce Cybersecurity
+• Assessments to identify data security risks in compliance with our information security policies
+Awareness cybersecurity and IT technology expertise. We also make information security content available to
+and standards
+Personal Data and Privacy contractors that have access to our networks or system.
+Social: • Process to identify, track and validate remediation of third-party risks
+EO nu vr i rW ono mrk efo nr tc ae l We engage external agencies to conduct background checks of prospective employees. We also
+• Vendor outreach process to address global cybersecurity events within the industry
+maintain a security process to conduct appropriate due diligence prior to engaging contractors;
+assess the security capabilities of subcontractors on a periodic basis; and require subcontractors
+Social: Palo Alto Networks also develops, implements and maintains a business continuity management
+to adhere to our key information security policies and standards. We control, monitor and restrict
+Social:
+Suppliers program to address the needs of the business and the products we provide to customers. To that
+Our People access to physical areas where we process end-user data. The data centers that we operate are in
+end, we complete a minimum level of business impact analysis, crisis management, business
+alignment with industry standards, such as ISO 27001 and SSAE 16 or ISAE 3402.
+continuity and disaster recovery planning.
+Social:
+Social:
+Our Communities We deploy firewall technology and an intrusion detection system to generate, monitor and respond
+During fiscal 2023, Palo Alto Networks did not experience any material data breach that required
+Our Suppliers
+to alerts that could indicate potential compromise of our network. We also apply "security by design"
+SEC disclosure. Regulators around the globe are requiring that companies report more about cyber
+principles throughout the software development life cycle, track vulnerabilities of open-source
+Governance: incidents and the SEC’s new cybersecurity incident reporting rule places cybersecurity at the center
+software, and run internal and external network scans at least quarterly and after any material
+Social:
+Our Integrity of public company governance. For our thoughts on the new SEC rule and how companies can
+change in network configuration. Using a qualified third party, we conduct application security
+Our Communities
+reduce their chances of having a material incident, read this blog post.
+assessments such as our annual assessment for internet-facing applications that collect, transmit or
+display end-user data.
+Appendix
+Governance:
+Our Integrity
+Appendix
+17
+Workforce Cybersecurity Awareness:
+Environmental,
+Social and
+A Robust Training Program
+Governance Report
+IInnttrroodduuccttiioonn
+We deliver a robust security awareness and training
+program to help employees understand the importance
+of our security practices. Each month, we send a phishing
+AApbpourotach
+simulation to 100% of our employees and contract workers.
+Every two weeks we send a phishing simulation to newly
+Cybersecurity
+on-boarded employees. These exercises help employees
+Cybersecurity
+Fiscal 2023 At-a-Glance
+practice the education they’ve been provided in a
+& Privacy
+Our Products & Services
+real-world setting.
+SPOTLIGHT
+Information Security
+Additionally, we run internal communication campaigns around
+Environment
+Workforce Cybersecurity
+pertinent threats. While we frequently create timely education
+Awareness
+around newsworthy events, we also pair this with long-term, strategic
+Personal Data and Privacy
+planning to foster a “security-first culture” throughout the organization.
+Social:
+As examples, in 2023 we educated employees on how to stay safe at
+Our Workforce
+Environmental
+home and work, educated our customers through a booth at the Ignite
+conference, celebrated Safer Internet Day with employee education
+Social: focused on reducing security risk and created a fun month-long
+Social:
+Suppliers
+campaign around a fictional character named Sam, a stressed-out
+Our People
+SOC analyst. Throughout the campaign, employees worked together
+to understand and demonstrate desired behavior and send
+Social:
+Social: Sam on a well-deserved vacation. The campaign ended with
+Our Communities
+Our Suppliers experiential pop-up events in our Plano, Reston and Santa Clara
+offices that included food and drink, prizes that reinforced campaign
+Governance: messaging, and even an appearance by Sam himself.
+Social:
+Our Integrity
+Our employees appreciated these touchpoints and even asked for
+Our Communities
+public-facing materials they can share with their families.
+Each year, we also run a series of events in October in honor of
+Appendix
+Governance:
+Cybersecurity Awareness Month. These offerings range from webinars
+Our Integrity
+to experiential activities such as escape rooms that test one’s
+cybersecurity awareness.
+Appendix
+To learn more about our information security measures,
+visit our website.
+18
+Personal Data and Privacy:
+Environmental,
+Social and
+Maintaining Customer Trust
+Governance Report
+IInnttrroodduuccttiioonn
+Privacy is important to our customers and helps us build trust. Protecting personal data and respecting the
+privacy of individuals is inherent to who we are and what we do. Our privacy practices are informed by several
+AApbpourotach
+key principles including:
+Cybersecurity • Accountability
+Cybersecurity We are responsible for the protection of personal information entrusted to us.
+Fiscal 2023 At-a-Glance
+& Privacy
+Our Products & Services
+• Transparency and Control
+SPOTLIGHT
+We inform customers about our collection of their personal information and honor their preferences.
+Information Security
+Environment
+• Third Parties Processing Our Information
+Workforce Cybersecurity
+Awareness We choose trustworthy vendors and suppliers to process personal information and we require them to
+Personal Data and Privacy commit to adequate privacy and data security standards.
+Social:
+• Privacy by Design
+Our Workforce
+Environmental
+We continue to build on this principle when designing and implementing products.
+• Data Integrity and Proportionality
+Social:
+Social: We collect personal information for specific and legitimate business purposes and store it safely
+Suppliers
+Our People and accurately.
+• Protecting Personal Information
+Social:
+Social: We implement technical, organizational and physical security measures to protect the personal information
+Our Communities
+Our Suppliers we process, including training employees on privacy best practices. As of July 31, 2023, approximately 98%
+of employees (full-time and part-time) had completed the Annual Privacy training that kicked off during
+Governance: Integrity Week. The variance to 100% is due to new hires being assigned training in the last 45 days of the
+Social:
+Our Integrity fiscal year and having time to complete the training as well as employees on leave of absence.
+Our Communities
+Appendix
+Governance:
+To learn more about the information we collect, how we use personal information, information on
+Our Integrity
+marketing, cookies and more visit: www.paloaltonetworks.com/legal-notices/privacy
+For other privacy and security resources visit our Trust Center here.
+Appendix
+19
+Environmental,
+Environmental:
+Social and
+Governance Report
+Our Science-
+Introduction
+Based Strategy
+Approach
+Cybersecurity
+We take a science-based, data-driven
+approach to advancing decarbonization and
+Environmental
+Fiscal 2023 At-a-Glance encourage others to do the same.
+Climate Strategy
+Science-Based Targets
+Sustainable Operations
+SPOTLIGHT
+21
+Sustainable Value Chain Fiscal 2023 At-a-Glance
+Stakeholder Engagement
+22 Climate Strategy: Comprehensive
+Social:
+Carbon Reduction
+Our People
+23 Science-Based Targets: A Clearly Defined
+Social:
+Pathway to Emissions Reduction
+Our Suppliers
+24 Sustainable Operations:
+Social: Driving Decarbonization
+Our Communities
+25 SPOTLIGHT: 100% Renewable Electricity
+at Our Santa Clara HQ
+Governance:
+Our Integrity
+26 Sustainable Value Chain:
+Partnering for Success
+Appendix
+28 Stakeholder Engagement: Creating a
+Thriving Sustainability Ecosystem
+20
+20
+Fiscal 2023 At-a-Glance
+Environmental,
+Social and
+Governance Report
+The time to address the climate
+Introduction
+crisis is now. Our environmental
+strategy is built on ambitious goals, a
+Approach
+CO₂
+comprehensive understanding of our
+environmental footprint and guidance
+Cybersecurity from leading third parties. As we
+mark the progress we’ve made this
+Climate targets validated by the Contracted for
+Environmental
+year, we continue to push ourselves
+Fiscal 2023 At-a-Glance
+Science-Based Targets 100%
+Climate Strategy
+toward net-zero emissions and 100%
+Science-Based Targets initiative (SBTi)
+renewable electricity
+renewable electricity.”
+Sustainable Operations
+SPOTLIGHT at our headquarters4
+Sustainable Value Chain
+Stakeholder Engagement
+Social:
+Our People
+Social:
+Our Suppliers
+Social:
+Our Communities
+Recognized on the Achieved
+Governance: CDP Climate A List Green Certification
+and
+Our Integrity
+CDP 2022 Supplier for new offices in London
+as a
+Engagement Leader
+Appendix Vince Digneo
+Head of Sustainability, Climate & Clean Energy, Palo Alto Networks
+4 Effective January 1, 2023.
+21
+Climate Strategy:
+Environmental,
+Social and
+Comprehensive Carbon Reduction
+Governance Report
+Introduction
+The negative impacts of the climate crisis are worldwide in scope and disproportionately felt by the world’s most vulnerable people. At Palo Alto Networks, we are
+committed to doing our part to reduce our own impacts and partnering with others to support community-led, global solutions.
+Approach
+We are future-focused and, to protect our digital way of life, we must also help protect our planet. Immediate action is needed, and we believe that now is the time to
+make progress toward ambitious science-based targets, advocate for climate policy and collaborate to create data-driven solutions.
+Cybersecurity
+Environmental
+Our Climate Strategy Focuses on Three Pillars:
+Fiscal 2023 At-a-Glance
+Climate Strategy
+Science-Based Targets
+Sustainable Operations
+SPOTLIGHT
+Sustainable Value Chain Sustainable Sustainable Sustainable
+Stakeholder Engagement
+Operations Value Chain Ecosystem
+Social:
+Our People
+Accelerate carbon- and waste-free Engage customers and suppliers Drive leading public commitments,
+Social: growth through energy efficiency, across our value chain to drive to zero policy advocacy and partnerships to
+Our Suppliers
+decarbonization, renewable energy carbon, zero waste, 100% renewable elevate our thought leadership position.
+and meeting science-based targets. energy and 100% circularity in our
+Social: cybersecurity products.
+Our Communities
+Governance:
+Our Integrity
+Appendix
+22
+Science-Based Targets:
+Environmental,
+Social and
+A Clearly Defined Pathway to Emissions Reduction
+Governance Report
+Introduction
+Palo Alto Networks completed a baseline greenhouse gas inventory, which was verified by
+a third party, in fiscal 2022. We are using science-based strategies to reduce our climate
+impacts. In 2023, our ambitious Science-Based Targets (SBTs) were validated by the globally
+Approach NET ZERO SCOPE 1, 2 AND 3 EMISSIONS BY 2040
+recognized Science Based Targets Initiative (SBTi). Our targets are aligned to the United
+MTCO e
+10,000
+Nations Framework Convention on Climate Change (UNFCCC) guidance to limit global 2
+temperature rise to 1.5°Celsius to avoid the catastrophic impacts of climate change.
+Cybersecurity
+8,000
+-35%
+Environmental 2027 Science-Based Emissions Reduction Targets 6,000
+Fiscal 2023 At-a-Glance
+Climate Strategy • Scope 1 and 2 (Sustainable Operations): We commit to reduce absolute Scope 1 and 2 GHG emissions by 35% by 4,000
+Remaining emissions
+Science-Based Targets 2027, compared to fiscal 2021 baseline.
+neutralized through
+Sustainable Operations 2,000 -90%
+• Scope 3 (Sustainable Value Chain – Suppliers): We commit that 65% of our suppliers, by total spend, will set permanent
+SPOTLIGHT
+Science-Based Targets by the end of fiscal 2027. carbon removals
+Sustainable Value Chain 0
+Stakeholder Engagement • Scope 3 (Sustainable Value Chain – Customers): We commit to reduce Scope 3 emissions intensity from our
+2021 2027 2040
+customers’ use of our sold products by 40% per $USD million gross profit by 2027, compared to a fiscal 2021
+base year target target
+baseline. We will partner with our customers and other stakeholders to encourage renewable energy adoption and
+Social:
+explore approaches to improve the energy efficiency of our products. Our 2027 Scope 3
+Our People
+targets capture more
+All other Purchased
+than 85% of our base
+Our two 2027 Scope 3 targets capture more than 85% of our Scope 3 emissions baseline, surpassing the SBTi minimum of
+Scope 3 Goods and
+Social: year Scope 3
+67%. These SBTs represent our near-term goals as we push to achieve our longer-term strategy of net zero emissions.
+Emissions Services
+Our Suppliers
+Net Zero Emissions Commitments
+65% of our suppliers
+Social:
+by spend to set
+Our Communities
+• We intend to achieve net zero across our Scope 1 and 2 emissions by fiscal 2030, by reducing emissions by 90% Science based targets
+from a fiscal 2021 base year and mitigating any remaining emissions through carbon removal investments.
+Reduce emissions
+Governance:
+• We intend to achieve net zero across all Scope 1, 2 and 3 emissions by fiscal 2040 through our participation in The
+Our Integrity from customers’ use
+Climate Pledge, by reducing emissions by 90% from a fiscal 2021 base year and mitigating any remaining emissions
+of our products by
+through carbon removal investments.
+40% per USD gross Use of
+Appendix • We intend to use 100% renewable energy across all major sites and regions by the end of fiscal 2030, a target we will profit (2021 base year) Sold
+reach by replacing all our natural gas and other fuel/energy use with renewable electricity. We will not purchase or use Products
+unbundled renewable electricity certificates or offsets to make any claims of progress toward our renewable energy goal.
+23
+Sustainable Operations:
+Environmental,
+Social and
+Driving Decarbonization
+Governance Report
+Introduction
+Our sustainable operations goal includes a commitment to achieving 100%
+renewable electricity by 2030. We aim to eliminate greenhouse gas through
+Approach
+energy efficiency and operational excellence. We will decarbonize our operations
+and replace what is left with renewable electricity.
+Cybersecurity
+At the local level, we empower sustainability teams around the world to implement green packaging,
+waste reduction and resource conservation initiatives, which directly contribute to our yearly
+Environmental emissions savings.
+Fiscal 2023 At-a-Glance
+Climate Strategy In addition, Palo Alto Networks is committed to decarbonizing our real estate footprint. We have a
+long history of providing our people with workplaces that have achieved LEED (Leadership in Energy
+Science-Based Targets
+and Environmental Design) certification.
+Sustainable Operations
+SPOTLIGHT
+New sites opened in London and Amsterdam in early fiscal 2024. For our Amsterdam site,
+Sustainable Value Chain
+we are actively working to achieve LEED-Silver, an accreditation that commends the site for
+Stakeholder Engagement
+optimized energy performance. The site’s extensive bicycle parking facilities also encourage
+emission-free commutes.
+Social:
+Our People
+Social:
+Our Suppliers
+Social: Palo Alto Networks
+Our Communities
+was named to both the
+A LIST
+A LIST
+2022 and 2023 CDP
+Governance: 2022
+2023
+Our Integrity Climate A Lists.
+CLIMATE
+CLIMATE
+Appendix
+The Valley, the new home of Palo Alto Networks Amsterdam
+24
+SPOTLIGHT
+Environmental,
+Social and 100% Renewable Electricity at Our Santa Clara HQ
+Governance Report
+In January 2023, Palo Alto Networks became one of the first companies to participate in Silicon Valley Power (SVP)'s Large Customer
+Renewable Energy (LCRE) program. This voluntary clean energy program gives companies the ability to purchase additional
+Introduction
+renewable electricity above the amount already included in SVP's energy delivery portfolio.
+EPA applauds Palo Alto Networks
+The California Renewable Portfolio Standard (RPS) requires utilities to purchase an increasing percentage of renewable energy
+for its leadership position in the
+each year, up to 60% by 2030. As of January 1, 2023, Palo Alto Networks has partnered with SVP, our local utility, to procure 100%
+Approach
+renewable electricity from Western solar and wind facilities, to power our entire Santa Clara, CA headquarters. green power marketplace. Palo Alto
+Everyone benefits: This partnership helps SVP reach its climate goals, lowers our Scope 2 emissions and helps us to meet our Networks is an excellent example
+Science-Based Target to reduce absolute Scope 1 and 2 GHG emissions by 35% by 2027. Best of all, it increases the production
+for other organizations in reducing
+Cybersecurity
+and consumption of renewable electricity on our grid, lowering GHG emissions not just for our business, but for everyone in this
+community. greenhouse gas emissions through
+Environmental
+Our LCRE participation also led to Palo Alto Networks joining the U.S. Environmental Protection Agency (EPA)'s Green Power green power investment and use.”
+Fiscal 2023 At-a-Glance
+Partnership, a voluntary program for organizations of all sizes looking for frameworks through which to expand their use of renewable
+Climate Strategy
+energy. Palo Alto Networks’ efforts resulted not only in admission into the Green Power Partnership, but also in special recognition as
+Science-Based Targets
+a recipient of an annual Green Power Leadership Award for top EPA Partners. This recognition aligns with our belief that collaboration
+James Critchfield
+Sustainable Operations
+and the sharing of best practices are a critical way forward in the fight against climate change.
+Program Manager of EPA’s Green Power Partnership
+SPOTLIGHT
+“EPA applauds Palo Alto Networks for its leadership position in the green power marketplace. Palo Alto Networks is an excellent
+Sustainable Value Chain
+example for other organizations in reducing greenhouse gas emissions through green power investment and use." –James Critchfield,
+Stakeholder Engagement
+Program Manager of EPA's Green Power Partnership
+Social:
+Our People
+Social:
+Our Suppliers
+Social:
+Our Communities
+Governance:
+Our Integrity
+Appendix
+Palo Alto Network's Santa Clara Headquarters
+25
+Sustainable Value Chain:
+Environmental,
+Social and
+Partnering for Success
+Governance Report
+Introduction
+Collaboration across our value chain promotes the large-scale action necessary
+to address the climate crisis. Therefore, our environmental strategy extends to
+Approach
+our supply chain practices and how we partner with our suppliers as well as to our
+customer relationships via our products.
+Cybersecurity
+We design our Next-Generation Firewalls (NGFWs) with a focus on efficiency and environmental
+sustainability to help us reduce our emissions and lower our carbon footprint. This includes using
+Environmental high-efficiency components, such as platinum power supplies, to support our customers' power
+Fiscal 2023 At-a-Glance reduction efforts. We also design our NGFWs for optimal airflow and reduce power needs by using
+temperature-based fan controls and making them easy to repair and maintain. We eliminate weight
+Climate Strategy
+and waste by using recyclable materials and reducing the total number of components in our
+Science-Based Targets
+NGFWs. We also work with customers to minimize waste by optimizing the shipping configuration of
+Sustainable Operations
+our chassis-based firewalls and through our return and repair program.
+SPOTLIGHT
+Sustainable Value Chain
+We expect our manufacturing partners to collect, measure and report greenhouse gas emissions,
+Stakeholder Engagement
+establish Science-Based Targets (SBTs) to reduce emissions and transition to renewable energy
+sources. Additionally, suppliers are informed of our expectations to follow responsible business
+Social: practices while minimizing their impact on the environment and communities through our Global
+Our People Supplier Code of Conduct. Our primary contract manufacturer is ISO 14001–certified and a member
+of the Responsible Business Alliance.
+Social: Two of our own SBTs address Scope 3 emissions from our value chain, including those from the
+Our Suppliers supply chain of the goods and services we purchase and our customers’ use of our cybersecurity
+hardware products. These targets and our progress to date are described in detail on page 72.
+Social:
+Our Communities
+Palo Alto Networks was
+recognized as a CDP 2022 Supplier
+Governance:
+Engagement Leader for our
+Our Integrity
+efforts to engage our suppliers on
+environmental sustainability.
+Appendix
+26
+Environmental,
+Social and
+Governance Report
+Powering Cloud Software
+and Firewalls with
+Introduction
+Renewable Energy
+In 2023, we began a landmark collaboration with Google Cloud
+Approach
+(GCP) and Watershed to drive progress toward our “Use of Sold
+Products” Science-Based Target. By using GCP technology to
+host our cloud software and firewall products, we benefit from
+Cybersecurity
+their clean power sources, including renewable electricity, and in
+turn pass those emissions savings on to customers.
+Environmental
+The partnership also allows us to utilize Watershed’s
+Fiscal 2023 At-a-Glance
+cutting-edge climate platform to understand our greenhouse
+Climate Strategy
+gas inventory in new ways. We expect to utilize the platform’s
+Science-Based Targets
+interactive tools, comprehensive approach to data and other
+Sustainable Operations
+tools to support our efforts to reduce emissions from our
+SPOTLIGHT
+customers’ use of sold products by 40% by 2027.
+Sustainable Value Chain
+Stakeholder Engagement
+Social: Read more on how we extend our culture of
+Our People responsibility throughout our supply chain on page 19.
+Social:
+Our Suppliers
+Social:
+Our Communities
+Governance:
+Our Integrity
+Appendix
+27
+Stakeholder Engagement:
+Environmental,
+Social and
+Creating a Thriving Sustainability Ecosystem
+Governance Report
+Introduction
+Engaging with stakeholders across the public and private sectors — our industry peers, nongovernmental organizations, policymakers, local communities and our own
+employees — is the foundation of our sustainable ecosystem strategy.
+Approach
+Each of our stakeholder groups has an essential role in our pursuit of solving complex environmental challenges. Recognizing that addressing climate change will require collaboration
+on systemic issues, we work with these stakeholders to promote partnership and mutual learning.
+Cybersecurity
+In fiscal 2023, we supported several policy initiatives that advocate for climate action and clean energy. These include:
+Environmental
+• The World Economic Forum (WEF) Alliance of CEO Climate Leaders’ COP27 message urging collaboration between businesses and governments as they transition to net zero emissions.
+Fiscal 2023 At-a-Glance
+Climate Strategy
+• Ceres’ call for the SEC to introduce new regulations standardizing climate data disclosure in the U.S.
+Science-Based Targets
+• The Information Technology Industry Council’s (ITI) public comments supporting disclosure of Climate-Related Financial Risk.
+Sustainable Operations
+SPOTLIGHT
+We believe policy support is the most important thing we can do to proliferate renewable energy, address environmental injustice and keep everyone safe online. For examples of our cybersecurity policy
+Sustainable Value Chain
+advocacy see page 77.
+Stakeholder Engagement
+As part of our commitment to transparency and disclosure, our 2023 CDP Climate Change Response describes our efforts to refine our targets, execute formal strategies and scale Palo Alto Networks’
+Social:
+positive impact.
+Our People
+Social:
+Our Suppliers
+Social:
+Our Communities
+Governance:
+Our Integrity
+Appendix
+28
+Environmental,
+Social and
+Governance Report
+Activating Employees to Be a Force
+for Change
+Introduction
+Our employees are a powerful lever to advance climate action. We provide year-
+round opportunities for our employees to engage on environmental priorities in the
+Approach
+communities where they work and live.
+As an example, this spring, many of our ~14,000 global employees came together to
+celebrate Earth Month. Our “Just Do One Thing” campaign encouraged employees
+Cybersecurity
+to choose short activities that are easy to do but still have a meaningful impact.
+Environmental
+These “one things” included widespread participation in Earth Hour to turn off
+Fiscal 2023 At-a-Glance
+lights; e-waste recycling drives across the U.S., Europe, Australia and Israel;
+Climate Strategy
+beach clean-ups in Hong Kong and Singapore; a clothing drive in Amsterdam;
+Science-Based Targets
+sustainable travel seminars; a recycling awareness session in Dubai; vegan food
+Sustainable Operations
+tasting in Paris; a coffee ground soap-making workshop in Hong Kong; and more.
+SPOTLIGHT
+Sustainable Value Chain In addition, employees attended our FLEXLearn Sustainability 101 learning module, a
+Stakeholder Engagement virtual event explaining the company's vision for climate action and what employees
+can do in their roles to meet our corporate objectives.
+Social:
+Employees can also amplify their efforts through FLEXBenefits, which can be used
+Our People
+to pay for sustainable home retrofits, such as installing heat pumps, replacing natural
+gas appliances with electric alternatives or even setting up a garden rainwater
+Social:
+harvesting system. These benefits also apply to shipping of used personal IT
+Our Suppliers
+equipment and e-waste to our U.S. e-recycling partner, Human-I-T. In fiscal 2023,
+Do One Thing activations from Hong Kong and Singapore beach clean-ups.
+we diverted 2,352 pounds of e-waste from landfills by sending it to Human-I-T, which
+then refurbishes items and provides them to people in need, including low-income
+Social:
+families, veterans and recently arrived immigrants.
+Our Communities
+Governance:
+Our Integrity
+Appendix
+29
+Environmental,
+Social:
+Social and
+Governance Report
+Our People
+Introduction
+Introduction
+Approach
+About Our ongoing success is a reflection of the
+talent, passion and diversity of our team.
+Cybersecurity
+Cybersecurity
+& Privacy
+31
+Fiscal 2023 At-a-Glance
+Environmental
+Environment
+Social:
+32 Human Capital Management:
+Our People
+Our People Strategy
+Social:
+Fiscal 2023 At-a-Glance
+Our Workforce
+Human Capital
+Inclusion & Diversity:
+Management 33
+Driving Innovation and a Secure
+Inclusion & Diversity
+Future for All
+TSaolecnti aAcl:q uisition
+SSPuOpTpLIGlieHTrs
+36
+Talent Acquisition: Attracting the Best
+Talent Development
+and Growth
+Employee Engagement
+Social:
+Benefits
+Our Communities 37 SPOTLIGHT: Finding Talent Today to Help
+Safety
+Secure a Safer Tomorrow
+Social:
+Governance:
+38 Talent Development and Growth:
+Our Suppliers
+Our Integrity
+Personalization and Choice
+Social:
+40
+Employee Engagement:
+OApupr eCnodmixmunities
+Cultivating a Most Loved Workplace
+Governance:
+42
+Our Integrity Benefits: Focused on Personalization
+Appendix
+43 Safety: Providing Safe & Secure
+Hybrid Workplaces
+30
+Fiscal 2023 At-a-Glance
+Environmental,
+Social and
+Governance Report
+Our people are the key to making
+Introduction
+Introduction
+a positive impact in the world
+and to delivering on our purpose.
+Approach
+About Collaboration, listening, and inclusion
+at work, and in our communities
+Cybersecurity
+Cybersecurity is paramount. We will continue to
+& Privacy
+develop and invest in people —
+40+ 33 hours
+Environmental
+it’s just who we are.”
+Environment
+employer awards received
+development
+of
+Social:
+Our People
+training
+, per employee on
+Social:
+Fiscal 2023 At-a-Glance
+HO uu mr a nW Co apr ik taf lo rce average, completed through
+Management
+Inclusion & Diversity FLEXLearn
+TSaolecnti aAcl:q uisition
+SSPuOpTpLIGlieHTrs
+Talent Development
+and Growth
+Employee Engagement
+Social:
+Benefits
+Our Communities
+Safety
+Social:
+Governance:
+Our Suppliers
+Our Integrity
+Social:
+OApupr eCnodmixmunities Introduced Global Hiring Took California’s Equal
+Committees Pay Pledge
+to promote to further
+Governance:
+Our Integrity Aimee Hoyt
+shared understanding of hiring our efforts to achieve
+Chief People Officer
+standards across the organization pay equity
+Appendix
+31
+Human Capital Management:
+Environmental,
+Social and
+Our People Strategy
+Governance Report
+Introduction
+Introduction
+Palo Alto Networks strives to be the best place to
+work, for all employees. Our People Strategy is a
+Approach
+About comprehensive approach to source, hire, on-board,
+integrate, develop, listen to, engage and reward
+employees fairly and transparently. Our approach is
+Cybersecurity
+Cybersecurity grounded on core tenets: respect each employee as
+& Privacy
+an individual, demonstrate fairness and equity in all
+we do, personalization, and choice whenever possible,
+Environmental
+and nurturing a culture where our nearly 14,000
+Environment
+unique employees are inspired to do the best work of
+Social:
+their careers.
+Our People
+Social:
+Fiscal 2023 At-a-Glance
+Our values of disruption, execution, collaboration, inclusion,
+Our Workforce
+Human Capital
+and integrity were co-created with employees and serve
+Management
+Inclusion & Diversity as the foundation of our culture. Our inclusion and diversity
+TSaolecnti aAcl:q uisition philosophy is fully embedded in our talent acquisition, learning
+SSPuOpTpLIGlieHTrs and development, performance elevation, rewards and
+Talent Development
+recognition programs.
+and Growth
+Employee Engagement
+Social:
+Benefits
+Our Communities
+Safety
+Social:
+Governance:
+Our Suppliers
+Our Integrity
+Social:
+OApupr eCnodmixmunities
+Governance:
+Our Integrity
+Appendix
+32
+Inclusion & Diversity:
+Environmental,
+Social and
+Driving Innovation and a Secure Future for All
+Governance Report
+Introduction
+Introduction
+At Palo Alto Networks, we work to create an
+environment where our employees feel safe and
+Approach
+About secure at work. We know innovation cannot succeed
+without diverse representation and an inclusive,
+empowered workforce and we embrace diversity
+Cybersecurity
+Cybersecurity because it is vital to the continued success of our
+& Privacy
+company.
+Environmental
+Our Chief People Officer (CPO) has accountability for Inclusion
+Environment
+& Diversity (I&D) and the Compensation and People Committee
+Social: of our Board of Directors has oversight of I&D initiatives and
+Our People
+results. Our CPO provides an update on I&D progress to the
+Social:
+Fiscal 2023 At-a-Glance Compensation and People Committee and the full Board of
+Our Workforce
+Human Capital Directors quarterly.
+Management
+Inclusion & Diversity
+Our CPO is also supported by a dedicated I&D team and I&D
+TSaolecnti aAcl:q uisition
+subject-matter experts working within the Talent Acquisition and
+SSPuOpTpLIGlieHTrs
+Business Partner functions. Our CEO also provides tremendous
+Talent Development
+and Growth
+support and personal ownership of our I&D efforts. The diversity
+Employee Engagement
+Social: of our Board of Directors, with women representing 40% of our
+Benefits
+Our Communities Board as of July 31, 2023, is an example of our commitment to
+Safety
+I&D at all levels of the company. In fiscal 2023, 26% of global
+employees self-identified as women and 16% of U.S. employees
+Social:
+Governance:
+self-identified as coming from underrepresented backgrounds.
+Our Suppliers
+Our Integrity
+Social:
+OApupr eCnodmixmunities For more workforce data, view the tables at the end of
+this report and the multi-year diversity trends included
+on our website.
+Governance:
+Our Integrity
+Appendix
+33
+Our Holistic Approach
+Environmental,
+Social and
+Governance Report Our holistic approach to I&D is centered on our focus areas — employee network
+groups, understanding, listening, supporting and elevating. Through our employee
+network groups, we aim to engage employees through daily interactions aims to
+engage employees through daily interactions, learning circles and safe spaces,
+Introduction
+personal stories, events, articles and educational opportunities.
+Introduction
+EMPLOYEE NETWORK GROUPS BUILD UNDERSTANDING
+Approach
+AND AWARENESS
+About
+We strive to foster environments in which our employees feel safe. We currently have
+Cybersecurity eleven employee initiated and driven employee network groups (ENGs) that play
+Cybersecurity
+a vital role in building understanding and awareness. Thirty percent of our global
+& Privacy
+workforce was involved in at least one ENG in fiscal 2023. We involve our ENGs in
+quarterly listening sessions with executive teams and work in partnership to develop
+Environmental
+our annual I&D plans, because we believe inclusion is critical.
+Environment
+Social:
+Our ENGs engaged their members in meaningful experiences throughout fiscal
+Our People
+2023. To honor Pride Month, our Pride ENG partnered with Queer LifeSpace to
+Social:
+Fiscal 2023 At-a-Glance
+host meaningful activities across major U.S. sites that supported youth mental
+Our Workforce
+Human Capital
+health. In partnership with the Corporate Responsibility team and Cristo Rey San
+Management
+Inclusion & Diversity Jose Work Study Program, our Juntos ENG mentored 14 high school student interns
+TSaolecnti aAcl:q uisition throughout the school year, providing them with advice and guidance. Our Aloha’Aina
+SSPuOpTpLIGlieHTrs
+and InnovASIAN ENGs collaborated together to celebrate Asian American Native
+Talent Development
+Hawaiian Pacific Islander Heritage Month.
+and Growth
+Employee Engagement
+Social:
+To further our commitment, we continue to allocate charitable funding to our ENGs.
+Benefits
+Our Communities
+Safety Each of our ENGs directed $20,000 in grants to support nonprofit organizations
+committed to reaching the needs of underrepresented communities that align with
+S Go oc vi ea rl n: ance: their mission. In fiscal 2023, this program awarded $220,000 in charitable grants
+Our Suppliers
+Our Integrity across 40 community partners globally.
+Social:
+OApupr eCnodmixmunities
+Governance:
+Our Integrity
+Appendix
+34
+UNDERSTAND PAY EQUITY
+Environmental,
+Our leaders engage with their teams through personal
+Social and
+We are committed to equal pay for equal work, regardless of
+Governance Report storytelling, providing stories of how they execute with
+gender or ethnicity. This ongoing commitment is achieved
+excellence through inclusion. Each personal story navigates
+through semiannual analysis of total compensation (salary,
+their journeys to being inclusive leaders and these efforts are
+bonus and equity) conducted by independent compensation
+designed to encourage our workforce to be unique as they
+consultants. Our fairness and equity analysis includes gender
+Introduction execute in the industry.
+Introduction globally and race and ethnicity in the US. When we see
+unexplained differences in pay between groups we make
+LISTEN
+adjustments, and research them to apply our learnings into
+What Palo Alto Networks continues to do well is listen. We take
+Approach
+core processes.
+action based on the needs of our ENGs, our employees and our
+About
+communities to understand what can and will make us better.
+Palo Alto Networks complies with and supports statutory
+As an example, we listened to inputs from employees who
+gender pay public reporting requirements that have emerged
+Cybersecurity identify as LGBTQ+, veterans and persons with disabilities and
+Cybersecurity
+around the globe over the past number of years, including in
+then earned recognition from the Human Rights Campaign,
+& Privacy
+Australia, France, Israel, Spain and the UK. With governments
+Disability:IN and Military Friendly because of our actions. We will
+taking action to highlight this important business issue, we
+continue to listen and learn from one another.
+Environmental
+believe it will expedite the realization of equity and fairness for
+Environment
+all workers.
+SUPPORT
+Social:
+We aim to be the inclusion leader in cybersecurity. We know
+Our People
+In fiscal 2023, we doubled down on our commitment to pay
+that advancing I&D requires commitment and action at all levels
+Social:
+Fiscal 2023 At-a-Glance equity and transparency by taking California’s Equal Pay
+of the organization. Through FLEXLearn, our comprehensive
+Our Workforce
+Human Capital
+Pledge, an initiative led by the First Partner’s Office and the
+Management e-learning platform described on page 38, we’ve enabled
+California Commission on the Status of Women and Girls. As
+Inclusion & Diversity several modules to support our employees and leaders in
+part of this external pledge, we will continue to conduct an
+TSaolecnti aAcl:q uisition
+growing their leadership skills, leveraging our mentorship
+SSPuOpTpLIGlieHTrs annual company-wide gender pay analysis, review hiring and
+capabilities and participating in executive sponsorship programs.
+Talent Development promotion processes and procedures to reduce unconscious
+and Growth
+bias and structural barriers, and promote best practices that
+ELEVATE
+Employee Engagement
+Social:
+will close the pay gap to promote fundamental equity for our
+Benefits We are committed to uplifting and educating future generations
+Our Communities
+employees. We have decided to apply the California-specific pay
+Safety who will continue to diversify the cybersecurity industry. Our
+transparency legislation to all of our employees and practices in
+pledge is to champion diversity through strategic partnerships,
+Social: the United States. As of January 2023, we include a salary range
+Governance: cybersecurity education programs and recruiting channels
+Our Suppliers on job postings in the United States, and employees across the
+Our Integrity
+that create access into technology and cybersecurity for
+country are provided their salary range upon request.
+anyone, regardless of background. To date, we have maintained
+Social:
+partnerships with NSBE, AfroTech, Techqueria, Disability:IN,
+OApupr eCnodmixmunities
+SHPE, NCWIT, VetsinTech and have gained new partnerships
+with Sistas in Sales which focuses on bringing diverse women
+For additional information about our I&D programs,
+Governance: into the tech and sales industry. Learn more about our work with
+visit our website.
+Our Integrity nonprofit partners to diversify tech on page 58.
+Appendix
+35
+Talent Acquisition: Attracting the Best
+Environmental,
+Social and
+Governance Report
+We work to attract the best talent by providing them with opportunities to make an
+Introduction
+impact, flexibility to get the job done and challenging work to grow and develop.
+Introduction
+Recruiting Diverse Talent
+Approach
+About
+Sourcing and hiring diverse and underrepresented talent who possess the skills and capabilities
+to execute and add value to our culture is central to our comprehensive approach to talent
+Cybersecurity
+Cybersecurity acquisition. We do this by ensuring that we build and engage a long list of diverse candidates for
+& Privacy every requisition, with help from our talent research team. Nearly 100% of our interview panels have
+diverse representation. Our award-winning early talent team partners with hundreds of academic
+Environmental institutions, including colleges and universities, that focus on serving diverse populations, to
+Environment provide career pathways for early-in-career candidates. We offer a 12-week internship program
+Social: that challenges, supports and develops young cybersecurity talent pursuing both technical and
+Our People nontechnical roles as they expand their expertise and professional networks.
+Social:
+Fiscal 2023 At-a-Glance
+HO uu mr a nW Co apr ik taf lo rce Our yearlong LEAP Program for new graduates around the globe also helps propel careers in
+Management
+cybersecurity. Current employees can connect us with qualified candidates through our Employee
+Inclusion & Diversity
+Referral Program.
+TSaolecnita Alc: quisition
+SSPuOpTpLIGlieHTrs
+In fiscal 2023, we introduced Global Hiring Committees to ensure quality and equity throughout the
+Talent Development
+and Growth hiring process.. These committees play an integral role in elevating our hiring standards by promoting
+Employee Engagement shared understanding, reducing biases, enhancing objectivity and ensuring the recruitment of
+Social:
+Benefits
+Our Communities diverse talent.
+Safety
+We’ve taken strides to understand job requirements and implement structured interviewing
+Social:
+Governance:
+practices to identify candidates of the highest quality. We equip our hiring managers with essential
+Our Suppliers
+Our Integrity
+training to objectively identify and mitigate potential unconscious biases. Our interviewing process
+emphasizes values and competencies that we believe enhance our culture. This commitment
+Social:
+extends to conducting interviews with diverse panelists, providing a balanced evaluation and quality
+OApupr eCnodmixmunities
+interview experience for a diverse slate of candidates. We remain steadfast in our commitment to
+fairness, bias reduction, and equal opportunities for potential hires.
+Governance:
+Our Integrity
+Appendix
+36
+Environmental,
+Social and
+Governance Report
+Encouraging a Thriving Culture from Day One SPOTLIGHT
+Finding Talent Today to
+During fiscal 2023, we onboarded (including through acquisitions) 2,913 new employees. We
+believe that a positive onboarding and integration experience results in thriving employees and Help Secure a Safer Tomorrow
+Introduction
+Introduction rapid productivity.
+Our onboarding experience starts with “pre-boarding.” Before an employee’s start date, they are Recruiting the next generation of cybersecurity talent is crucial to ensuring Palo Alto Networks
+Approach
+provided access to foundational tools to help them prepare to join Palo Alto Networks. Welcome Day can continue protecting our digital way of life. With this key goal in mind, we created Secure
+About
+is a combination of in-person, virtual learning platforms and communication channels that provide the Future, a six-month competition that challenges the best and brightest college students.
+new employees with inspirational, often personalized, onboarding experiences that carry on through Students are tasked with identifying and addressing cyberthreats and cybersecurity in
+the first year of employment. We have specialized learning tracks for interns and new graduates, vulnerable industries that include Energy, Transportation, Finance, Healthcare, Education
+Cybersecurity
+Cybersecurity
+recognized externally as best in class, to support early-in-career individuals in acclimating to culture and E-Commerce.
+& Privacy
+as they progress on their career journey.
+Each year, up to 100 students
+Environmental As part of our merger and acquisition strategy, we have also established a robust integration are selected and provided with a
+Environment program to foster connection and commitment of acquired employees joining our team by helping self-paced academic course. Then they
+Social: them understand our mission, build relationships, establish a clear sense of belonging and promote research and learn about advanced
+Our People their ability to make an impact. During the first six months of integration, we take special care cybersecurity technologies and defense
+FS iso cc ali 2a 0l: 2 3 At-a-Glance to support a positive experience including training sessions and employee surveys to assess methods, participate in discussion
+HO uu mr a nW Co apr ik taf lo rce progress and identify areas where more focus might be needed to achieve the objectives of a threads, complete assignments and take
+Management
+successful integration. assessments that measure their learning
+Inclusion & Diversity
+progress. Finally, they write a report
+TSaolecnti aAcl:q uisition
+and create a video summary of their
+SSPuOpTpLIlGieHrTs
+proposed solutions to best secure the
+Talent Development
+and Growth industry that they chose to focus on.
+MISSION CRITICAL
+Employee Engagement
+Social:
+Benefits
+Our Communities The students ranked in the final top 10
+As a proud 2023 Military Friendly® Employer, and founded by military veterans, we’ve
+Safety
+are invited to present their findings to a
+developed a program to help enable the transition of veterans and transitioning service
+panel of experts from Palo Alto Networks
+Social: members to foster new skills and enjoy successful careers in cybersecurity.
+Governance:
+and also are eligible for résumé
+Our Suppliers
+Our Integrity
+review, mock interviews and actual job
+Veterans’ leadership, adaptability, problem-solving, teamwork, and commitment help
+interviews. Those ranked in the top three
+Social: drive our customers to a safer digital future. Our veterans have found a new mission in
+are awarded cash prizes of $10,000,
+OApupr eCnodmixmunities cybersecurity, shifting from battlefields to the latest, most demanding threat of our age. Our
+Mayank Sharma (1st Place) $5,000 and $2,500, respectively.
+philosophy starts with our Board members and executives and continues into our recruiting
+teams, with every individual committed to hiring and developing veterans across every
+Governance:
+business function.
+Our Integrity
+Appendix
+37
+Talent Development and Growth: Personalization and Choice
+Environmental,
+Social and
+Governance Report
+At Palo Alto Networks, we recognize that In addition, FLEXLearn provides employees with events
+Introduction
+the journey of growth and development is and activities that motivate and spark critical thinking, on
+Introduction
+topics ranging from Change Management to inclusion,
+unique for each and every individual. Our
+well-being and collaboration. On average employees
+approach to personalized learning provides
+completed 33 hours of development through the
+Approach the opportunity for our employees to assess
+About FLEXLearn platform during fiscal 2023.
+their own development needs and choose the
+learning path that is right for them. We empower
+To complement our FLEXLearn offering, we provide
+our employees by providing learning activities
+Cybersecurity
+Cybersecurity access to thousands of courses through our partnership AF
+L
+& Privacy at the point at which they are needed, driving with Coursera. Palo Alto Networks employees can partake F s s eE X g) r
+L sL n e
+autonomy with accountability. in courses from technology industry leaders like Google, E se y di h
+Environmental
+IBM and Microsoft, as well as professional development
+ESS
+F
+F
+L
+E
+X
+L
+X
+L
+e
+a
+d
+m
+e
+n
+ta
+d
+S
+e
+atewa nboar
+n
+Toget L
+E
+A
+S
+OEn
+o
+uv
+c
+ri ir Pao
+l
+en
+:
+om pe lent B FLu Eild Xi Ln eg
+a
+S rnkills Through c
+l aik
+vo
+e
+au ir
+P
+las re bins lec, u
+e
+inp
+to
+mt no
+u,
+d
+D
+lte
+iu
+pg
+k
+lr eee lae
+an
+nle
+d
+gv uHe al a,
+g
+rf
+v
+ero
+a
+sm
+r
+,
+d
+s
+.
+ul e
+T
+pa
+h
+pd
+e
+oi sn
+re
+tg
+i
+nc
+u gon
+u
+oiv
+r
+use rer gs si lt
+a
+oie
+r
+bes
+a l
+ASS
+P
+erf
+or
+mA as sL eE sX
+s
+mL e
+ea
+nr tn
+S
+ee la
+f
+-d
+3
+6
+0
+1 8 0 l f - G (o Lear
+F
+L
+E
+X
+Le
+arn R N
+n
+FS iso cc ali 2a 0l: 2 3 At-a-Glance employee audience. c e Cy cl e C o u r s e r a
+Our Workforce
+Human Capital
+Management We believe that each member of our workforce has To meet the emerging need for enablement on AI Disc & Insights
+Talent
+Inclusion & Diversity unique needs, interests and goals, and that their Intact Team
+technologies, our Learn AI Together program saw us
+Development
+TSaolecnti aAcl:q uisition career journey should be unique too. That’s why our partner with AI industry leaders like Google to build and
+EQ
+Assessment Development
+SSPuOpTpLIGlieHTrs development programs are grounded in individualization,
+deliver practical, hands-on sessions to both technical
+T aa nl de n Gt
+r
+D owev thelopment flexibility and choice.
+and nontechnical audiences around the globe.
+e s s
+m e
+n t s FLEXLead
+A s s
+Employee Engagement m g
+Social: Our FLEXLearn platform contains curated content and T e a hin M e
+B
+S
+S
+OO
+G
+Oae
+o
+uu
+o
+ufn
+e
+ce
+v
+rr rtyfi
+i e
+SC It as
+nrl
+uo
+n:
+t p
+em
+a
+p
+gnm
+rlc
+i
+ieu
+te
+yrn
+:
+s
+ities p
+o
+C
+ronr
+a
+lo
+e-
+pg
+t
+sahr
+,
+ba
+e
+em
+i- nlij to
+ss
+y
+ub, Gi
+r
+n
+p
+inuc
+r go
+il du
+j
+ted
+e
+hc
+si en
+t
+h
+ysg
+,
+a
+aa
+t ve
+rs
+e
+ecs bhe sus
+n
+es peom
+pnlo
+o
+e
+dg
+rn
+ey
+tt
+e
+vss de,
+a
+lc
+n
+io
+no
+d
+p
+u
+db
+er
+eo
+ds vxe
+f
+ee
+os ls,
+r
+o
+w
+a
+e
+pn
+mo indr
+p
+gk ms
+l
+toh
+ho
+yo eerp
+e
+es
+.
+, P
+s
+e
+m
+eu
+xme
+e
+ppe
+p
+n
+epr tl-
+ro
+o
+ot
+ier
+yo
+rt
+,e
+n-
+e
+mp
+e
+cde
+s
+ee
+t
+e
+nhh
+tr
+htar
+el
+o
+rve
+oeu
+ea
+u
+g
+or
+t
+gn
+h
+h
+r
+hi
+b
+en
+o
+o
+og
+ou
+ut
+pr
+h
+ti s
+M
+p
+t,
+hs
+to
+oet err
+n
+t
+o
+h
+cutn
+eo
+ong
+lr
+mi
+ptsl yy
+h
+ps
+te
+i
+h
+ap
+on
+a
+n
+p
+pc
+r ye
+.r
+ao
+o
+ru
+ktg
+nr icra
+oa
+ig
+p
+wme
+a
+ld
+,
+et
+w
+e
+da
+gh
+an
+s
+eed
+r
+a
+ae
+n d
+C o a Guc
+ided
+Projects
+FLEXLea Jr
+on
+u
+rneys M
+a n a
+g e
+mC
+h a n
+g e
+E v
+a l u a
+t
+iP
+o
+ne
+r f o r m
+a
+n
+cD
+e
+vC
+ea
+l
+or
+pe
+e mr
+e n
+tn t o r s
+hi p
+capabilities that can help them thrive in their role and do
+e e
+n
+Social: the best work of their careers. t
+OApupr eCnodmixmunities
+Development information about core business
+elements and required company-wide compliance
+DEVELOP
+Governance:
+training, such as Code of Conduct, privacy and security,
+Our Integrity
+anti-discrimination, anti-harassment, and anti-bribery
+training, are also deployed through the FLEXLearn
+Appendix
+platform for employees.
+38
+Environmental, Raising Leadership Capabilities Through FLEXLead
+Social and
+Governance Report
+To be the cybersecurity partner of choice, we need the best leaders in the industry, equipped with the tools to inspire their people and
+teams to do the best work of their careers. Our FLEXLead program ensures people leaders have access to specialized learning tracks,
+from Aspiring Leaders to Executive, that help them strategize, mobilize and deliver maximum personal and team performance.
+Introduction
+All leaders are supported by 360 feedback mechanisms that provide a comprehensive, multidimensional evaluation of their leadership
+Introduction
+capabilities. These assessment tools measure different aspects of leadership — such as emotional intelligence, decision-making skills,
+communication abilities and conflict resolution strategies — thus providing a holistic view of an individual’s strengths and areas of
+Approach development opportunities.
+About
+Furthermore, the programs help in identifying gaps in skills and knowledge, enabling leaders to craft personalized development plans.
+Cybersecurity
+Cybersecurity Since our FLEXLead offering was refreshed in January 2023, 405 people have successfully completed a program.
+& Privacy
+Performance Reviews: Meaningful Feedback and Coaching
+Environmental
+Environment
+Social: Leading with a growth mindset, measuring, recognizing and celebrating individual performance, is part of our mantra. We believe in an
+Our People “always-on” feedback and rewards philosophy. From small roundtable sessions with our CEO to quarterly performance feedback, to
+Social: recurring 1:1 sessions, to our peer-to-peer recognition platform Cheers for Peers, employees receive regular input about the value they
+Fiscal 2023 At-a-Glance
+HO uu mr a nW Co apr ik taf lo rce bring to the organization, as well as the opportunities available to them to continue to learn and grow.
+Management
+Inclusion & Diversity
+The most formal of our programs is a robust company-wide semiannual performance review process. These conversations are focused
+TSaolecnti aAcl:q uisition
+on both what an employee delivers and how they live our values and contribute to a culture where everyone feels they can do their best
+SSPuOpTpLIGlieHTrs
+work and thrive. From these conversations also come learning and development plans for the future, with a focus on adding a personal
+Talent Development
+and Growth development goal that is deeply meaningful to each individual.
+Employee Engagement
+Social:
+Benefits
+Our Communities
+Safety
+Growing Careers Through Internal Mobility
+Social:
+Governance:
+In an effort to foster career growth within Palo Alto Networks, we prioritize internal mobility. This allows current employees to progress
+Our Suppliers
+Our Integrity
+either through a traditional career path or by exploring roles across various business functions, often culminating in promotions.
+Our Internal Mobility Specialists coach and guide employees as they identify relevant roles. We were pleased to see that 11% of hires
+Social:
+during fiscal 2023 were internal, and many of those internal hires resulted in promotions for those individuals. Moreover, many women
+OApupr eCnodmixmunities
+and employees from underrepresented backgrounds who applied for new roles were successful in securing them. These results help
+demonstrate how employees, regardless of gender or ethnicity, are able to build meaningful careers at Palo Alto Networks.
+Governance:
+Our Integrity
+Our Board and management team recognize the importance of continually developing our talented employee base. Accordingly,
+our management team conducts an annual talent review of the current senior leadership positions as part of our succession
+Appendix planning processes.
+39
+Employee Engagement:
+Environmental,
+Social and
+Cultivating a Most Loved Workplace
+Governance Report
+Introduction
+Introduction
+We listen to employees, promote employee well-being and balance and offer
+competitive pay and benefits.
+Approach
+About
+Our Employees Are Seen and Heard
+Cybersecurity
+We foster employee engagement through a multifaceted approach to collecting, understanding and
+Cybersecurity
+& Privacy acting on employee feedback. Our comprehensive communication and listening strategy utilizes
+in-person and virtual channels to provide a regular flow of information to and between employees
+and leadership. These include:
+Environmental
+Environment
+• “All Company” meetings, including several meetings specifically focused on employee-centered
+Social:
+topics in an “Ask Me Anything” format
+Our People
+Social: • Digital displays across our sites
+Fiscal 2023 At-a-Glance
+Our Workforce
+Human Capital
+• Our intranet platform
+Management
+Inclusion & Diversity • Regular email communications
+TSaolecnti aAcl:q uisition
+• An active Slack platform
+SSPuOpTpLIGlieHTrs
+Talent Development
+• Regular executive listening sessions, including small group convenings with our CEO and other
+and Growth
+C-suite leaders
+Employee Engagement
+Social:
+Benefits • Ad-hoc pulse surveys to better understand employee engagement, sentiment and well-being
+Our Communities
+Safety
+• Always-on performance feedback and recognition programs, described on page 10
+Social:
+Governance:
+Employee feedback has helped us continue to personalize our work experience and informed
+Our Suppliers
+Our Integrity
+our holistic People Strategy, including our I&D initiatives, Internal Mobility program and how we
+communicate with employees.
+Social:
+OApupr eCnodmixmunities
+Employee sentiment is also collected and measured from external sources such as Glassdoor and
+Comparably, and in fiscal 2023 we earned more than 40 employee-focused awards.
+Governance:
+Our Integrity Based on employee feedback, external ratings and our modest attrition rate (compared to market
+trends), we believe employees at Palo Alto Networks feel engaged and rewarded.
+Appendix
+40
+Environmental,
+Social and Seeking Resolutions with our
+Governance Report
+Employee Relations Team
+We are proud of the way our workforce lives our values in their day-to-day work, an outcome of
+Introduction
+effective leadership and communication. At the same time, we recognize that occasionally conflicts
+Introduction
+arise that may require additional coaching and attention. In these instances our employee relations
+team, together with our legal team when appropriate, work with individuals and leaders to seek
+resolutions aligned to our core values. These teams follow a fair, equitable and, as appropriate,
+Approach
+About confidential process to address the concerns raised. This process is in addition to our Ethics Helpline,
+described on page 66, another channel for employees to raise concerns of any kind.
+Cybersecurity
+Our guiding principles are simple: G.I.V.E (Guidance, Integrity, Value and Experience). It’s important
+Cybersecurity
+& Privacy that our employees have a safe place to file their grievances, complaints or interpersonal conflicts.
+The employee relations team also provides guidance regarding upleveling employee performance,
+accommodations, organizational restructuring and investigations pertaining to violations of our
+Environmental
+“Respect in the Workplace” policy. The employee relations team drives accountability of our
+Environment
+employees in embodying and upstanding our core values and company culture.
+Social:
+Our People
+Social:
+Fiscal 2023 At-a-Glance
+Our Workforce
+Human Capital
+Management
+GUIDANCE EXPERIENCE
+Inclusion & Diversity
+TSaolecnti aAcl:q uisition
+SSPuOpTpLIGlieHTrs Provide managers with the right Create a positive experience for
+Talent Development tools to effectively coach and guide individuals who seek our partnership
+and Growth
+their teams.
+and expertise.
+Employee Engagement
+Social:
+Benefits
+Our Communities
+Safety
+Social:
+Governance:
+Our Suppliers
+Our Integrity
+INTEGRITY VALUE
+Social:
+OApupr eCnodmixmunities
+Ensure every aspect of our delivery Provide exceptional service as thought
+acts on the company's value system partners, collaborators and enforcers.
+Governance: and best practices.
+Our Integrity
+Appendix
+41
+Benefits: Focused on Personalization
+Environmental,
+Social and
+Governance Report
+As a global employer with a diverse employee population, we know that our employees have varying needs at
+Introduction
+different times in their lives. Palo Alto Networks Benefits flexibly support the safety and security of our employees
+Introduction
+and their families, now and in the future.
+Approach We strive to provide a range of thoughtful and comprehensive benefits that meet our employees where they are — all delivered with
+About
+simplicity. Our benefit plans include a variety of health, time-off, wellness and voluntary buy-up options (pet insurance, for example).
+Our FLEXBenefits program provides employees with additional funding allowance from which they can choose to obtain additional
+Cybersecurity
+Cybersecurity benefits that best fit their lifestyle needs. As we continue to get feedback from our employees on the benefits that matter most to them,
+& Privacy
+in fiscal 2023 we added many items to our already comprehensive FLEXBenefits offering, including sleep-related items (mattresses,
+pillows, white noise machines) and personal travel (airfare and lodging for employees, spouses and/or children). In EMEA, we also began
+Environmental to offer FLEX Public Holidays, where employees can choose to work on a company-recognized public holiday and then use that day
+Environment elsewhere in their schedule, where it makes more sense from a personal standpoint.
+Social:
+Our People
+Differentiating Pay for Performance
+Social:
+Fiscal 2023 At-a-Glance
+Our Workforce
+Human Capital
+Management
+Our approach to compensation includes broadly motivating pay programs where performance drives meaningful differentiation while
+Inclusion & Diversity
+being consistent and fair. All elements of pay (base salary, our three cash bonus programs and equity awards) are directly tied to
+TSaolecnti aAcl:q uisition
+individual performance.
+SSPuOpTpLIGlieHTrs
+Talent Development
+and Growth
+Employee Engagement Opportunity for Employee Stockholders
+Social:
+Benefits
+Our Communities
+Safety
+All employees are eligible to participate in our generous Employee Stock Purchase Plan, an optional plan that can create wealth
+for participants.
+Social:
+Governance:
+Our Suppliers
+Our Integrity
+Encouraging Well-being and Balance
+Social:
+OApupr eCnodmixmunities
+In an effort to encourage a healthy and balanced professional and personal life, we offer mental health support and coaching through
+Modern Health at no cost to employees, providing help for a wide range of issues including stress, emotional health and relationships,
+Governance:
+home life, financial and legal assistance, career support and more. One-third of our employees had engaged with Modern Health as of
+Our Integrity
+fiscal 2023 end.
+Appendix
+42
+Safety: Providing Safe & Secure Hybrid Workplaces
+Environmental,
+Social and
+Governance Report
+We act as a business enabler, delivering risk-based, data-driven, regulatory-compliant and user-friendly programs
+Introduction
+focused on protecting our people, property and assets.
+Introduction
+Our Global Places and Security (GPS) team maintains detailed programs to support our workforce and continue critical business
+functions during sustained events, including natural disasters, operational disruptions and security incidents. The team provides training
+Approach
+resources, including a series on Natural Disasters Preparedness, first aid training and self-defense seminars, to help prepare employees.
+About
+We continue to provide a suite of tools to help personalize employee safety, give employees the ability to stay informed in real time and
+to get instant support from Palo Alto Networks anywhere in the world. Environmental, Health and Safety (EHS) training is embedded
+Cybersecurity
+Cybersecurity into more than 35 EHS-specific FLEXLearn courses to provide employees with the knowledge on how to work safely, especially in our
+& Privacy
+specialized non-office environments, such as our labs.
+One of the major accomplishments of fiscal 2023 was the successful completion of our Global Security Operations Center (GSOC) build-
+Environmental
+out and our Regional Security Operations Center (RSOC) in Bangalore, India. These centers aim to enhance our security infrastructure
+Environment
+and response capabilities. The establishment of 24-hour redundancy in our security operations ensures continuous monitoring and London
+Social:
+response to potential threats.
+Our People
+FS iso cc ali 2a 0l: 2 3 At-a-Glance Also in fiscal 2023, we addressed more than 150 site deficiencies, successfully completing 75% of a comprehensive site deficiency
+HO uu mr a nW Co apr ik taf lo rce correction program. Addressing these deficiencies improves safety, functionality and overall operational effectiveness, as well as a
+Management
+reduction in site-related incidents and improvements in safety ratings.
+Inclusion & Diversity
+TSaolecnti aAcl:q uisition As we scale, we allocate resources to enhance our EHS capabilities, investing in technology, training, and dedicated personnel to monitor
+SSPuOpTpLIGlieHTrs and mitigate potential risks effectively. We have implemented a multifaceted strategy that combines technological solutions with procedural
+Talent Development
+enhancements. Our investment in cutting-edge security systems and continuous training for our security personnel ensures that our assets,
+and Growth
+data, and people remain safeguarded as we expand our global footprint.
+Employee Engagement
+Social:
+Benefits
+Our Communities
+Safety
+Redefining the Workplace with Flexible Spaces
+Social:
+Governance:
+As employees around the globe return to their workplaces after years of remote work, we have redefined the workplace and how we
+Our Suppliers
+Our Integrity
+engage with it. In September 2022, we launched our new flexible workspace concept at our headquarters in Santa Clara, California,
+Amsterdam
+that provides lounge and dining areas, individualized work studios, warm and collaborative meeting and project rooms, wellness spaces,
+Social:
+collaboration zones and spaces for both work and social events. Since then, we’ve expanded that concept to our newest offices in
+Photo credit: Peter Bass
+OApupr eCnodmixmunities
+London and Amsterdam to empower our employees to create more purposeful and meaningful physical and social connections.
+Employees can enjoy exclusive all-day dining menus, state-of-the-art technology throughout the space, onsite concierge services, fresh-
+Governance:
+Read more about how new offices are providing our
+Our Integrity made grab-and-go food and complimentary snacks and drinks.
+workforce with both a great and sustainable place
+For each new space, our GPS team created a comprehensive EHS Welcome Packet to provide essential safety information and
+to work.
+Appendix resources to employees. Global regulatory EHS incident reporting is made available to our employees through our online ticketing portal
+for global locations.
+43
+Environmental,
+Social:
+Social and
+Governance Report
+Our Suppliers
+IInnttrroodduuccttiioonn
+AApbpourotach
+We extend our culture of responsibility
+throughout our supply chain.
+Cybersecurity
+Cybersecurity
+& Privacy
+EEnnvviirroonnmmeennttal
+SSoocciiaall::
+OOuurr WPeoorpklfeorce
+Social:
+Social:
+Our Suppliers
+Suppliers
+Fiscal 2023 At-a-Glance
+Supply Chain Practices
+HSioghc-iRaislk: Suppliers
+Our Communities
+SPOTLIGHT 45
+Fiscal 2023 At-a-Glance
+Supplier Diversity
+Governance:
+Social: 46 Supply Chain Practices:
+Our Integrity
+Our Communities Our Extended Culture of Responsibility
+48 High-Risk Suppliers:
+Appendix
+Governance:
+Managing Risks from the Start
+Our Integrity
+49 SPOTLIGHT:
+Annual Supplier Recognition Event
+Appendix
+50 Supplier Diversity:
+Increased Quality and Innovation
+44
+Fiscal 2023 At-a-Glance
+Environmental,
+Social and
+Governance Report
+We conduct our business with a
+IInnttrroodduuccttiioonn
+focus on efficiency, responsibility
+and sustainability, and hold our
+AApbpourotach
+suppliers to the same high standards.
+Our suppliers help us further our
+Cybersecurity
+Cybersecurity
+& Privacy commitments to reduce emissions,
+supply chain ESG Prioritized examining support communities, increase equity
+Launched a
+EEnnvviirroonnmmeennttal and communicate transparently.”
+cybersecurity
+program the
+and incorporated it into
+practices
+cross-functional processes of our suppliers
+SSoocciiaall::
+OOuurr WPeoorpklfeorce
+Social:
+Social:
+Our Suppliers
+Suppliers
+Fiscal 2023 At-a-Glance
+Supply Chain Practices
+Social:
+High-Risk Suppliers
+Our Communities
+SPOTLIGHT
+Supplier Diversity
+Governance:
+Social:
+Our Integrity
+Our Communities
+Initialized a new team focus on
+Hosted an in-person
+Appendix
+Governance:
+supplier diversity and
+Annual Supplier
+Our Integrity
+green packaging efforts
+Recognition Event
+for
+Vonnie French
+Appendix the first time in three years
+SVP Worldwide Operations, Palo Alto Networks
+45
+Supply Chain Practices:
+Environmental,
+Social and
+Our Extended Culture of Responsibility
+Governance Report
+IInnttrroodduuccttiioonn
+Our ESG strategy extends to supply chain practices and impacts how we partner with our
+more than 5,000 direct and indirect suppliers. Integrity is one of our core values, and we
+expect our suppliers, and their suppliers too, to comply with the labor standards set forth
+AApbpourotach
+in our Global Supplier Code of Conduct (Code) and other applicable ESG policies and
+practices. This code of conduct allows us to reach across our supply chain to communicate
+our expectations regarding responsible business practices, labor standards, workplace
+Cybersecurity
+Cybersecurity
+& Privacy health and safety conditions, and environmental impact.
+Palo Alto Networks partners with contract manufacturers to produce our hardware products. We expect our
+manufacturing partners to report to us on ESG strategy on a semiannual basis (or sooner as required). Those
+EEnnvviirroonnmmeennttal
+reports should include any updates on their efforts to: reduce greenhouse gas emissions, establish Science-
+Based Targets to reduce emissions, transition to renewable energy, establish inclusion and diversity initiatives,
+commit to fair and equitable pay practices, administer a comprehensive ESG strategy across their business,
+SSoocciiaall::
+adhere to a code of conduct, ensure reporting options of potential misconduct, execute security and privacy
+OOuurr WPeoorpklfeorce
+practices that protect infrastructure and data, and support the communities in which they operate.
+Social:
+Social:
+Our Suppliers ESG is woven into our direct material supplier framework, including a risk-based approach to our supplier
+Suppliers
+selection process and, incorporation of relevant contractual clauses and audit rights into our Master
+Fiscal 2023 At-a-Glance
+Purchasing Agreements. Our risk-based approach factors in the information provided in annual supplier
+Supply Chain Practices
+surveys, scorecards and supplier business reviews. We also utilize a risk-based approach and third-party risk
+HSioghc-iRaislk: Suppliers
+management tools to evaluate ESG risks and supplier diversity, including use of diversity databases.
+Our Communities
+SPOTLIGHT
+Supplier Diversity
+Governance: Participating in the
+Social:
+Our Integrity
+Our Communities
+Responsible Business Alliance
+Appendix During fiscal 2023, we maintained our affiliate membership in the Responsible Business Alliance
+Governance:
+(RBA). Through the RBA, members, suppliers and stakeholders collaborate to improve working
+Our Integrity
+and environmental conditions as well as business performance through leading standards and
+practices. We view membership as a foundational component of our approach to corporate
+responsibility. In fiscal 2023, we focused on updating our Modern Slavery statement and
+Appendix
+reviewing more supplier assessments.
+46
+Environmental,
+Social and
+Governance Report
+Assessing Human Rights Risks
+Our long-standing Global Supplier Code of Conduct and our recently approved Human Rights Policy
+IInnttrroodduuccttiioonn
+(August 2023) are important in documenting our expectations that suppliers honor our commitment
+to human rights. Beyond communicating our expectations, we follow industry best practices when
+actively monitoring risks for incidents of human rights violations within our supply chain. This
+AApbpourotach
+includes actively monitoring negative media reports for appropriate action, conducting risk-based
+diligence and leveraging risk assessment resources of the Responsible Business Alliance to help
+identify suppliers who may be at high-risk for child, forced or compulsory labor issues.
+Cybersecurity
+Cybersecurity
+& Privacy
+We focus our risk assessments on suppliers where we have large annual spend, where Palo Alto
+Networks is a significant portion of their annual revenue, where the supplier’s technology impacts
+our business and where we have an overall strategic partnership with a supplier. Understanding risks
+EEnnvviirroonnmmeennttal
+related to human rights, among others, that these suppliers may pose is critical, from both a socially
+conscious and business impact perspective.
+SSoocciiaall:: In addition, suppliers who provide commodities or are within industries historically known to
+OOuurr WPeoorpklfeorce have high risks for labor incidents are subject to additional vetting processes. Suppliers located
+in countries or regions where labor force conditions have historically not been prioritized
+Social: within those countries or regions are also considered high-risk by Palo Alto Networks, and are
+Social:
+Our Suppliers
+managed appropriately.
+Suppliers
+Fiscal 2023 At-a-Glance
+Supply Chain Practices
+Promoting Cybersecurity for Our Suppliers
+HSioghc-iRaislk: Suppliers
+Our Communities
+SPOTLIGHT
+Security and data protection are integral to Palo Alto Networks’ mission and therefore are ingrained
+Supplier Diversity
+in our hardware product life cycle (design, sourcing, manufacturing, fulfillment and service). We are
+Governance:
+committed to meeting high standards of compliance and safety and our Next-Generation Firewalls
+Social:
+Our Integrity
+(NGFWs) undergo a rigorous testing process to ensure that they meet these standards. Our products
+Our Communities
+are subjected to electromagnetic interference, electrostatic discharge, vibration, shock and other
+testing. Knowing that a range of threats is possible at any stage, we have created a framework and
+Appendix
+Governance:
+processes to prevent potential risks and disruptions. These include ongoing periodic oversight and
+Our Integrity
+assessments of our contract manufacturers, original design manufacturing partners and direct
+material suppliers.
+Appendix
+47
+High-Risk Suppliers:
+Environmental,
+Social and
+Managing Risks from the Start
+Governance Report
+IInnttrroodduuccttiioonn
+If, after assessing risks based on the
+icon_HighRisk_Supplier icon_HighRisk_Risk icon_HighRisk_Onsite
+scoping considerations mentioned,
+AApbpourotach SUPPLIER RISK ONSITE
+a supplier is considered high-risk,
+VETTING MANAGEMENT WALKTHROUGHS
+Palo Alto Networks follows additional
+industry best practices to monitor
+Cybersecurity Before a supplier is onboarded, they Another part of onboarding includes We conduct onsite walkthroughs
+Cybersecurity
+the supplier for incidents of child,
+& Privacy go through a thorough vetting process gathering data on high-risk suppliers’ before operations begin and
+forced or compulsory labor, financial
+that includes a survey on key attributes risk management plans as well as throughout the partnership with key
+issues, geopolitical threats, natural listed above to ensure they meet Palo business impact analysis and visibility suppliers. The onsite team follows
+EEnnvviirroonnmmeennttal disasters, business continuity, security Alto Networks requirements. Through downstream into the supply chain. industry best-practice checklists
+practices, adherence to regulations and this process, suppliers also complete a Having these critical details up front for a full inspection of the facility.
+directives, and more in our supply chain. financial risk assessment, a quality allows us to act quickly in the event of a Any findings are shared with the
+SSoocciiaall:: survey and self-audit, and an internal supply chain disruption. appropriate teams and remediated.
+OOuurr WPeoorpklfeorce part qualification.
+Social:
+Social:
+Our Suppliers
+Suppliers
+Fiscal 2023 At-a-Glance
+icon_HighRisk_RESILIENCY icon_HighRisk_Annual Surveys icon_HighRisk_Scorecard
+Supply Chain Practices
+RESILIENCY ANNUAL SURVEYS SCORECARDS COMMUNICATION
+Social:
+High-Risk Suppliers
+Our Communities
+SPOTLIGHT
+We use leading, industry-recognized We regularly monitor the supplier Our key suppliers are scored Whether it’s during our annual
+Supplier Diversity tools to track supply chain resiliency for incidents that may change on a regular cadence based on supplier appreciation event, in a
+Governance: and monitoring due to environmental, their good standing and conduct their performance, including their scorecard review, or included in our
+Social:
+Our Integrity geopolitical and other events; financial annual surveys about labor participation in our environmental annual surveys, we take the time to
+Our Communities
+risk disruptions; component supply source practices to assess adherence to and social programs and in our communicate our expectations to
+assessment and monitoring for single our standards. resiliency and continuity programs. our suppliers. Our sourcing team is
+disruptions; and component compliance, dedicated to building relationships and
+Appendix
+Governance:
+including restriction of hazardous regularly communicates and interacts
+Our Integrity
+substances (RoHS as an example), with our supply chain partners. Our
+conflict minerals and other belief is that regular communication
+environmental requirements. helps ensure our suppliers prioritize the
+Appendix
+issues we value most.
+48
+Environmental,
+Social and
+SPOTLIGHT
+Governance Report
+Annual Supplier Recognition Event
+IInnttrroodduuccttiioonn
+This year’s annual supplier recognition event was the first held in-person since 2020. Approximately 200 people attended, including
+Palo Alto Networks direct and indirect suppliers and our senior leadership. This event is an opportunity to inform suppliers about industry
+~200 150+
+changes and keep them engaged and invested in our operations.
+AApbpourotach
+people Palo Alto Networks direct
+The well-attended event was a celebration of recent achievements, with suppliers receiving awards in multiple categories. Based
+on post-event surveys, the event received the highest satisfaction rating compared to previous years. Next year, we look forward to
+attended and indirect suppliers
+Cybersecurity
+introducing the first ESG award and are using this opportunity to motivate suppliers to set science-based emissions reduction targets.
+Cybersecurity
+& Privacy
+EEnnvviirroonnmmeennttal
+SSoocciiaall::
+OOuurr WPeoorpklfeorce
+Social:
+Social:
+Our Suppliers
+Suppliers
+Fiscal 2023 At-a-Glance
+Supply Chain Practices
+HSioghc-iRaislk: Suppliers
+Our Communities
+SPOTLIGHT
+Supplier Diversity
+Governance:
+Social:
+Our Integrity
+Our Communities
+Appendix
+Governance:
+Our Integrity
+Appendix
+49
+Supplier Diversity:
+Environmental,
+Social and
+Increased Quality and Innovation
+Governance Report
+IInnttrroodduuccttiioonn
+We believe building an inclusive environment
+and collaborating with individuals who bring
+diverse experiences make us a stronger company.
+AApbpourotach
+This extends to our global supply chain and our
+commitment to increasing our awareness of and
+engagement with diverse businesses.
+Cybersecurity
+Cybersecurity
+& Privacy
+We expect our manufacturing partners to establish
+inclusion and diversity initiatives that result in greater equity
+and representation, and to commit to fair and equitable
+EEnnvviirroonnmmeennttal
+pay practices.
+A cross-functional working group continues to explore best
+SSoocciiaall::
+practices and is working with partners such as Western Regional
+OOuurr WPeoorpklfeorce
+Minority Supplier Development Council and National Minority
+Supplier Development Council to support our work to enhance
+Social:
+Social: our procurement policies and establish metrics to measure our
+Our Suppliers
+Suppliers progress in growing the diversity of our supply chain.
+Fiscal 2023 At-a-Glance
+Supply Chain Practices
+In fiscal 2023, we attended our first Supplier Diversity
+HSioghc-iRaislk: Suppliers
+Conference. The conference included pressing topics such as
+Our Communities
+SPOTLIGHT
+AI’s role in business diversity, recent court rulings on Affirmative
+Supplier Diversity
+Action and others. It provided an opportunity to network with
+Governance: other business diversity professionals and strengthened the
+Social:
+Our Integrity collaboration across industries. Attendance at this conference
+Our Communities
+was critical to growing our Supplier Diversity Program and
+learning how other industry leaders are building and promoting
+Appendix their business diversity.
+Governance:
+Our Integrity
+Read more about environmental sustainability in our
+Appendix
+supply chain in the Environmental Section on page 26
+50
+Environmental,
+Social: Our
+Social and
+Governance Report
+Communities
+IInnttrroodduuccttiioonn
+AApbpourotach
+We partner with our communities to
+make a lasting impact.
+Cybersecurity
+Cybersecurity
+& Privacy
+EEnnvviirroonnmmeennttal
+SSoocciiaall::
+OOuurr WPeoorpklfeorce
+SSoocciiaall::
+OSuupr pSluieprpsliers
+Social:
+Social:
+Our Communities
+52
+Fiscal 2023 At-a-Glance
+Our Communities
+Fiscal 2023 At-a-Glance
+Cybersecurity Education
+and Training
+Governance: 53 Cybersecurity Education and Training:
+Employee Volunteering
+Our Integrity Inspiring and Investing in the Future
+and Giving
+SPOTLIGHT
+57 Employee Volunteering and Giving:
+Charitable Investments
+Appendix Making an Impact That Matters
+Governance:
+Our Integrity
+58 SPOTLIGHT:
+Impact in Every Corner of the Globe
+Appendix
+59 Charitable Investments:
+Uplifting Our Communities
+51
+Fiscal 2023 At-a-Glance
+Environmental,
+Social and
+Governance Report
+We deeply value our role as a good
+corporate citizen and a partner to
+IInnttrroodduuccttiioonn our communities. We are passionate
+about cybersecurity awareness,
+education, diversity and meeting
+AApbpourotach
+basic human needs. We feel uniquely
+positioned to make an impact in
+Cybersecurity
+Cybersecurity
+& Privacy these areas and are proud of how we
+executed on our global social impact
+9,338 2,400+
+EEnnvviirroonnmmeennttal
+programs in 2023.”
+academic institutions and
+hours volunteered
+nonprofits leverage our
+SSoocciiaall:: by employees to support
+OOuurr WPeoorpklfeorce
+Cybersecurity Academy
+our communities
+program globally
+SSoocciiaall::
+OSuupr pSluieprpsliers
+Social:
+Social:
+Our Communities
+Our Communities
+Fiscal 2023 At-a-Glance
+Cybersecurity Education
+and Training
+Governance:
+Employee Volunteering
+Our Integrity
+and Giving
+SPOTLIGHT
+Charitable Investments
+Appendix
+Renewed and extended our
+Governance: $3.7M+
+Our Integrity
+support
+scholarship programs to
+charitable
+invested through
+Liane Hornsey
+Black and Latin American/
+EVP, Palo Alto Networks
+Appendix
+contributions
+Hispanic students
+52
+Cybersecurity Education and Training:
+Environmental,
+Social and
+Inspiring and Investing in the Future
+Governance Report
+IInnttrroodduuccttiioonn
+Our vision of a safe and secure world can best be
+achieved through the responsible use of technology.
+AApbpourotach
+As a cybersecurity leader, we see firsthand that the
+number of cyberthreats is increasing as the security
+landscape becomes more and more complex. The
+Cybersecurity
+Cybersecurity
+& Privacy COVID-19 pandemic accelerated changes in how
+we learn, connect and socialize, and it exposed how
+some communities are more vulnerable than others
+EEnnvviirroonnmmeennttal
+to cybercrime.
+Although many of our youth are native to digital environments,
+SSoocciiaall::
+they often lack security awareness and the habits needed to keep
+OOuurr WPeoorpklfeorce
+themselves safe online. Similarly, individuals who are adapting to
+the current digital landscape at their own pace, such as seniors,
+also find it challenging to navigate the internet safely. In addition
+SSoocciiaall::
+to this, the cybersecurity industry continues to experience high
+OSuupr pSluieprpsliers
+demand for qualified, available and diverse talent in the workforce.
+Social:
+OSo uc r i Cal o: mmunities We are uniquely positioned to address these challenges. We
+Our Communities provide high-quality, free, educational content and tools that
+Fiscal 2023 At-a-Glance
+demystify technical concepts and inspire youth; increase
+Cybersecurity Education
+and Training digital literacy and cultivate generations of responsible digital
+Governance:
+Employee Volunteering citizens; prepare young professionals to pursue future careers in
+Our Integrity
+and Giving
+cybersecurity; and upskill and diversify the workforce of today.
+SPOTLIGHT
+Charitable Investments We deliver these materials and trainings, many of which were
+Appendix
+developed in part by our passionate employees, through
+Governance:
+partnerships with nonprofits and academic institutions. These
+Our Integrity
+organizations share our passion for a secure digital future and
+have the capacity to reach millions of people representing diverse
+communities around the world.
+Appendix
+53
+Environmental, Increasing Cybersecurity Literacy
+Social and
+Governance Report
+IInnttrroodduuccttiioonn
+AApbpourotach
+Cybersecurity
+Cybersecurity
+& Privacy
+EEnnvviirroonnmmeennttal
+CYBER A.C.E.S CYBER STARS PRO{TECH}TING GIRL SCOUTS CYBERSECURITY
+YOUR DIGITAL LIFE OF THE USA EDUCATION IN
+SSoocciiaall::
+Our Cyber A.C.E.S. (Activities Cyber STARS emphasizes our
+SCHOOLS
+OOuurr WPeoorpklfeorce
+in Cybersecurity Education for commitment to addressing the
+Protecting Your Digital Life is Since engaging with Girl Scouts
+Students) program continues to racial disparity in technology —
+a series of free, downloadable of the USA to create and launch
+We also expand our reach and
+SSoocciiaall:: grow — reaching youth not only particularly in the Black workbooks that allows individuals the first-ever cybersecurity badge
+help close STEM gaps through
+OSuupr pSluieprpsliers in the U.S. and Canada but also community — by increasing of all ages to explore various program in 2018, more than
+partnerships. We continue to
+in Australia, Japan, Singapore exposure, access and support cybersecurity concepts and 330,000 cybersecurity badges
+partner closely with the state
+Social:
+and India. This free cybersecurity to underrepresented students best practices at their own have been earned. Together,
+of North Dakota to bring robust
+Social:
+Our Communities
+awareness program for kids ages ages 5 to 25. Through this pace without needing an active we are helping to eliminate
+cybersecurity education to
+Our Communities
+Fiscal 2023 At-a-Glance
+5 to 15 is available in multiple employee-led program, we internet connection. These self- traditional gender barriers
+K-20 students and educators
+Cybersecurity Education languages and provides students partner with organizations paced workbooks are an excellent to accessing cybersecurity
+throughout the state. We also
+and Training
+Governance: with the cybersecurity basics they serving large numbers of resource to guide small group education for girls across the
+proudly support the work of
+Employee Volunteering
+aO nu d r G iI vn int gegrity need for safer online experiences underrepresented students to discussions or to share directly U.S. and supporting gender Khan Academy (a nonprofit
+and helps them become good create opportunities through with young adults, the elderly and parity in the tech workforce by
+SPOTLIGHT educational organization) to
+digital citizens. Palo Alto Networks education, training, mentorship other vulnerable communities. encouraging girls to pursue work
+Charitable Investments further improve K-12 learning
+Appendix employees also volunteer to and economic empowerment. in fields where they’ve been
+outcomes in established and
+Governance: deliver lessons to schools and traditionally underrepresented.
+emerging STEM subjects like
+Our Integrity nonprofit organizations.
+math, science, cybersecurity
+and AI which build a strong
+foundation for success in the
+Appendix
+workforce of the future.
+54
+Environmental,
+Social and
+Governance Report
+Reducing Barriers to Higher Learning
+IInnttrroodduuccttiioonn
+CYBER SCHOLARS PROGRAM
+AApbpourotach In fiscal 2023, we partnered with Thurgood Marshall College Fund to identify and select a cohort
+of 14 scholarship recipients from Historically Black Colleges and Universities (HBCUs) and
+Predominantly Black Institutions (PBIs) for the Cyber Scholars program during the 2023-2024
+Cybersecurity academic year. The selected scholars are studying tech-related STEM and business disciplines and
+Cybersecurity
+& Privacy are offered mentorship with a Palo Alto Networks employee through the program. We also extended
+the Cyber Scholars program to include support for Latin American and Hispanic communities
+through additional partnerships with the Hispanic Association of Colleges and Universities (HACU),
+EEnnvviirroonnmmeennttal Raíces Cyber and the José M. Hernández Reaching for the Stars Foundation.
+HARDING MILLER EDUCATION FOUNDATION
+SSoocciiaall::
+OOuurr WPeoorpklfeorce
+In fiscal 2023, we partnered with the Harding Miller Education Foundation (HMEF) to provide a
+four-year scholarship to an incoming ninth-grade student who is experiencing socioeconomic
+SSoocciiaall::
+hardship. HMEF serves students from rural communities that are not well connected to the internet
+OSuupr pSluieprpsliers
+and those that lack access to the resources needed to make the most of their education. The aim
+of this scholarship is to provide a female student from an Indigenous community who is interested
+Social:
+in technology-related STEM fields with the resources to succeed through high school and
+Social:
+Our Communities
+into university.
+Our Communities
+Fiscal 2023 At-a-Glance
+Cybersecurity Education
+and Training
+Governance: IIT (BHU) FOUNDATION’S ACCESS FUND
+Employee Volunteering
+Our Integrity
+and Giving
+In November 2021, Palo Alto Networks, together with a personal contribution from our Chair and
+SPOTLIGHT
+Chief Executive Officer Nikesh Arora, established the IIT (BHU) Foundation’s Access Fund. The Fund
+Charitable Investments
+Appendix created an endowment to provide means-based scholarships to enable underserved students to
+Governance: attend the premier Institute. As of 2023, a total of 43 four-year, full-ride scholarship recipients are
+Our Integrity attending the Institute.
+Appendix
+55
+Inspiring the Next Generation
+Environmental,
+Social and
+of Diverse Cybersecurity Talent
+Governance Report
+CYBERSECURITY ACADEMY
+IInnttrroodduuccttiioonn
+Started in 2013, our Cybersecurity Academy now provides a curriculum of introductory-to-advanced
+cybersecurity courses to more than 2,400 middle schools, high schools, community colleges and
+universities in more than 90 countries around the world. This free curriculum was developed to
+AApbpourotach
+NICE-NIST standards and prepares the next generation of professionals for successful careers in
+cybersecurity. More than 500,000 students have engaged with the program through Academy
+partners, digital learning and student competitions since the program began in 2013. The program
+Cybersecurity
+Cybersecurity is free to academic institutions and nonprofits, and includes a comprehensive curriculum, hands-on
+& Privacy
+labs, faculty training, student competitions and events.
+EEnnvviirroonnmmeennttal
+WOMEN IN CYBERSECURITY
+We embrace diversity and support nonprofit partners working to change the face of cybersecurity
+SSoocciiaall::
+and tech. We are a founding partner of Women in Cybersecurity (WiCyS), which helps build a strong
+OOuurr WPeoorpklfeorce
+cybersecurity workforce with gender equality by facilitating recruitment, retention and advancement
+for women in the field. WiCyS offers mentoring, training programs, scholarships, virtual and in-
+person conferences, leadership series, career fairs, webinars and more to women at all stages of their
+SSoocciiaall::
+cybersecurity career journey.
+OSuupr pSluieprpsliers
+Social:
+OSo uc r i Cal o: mmunities SUPPORTING VETERANS
+Our Communities
+Fiscal 2023 At-a-Glance
+We partner with organizations that support our veteran community with career transitions and other
+Cybersecurity Education
+and Training services, including VetsinTech, Hiring Our Heroes, Corporate Grey and Vets2Industry. In fiscal 2022,
+Governance:
+we became a U.S. Department of Defense SkillBridge program partner, through the coordination
+Employee Volunteering
+Our Integrity
+and Giving
+of our VetsNet ENG. The program provides an opportunity for service members to gain valuable
+SPOTLIGHT civilian work experience during the last 180 days of their service. In fiscal 2023, through SkillBridge,
+Charitable Investments we onboarded 10 service members, providing mentorship and education to help prepare them for
+Appendix
+careers. Two of these individuals were then brought on as full-time employees.
+Governance:
+Our Integrity
+UPSKILLING VETERANS & DIVERSE YOUNG ADULTS
+Appendix Our work with NPower’s Advancing Tech Careers Collaborative helps NPower graduates land
+in-demand tech careers. The program upskills veterans and diverse young adults in advanced
+technology fields, including cybersecurity and cloud computing, and places them into open jobs.
+56
+Employee Volunteering and Giving:
+Environmental,
+Social and
+Making an Impact That Matters
+Governance Report
+IInnttrroodduuccttiioonn
+Through our volunteering, matching and giving programs, we boost employee engagement and
+satisfaction, and make a difference in the communities where we live and work.
+AApbpourotach
+Connecting with Our Communities
+Cybersecurity
+Cybersecurity
+& Privacy
+As a feature of our robust volunteering program, employees are encouraged to take paid time off to volunteer during
+the workday using Flexible Time Off (FTO). Employees volunteer as individuals, and frequently as groups with their
+peers, departments, employee network groups (ENGs) or through local committees we call SMILE (Service Making
+EEnnvviirroonnmmeennttal
+Individuals' Lives Easier).
+We partner with nonprofits to offer a variety of in-person and virtual experiences to our employees. Many of our
+SSoocciiaall::
+departments and ENGs continue to partner with Project Helping to assemble and then distribute kits to community
+OOuurr WPeoorpklfeorce
+organizations. At the end of fiscal 2023, we launched “Thankful Thursdays,” a series of volunteer events at our
+headquarters. Moving forward, we plan to select one Thursday per quarter to host opportunities for our employees to
+SSoocciiaall:: come together to uplift our communities in meaningful ways. We hope to scale this globally in the future. In fiscal 2023,
+OSuupr pSluieprpsliers employees volunteered more than 9,300 hours of their time.
+Social:
+Social:
+Our Communities Giving to Those in Need
+Our Communities
+Fiscal 2023 At-a-Glance
+Cybersecurity Education We allocate up to $1,000 per calendar year, per employee, to use between our volunteer Dollar-for-Doers program and 9,338 2,202
+and Training
+Governance: charitable matching. And we highlight causes through “drives,” such as our Annual Hunger Campaign and relief efforts
+Employee Volunteering
+Our Integrity for natural disasters and humanitarian crises. hours of volunteer time charitable causes
+and Giving
+SPOTLIGHT supported by
+My SMILE Rewards, introduced in fiscal 2022, “seeded” employee accounts with funding that could be redeemed
+Charitable Investments
+employees
+Appendix as a donation to causes of their choice. This was well received by our employees and in fiscal 2023, we enhanced
+the program by partnering with our employee rewards program, Bonusly. Through Bonusly, employees are awarded
+Governance:
+Our Integrity points to recognize their peers' contributions to Palo Alto Networks. Now, employees can accumulate these Bonusly ~$1.13M $884K
+points and redeem them as My SMILE Rewards to support any eligible nonprofit on our platform. We also recognize
+employees with My SMILE Rewards to celebrate amazing efforts in their communities. Through direct employee giving,
+donated by employees matched by Palo Alto
+our corporate matching gifts, and My SMILE Rewards, more than $2M was donated to causes employees care about in
+Appendix
+Networks
+fiscal 2023.
+57
+SPOTLIGHT
+Environmental,
+Social and Impact in Every Corner of the Globe
+Governance Report
+IInnttrroodduuccttiioonn
+AApbpourotach
+Cybersecurity
+Cybersecurity
+& Privacy
+AUSTRALIA AND NEW ZEALAND (ANZ) APAC THAILAND
+ANZ’s fiscal 2023 volunteer activities reflected the values of our In spring of 2023, we asked our customers to nominate a school or Families attended the launch of the CyberSafe Kids program at the
+EEnnvviirroonnmmeennttal
+employees and supported causes including education, mental organization to receive free cybersecurity learning materials. This Jittamet School in Thailand. At the Ploen Pattana School, teachers
+health, environmental conservation, cancer research and support for resulted in Cyberlite books being distributed to schools in Singapore, and parents attended our CyberSafe Kids workshop where Major
+disadvantaged communities. Australia and the Philippines. General Pawish Burapachonlatit, Acting Director Office of the
+National Cyber Security Agency (NCSA), discussed the importance
+SSoocciiaall::
+Some highlights include: distributing CyberSafe Kids Program kits at of educating children and parents about cybersecurity.
+OOuurr WPeoorpklfeorce
+the Essendon Football Club Family Day; donating blood; participating SINGAPORE
+in Black Dog Institute’s walk for mental health; delivering Cyber
+A.C.E.S. to Māori and Pacific Island students from secondary schools Palo Alto Networks partnered with Cyberlite Books and SG Her
+SSoocciiaall::
+in South Auckland (in partnership with One New Zealand, The Rising Empowerment to bring Safer Internet Day 2023 to the Singapore
+OSuupr pSluieprpsliers
+Foundation and Fibre Fale); partnering with Ardoch to host students Office. We hosted students from West Grove Primary School,
+from Bannockburn Secondary College at our Melbourne office for a teaching them internet safety and how to seek assistance if they are
+Social:
+Cyber Career Pathways event; and, in partnership with Kmart Group, facing online harm.
+Social:
+Our Communities
+providing CyberSafe Kids online workshops.
+Our Communities
+Fiscal 2023 At-a-Glance
+Additionally, in October 2022, we launched CyberFit Nation in INDIA
+Cybersecurity Education
+and Training Australia, a free, all-encompassing program that helps people and
+Governance:
+businesses be more secure online. The program provides master During fiscal 2023, Palo Alto Networks’ India site played a huge
+Employee Volunteering
+Our Integrity
+and Giving classes and clinics for all ages and audiences, and is delivered both role in uplifting local communities. A few examples include: hosting
+virtually and through face-to-face sessions with industry partners. teachers from the National Public School, Koramangala branch to
+SPOTLIGHT
+educate them on the importance of cybersecurity; volunteering at
+Charitable Investments
+In December, a Sales Specialist conducted cyber awareness Akshaya Patra Kitchen to prepare midday meals for schoolchildren;
+Appendix
+sessions for students at the Greensborough Primary School, utilizing creating eco-friendly notebooks from discarded paper to be
+Governance:
+Cyber A.C.E.S. activities and themes appropriate to each age group. distributed to a government school in Bangalore; and collecting
+Our Integrity
+and distributing large cartons of books, stationery, coloring and
+story books, geometry sets and more through a Book & Stationery
+Donation Drive hosted at our India sites to the Government Model
+School in rural Bangalore.
+Appendix
+58
+Charitable Investments:
+Environmental,
+Social and
+Uplifting Our Communities
+Governance Report
+IInnttrroodduuccttiioonn
+If sharing is caring, then Palo Alto Networks continues to demonstrate our compassion and heart for communities
+in need. In addition to investing in cybersecurity education and diversity, we support nonprofit organizations
+AApbpourotach
+focused on causes that matter to our business and employees, including mental health and wellness, hunger, basic
+needs, the environment and social justice.
+Cybersecurity
+As an example, in February 2023, Turkey and Syria were devastated by a powerful earthquake. Palo Alto Networks donated $75,000 to
+Cybersecurity
+& Privacy
+several organizations and matched employee donations to qualifying organizations.
+In fiscal 2023, Palo Alto Networks and its employees invested $3.7M+ in nonprofit organizations through corporate grants, employee
+EEnnvviirroonnmmeennttal
+donations and matching (including Dollars-for-Doers and My SMILE Rewards). We are proud and humbled to have together invested in
+the work of more than 2,200 nonprofits, including these beneficiaries (partial list):
+SSoocciiaall::
+OOuurr WPeoorpklfeorce
+1. Ahbap (via Bridge to Turkiye) 10. Harding Miller Education Foundation
+19. Off the Street Club
+SSoocciiaall::
+2. AKUT Arama Kurtarma Derneği 11. Hispanic Association of Colleges and
+20. Raices Cyber (via Hack Foundation)
+OSuupr pSluieprpsliers
+Universities
+3. Cristo Rey San Jose High School
+21. Sacred Heart Community Service
+Social:
+12. Human-I-T
+Social: 4. CYBER.ORG (via Cyberspace
+Our Communities 22. San Jose Children's Discovery
+Our Communities Innovation Center Incorporated) 13. International Rescue Committee Inc.
+Fiscal 2023 At-a-Glance Museum
+Cybersecurity Education 5. Family Giving Tree 14. Jose Hernandez Reaching for the
+23. Second Harvest of Silicon Valley
+and Training
+Governance: Stars Foundation
+Employee Volunteering 6. Girls Who Code, Inc.
+24. The Bismarck State College
+Our Integrity
+and Giving
+15. Khan Academy Inc
+Foundation
+7. Green Bronx Machine International
+SPOTLIGHT
+Inc. 16. National Cybersecurity Alliance
+25. UStrive (formerly Strive for College
+Charitable Investments
+Appendix
+Inc.)
+8. Habitat for Humanity Australia 17. National Society of Black Engineers
+Governance:
+Our Integrity 9. Hack the Hood Inc 18. NPower Inc
+Appendix
+The Palo Alto Networks Foundation, the Palo Alto Networks Cybersecurity Education Fund, and the Palo Alto Networks COVID Relief
+Community Fund are corporate-advised funds (CAFs) administered by the Silicon Valley Community Foundation and the Foundation for
+the Carolinas through which Palo Alto Networks makes charitable contributions.
+59
+Environmental,
+Governance:
+Social and
+Governance Report
+Our Integrity
+Introduction
+Introduction
+Approach
+About Integrity is deeply ingrained within our culture
+and is the foundation of everything we do.
+Cybersecurity
+Cybersecurity
+& Privacy
+Environmental
+Environment 61
+Fiscal 2023 At-a-Glance
+Social:
+OSoucr iPale: ople
+62
+Corporate Governance: Effective
+Our Workforce
+Decision-Making
+Social:
+OSoucr iSalu: ppliers 63 Board Diversity: Embodying Our
+Suppliers Commitment to Equity
+Social:
+64 Risk Oversight: Proactive Mitigation
+OSoucr iCalo: mmunities
+and Management
+Our Communities
+Governance:
+Our Integrity
+65 Executive Compensation:
+Governance:
+Linked to ESG Goals
+Fiscal 2023 At-a-Glance
+Our Integrity
+Corporate Governance
+Board Diversity
+66 Ethics & Corporate Behavior:
+Risk Oversight
+Doing the Right Thing
+Appendix
+Executive Compensation
+Ethics & Corporate Behavior
+SPOTLIGHT: Increasing Transparency
+SPOTLIGHT 67
+and Communicating Clearly
+Global Policy
+Appendix
+68
+Global Policy: Shaping a Secure Future
+60
+Fiscal 2023 At-a-Glance
+Environmental,
+Social and
+Governance Report
+Leading with integrity is a core
+value at Palo Alto Networks. It starts
+Introduction with our diverse Board, which not
+Introduction
+only embodies our commitment
+to equity but also insists that high
+Approach
+About
+ethical standards lie at the center
+of all that we do. Just as unflagging
+Cybersecurity
+Cybersecurity
+is our leadership's attention to the
+& Privacy
+professional development of our
+80% 40%
+Environmental
+team members and maintaining a fair
+Environment
+of Board Directors of Board Directors
+and inclusive workplace."
+independent self-identify as women
+Social: are
+OSoucr iPale: ople
+Our Workforce
+Social:
+OSoucr iSalu: ppliers
+Suppliers
+Social:
+OSoucr iCalo: mmunities
+Our Communities
+Governance:
+Our Integrity
+Governance:
+Fiscal 2023 At-a-Glance
+Our Integrity
+Corporate Governance
+Formalized our Human
+Board Diversity Ethics and
+Launched new
+Risk Oversight
+Appendix Rights Policy
+Executive Compensation Compliance section on (in early
+Ethics & Corporate Behavior
+fiscal 2024) and updated our
+our website to increase visibility
+SPOTLIGHT
+Global Policy Human Trafficking and
+Appendix
+Anti-Slavery statement Bruce Byrd
+General Counsel, Palo Alto Networks
+61
+Corporate Governance:
+Environmental,
+Social and
+Effective Decision-Making
+Governance Report
+Introduction
+Introduction
+Our Board consists of a diverse group of highly qualified leaders who bring unique perspectives.
+Approach Establishing Accountability and Transparency
+About
+While our Directors have either held senior leadership positions at large companies or otherwise gained significant and wide-ranging
+management experience in their respective fields, many also have public company experience and a deep understanding of corporate
+Cybersecurity
+Cybersecurity
+governance practices, including risk and management oversight.
+& Privacy
+The Board is governed by our Corporate Governance Guidelines, which address items such as the qualifications and responsibilities
+of our Directors and applicable corporate governance policies and standards. Each Director must devote significant time to fulfill their
+Environmental
+duties as a member of our Board, and we review other Director commitments prior to their appointment. Our Corporate Governance
+Environment
+Guidelines provide that generally no Director should be a member of more than three public company boards. The ESG and Nominating
+Committee will consider the number of other public company boards or other boards or committees on which a director or prospective
+Social:
+director is a member. Directors are required to notify the ESG and Nominating Committee prior to accepting membership on any other
+OSoucr iPale: ople
+public or private company board, so that the Director’s time commitments and potential conflicts of interest may be evaluated.
+Our Workforce
+BOARD INDEPENDENCE
+Social:
+OSoucr iSalu: ppliers Our Board consists of eight independent Directors (80% of the Board). We exercise a strong, independent oversight function through
+Suppliers
+frequent executive sessions and 100% compliance with Nasdaq and SEC Board committee independence requirements and by having a
+strong independent Lead Director with clearly delineated and comprehensive duties. We evaluate our Board leadership structure on an
+Social:
+annual basis.
+OSoucr iCalo: mmunities
+Our Communities
+STANDING COMMITTEES
+Governance:
+Our Integrity The Board has a standing Audit Committee, Compensation and People Committee, ESG and Nominating Committee, Security
+Governance:
+Committee and Corporate Development Committee. The Security Committee enhances oversight over security issues facing our
+Fiscal 2023 At-a-Glance
+Our Integrity
+company, including cybersecurity, and meets and receives management presentations on security-related matters on a quarterly basis.
+Corporate Governance
+Board Diversity
+The ESG and Nominating Committee provides primary oversight of ESG, enhancing the Board’s oversight of ESG matters and reinforcing
+Risk Oversight
+the important role that ESG practices play in our business. As of fiscal 2023, Lorraine Twohill and John Donovan co-Chair this Committee,
+Appendix
+Executive Compensation
+which meets quarterly and regularly receives details of our ESG performance data and program information. The full Board and Board
+Ethics & Corporate Behavior
+Committees receive quarterly updates on ESG topics, including our People Strategy. For more information on ESG oversight and governance,
+SPOTLIGHT
+see page 10-11.
+Global Policy
+Appendix
+For more information on Corporate Governance, visit our 2023 Proxy Statement.
+62
+Board Diversity:
+Environmental,
+Social and
+Embodying Our Commitment to Equity
+Governance Report
+Introduction
+Introduction
+Our Corporate Governance Guidelines embody our
+Board’s commitment to actively seek out women and
+Approach
+About candidates with diverse backgrounds, experiences BOARD SNAPSHOT (As of July 31, 2023)
+and skills. Our Board believes representation
+of gender, race, ethnic, geographic, cultural or
+Cybersecurity
+Cybersecurity other diverse perspectives expands the Board’s TENURE AGE
+& Privacy
+understanding of the needs and viewpoints of
+Average: 8.3 years Average: 57.5 years
+our customers, partners, employees and other
+Environmental
+stakeholders worldwide.
+0–5 years 5 41–50 years 1
+Environment
+As part of our ongoing commitment to creating a balanced 6–10 years 1 51–60 years 5
+Social:
+Board with diverse viewpoints and deep industry expertise, we
+OSoucr iPale: ople >10 years 4 >60 years 4
+added four new independent Directors in fiscal 2019 through
+Our Workforce
+fiscal 2021 to infuse new ideas and fresh perspectives in the
+boardroom, two of whom were women of color. As of fiscal
+Social:
+ETHNIC DIVERSITY BOARD DIVERSITY
+2023, 50% of our Board is diverse based on one or more of the
+OSoucr iSalu: ppliers
+Suppliers following self-identified demographics: gender, race, ethnicity
+and nationality. Forty percent of our Board members self-identify White 7
+Social: as women, an increase from thirty-three percent in the previous
+OSoucr iCalo: mmunities South Asian 2
+fiscal year.
+50% of our Board
+Our Communities
+Black 1 can be considered
+Governance:
+50%
+diverse based on
+Our Integrity
+Governance: self-identified
+Fiscal 2023 At-a-Glance
+Our Integrity
+demographic
+Corporate Governance GENDER DIVERSITY
+background
+Board Diversity
+Risk Oversight Women 4
+Appendix
+Executive Compensation
+Ethics & Corporate Behavior Men 6
+SPOTLIGHT
+Global Policy
+Appendix
+63
+Risk Oversight:
+Environmental,
+Social and
+Proactive Mitigation and Management
+Governance Report
+Introduction
+Introduction
+We have designed and implemented processes
+to manage risk in our operations. Management is
+Approach
+About responsible for the day-to-day management of risks
+our company faces, while our Board, as a whole and
+assisted by its committees, has responsibility for the
+Cybersecurity
+Cybersecurity oversight of risk management. In its risk oversight
+& Privacy
+role, our Board has the responsibility to satisfy itself
+that the risk management processes designed and
+Environmental
+implemented by management are appropriate and
+Environment
+functioning as designed. For more information on
+Risk Oversight visit our 2023 Proxy Statement.
+Social:
+OSoucr iPale: ople
+Our Workforce
+Social:
+OSoucr iSalu: ppliers
+Suppliers
+Social:
+OSoucr iCalo: mmunities
+Our Communities
+Governance:
+Our Integrity
+Governance:
+Fiscal 2023 At-a-Glance
+Our Integrity
+Corporate Governance
+Board Diversity
+Risk Oversight
+Appendix
+Executive Compensation
+Ethics & Corporate Behavior
+SPOTLIGHT
+Global Policy
+Appendix
+64
+Executive Compensation:
+Environmental,
+Social and
+Linked to ESG Goals
+Governance Report
+Introduction
+Introduction
+Our executive compensation program is tied to our
+financial and operational performance and reflects
+Approach
+About recognized best practices and principles that align
+the compensation of our named executive officers
+with the long-term interests of our stockholders.
+Cybersecurity
+Cybersecurity In fiscal 2023, we incentivized our Chief Executive
+& Privacy
+Officer to remain at the company for the long term
+to enhance our prospects of delivering sustained
+Environmental
+stockholder value.
+Environment
+We maintained an ESG modifier to our cash incentive plan
+Social:
+to ensure a linkage between compensation and our ESG
+OSoucr iPale: ople
+goals, which provided for the calculated result to be adjusted
+Our Workforce
+up or down by up to 10% based on an ESG scorecard with
+climate, inclusion and diversity, and human capital metrics.
+Social:
+For more information on Executive Compensation, visit our
+OSoucr iSalu: ppliers
+2023 Proxy Statement.
+Suppliers
+Social:
+OSoucr iCalo: mmunities
+Our Communities
+Governance:
+Our Integrity
+Governance:
+Fiscal 2023 At-a-Glance
+Our Integrity
+Corporate Governance
+Board Diversity
+Risk Oversight
+Appendix
+Executive Compensation
+Ethics & Corporate Behavior
+SPOTLIGHT
+Global Policy
+Appendix
+65
+Ethics & Corporate Behavior: Doing the Right Thing
+Environmental,
+Social and
+Governance Report
+Ethical business practices are at the heart of our company, and we are committed to operating with integrity and
+Introduction transparency through our policies.
+Introduction
+Articulating Our Values Through Our Code of Business Conduct
+Approach
+and Ethics
+About
+Our Code of Business Conduct and Ethics summarizes the ethical standards and key policies that guide the business conduct of the
+Cybersecurity
+Cybersecurity Directors, officers and employees of the company.
+& Privacy
+Employees, contractors and suppliers are informed about our governance expectations including through our Codes of Conduct. New
+hires and existing employees receive annual online ethics training, in addition to periodic live instructor-led training, on anti-corruption,
+Environmental confidentiality, conflicts, respect in the workplace, privacy and many other topics, utilizing real-life and hypothetical scenarios. In fiscal
+Environment
+2023, members of the Senior Executive team participated in customized instructor-led training, including tailored training materials, with
+a focus on regulatory developments, ethical leadership and decision-making. Members of our Senior Executive team, including our CEO,
+Social: President and others, participated in employee events, where they shared their experiences and expectations around ethics and integrity.
+OSoucr iPale: ople
+Suppliers and sales partners are expected to maintain the same ethical standards as we do and our public Global Supplier Code
+Our Workforce
+of Conduct and Business Partner Code of Conduct apply to matters such as business interactions, manufacturing processes and
+applicable laws. The Audit Committee of our Board of Directors is responsible for oversight of our Ethics and Compliance program.
+Social:
+OSoucr iSalu: ppliers
+ETHICS HELPLINE
+Suppliers
+Our Ethics Helpline, which is periodically tested and annually audited, is publicly available and hosted on EthicsPoint’s secure servers.
+Social:
+Anyone, including employees, customers, shareholders, business partners and members of communities where we operate can
+OSoucr iCalo: mmunities
+confidentially share their concerns and provide feedback, anonymously if they wish. We also have a public email address for any
+Our Communities
+questions about our ethics policies or to report concerns (ethics@paloaltonetworks.com).
+Governance:
+We believe acting ethically and with integrity is everyone’s responsibility. We encourage our employees, and anyone with whom we do
+Our Integrity
+Governance:
+business, to report any concerns or violations of our policies, procedures or the law. We strictly prohibit retaliation against good-faith reporters.
+Fiscal 2023 At-a-Glance
+Our Integrity
+Corporate Governance
+HUMAN RIGHTS AND WORKPLACE POLICIES
+Board Diversity
+Risk Oversight Our Ethics and Compliance webpage also houses our Human Rights Policy, launched in early fiscal 2024, which applies to all employees,
+Appendix
+Executive Compensation suppliers and business partners. Though we have respected human rights since our founding, this policy formalizes our commitment
+Ethics & Corporate Behavior to internationally proclaimed human rights and labor standards, including the United Nations Global Compact, United Nations Guiding
+SPOTLIGHT Principles on Business and Human Rights, and the United Nations Global Declaration on Human Rights. Topics covered in the policy
+Global Policy include diversity and inclusion, freedom of association, workplace safety, forced and child labor, human trafficking, working hours and
+wage standards, privacy and freedom of expression.
+Appendix
+We also have a policy focused on respect in the workplace and a corresponding training through our FLEXLearn platform. New hires
+must complete the training and existing global employees are required to complete the company-wide training every other year. The
+training includes anti-discrimination, anti-harassment, anti-retaliation and bullying lessons and hypotheticals. 66
+Environmental,
+Social and
+Governance Report
+SPOTLIGHT
+Increasing Transparency and Communicating Clearly
+Introduction
+Introduction
+We are committed to being clear, transparent and honest about all of our business approaches. This year we launched a new “Ethics and Compliance” section on our public website to increase
+the visibility of our ethics and compliance policies, Ethics Helpline and expectations around integrity in how we do business around the globe. Website visitors can now easily access more
+information on compliance and accountability, important policies like our Human Rights Policy, Human Trafficking and Anti-Slavery Policy, and Codes of Conduct, and can directly access our
+Approach
+Ethics Helpline to ask questions or report concerns.
+About
+Cybersecurity
+Cybersecurity
+& Privacy
+Corporate Policies
+Environmental
+We know that responsible practices start with us. Ethical business practices are at the heart of Palo Alto Networks
+Environment
+and we are committed to operating with integrity and transparency through our policies.
+Social:
+OSoucr iPale: ople
+Our Workforce
+Social:
+OSoucr iSalu: ppliers
+Code of Business Global Supplier Conflict Minerals Slavery and Human Human Rights Policy
+Suppliers
+Conduct and Ethics Code of Conduct Policy & Report Trafficking Policy
+Social:
+Palo Alto Networks believes
+OSoucr iCalo: mmunities
+human rights are the
+Palo Alto Networks regularly Suppliers are expected to We believe in and support We are committed to ensuring
+Our Communities
+fundamental rights, freedoms,
+trains employees on important maintain the same ethical international human rights, that our supply chain is free
+Governance:
+and standards of treatment to
+topics such as anticorruption, standards as we do. This including in our supply chain. from human trafficking or
+Our Integrity
+Governance: business ethics, confidential applies to matters such It is imperative that all of our modern slavery. We believe which all people are entitled,
+Fiscal 2023 At-a-Glance
+Our Integrity information, conflicts of as business interactions, suppliers uphold the same in upholding the human and we are committed to
+Corporate Governance
+respecting these rights.
+interest, insider trading, privacy manufacturing processes and level of integrity and support for rights of all workers and
+Board Diversity
+and other compliance topics. applicable laws. human rights wherever we do treating workers with dignity
+Risk Oversight
+Appendix business around the globe. and respect.
+Executive Compensation
+Ethics & Corporate Behavior
+SPOTLIGHT
+Global Policy
+Appendix
+67
+Global Policy: Shaping a Secure Future
+Environmental,
+Social and
+Governance Report
+Our efforts to shape global public policy reflect our commitment to protect people’s
+Introduction
+digital way of life. As a corporation, Palo Alto Networks does not have a Political
+Introduction
+Action Committee. We do conduct lobbying activities aimed at supporting policies
+that enhance cybersecurity and digital resilience. These activities are reported
+Approach
+publicly in accordance with the Lobbying Disclosure Act and all subsequent
+About
+amendments to the law.
+We regularly engage with global government and multilateral entities to provide expertise and
+Cybersecurity
+Cybersecurity
+thought leadership to policymakers as they shape global laws, policies and regulations. Through
+& Privacy
+these engagements, we lend our expertise to promote cybersecurity resilience and help inform
+policy development around cybersecurity, supply chain, and AI. As an example, our supply chain risk
+Environmental
+management practices were highlighted as an exemplar by the National Institute of Standards and
+Environment
+Technology (NIST).
+Social:
+OSoucr iPale: ople Advising and Information-Sharing
+Our Workforce
+Across the globe, we participate in numerous government advisory bodies, such as the U.S.
+Social:
+President’s National Security Telecommunications Advisory Committee, to provide cybersecurity
+OSoucr iSalu: ppliers
+and technology insight to policymakers and government officials. This credentialing has led to
+Suppliers
+opportunities to provide official testimony at congressional and parliamentary hearings on topics
+Social: ranging from ransomware preparedness to the importance of AI for cyber defense. We also promote
+OSoucr iCalo: mmunities a strong, diverse cyber workforce as outlined in this blog post.
+Our Communities
+Governance:
+Complementary to policy advocacy, Palo Alto Networks is engaged in cyber threat intelligence
+Our Integrity
+information-sharing and operational collaboration with government cyber agencies around the
+Governance:
+Fiscal 2023 At-a-Glance
+world, including by sharing pre-publication threat research through our Trusted Information Partner
+Our Integrity
+Corporate Governance
+Sharing Network. Our threat intelligence has been leveraged to assist in the successful government
+Board Diversity
+prosecution of cyber criminals.
+Risk Oversight
+Appendix
+Executive Compensation
+Ethics & Corporate Behavior
+SPOTLIGHT
+Global Policy
+Appendix
+68
+Environmental,
+Social and
+CONFERENCES AND MEMBERSHIPS
+Governance Report
+Palo Alto Networks hosts, and participates in, a range of
+conferences, events and summits that collectively advance
+our public policy goals. This includes hosting the Joint Service
+Introduction
+Academy Cybersecurity Summit in partnership with the
+Introduction
+military service academies. In 2023, we reimagined Ignite, our
+flagship user conference, into Ignite on Tour, a global roadshow
+Approach exclusively for cybersecurity leaders and influencers with stops
+About in North America, South America and Europe.
+Palo Alto Networks is a member of a number of associations
+Cybersecurity
+Cybersecurity that engage on cybersecurity and related issues including:
+& Privacy Information Technology Industry Council, BSA | The Software
+Alliance, Business Roundtable, Business Council, Alliance
+for Digital Innovation, the Cybersecurity Coalition, Attorney
+Environmental
+Environment General Alliance, National Governors Association, National
+Council of State Legislatures, National Association of State
+Chief Information Officers, American Business Council Dubai,
+Social:
+OSoucr iPale: ople Digital Europe, Bitkom, US-ASEAN Business Council, Australian
+Our Workforce Information Industry Association, and the German Cybersecurity
+Council. Additionally, we are part of the World Economic
+Social:
+Forum, including its International Business Council, Centre for
+OSoucr iSalu: ppliers
+Cybersecurity, and Alliance for CEO Climate Leaders.
+Suppliers
+Social:
+OSoucr iCalo: mmunities
+Our Communities
+Governance:
+Our Integrity
+Governance:
+Fiscal 2023 At-a-Glance
+Our Integrity
+Corporate Governance
+Board Diversity
+Risk Oversight
+Appendix
+Executive Compensation
+Ethics & Corporate Behavior
+SPOTLIGHT
+Global Policy
+Appendix
+69
+Environmental,
+Appendix
+Social and
+Governance Report
+Introduction
+We provide an annual account of our ESG
+Introduction
+performance and align our disclosures to
+Approach globally recognized reporting standards.
+About
+Cybersecurity
+Cybersecurity
+& Privacy
+Environmental
+Environment
+Social:
+OSoucr iPale: ople
+Our Workforce
+Social:
+OSoucr iSalu: ppliers 71 About This Report:
+Suppliers
+Increasing Transparency
+Social:
+72
+OSoucr iCalo: mmunities Data: Our FY23 Performance Data Table
+Our Communities
+Governance: 76 FY23 Content Index: Mapping
+OGuovr eInrnteagnrcitey: Our Disclosures
+Our Integrity
+Appendix
+83 Stakeholder Engagement:
+About This Report Shaping Our Priorities
+DAaptapendix
+FY23 Content Index 84 ESG-Related Policies:
+Stakeholder Engagement Providing Essential Guidance
+ESG Related Policies
+Forward Looking 85 Forward-Looking Statements
+Statements and Disclaimers
+and Disclaimers
+70
+About This Report: Increasing Transparency
+Environmental,
+Social and
+Governance Report
+This report presents an overview of Palo Alto
+Introduction
+Networks' environmental, social and governance
+Introduction
+strategies, initiatives and outcomes. Our disclosure is
+informed by ESG reporting frameworks including the
+Approach
+Sustainability Accounting Standards Board (SASB)
+About
+Standards, CDP, World Economic Forum Stakeholder
+Capitalism Metrics, Global Reporting Initiative
+Cybersecurity and others.
+Cybersecurity
+& Privacy
+The content was curated through the engagement of
+multiple subject-matter experts from across the business.
+Environmental
+External consultants assisted in the development
+Environment
+and refinement of the content. The environmental
+disclosures were developed with the assistance of
+Social:
+OSoucr iPale: ople external consultants and emissions data was verified by
+Our Workforce a third party. Palo Alto Networks is responsible for the
+preparation and integrity of the information in this report.
+Social:
+A content index is provided at the end of this report.
+OSoucr iSalu: ppliers
+Suppliers
+The activities, performance and data detailed in the report
+Social: relate to the worldwide operations of Palo Alto Networks,
+OSoucr iCalo: mmunities
+Inc., and its subsidiaries, affiliates and related entities
+Our Communities
+(the “company”) unless otherwise stated. The report
+covers the company’s activities in fiscal 2023 ending
+Governance:
+OGuovr eInrnteagnrcitey: July 31, 2023. We have also included relevant examples
+Our Integrity
+of impact that occurred in the calendar year 2023. In
+Appendix
+addition to our annual participation in CDP (formerly the
+About This Report
+Carbon Disclosure Project) reporting and our ESG Report,
+DAaptapendix
+ESG disclosures are included in our annual reports on
+FY23 Content Index
+Form 10-K and proxy statement. Additional information
+Stakeholder Engagement
+about the company’s ESG strategies can be found on the
+ESG Related Policies
+corporate website. Questions about ESG topics can be
+Forward Looking
+Statements and Disclaimers addressed to cr@paloaltonetworks.com.
+71
+Data: Our FY23 Performance Data Table
+Environmental,
+Social and
+Governance Report
+Financial FY23 Data FY22 Data FY21 Data Environmental (cont.) FY23 Data FY22 Data* FY21 Data
+Introduction
+Introduction
+Total Net Revenue ($m) $6,892.70 $5,501.50 $4,256.10 Scope 3 Measured GHG Emissions (MTCO e)
+2
+Approach Total Billings ($m) $9,194.40 $7,471.50 $5,452.20 Purchased Goods & Services 208,724 185,254 157,937
+About
+Total Cost of Revenue ($m) $1,909.70 $1,718.70 $1,274.90 Capital Goods 16,940 16,175 14,744
+Cybersecurity
+Fuel- and Energy-Related Activities
+Cybersecurity
+Total Operating Expenses ($m) $4,595.70 $3,971.60 $3,285.30 6,336 5,578 4,291
+(market based method)(1)
+& Privacy
+Total Investment in Research and Development ($m) $1,604.00 $1,417.70 $1,140.40
+Business Travel 45,575 19,729 4,813
+Environmental
+Environment
+Employee Commute 16,175 8,660 4,205
+Environmental FY23 Data FY22 Data* FY21 Data
+Social:
+Upstream Transportation 38,061 34,216 20,923
+OSoucr iPale: ople
+Scope 1 GHG emissions (MTCO e) 1,591 763 874
+Our Workforce 2
+Waste from Operations 6,132 1,140 123
+Social: Scope 2 (Market) GHG Emissions (MTCO e) 12,068 13,385 8,735
+2
+OSoucr iSalu: ppliers Use of Sold Products 850,377 1,053,045 765,515
+Total Scope 1 & 2 (Market) GHG Emissions
+Suppliers
+13,659 14,148 9,609
+(MTCO e)
+2 End-of-Life Treatment of Sold Products 35 969 832
+Social:
+OSoucr iCalo: mmunities Scope 2 (Location) GHG Emissions (MTCO e) 15,761 11,073 8,564
+2
+Upstream Leased Assets 262 281 113
+Our Communities
+Scope 1 & 2 (Market) GHG Emissions (MTCO2e)/
+1.982 2.572 2.258
+$m revenue
+Governance: Investments 478,148 Not reported Not reported
+OGuovr eInrnteagnrcitey: Scope 1 & 2 (Market) GHG Emissions (MTCO2e)/
+0.0067 0.0073 0.0052
+Our Integrity square foot
+Total Electricity Consumption (GJ) 190,645 142,981 112,849
+Appendix
+About This Report
+Total Water Withdrawals (Megaliters) 97 98.5 80.6
+Appendix
+Data
+Percentage of water withdrawals in
+FY23 Content Index
+16% 92% 85%
+water-stressed regions
+Stakeholder Engagement
+ESG Related Policies
+The WRI Aqueduct water risk tool used to calculate percentage of water withdrawals in
+Forward Looking
+Statements and Disclaimers water-stressed regions was updated in 2023 with a significant change in water stress outlook
+* FY22 emissions data has been updated to reflect actual results.
+for the San Francisco Bay Area where our headquarters are located.
+1 We also calculate Scope 3 Fuel- and Energy-Related Activities (FERA) emissions using the location-based
+approach. FY23 location-based FERA emissions were 7,659 MTCO e’.
+72
+2
+Environmental,
+Social: Our People FY23 Data FY22 Data FY21 Data Racial and Ethnic Groups Representation –
+Social and FY23 Data* FY22 Data FY21 Data
+All U.S. Employees
+Governance Report
+Total Employees 13,948 12,561 10,473
+Asian 40% 39% 38%
+Attrition Rate (Overall) 11.4% 15.0% 13.1%
+Black 5% 5% 4%
+Introduction
+Introduction Attrition Rate (Voluntary) 7.9% 13.0% 11.1%
+Hispanic 8% 7% 7%
+New Hires 2,913 3,813 3,656
+Approach White 44% 45% 48%
+About
+Internal Hires (% of Total Hires) 11% 12% Not reported
+Two or more races 3% 3% 3%
+Intern Hires 116 Not reported Not reported
+Cybersecurity
+Cybersecurity
+Other 1% 1% 1%
+& Privacy Percentage of Employees Participating in Employee
+30% 28% 25%
+Network Groups
+* Values may not add up to 100 due to rounding.
+Environmental
+Average Hours of Development per Employee 33 16 12
+Environment
+Number and rate of fatalities as a result of
+0 0 0 Racial and Ethnic Groups Representation –
+Social: work-related injury FY23 Data* FY22 Data FY21 Data
+Technical (U.S. Only)
+OSoucr iPale: ople High-consequence work-related injuries
+0 0 0
+Our Workforce
+(excluding fatalities)
+Asian 57% 58% 58%
+Recordable work-related injuries (i.e., repetitive
+Social: 7 4 7
+strain/stress injury (3), slip/fall/contusion (3), other (1)
+Black 4% 4% 4%
+OSoucr iSalu: ppliers
+Suppliers
+Gender Representation (Global Employees) FY23 Data FY22 Data FY21 Data Hispanic 6% 5% 5%
+Social:
+OSoucr iCalo: mmunities All Employees (% Women) 26% 26% 25%
+White 30% 30% 30%
+Our Communities
+Individual Contributors & Managers (% Women) 27% 26% 25%
+Two or more races 2% 2% 2%
+Governance:
+OGuovr eInrnteagnrcitey:
+Directors and Above (% Women) 24% 24% 22%
+Our Integrity Other 0% 1% 0%
+Appendix
+Technical Staff (% Women) 21% 21% 18%
+About This Report
+* Values may not add up to 100 due to rounding.
+Appendix
+Data
+Nontechnical Staff (% Women) 32% 31% 27%
+FY23 Content Index
+Stakeholder Engagement
+ESG Related Policies
+Forward Looking
+Statements and Disclaimers
+73
+Environmental,
+Racial and Ethnic Groups Representation – Racial and Ethnic Groups Representation –
+Social and FY23 Data FY22 Data FY21 Data FY23 Data FY22 Data FY21 Data
+Nontechnical (U.S. Only) Directors & Above (U.S. Only)
+Governance Report
+Asian 21% 20% 20% Asian 40% 39% 40%
+Black 6% 6% 5% Black 3% 3% 3%
+Introduction
+Introduction
+Hispanic 9% 9% 8% Hispanic 4% 5% 4%
+Approach White 60% 61% 63% White 49% 50% 51%
+About
+Two or more races 3% 3% 3% Two or more races 3% 3% 3%
+Cybersecurity
+Cybersecurity
+Other 1% 1% 1% Other 1% 1% 1%
+& Privacy
+Environmental
+Environment Racial and Ethnic Groups Representation – Social: Our Communities FY23 Data FY22 Data FY21 Data
+FY23 Data* FY22 Data FY21 Data
+Individual Contributors & Managers (U.S. Only)
+Corporate Charitable Contributions $1,701,714 $3,187,997 $2,616,880
+Social:
+Asian 40% 39% 38%
+OSoucr iPale: ople
+Charitable Matching (of employee donations,
+Our Workforce
+$883,578 $1,091,221 $1,856,702
+Black 5% 5% 5% volunteer time and MySMILE "Rewards")
+Social:
+Employee Donations $1,134,420 $1,115,897 $1,021,599
+OSoucr iSalu: ppliers Hispanic 8% 8% 7%
+Suppliers
+Employee Volunteerism – Hours 9,338 8,034 3,363
+White 44% 45% 47%
+Social:
+OSoucr iCalo: mmunities Overall Employee Participation
+Two or more races 3% 3% 3% 19.3% 30.6% 34.5%
+Our Communities (Matching & Volunteerism)
+Governance: Other 1% 1% 1% Charitable Causes 2,202 2,896 2,199
+OGuovr eInrnteagnrcitey:
+Our Integrity
+Cybersecurity Academy – Partners Enrolled 2,420 2,200 1,500
+* Values may not add up to 100 due to rounding.
+Appendix
+About This Report
+Cybersecurity Academy – Countries Reached 96 86 75
+Appendix
+Data
+FY23 Content Index
+Stakeholder Engagement
+ESG Related Policies
+Forward Looking
+Statements and Disclaimers
+74
+Environmental,
+Governance FY23 Data FY22 Data FY21 Data
+Social and
+Governance Report
+Material Data Breach 0 0 0
+Percentage of Employees Who Completed Code of
+99.3% 96.5% 99.5%
+Conduct Training
+Introduction
+Percentage of Employees Who completed
+Introduction
+96.9% 88.0% Not reported
+InfoSec Training
+Percentage of Employees Who Completed Annual
+Approach 98.0% ~90% ~90%
+Privacy Training
+About
+Board Directors (% Women) 40% 33% 33%
+Cybersecurity
+Cybersecurity Board Directors Diversity (%)
+50% 50% 67%
+& Privacy
+(Gender and/or Ethnicity)
+Board Directors (% Independent) 80% 75% 75%
+Environmental
+Environment
+Board Directors with Cybersecurity and IT
+6/10 8/12 8/12
+Technology Expertise
+Social:
+OSoucr iPale: ople
+Our Workforce
+Social:
+OSoucr iSalu: ppliers
+Suppliers
+Social:
+OSoucr iCalo: mmunities
+Our Communities
+Governance:
+OGuovr eInrnteagnrcitey:
+Our Integrity
+Appendix
+About This Report
+Appendix
+Data
+FY23 Content Index
+Stakeholder Engagement
+ESG Related Policies
+Forward Looking
+Statements and Disclaimers
+75
+FY23 Content Index: Mapping Our Disclosures
+Environmental,
+Social and
+Governance Report
+The Sustainability Accounting Standards Board (SASB) Standards, now part of the International Financial Reporting Standards (IFRS) Foundation, are a set of standards that guide
+Introduction
+the disclosure of sustainability information by companies to their investors. The World Economic Forum’s (WEF's) Stakeholder Capitalism Metrics are designed to help companies
+Introduction
+measure, align and improve their mainstream reporting on performance against ESG indicators.
+Approach The following index maps our disclosures to the SASB indicators for companies in the IT and Services sector and the core WEF indicators. We also cross-reference the aligned Global Reporting Initiative (GRI), a
+About
+common ESG reporting framework, and the United Nations Sustainable Development Goals (SDGs), a collection of 17 global goals intended to provide a shared blueprint to achieve a better and more sustainable
+future for all.
+Cybersecurity
+Cybersecurity
+& Privacy Disclosure Reference SASB GRI WEF UN SDG
+Environmental
+Environmental
+Environment
+Environmental Footprint of Hardware Infrastructure: Palo Alto Networks does not own or operate TC-SI-130a.1 SDG 6: Target 6.4
+(1) Total energy consumed, (2) percentage grid electricity, any data centers. Data provided is for
+Social:
+(3) percentage renewable colocation data centers. (1) 8,384 GJ (estimated
+OSoucr iPale: ople
+based on square footage) (2) 100% (3) Not
+Our Workforce
+provided by vendors
+Social:
+Environmental Footprint of Hardware Infrastructure: Palo Alto Networks does not own any data TC-SI-130a.2 SDG 6: Target 6.4
+OSoucr iSalu: ppliers
+(1) Total water withdrawn, (2) total water consumed; centers and presently we are not receiving
+Suppliers
+percentage of each in regions with High or Extremely High any data on water usage from our digital
+Social: Baseline Water Stress supply chain.
+OSoucr iCalo: mmunities
+Our Communities
+Environmental Footprint of Hardware Infrastructure: Sustainable Value Chain: Partnering For TC-SI-130a.3 SDG 6: Target 6.4
+Discussion of the integration of environmental considerations Success
+Governance:
+into strategic planning for data center needs
+OGuovr eInrnteagnrcitey:
+Our Integrity
+GREENHOUSE GAS EMISSIONS (GHG): For all relevant Science-Based Targets: A Clearly Defined GRI 305:1-3 Planet: Climate SDG 3: Target 3.9;
+Appendix
+greenhouse gases (e.g., carbon dioxide, methane, nitrous Pathway to Emissions Reduction change SDG 6: Target 6.1;
+About This Report
+oxide, F-gases, etc.), report in metric tonnes of carbon SDG 12: Target 12.4;
+DAaptapendix
+dioxide equivalent (tCO2e) GHG Protocol Scope 1 and SDG 13: Target 13.1;
+FY23 Content Index
+Scope 2 emissions. Estimate and report material upstream SDG 14: Target 14.3;
+Stakeholder Engagement
+and downstream (GHG Protocol Scope 3) emissions SDG 15: Target 15.2
+ESG Related Policies
+where appropriate
+Forward Looking
+Statements and Disclaimers
+76
+Environmental,
+Disclosure Reference SASB GRI WEF UN SDG
+Social and
+Governance Report
+TCFD IMPLEMENTATION: Fully implement the Science-Based Targets: A Clearly Defined GRI 201-2 Planet: Climate
+recommendations of the Task Force on Climate-related Pathway to Emissions Reduction change
+Financial GRIs (TCFD). If necessary, disclose a timeline of at
+Introduction most three years for full implementation. Disclose whether
+Introduction
+you have set, or have committed to set, GHG emissions
+targets that are in line with the goals of the Paris Agreement —
+to limit global warming to well below 2°C above pre-
+Approach
+industrial levels and pursue efforts to limit warming to 1.5°C —
+About
+and to achieve net-zero emissions before 2050.
+Cybersecurity LAND USE AND ECOLOGICAL SENSITIVITY: Report Palo Alto Network does not currently own, GRI 304-1 Planet: Nature
+Cybersecurity
+the number and area (in hectares) of sites owned, leased lease or manage sites in or adjacent to areas loss
+& Privacy
+or managed in or adjacent to protected areas and/or key protected for their biodiversity value.
+biodiversity areas (KBA).
+Environmental
+Environment
+WATER CONSUMPTION AND WITHDRAWAL IN FY23 Performance Data Table GRI 303-1 Planet: Freshwater
+WATER-STRESSED AREAS: Report for operations where availability
+Social:
+material: megalitres of water withdrawn, megalitres of water
+OSoucr iPale: ople
+consumed and the percentage of each in regions with
+Our Workforce
+high or extremely high baseline water stress, according to
+WRI Aqueduct water risk atlas tool. Estimate and report
+Social:
+the same information for the full value chain (upstream and
+OSoucr iSalu: ppliers
+Suppliers downstream) where appropriate.
+Social: Social
+OSoucr iCalo: mmunities
+Our Communities Recruiting & Managing a Global, Diverse & Skilled (1) 13.8% of U.S. employers are foreign nationals TC-SI-330a.1
+Workforce: Percentage of employees who are (1) foreign (2) 42.4% of employees are located outside of
+Governance:
+nationals and (2) located offshore the U.S.
+OGuovr eInrnteagnrcitey:
+Our Integrity
+Recruiting & Managing a Global, Diverse & Skilled Employee Engagement: Cultivating A Most TC-SI-330a.2
+Appendix
+Workforce: Employee engagement as a percentage Loved Workplace
+About This Report
+DAaptapendix
+Recruiting & Managing a Global, Diverse & Skilled FY23 Performance Data Table TC-SI-330a.3 GRI 405-1b People: Dignity and SDG 5: Target 5.1;
+FY23 Content Index Workforce: Percentage of gender and racial/ethnic group equality SDG: Target 5.5
+Stakeholder Engagement representation for (1) management, (2) technical staff, and
+ESG Related Policies (3) all other employees
+Forward Looking
+Statements and Disclaimers
+77
+Environmental,
+Disclosure Reference SASB GRI WEF UN SDG
+Social and
+Governance Report
+PAY EQUALITY: Ratio of the basic salary and remuneration FY23 Form 10-K Adapted from People: Dignity and
+for each employee category by significant locations of GRI 405-2 equality
+operation for priority areas of equality: women to men, minor
+Introduction to major ethnic groups, and other relevant equality areas
+Introduction
+WAGE LEVEL: 1. Ratios of standard entry-level wage by FY23 Proxy Statement, Pay Equity GRI 202-1 People: Dignity and
+gender compared to local minimum wage. 2. Ratio of the equality
+Approach
+annual total compensation of the CEO to the median of the
+About
+annual total compensation of all its employees, except the
+CEO
+Cybersecurity
+Cybersecurity
+RISK FOR INCIDENTS OF CHILD, FORCED OR Human Rights and Workplace Policies GRI 408-1b, People: Dignity and
+& Privacy
+COMPULSORY LABOR: An explanation of the operations GRI 409-1a equality
+and suppliers considered to have significant risk for incidents
+Environmental
+of child labour, forced or compulsory labour. Such risks
+Environment
+could emerge in relation to: a) type of operation (such as
+manufacturing plant) and type of supplier; and b) countries or
+Social:
+geographic areas with operations and suppliers considered
+OSoucr iPale: ople
+at risk
+Our Workforce
+HEALTH AND SAFETY %: 1. The number and rate of fatalities Safety: Providing Safe & Secure Hybrid GRI 403-9a&b, People: Health and
+Social:
+as a result of work-related injury; high-consequence work- Workplaces GRI 403-6a well-being
+OSoucr iSalu: ppliers
+related injuries (excluding fatalities); recordable work-related
+Suppliers
+FY23 Performance Data Table
+injuries; main types of work-related injury; and the number
+Social: of hours worked. 2. An explanation of how the organization
+OSoucr iCalo: mmunities facilitates workers’ access to non-occupational medical and
+Our Communities
+healthcare services, and the scope of access provided for
+employees and workers
+Governance:
+OGuovr eInrnteagnrcitey:
+TRAINING PROVIDED (%, $): Average hours of training per Talent Development and Growth: Personalization GRI 404-1 People: Skills for the
+Our Integrity
+person that the organization’s employees have undertaken and Choice future
+Appendix
+during the reporting period, by gender and employee category
+About This Report FY23 Performance Data Table
+(total number of hours of training provided to employees
+DAaptapendix
+divided by the number of employees). Average training and FY23 Form 10-K and FY23 Proxy Statement
+FY23 Content Index
+development expenditure per full-time employee (total cost
+Stakeholder Engagement
+of training provided to employees divided by the number of
+ESG Related Policies
+employees)
+Forward Looking
+Statements and Disclaimers
+78
+Environmental,
+Disclosure Reference SASB GRI WEF UN SDG
+Social and
+Governance Report
+Governance
+Data Privacy & Freedom of Expression: Description of Personal Data and Privacy: Maintaining TC-SI-220a.1
+policies and practices relating to behavioral advertising and Customer Trust
+Introduction
+user privacy
+Introduction
+Data Privacy & Freedom of Expression: Number of users Not applicable TC-SI-220a.2
+Approach whose information is used for secondary purposes
+About
+Data Privacy & Freedom of Expression: Total amount of None TC-SI-220a.3
+monetary losses as a result of legal proceedings associated
+Cybersecurity
+Cybersecurity with user privacy
+& Privacy
+Data Privacy & Freedom of Expression: (1) Number of law We receive few law enforcement requests TC-SI-220a.4
+Environmental enforcement requests for user information, (2) number of users for user information, and they do not result
+Environment whose information was requested, (3) percentage resulting in sensitive customer personally identifiable
+in disclosure information.
+Social:
+OSoucr iPale: ople Data Privacy & Freedom of Expression: List of countries Our products and services are not allowed for TC-SI-220a.5
+Our Workforce where core products or services are subject to government- export to Cuba, Iran, North Korea, Syria, and
+required monitoring, blocking, content filtering, or censoring the Crimea, Donetsk, and Luhansk Regions of
+Social:
+Ukraine.
+OSoucr iSalu: ppliers
+Suppliers
+Data Security: (1) Number of data breaches, (2) percentage During fiscal 2023, Palo Alto Networks did TC-SI-230a.1
+involving personally identifiable information (PII), (3) number of not experience any material data breach that
+Social:
+users affected required SEC disclosure.
+OSoucr iCalo: mmunities
+Our Communities
+Data Security: Description of approach to identifying and Information Security: Business-Wide Safeguards TC-SI-230a.2
+Governance: addressing data security risks, including use of third-party
+OGuovr eInrnteagnrcitey:
+cybersecurity standards
+Our Integrity
+Appendix
+Intellectual Property Protection & Competitive None TC-SI-520a.1
+About This Report Behavior: Total amount of monetary losses as a result of
+DAaptapendix legal proceedings associated with anticompetitive behavior
+FY23 Content Index regulations
+Stakeholder Engagement
+ESG Related Policies Managing Systemic Risks from Technology Disruptions: Not currently reported TC-SI-550a.1
+Number of (1) performance issues and (2) service disruptions;
+Forward Looking
+Statements and Disclaimers
+(3) total customer downtime
+79
+Environmental,
+Disclosure Reference SASB GRI WEF UN SDG
+Social and
+Governance Report
+Managing Systemic Risks from Technology Disruptions: FY23 Form 10-K TC-SI-550a.2
+Description of business continuity risks related to disruptions
+of operations
+Introduction
+Introduction Activity Metrics: (1) Number of licenses or subscriptions, FY23 Form 10-K TC-SI-000.A
+(2) percentage cloud-based
+Approach
+SETTING PURPOSE: The company’s stated purpose, as Our Purpose: A Secure Future for All, Governance:
+About
+the expression of the means by which a business proposes FY23 Form 10-K and FY23 Proxy Statement Governing purpose
+solutions to economic, environmental and social issues.
+Corporate purpose should create value for all stakeholders,
+Cybersecurity
+Cybersecurity
+including shareholders.
+& Privacy
+GOVERNANCE BODY COMPOSITION: Composition Board Diversity: Embodying Our Commitment GRI 2-9, Governance: Quality
+Environmental
+of the highest governance body and its committees by: to Equity GRI 405-1a of governing body
+Environment
+competencies relating to economic, environmental and social
+Annual Report and FY23 Proxy Statement,
+topics; executive or nonexecutive; independence; tenure
+Board Diversity
+Social: on the governance body; number of each individual’s other
+OSoucr iPale: ople
+significant positions and commitments, and the nature of the Directors Section ESG Oversight and
+Our Workforce
+commitments; gender; membership of underrepresented social Governance in FY23 Proxy Statement (CD&A)
+groups; stakeholder representation.
+Social:
+OSoucr iSalu: ppliers
+MATERIAL ISSUES IMPACTING STAKEHOLDERS: A Stakeholder Engagement: Shaping Our Priorities GRI 2-29 Governance:
+Suppliers
+list of the topics that are material to key stakeholders and Stakeholder
+GRI 3-1
+Social: the company, how the topics were identified and how the engagement
+OSoucr iCalo: mmunities stakeholders were engaged. GRI 3-2
+Our Communities
+ANTI-CORRUPTION: 1. Total percentage of governance Ethics & Corporate Behavior: Doing the GRI 205-2 Governance: Ethical
+Governance:
+body members, employees and business partners who have Right Thing behavior
+OGuovr eInrnteagnrcitey: GRI 205-3
+received training on the organization’s anti-corruption policies
+Our Integrity
+1. There were no confirmed cases of corruption
+and procedures, broken down by region. (a) Total number
+Appendix
+in fiscal 2023.
+and nature of incidents of corruption confirmed during the
+About This Report
+current year, but related to previous years; and (b) Total number 2. Communication strategy and manager toolkits
+DAaptapendix
+and nature of incidents of corruption confirmed during the around the importance of business ethics
+FY23 Content Index
+current year, related to this year. 2. Discussion of initiatives and and examples of high-risk actions, with an
+Stakeholder Engagement
+stakeholder engagement to improve the broader operating emphasis on anti-corruption and reporting.
+ESG Related Policies
+environment and culture, in order to combat corruption.
+Forward Looking
+Statements and Disclaimers
+80
+Environmental,
+Disclosure Reference SASB GRI WEF UN SDG
+Social and
+Governance Report
+PROTECTED ETHICS ADVICE AND REPORTING Code of Business Ethics GRI 102-17 Governance: Ethical
+MECHANISMS: A description of internal and external behavior
+mechanisms for: 1. Seeking advice about ethical and lawful
+Introduction behavior and organizational integrity; and 2. Reporting concerns
+Introduction
+about unethical or unlawful behavior and lack of organizational
+integrity.
+Approach
+INTEGRATING RISK AND OPPORTUNITY INTO BUSINESS FY23 Form 10-K and FY23 Proxy Statement GRI 102-15 Governance: Risk
+About
+PROCESS: Company risk factor and opportunity GRIs that and opportunity
+clearly identify the principal material risks and opportunities oversight
+facing the company specifically (as opposed to generic sector
+Cybersecurity
+Cybersecurity
+risks), the company appetite with respect to these risks, how
+& Privacy
+these risks and opportunities have moved over time and the
+response to those changes. These opportunities and risks
+Environmental
+should integrate material economic, environmental and social
+Environment
+issues, including climate change and data stewardship.
+Social:
+ECONOMIC CONTRIBUTION: 1. Direct economic value FY23 Performance Data Table GRI 201-1 Prosperity
+OSoucr iPale: ople
+generated and distributed (EVG&D), on an accruals basis,
+Our Workforce FY23 Form 10-K GRI 201-4
+covering the basic components for the organization’s global
+operations, ideally split out by: • Revenues • Operating costs
+Social:
+• Employee wages and benefits • Payments to providers of
+OSoucr iSalu: ppliers
+Suppliers capital • Payments to government • Community investment
+2. Financial assistance received from the government: total
+Social: monetary value of financial assistance received by the
+OSoucr iCalo: mmunities
+organization from any government during the reporting period.
+Our Communities
+FINANCIAL INVESTMENT CONTRIBUTION: Total capital FY23 Form 10-K As referenced Prosperity
+Governance:
+expenditures (CapEx) minus depreciation, supported by in IAS 7 and
+OGuovr eInrnteagnrcitey:
+narrative to describe the company’s investment strategy. Share US GAAP ASC
+Our Integrity
+buybacks plus dividend payments, supported by narrative 230
+Appendix
+to describe the company’s strategy for returns of capital to
+About This Report
+shareholders.
+DAaptapendix
+FY23 Content Index
+Stakeholder Engagement
+ESG Related Policies
+Forward Looking
+Statements and Disclaimers
+81
+Environmental,
+Disclosure Reference SASB GRI WEF UN SDG
+Social and
+Governance Report
+Total R&D expenses ($): Total costs related to research About Us US GAAP Prosperity:
+and development. ASC 730 Innovation of better
+FY23 Performance Data Table
+products and
+Introduction services
+Introduction
+TOTAL TAX PAID: The total global tax borne by the company, For financial information, visit FY23 Form 10-K Adapted from Prosperity:
+including corporate income taxes, property taxes, non- GRI 201-1 Community and
+Approach
+creditable VAT and other sales taxes, employer-paid payroll social vitality
+About
+taxes, and other taxes that constitute costs to the company, by
+category of taxes.
+Cybersecurity
+Cybersecurity
+& Privacy
+Environmental
+Environment
+Social:
+OSoucr iPale: ople
+Our Workforce
+Social:
+OSoucr iSalu: ppliers
+Suppliers
+Social:
+OSoucr iCalo: mmunities
+Our Communities
+Governance:
+OGuovr eInrnteagnrcitey:
+Our Integrity
+Appendix
+About This Report
+DAaptapendix
+FY23 Content Index
+Stakeholder Engagement
+ESG Related Policies
+Forward Looking
+Statements and Disclaimers
+82
+Stakeholder Engagement: Shaping Our Priorities
+Environmental,
+Social and
+Governance Report
+Throughout the year, we engage a wide range of stakeholders to help identify and prioritize the ESG factors important to them and to our business. The Executive ESG Council
+Introduction
+and ESG Steering Committee consider these insights when establishing our ESG priorities, strategy and efforts.
+Introduction
+Stakeholder Group Engagement
+Approach
+About
+Board / Leadership Our Board is committed to ongoing dialogue with our stockholders. In fiscal 2023, our Lead Independent Director participated in 21 meetings with our stockholders,
+touching on ESG topics such as Board oversight, inclusion and diversity, human capital approaches, sustainability, Board governance, risk management, executive
+Cybersecurity
+Cybersecurity compensation and cybersecurity.
+& Privacy
+Company leadership is active in our ESG efforts, including the ESG Executive Council, which sets our overall ESG strategy, objectives and initiatives, provides guidance
+on program implementation, and oversees the continuing enhancement of our approach to ESG. Leadership also discusses our ESG strategies with investors,
+Environmental
+Environment employees and customers.
+Investors In frequent meetings throughout the year investors showed interest in a variety of ESG topics including human capital management, climate change, governance and
+Social:
+OSoucr iPale: ople ESG oversight.
+Our Workforce
+Employees Through their participation in our sustainability and social impact initiatives, employees have expressed interest in and appreciation for ESG. Through all hands
+Social:
+meetings, in-person and virtual dialogue, and more employees are vocal about these important topics, particularly initiatives that relate to their career development,
+OSoucr iSalu: ppliers
+professional growth and well-being, as well as community involvement and the environment.
+Suppliers
+Customers Increasingly, requests for proposals (RFPs) contain questions about the company’s ESG practices, particularly around climate action, human capital management,
+Social:
+supplier diversity, supply chain management and privacy. Many RFPs include detailed questionnaires and/or requirements to share ESG information through online
+OSoucr iCalo: mmunities
+Our Communities platforms. Our sales teams include information about our climate, diversity and social impact programs in their conversations and presentations with customers when
+appropriate.
+Governance:
+OGuovr eInrnteagnrcitey:
+Communities In addition to requests for support of basic needs, community organizations and schools recognize our expertise in cybersecurity and seek support in understanding
+Our Integrity
+and nonprofits cybersecurity principles, and ways in which we can help them provide the communities they serve with access to resources.
+Appendix
+About This Report
+Government We have long been sought after for our cybersecurity expertise. We recently testified before two subcommittees of the House Committee on Oversight and
+DAaptapendix
+stakeholders Accountability at a hearing focused on “Combating Ransomware Attacks,” and before the Communications and Technology Subcommittee of the House Energy
+FY23 Content Index
+& Commerce Committee on “Leveraging AI to Enhance American Communications.” Moreover, government entities value our input on topics at the intersection of
+Stakeholder Engagement
+cybersecurity and ESG, such as protecting critical infrastructure, diversity, education, workforce development and expanding the diverse talent pipeline.
+ESG Related Policies
+Forward Looking
+Statements and Disclaimers
+83
+ESG-Related Policies: Providing Essential Guidance
+Environmental,
+Social and
+Governance Report
+Introduction
+Introduction
+Approach Statement
+Global Supplier
+About
+Regarding Prohibition
+Code of Business
+Code of Business
+of Slavery and
+Conduct and Ethics
+Conduct and Ethics
+Human Trafficking
+Cybersecurity
+Cybersecurity
+& Privacy
+Environmental
+Environment
+Social:
+OSoucr iPale: ople
+Our Workforce
+Conflict Minerals Conflict Minerals Supplier Diversity
+Social: Policy Report Statement
+OSoucr iSalu: ppliers
+Suppliers
+Social:
+OSoucr iCalo: mmunities
+Our Communities
+Governance:
+OGuovr eInrnteagnrcitey:
+Our Integrity
+Appendix
+Environmental Public Sustainability 2023 CDP
+About This Report
+DAaptapendix Statement Reports Disclosure
+FY23 Content Index
+Stakeholder Engagement
+ESG Related Policies
+Forward Looking
+Statements and Disclaimers Review our full list of policies online
+84
+Forward-Looking Statements and Disclaimers
+Environmental,
+Social and
+Governance Report
+This report includes forward-looking statements within the meaning of the Private Securities Litigation Reform
+Introduction
+Introduction Act of 1995. Except for statements of historical or current facts, all statements made in this document are
+forward-looking statements, including, without limitation, statements regarding our social, environmental and
+Approach sustainability plans and goals, and executive compensation plans. Forward-looking statements generally can be
+About
+identified by words such as anticipate, plan, believe, expect, future, intend, may, potentially, projects, will, will be, will
+result, would and similar expressions that may convey uncertainty of future events or outcomes. Forward-looking
+Cybersecurity
+Cybersecurity
+statements reflect management’s current expectations and assumptions that are subject to risks and uncertainties,
+& Privacy
+which could cause actual results to differ materially from those anticipated or implied by any forward-looking
+Environmental statements. Factors that could cause or contribute to such differences include, but are not limited to, those
+Environment
+discussed under the captions “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition
+and Results of Operations” in our Quarterly Report on Form 10-Q filed with the SEC on February 20, 2024, which is
+Social:
+OSoucr iPale: ople
+available on our website at investors.paloaltonetworks.com and on the SEC’s website at www.sec.gov. Additional
+Our Workforce
+information will also be set forth in other filings that we make with the SEC from time to time. All forward-looking
+Social:
+statements in this report are based on information available to us as of the date hereof, and we do not assume any
+OSoucr iSalu: ppliers
+Suppliers obligation to update the forward-looking statements provided to reflect events that occur or circumstances that
+exist after the date on which they were made. Unless otherwise provided herein, all statements in this report are as
+Social:
+OSoucr iCalo: mmunities
+of February 1, 2024.
+Our Communities
+Governance: In this ESG Report, the terms “the company,” “we,” and “our” refer to Palo Alto Network, Inc., and the term “Board”
+OGuovr eInrnteagnrcitey:
+refers to the Board of Directors of Palo Alto Networks, Inc.
+Our Integrity
+Appendix
+References to third-party websites in this ESG Report are not intended to be incorporated by reference into this
+About This Report
+DAaptapendix
+report and the information contained on such websites is not intended to be part of this report.
+FY23 Content Index
+Stakeholder Engagement
+ESG Related Policies
+Forward Looking
+Statements and Disclaimers
+85
+Find us on:
+facebook twitter linkedin instagram youtube
+To learn more visit
+www.paloaltonetworks.com/about-us/corporate-responsibility

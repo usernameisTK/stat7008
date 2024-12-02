@@ -1,0 +1,2493 @@
+2021 Environmental, Social & Governance Report
+Contents
+Letter from our Chairman and CEO 1 Securing Commerce & Protecting Customers Protecting the Planet
+FY21 Visa ESG Performance Highlights 2
+Payments Security 17 Sustainable Operations 36
+About this Report 3
+Cybersecurity at Visa 19 Sustainable Commerce 41
+Data Privacy 20 Alignment with TCFD 43
+Our Company Responsible Data Use 21
+Corporate Profile 5 Operating Responsibly
+Transaction Integrity 22
+Corporate Governance 45
+Our Environmental, Social &
+Governance Approach 6
+Investing in Our People Ethics & Compliance 46
+Supporting the United Nations Inclusion & Diversity 24 Engaging with Governments 47
+Sustainable Development Goals 8
+Employee Learning & Development 28 Tax Compliance & Governance 48
+Empowering People, Communities & Economies Employee Engagement 30 Responsible Sourcing 48
+Small & Micro Business 10 Employee Wellbeing 31 Human Rights 49
+Digital Equity & Inclusion 12 Employee Benefits 32
+Appendix
+Community Support 13 Employee Safety 33
+GHG Emissions Verification Statement 52
+ESG Framework Map 53
+2021 Environmental, Social & Governance Report
+At Visa, digital payments is our business. With studies public transit systems and electric vehicle charging
+showing that even a small increase in the rate of digital networks and launching the Visa Eco Benefits bundle
+adoption can have an outsized influence on a country’s to help Visa cardholders better understand the
+GDP—particularly developing countries—we are leaning environmental impact of their day-to-day payments.
+into our strengths, digitally enabling communities around
+These accomplishments are grounded in our commitment
+the world. We have made great strides to bring the power
+to run our company ethically, responsibly and sustainably.
+of digital payments to a growing number of small and micro
+This, together with strong, independent governance,
+businesses. We’ve also invested in improving digital literacy
+contributes to our ability to be a leader in our industry in
+and financial education in communities across our regions
+environmental, social and governance (ESG) performance.
+through initiatives including Practical Money Skills, which
+We are proud to be recognized for our efforts, including our
+reached over 3.2 million people and was offered in 48
+continued inclusion in the Dow Jones Sustainability North
+countries and 19 languages in 2021.
+America Index and once again being named to the World’s
+To help ensure the digital economy is a safe and convenient Most Ethical Companies and Most JUST Companies lists.
+Letter from our place for businesses of all sizes to operate, we continue
+As I reflect on the results across our ESG areas of focus, I
+Chairman and CEO to invest in the security of our network and the broader
+recognize that, although we have done much good for
+ecosystem, including our investment of over $9 billion
+The past few years have accelerated change in many the world, much remains to be done. The work ahead
+in fraud protection over the past five years. In 2021, Visa’s
+facets of our lives—how we work and do business, how is challenging, but I believe we have the best and the
+security efforts contributed to preventing $26 billion in
+we communicate and what we prioritize and value. brightest talent in payments. As we continue to live out our
+fraud-related losses.
+They have also sparked a renewed urgency to tackle purpose, the positive impact we can make only grows.
+the problems facing society on a global scale, including Within Visa, we continue to focus on enhancing the talent
+In the following pages, I invite you to learn more about
+the 1.4 billion individuals currently left out of the formal experience for underrepresented groups. In the United States,
+the work we do, day in and day out, to advance a more
+financial system, the continuing effects of a lingering we made progress toward our Stand Together goals, including
+prosperous and sustainable future for all.
+pandemic and the real world consequences of our goals to increase underrepresented communities within
+climate change. our workforce. We also announced our Black Scholars and
+Sincerely,
+Jobs program — a scholarship, mentorship, internship and job
+There is no overstating the seriousness of the challenges
+placement program aimed at supporting a pipeline of diverse
+before us. Urgent problems demand urgent solutions.
+future leaders in the business and technology sectors.
+As global citizens, we at Visa are committed to making
+a positive impact in the world through living out our Building on our achievements in sustainable operations —
+Alfred F. Kelly, Jr.
+purpose: to uplift everyone, everywhere by being 100% renewable electricity use and carbon neutral operations
+Chairman and Chief Executive Officer, Visa
+the best way to pay and be paid. We strive to do this — we continue to work toward a more sustainable economy.
+in our efforts to empower small businesses and local We are expanding our commercial offerings that help our
+economies, secure the channels of commerce, protect clients and their customers access sustainable payment
+the planet, invest in and diversify our workforce, and features and shift towards more sustainable behaviors—
+operate ethically, responsibly and sustainably. including through expanding digital payments acceptance in
+2021 Environmental, Social & Governance Report | 1
+FY21 Visa ESG Performance Highlights
+Our ESG Strategy
+Helps us deliver on our purpose: uplift everyone, everywhere by being the best way to pay and be paid
+Empowering People,
+Securing Commerce &
+Communities & Economies
+Protecting Customers
+30.7M $26B
+SMBs digitally enabled toward 50 million goal by 20231 of fraud losses prevented by Visa Advanced
+Authorization and Visa Risk Manager
+8.5K
+$9B
+startups from 100 countries in Visa Everywhere Initiative
+invested over past five years to boost cybersecurity and reduce fraud
+3.2M
+$0.07
+people reached by Visa Practical Money Skills – offered
+in 48 countries and 19 languages historically low fraud rate for every $100 transacted on Visa’s network
+Investing in Our People Operating Responsibly Protecting the Planet
+64%
+Equal pay Carbon neutral
+among men and women for the same work Visa Board diversity for gender, achieved for operations
+race, ethnicity dimensions
+100%
+21K 100%
+completion by eligible employees
+active users in Visa Learning Hub of annual compliance training renewable electricity use maintained
+10 years
+50 400+
+consecutive inclusion on
+Visa Black Scholars joined inaugural cohort World's Most Ethical Companies list cities with Visa support of public transit mobility
+2021 Environmental, Social & Governance Report | 22
+1 As of May 2022
+About this Report
+Visa’s 2021 Environmental, Social and Governance (ESG) Report describes
+our commitments and work in five clusters:
+• Empowering People, Communities & Economies
+• Securing Commerce & Protecting Customers
+• Investing in Our People
+• Protecting the Planet
+• Operating Responsibly
+The focus areas, issues and initiatives we address are important to Visa and our
+stakeholders. For more information on how Visa identifies these priorities through our
+biennial Materiality process, see page 6 of this report. Additional resources on these
+topics are available at visa.com/esg.
+This report has been prepared in accordance with the Global Reporting Initiative (GRI)
+Standards: Core option, and is mapped to the Sustainability Accounting Standards Board
+(SASB) Software & IT Services Sustainability Accounting Standard, the Task Force on
+Climate-related Financial Disclosures (TCFD) recommended disclosures, and relevant World
+Economic Forum (WEF) Stakeholder Capitalism Metrics.
+This report focuses on Visa’s global commitments and practices, except where noted. We
+report data related to Visa’s fiscal year 2021 (October 1, 2020–September 30, 2021) unless
+otherwise noted. In some cases, data and information related to our ESG priorities may
+include programs and activities underway or introduced in the 2022 fiscal year, as noted.
+All references to currency are in U.S. dollars, unless otherwise noted. This is Visa’s seventh
+annual ESG Report. Visa’s previous report was published in May 2021.
+Please direct questions on this report or topics related to our environmental, social and
+governance disclosures to sustainability@visa.com.
+This report contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements generally are identified by words such as “anticipates,” “aims,”“aspires,” “believes,”
+“commits,” “estimates,” “expects,” “intends,” “may,” “projects,” “plans,” “could,” “should,” “will,” “continue” and other similar expressions. All statements other than statements of historical fact could be forward-looking statements, which speak only
+as of the date they are made, are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, many of which are beyond our control and are difficult to predict. Numbers and percentages used in this report
+are estimates or approximations and may be based on assumptions. We describe risks and uncertainties that could cause actual results to differ materially from those expressed in, or implied by, any of these forward-looking statements in our SEC
+filings, including our most recent Annual Report on Form 10-K and our subsequent reports on Forms 10-Q and 8-K.Except as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future
+events or otherwise.
+2021 Environmental, Social & Governance Report | 3
+Our Company
+4
+Corporate Profile
+Visa At a Glance
+Visa is one of the world’s leaders in digital payments. Our mission is to connect the world through the most innovative,
+reliable and secure payments network — enabling individuals, businesses and economies to thrive. We facilitate global Purpose
+commerce and money movement across more than 200 countries and territories among a global set of consumers, Uplift everyone, everywhere by being the best way
+to pay and be paid
+merchants, financial institutions, businesses, strategic partners and government entities through innovative technologies.
+To learn more, please visit our website, visa.com.
+Headquarters
+San Francisco
+2019-2021 Financial Results (GAAP) in millions (except for per share data) Regional Hubs
+Fiscal Year Ended September 30
+Foster City, Miami, Singapore, Dubai, London
+2019 2020 2021
+Net revenues $22,977 $21,846 $24,105
+123
+Operating expenses $7,976 $7,765 $8,301
+Operating income $15,001 $14,081 $15,804
+Global Offices and Data Centers
+Net income $12,080 $10,866 $12,311
+Shareholders' equity $34,684 $36,210 $37,589
+21,500
+Diluted class A common stock earnings per share $5.32 $4.89 $5.63
+Employees
+Visa Network
+(as of September 30, 2021)
+• 15,100 financial institution clients
+• Nearly 80 million merchant locations
+• 3.7 billion Visa credentials
+• 164.7 billion total transactions processed
+(12 months ended September 30, 2021)
+• $13 trillion total payments and cash volume
+(12 months ended September 30, 2021)
+2021 Environmental, Social & Governance Report | 5
+Our Environmental, At the Board level, the Nominating and Corporate Governance
+Committee has formal responsibility to oversee and review our
+Social & Governance
+management of ESG matters, overall ESG strategy, stakeholder
+Approach engagement, formal reporting, and policies and programs in
+specific areas, including environmental sustainability, climate
+change, human rights, political activities and expenditures,
+Visa is committed to operating as a responsible, ethical, social impact and philanthropy.
+inclusive and sustainable company. As a global leader in
+In 2021, the Board, in full and in individual committees,
+digital payments, Visa strives to join with clients, partners
+discussed a range of ESG topics, including human capital
+and other stakeholders to empower people, businesses
+management, inclusion and diversity, climate strategy,
+and communities to thrive. We focus on mitigating risk and
+political contributions and technology – including
+creating value across priority environmental, social and
+information security and cybersecurity.
+governance (ESG) issues in five clusters:
+• Empowering People, Communities & Economies
+Materiality1
+• Securing Commerce & Protecting Customers
+• Investing in Our People To inform our ESG strategy, we conduct a biennial materiality
+• Protecting the Planet assessment in accordance with best practice ESG reporting
+guidelines. Our latest assessment, completed in 2021,
+• Operating Responsibly
+incorporates and reflects recent business developments,
+ESG trends, global regulatory changes and internal and
+ESG Oversight
+external stakeholder expectations that have emerged since
+Visa believes in the importance of strong layers of our last formal assessment in 2019. Our process includes
+governance to ensure proper guidance and oversight is benchmarking, identification, prioritization and validation of
+provided across our approach to ESG. ESG topics. We review direct feedback from shareholders,
+employee surveys and customer and client information
+ESG activities are managed at a functional level across our requests on ESG topics.
+strategic and operational areas, with executive and Board
+oversight. Visa’s Chief Sustainability Officer is responsible for The sections of this report are organized in line with the
+leading the coordination of oversight and development of our results of our materiality assessment. We use terms such
+global ESG efforts. At the management level, a cross-functional as “priority issues” and “significant issues” to refer to our
+group of more than a dozen senior leaders contributes to material topics in our public disclosures.
+coordinating our ESG strategy and reporting efforts.
+1 In this report, our use of the terms “material,” “materiality” and other similar terms refers to materiality within the context of our ESG programs and priorities. We are not using these terms as they are used under the securities or other laws of the United States or any other jurisdiction or as these terms are
+used in the context of financial statements and financial reporting.
+2021 Environmental, Social & Governance Report | 6
+Stakeholder Engagement ESG-Linked Compensation Relevant Memberships
+Through ongoing engagement with our stakeholders to The compensation program for our named executive Visa actively participates in ESG-related organizations and
+understand their views and concerns, we can improve and officers (NEOs) promotes retention and rewards peer networks focused on various sustainability topics.
+expand our ESG strategic priorities across our business. We performance that enhances stockholder value and drives Key memberships include:
+regularly engage our stakeholders in a variety of ways: long-term strategic outcomes, including the Company’s
+• Business for Social Responsibility
+broader ESG efforts.
+• Employees: employee surveys, all-staff meetings, • Business Roundtable
+manager/employee dialogue, employee resource There are four primary principles that guide our NEO
+• Catalyst
+groups (ERGs) compensation program design and administration:
+• Centre for Sport and Human Rights
+• Clients: client councils, payment forums, client surveys, • Pay for performance • Chief Executives for Corporate Purpose
+direct engagement
+• Alignment with stakeholders’ interests • Clean Energy Buyers Alliance
+• Investors: shareholder earnings calls, direct • Variation based on performance • Corporate Eco Forum
+engagement, U.S. Securities and Exchange Commission
+• Motivation and retention of key talent • Council for Inclusive Capitalism
+filings, investor conferences, ESG ratings firm profiles
+For FY21, the Board developed a scorecard approach for • RE100
+• Government and policy officials: direct engagement,
+annual bonuses. In the scorecard, ESG goals are included • Sustainable Brands, Brands for Good
+testimony before government bodies, participation
+alongside financial, client and other goals that are all critical
+• Travalyst
+as panelists at policy gatherings, industry association
+to our corporate strategy and our long-term success. The
+memberships and participation • World Business Council for Sustainable Development
+Board reviews Visa’s performance relative to all the goals in
+• World Economic Forum
+• Civil society organizations: direct engagement, the scorecard, including ESG goals, when determining NEO
+conferences and events, memberships in initiatives, bonuses for the year.
+individual partnerships
+In FY21, the annual bonus scorecard included, among other
+In 2021, we increased our ESG-focused engagement with
+topics, goals related to digital enablement of small and
+our shareholders by contacting our top 75 investors—
+micro businesses; environment and climate initiatives;
+representing more than 66 percent of our outstanding
+employee participation in social impact programs; inclusion
+Class A common stock—to discuss Visa’s ESG strategy
+and diversity initiatives; and employee wellbeing programs.
+and performance.
+The same scorecard was used for determining
+We held ESG-focused meetings with 47 institutional
+the annual funding for Visa’s broad-based employee
+shareholders representing approximately 35 percent of
+bonus plans.
+our outstanding Class A common stock, and provided
+the Nominating and Corporate Governance Committee
+of the Board of Directors a quarterly update on feedback
+from investors.
+2021 Environmental, Social & Governance Report | 7
+Supporting the United Nations
+Sustainable Development Goals
+Select Corporate
+The United Nations (UN) Sustainable Development Goals (SDGs) provide
+Recognition
+a blueprint for governments, businesses and civil society organizations to
+address the most pressing environmental and social issues globally. At Visa,
+Dow Jones Sustainability North America Index
+we are committed to helping address sustainable development challenges 2021, S&P Global
+and create inclusive economies and a thriving planet.
+FTSE4Good Index
+We believe our work contributes most 2021, FTSE Russell
+to addressing the following nine SDGs
+2022 America’s Most JUST Companies
+2022, JUST Capital
+End poverty in all its
+GOAL 1
+forms everywhere
+World’s Most Ethical Companies
+2022, Ethisphere
+Ensure inclusive and quality
+GOAL 4 education for all and promote
+lifelong learning Trendsetter
+2021, CPA-Zicklin Index
+Achieve gender equality and
+GOAL 5 empower all women and girls World’s Most Admired Companies
+2022, Fortune
+Promote inclusive and sustainable
+GOAL 8 economic growth, employment Global 2000 World’s Best Employers
+and decent work for all 2021, Forbes
+Reduce inequality within World’s Most Valuable Global Brands
+GOAL 10
+and among countries 2021, Brandz
+Ensure sustainable consumption Global RepTrak 100
+GOAL 12 and production patterns 2022, Reputation Institute
+U.S. 500
+GOAL 13 Take urgent action to combat 2022, Brand Finance
+climate change and its impacts
+Training Top 100
+Promote just, peaceful 2022, Training Magazine
+GOAL 16
+and inclusive societies
+Revitalize the global partnership
+GOAL 17
+for sustainable development
+2021 Environmental, Social & Governance Report | 8
+Empowering People,
+Communities & Economies
+99
+Visa is committed to advancing inclusive, equitable and Solutions Tap to Phone
+sustainable economic growth for everyone, everywhere. An app-based solution simplifies payment acceptance
+We continue to develop products to advance digital
+We are focused on reaching people who have been for merchants of any size. Tap to Phone allows sellers to
+equity and economic empowerment, including:
+traditionally underserved, providing them with access use a mobile application to accept payments without
+to resources that can help improve their economic any additional hardware, enabling small businesses to
+Visa Acceptance Cloud
+livelihoods, businesses and communities. more quickly connect to the Visa network, fast-tracking
+A next-generation cloud-based acceptance platform
+commerce for sellers around the globe.
+providing a point-of-sale (POS) solution that allows
+Our priorities include:
+business owners to convert any Internet-connected
+Authorize.net
+• Small and micro business
+device to a POS device, enabling access to a low-cost
+A solution that helps businesses create flexible, creative
+• Digital equity and inclusion and scalable payments solution.
+digital commerce solutions to help them grow, whether
+• Community support they need help digitizing payments, establishing an online
+Visa Direct
+presence, preventing fraud or streamlining operations.
+A payment solution that helps businesses and individuals
+move money between billions of cards and accounts
+Small & Micro Business
+worldwide. Businesses can use Visa Direct through their
+financial institutions to deliver fast, simple and efficient Visa has helped to digitally
+According to the UN, micro-, small and medium enterprises
+payments to customers and workers. Individuals can use
+(MSMEs or SMBs) account for 90 percent of businesses,
+enable 30.7 million SMBs
+Visa Direct to pay others back, send gifts, share costs and
+60 percent to 70 percent of employment and 50 percent
+support families around the world.
+of GDP worldwide, making them a vital contributor to the worldwide, on track to
+world’s economy. Scan to Pay
+achieve our goal of
+A Quick Response code-based mobile payment solution
+In 2020, we announced a global commitment to digitally
+that allows users to send payments directly from a 50 million SMBs by 20231
+enable 50 million small and micro businesses by the end of
+Visa prepaid, debit or credit card account to a range of
+2023. To accomplish this goal, we are introducing a range
+merchants and businesses using just a mobile phone. Scan
+of locally designed programs and solutions that include 1 As of May 2022
+to Pay expands payment options for consumers without
+building online businesses, increasing the acceptance of
+requiring merchant investment in specialized hardware.
+digital payments and incentivizing neighborhood support.
+2021 Environmental, Social & Governance Report | 10
+Skills insurance. IF50 aims to make these startups more visible
+to investors and partners who can provide capital and
+Visa’s Practical Business Skills educational portal houses free Visa Economic
+connections.
+resources and interactive tools to help business owners Empowerment Institute
+start, manage and grow their small businesses. The program Over the last three competitions, IF50 has attracted over
+In 2020, we launched the Visa Economic
+is focused on helping growth-minded entrepreneurs with 1,000 eligible applicants. Past winners have collectively
+Empowerment Institute (VEEI), an independent, non­
+fewer than ten employees thrive via a variety of resources. In increased their funding by $620 million in the year
+partisan center of excellence for research and public-
+2021, we expanded the program globally and offer resources following their win. Winners benefit from access to
+private dialogue on payments policy. The VEEI’s
+in English, Spanish, French and Arabic. zero-cost tools such as Visa’s Practical Business Skills and
+overarching mission is to promote public policies that
+Practical Money Skills.
+Visa has also built localized online resources in more empower citizens, small businesses and economies.
+than 20 countries to provide tools, partner offers and Visa Everywhere Initiative (VEI) It develops new research and insights to inform long­
+information on starting, running and growing digital-first VEI is a global innovation program that tasks startups to term policy within the global payments ecosystem.
+small businesses. solve payment challenges of tomorrow, further enhance
+Visa established VEEI as the next step in our
+their own product propositions and provide visionary
+ongoing mission to remove barriers to economic
+solutions for Visa’s network of partners.
+Partnerships & Initiatives empowerment and to create more inclusive, equitable
+economic opportunities for everyone, everywhere.
+The program first launched in the U.S. in 2015. Since
+Complementing our support of solutions and skills, Visa
+then, VEI has engaged 8,500 startups in more than 100
+A team of fellows, composed of subject matter
+develops partnerships and initiatives in support of SMBs.
+countries. Collectively, these startups have raised over
+experts in payments, development finance,
+$16 billion in funding.1
+Recognizing that greater digitization of commerce international trade, cybersecurity and other key
+can bring enormous benefits to small businesses, Visa’s issues, apply Visa’s global insights and expertise
+VEI is committed to supporting diversity in the startup
+efforts are focused on helping to ensure both existing and to help governments create more inclusive digital
+community as a platform for brilliant innovators of all
+newly minted small businesses are well-equipped to economies. The three focus areas of the VEEI are
+races, ethnicities, ages, genders and sexual orientations.
+meet changing consumer demands and embrace the fostering digital equity and inclusion, unlocking
+For example, in 2021 we partnered with StartOut to help
+digital future. growth through trade and imagining an open future
+shine a spotlight on remarkable LGBTQ+ entrepreneurs.
+for payments.
+Inclusive Fintech 50
+National Football League (NFL)
+Visa is a founding supporter of the Inclusive Fintech
+As the official payment services technology partner of the
+50, (IF50), which promotes early-stage fintechs driving
+NFL, Visa ran a season-long commitment to support small
+inclusion and resilience for financially underserved people.
+businesses as part of its partnership with the NFL. Visa
+Companies identified through the initiative offer solutions
+teamed up with several teams to give away grants totaling
+among payments and remittances, savings and personal
+$60,000 to support Black-owned small businesses in and
+financial management, infrastructure addressing special
+around New York City and Santa Clara, California that have
+challenges of underserved customer segments, credit or
+been impacted by COVID-19.
+1As of the 2022 competition cycle
+2021 Environmental, Social & Governance Report | 11
+Digital Equity Visa worked with governments to reach individuals without
+bank accounts and encourage people to spend locally and
+& Inclusion
+help stimulate economic recovery.
+Visa Government Prepaid is an electronic disbursement
+Communities and economies thrive when all individuals are
+method that replaces paper checks for disbursement of
+included in the formal financial system and can benefit from
+government benefits (such as Unemployment Insurance,
+financial and digital access. Our initiatives and partnerships
+Child Support and Temporary Assistance to Needy Families).
+focus on helping to enable equitable access to the financial
+For benefit recipients, especially those without a banking
+and digital ecosystem for everyone, everywhere.
+relationship, Visa Government Prepaid cards provide a safer
+alternative to carrying cash and checks and are a convenient
+The following section provides illustrative examples of how
+way to receive government disbursements.
+Visa continues to support digital equity and inclusion.
+Gig & Hourly Workers
+Financial Education
+Visa continues to develop new services and work with
+Greater financial knowledge can empower people to better
+external partners to support gig and hourly workers as the
+manage their money and improve their quality of life. Our
+gig economy grows. Visa and our Earned Wage Access
+award-winning global financial literacy initiative, Practical
+technology partners help accelerate payments to workers
+Money Skills, strives to link consumers, educators, banks
+through Visa Direct, enabling workers to access and
+and governments to the tools and resources they need,
+transfer earned wages to their bank accounts or eligible
+helping individuals and communities develop their money
+debit cards in real time, rather than after the typical two-
+management skills.
+week pay cycle.1
+Practical Money Skills programs have now been offered in
+In 2021, we continued supporting gig workers through
+48 countries and 19 languages and reached more than 3.2
+previously established programs and partnerships,
+million individuals during 2021.
+including with DailyPay, FlexWage, Instant Financial,
+PayActiv, Wagestream and ZayZoon.
+Government Disbursements
+The COVID-19 pandemic highlighted the increased need for
+government disbursement programs that enable quick and
+efficient distribution of financial support to people in need.
+1 Actual fund availability varies by receiving financial institution, receiving account type, region and whether the transaction is domestic or cross-border
+2021 Environmental, Social & Governance Report | 12
+Women’s Economic Empowerment We also partnered with Black Girl Ventures, The Female Community Support
+Quotient and IFundWomen to support Black women owned
+Expanding women's inclusion in the financial system
+businesses in six U.S. cities, including:
+has significant economic benefits. Our goal is to increase At Visa, we are committed to using our time, talent and
+the number of women who control capital, the number • Extended She’s Next Grant Program to award 60 resources to support and strengthen the communities and
+of women entrepreneurs who can access that capital Black women entrepreneurs with a $10,000 grant, one markets in which we operate.
+and the number of women who benefit from those year coaching membership to IFundWomen and Visa
+businesses as employees or customers. Business Solution partner offers. At the Visa Inc. corporate level, we engage locally through:
+• Partnered with Black Girl Ventures to provide small • Community Giving
+Visa’s support of women’s economic empowerment
+includes the following examples: businesses with a set of digital products and education • Employee Giving & Volunteering
+they need to thrive.
+• Humanitarian and Disaster Relief
+She’s Next
+• Visa and The Female Quotient hosted a virtual She’s Next
+Visa Foundation focuses its philanthropic efforts through:
+The challenges that women entrepreneurs face are universal.
+event focused on celebrating the Black community and
+Together, Visa in collaboration with IFundWomen, have been women entrepreneurs in D.C. • Community Giving
+creating access to funding and education for women-owned
+Women in Sports
+• Humanitarian and Disaster Relief
+small businesses around the world through the Visa She’s
+Sports present a significant opportunity for women • Supporting SMBs
+Next Grant Program.
+to pursue their dreams, both on and off the field. We
+In 2021, Visa Inc. contributed approximately $21.5 million
+In 2021, we launched the She's Next Grant Program in the underscore our commitment to champion economic to charities around the globe, while Visa Foundation
+U.S., Canada, Ireland and India, providing 85+ grants totaling empowerment through our efforts to empower women at funded approximately $25.9 million in grants. This
+approximately $950,000. the intersection of business and athletics. includes matching gifts and other amounts described
+throughout this section.
+Visa supports the U.S. Women’s National Soccer Team
+and invests in women’s soccer through partnerships
+with Union of European Football Associations’ (UEFA)
+Women’s Football and Visa’s longstanding partnership
+with the Federation Internationale de Football Association
+(FIFA), including the FIFA Women’s World Cup™, FIFA U-17
+Women's World Cup™ and FIFA U-20 Women's World Cup™.
+2021 Environmental, Social & Governance Report | 13
+2021 Giving Highlights Team Volunteer Events employee donations to Stop AAPI Hate, AAPI
+Team volunteering opportunities are organized, Community Fund and Asian Americans Advancing
+$21.5 million encouraged and supported. In 2021, we offered Justice, raising $160,000.
+more opportunities for virtual volunteering.
+Employees also helped support SMBs through Visa
+Visa Inc. Total
+Community & Volunteering Councils Foundation’s partnership with Kiva, a crowdfunding
+We engage voluntary Community & Volunteering Leaders microfinance organization. Through grant funding from
+around the world to facilitate our programs while also Visa Foundation, Visa employees had the opportunity
+$25.9 million gaining leadership development opportunities. to direct $50 each in loans to SMBs on the Kiva platform.
+In 2021, 82% of employees participated in this effort
+For fiscal year 2021, Visa leadership set a goal of 70%
+and collectively helped distribute $850,000 in loans to
+Visa Foundation Total
+employee participation in impact programs through
+more than 21,000 SMBs in underserved communities.
+donating, volunteering, directing loans to small
+Collectively between 2020 and 2021, we directed $1.5
+businesses through the Visa Foundation and Kiva
+million in loans to 38,000 small businesses in 38
+Employee Giving and Volunteering
+partnership and more. We exceeded this goal with
+countries worldwide. Visa won a Gold Halo
+participation from 85% of Visa employees.
+Visa employees around the world are empowered Award for Employee Engagement for the Kiva and
+to give through donations of time and funds. Visa At Visa, we believe that volunteering in the communities Visa Foundation Partnership.
+amplifies employees’ efforts to support causes important in which we live and work is the most impactful way our
+In 2020, Visa launched an employee mentorship program
+to them through: employees can give back, while also developing their skills.
+with Bridge for Billions. Through this online program, Visa
+In 2021, more than 4,200 employees from 53 countries
+Matching Gifts employees mentor Black, primarily women-owned SMBs
+volunteered 43,600 hours.
+Visa offers to match employees’ personal donations 1:1 in the U.S. on a three-month incubation journey to help
+up to USD $10,000 per year; we also offer 2:1 matching in In employee giving in 2021, nearly 6,000 employees them review their business models, define their financial
+response to major disasters and other significant events. donated to 5,800 charities in 73 countries, matched projections, create growth plans for their ventures and more.
+In 2021, we engaged over 60 SMBs through the Bridge for
+by Visa for a collective $14.7 million. For Giving Tuesday,
+Volunteer Time Off (VTO)
+Billions program.
+Visa offered a double match for employee donations up
+Visa offers two days of VTO each year to eligible employees
+to $1,000. On that day, 4,200 employees participated
+to volunteer for the charity or activity of their choice during Visa also partnered with Digital Boost, a nonprofit digital
+and, combined with Visa's match, donated $7.1 million to
+work hours. upskilling platform, to support UK-based small businesses
+4,400 organizations.
+seeking to digitize as a result of the COVID-19 pandemic.
+Dollars for Doers
+Through this program, Visa employees apply their areas of
+In 2021, Visa stood with our Asian American and Pacific
+Employees can earn $10 per hour spent volunteering, up to
+expertise to mentor small businesses. Through the end of
+Islander (AAPI) employees, partners and clients in the
+$500 per year, to contribute to the charities they support,
+2021, we supported over 166 SMBs in the U.K. through our
+U.S. amid heightened discrimination against the AAPI
+plus each quarter, two employees from each Visa region
+partnership with Digital Boost.
+community. In response to violent actions against the
+are awarded $1,000 to give back to a charity of their choice.
+AAPI community in Atlanta in 2021, we double-matched
+2021 Environmental, Social & Governance Report | 14
+Humanitarian & Disaster Relief Through its investments and grant-making activity, Visa
+Foundation partners with organizations that provide
+Visa responds to humanitarian crises and disasters in
+catalytic capital, capacity building and support services.
+communities around the globe by contributing our
+Additionally, Visa Foundation uses capital as a tool to enable
+resources and unique capabilities in partnerships
+the flow of investment capital to gender diverse SMBs.
+with governments, international relief groups and
+Visa Foundation’s activity has a global reach with a deep
+private organizations.
+commitment to emerging economies and underserved
+communities driving gender equity.
+Throughout 2021, Visa Inc. and Visa Foundation provided
+support to charities providing humanitarian aid following
+In 2021, Visa Foundation committed $18.1 million in grants
+major natural disasters around the world:
+and $50.5 million in impact investments via its Equitable
+Access Initiative. Additionally, Visa Foundation continued
+• Hurricane Eta and Hurricane Iota in Central America
+a five-year, $20 million partnership with Women’s World
+• Typhoon Goni and Typhoon Vamco in the Philippines
+Banking to support women-owned SMBs around the world.
+• Mt. Nyiragongo Eruption in Democratic Republic of the Women's World Banking drives impact through its scalable,
+Congo and Rwanda market-driven financial and policy solutions, gender lens
+private equity fund and leadership and diversity programs.
+• Flooding in Central Europe
+• Hurricane Ida in the U.S.
+Visa Humanitarian Aid
+Visa Foundation is an Annual Disaster Giving Program
+Support in Ukraine
+member of the American Red Cross, representing a
+commitment of $500,000 annually to help the Red Cross Following the Russian invasion of Ukraine in early 2022, Visa
+prepare for disasters across the U.S., such as Hurricane Ida. Inc. took swift action to ensure the safety and security of
+our people who were directly impacted. Visa Foundation
+provided a $2 million grant to the U.S. Fund for United
+Visa Foundation
+Nations Children’s Fund (UNICEF) to support humanitarian
+Visa Foundation launched the Equitable Access Initiative aid to the people of Ukraine.
+in 2020, a five-year, $200 million strategic commitment
+Visa Inc. also double-matched all reported employee
+to support gender diverse and inclusive SMBs around the
+donations to the Ukraine response funds of UNICEF and
+world. As a part of the initiative, Visa Foundation will provide
+the Red Cross, raising almost $1.4 million between reported
+at least $60 million in grants and $140 million in impact
+employee donations and Visa match. Visa Inc. and its
+investments to organizations at the forefront of economic
+clients waived interchange fees in the U.S., Canada and
+justice and entrepreneurship.
+many European countries to numerous charities providing
+humanitarian aid.
+2021 Environmental, Social & Governance Report | 15
+Securing Commerce &
+Protecting Customers
+16
+Payments Security The Intelligent Security framework spans the entire We continue to work with clients across different regions
+transaction lifecycle: to meet their unique needs and accelerate the adoption of
+these solutions.
+Visa’s ecosystem is a network of networks that enables Onboarding & Management
+participants to move money for everyone, everywhere. Provide financial institutions with tools to identify identity We measure the effectiveness of our approach to
+For payments security, we are committed to making our fraud at account opening. Through our financial institution payments security on an ongoing basis. We monitor
+ecosystem the most secure, resilient and trusted engine clients, we provide tools to manage security, including metrics such as fraud rates for Card Present and Card
+of commerce. We continuously scan the ecosystem to account use restrictions and customizable alerts. Not Present scenarios as well as transaction volumes
+identify and invest in new capabilities, work with clients to that leverage secure technologies, such as 3-D Secure
+Consumer Identity & Authentication
+help secure the environment and take action to improve or Tokenization. Additionally, we implement capability
+Apply artificial intelligence-powered authentication
+the security, integrity and resiliency of our network. roadmaps for digitalization and automation. We improve
+strategies to prevent unauthorized access to Visa accounts.
+the operational resilience of our network by engaging
+We invest in innovation to build and maintain trust for with ecosystem participants to gather perspectives,
+Transaction Authorization
+our network and the broader payments ecosystem. benchmark our thinking and approach and steer our
+Use tools such as Visa Advanced Authorization, which
+Specifically, we have invested approximately $9 billion in security investments.
+applies real-time AI and machine learning to evaluate the
+cybersecurity over the past five years, with about $500
+trustworthiness of transactions to prevent fraud without
+million of that specifically allocated to data and artificial
+inconveniencing consumers.
+intelligence (AI) capabilities. We continue to evolve our
+security capabilities and work to lower our global fraud Dispute Management Visa Advanced Authorization
+rate, which is at an all-time low of $0.07 for every $100 in Help consumers and issuers proactively address
+and Visa Risk Manager used AI
+payment volume on our network. transaction disputes with Visa tools such as Verifi, which
+provides issuers and customers access to transaction and machine learning to help
+The Visa Intelligent Security framework offers our
+information from sellers via a global data-sharing network.
+ecosystem partners dynamic, data-rich solutions that help
+reduce fraud by $26B in 2021.
+balance fraud reduction and dispute prevention. Our aim Performance Optimization
+is to increase approvals so that businesses can thrive while Enhance payment performance by reducing fraud and
+customers are protected and satisfied — no matter where increasing efficiency.
+or how they are paid or pay.
+2021 Environmental, Social & Governance Report | 17
+AI-Powered Innovations
+for Smarter Payments
+Visa is leveraging AI to improve our customer experience and enhance processes that enable the movement of billions
+of dollars across thousands of institutions in more than 200 countries and territories and 160 currencies. In February 2021,
+Visa announced VisaNet +AI, a suite of AI-powered services that enhance predictability, transparency and speed in the
+payment experience. VisaNet +AI includes Visa Smarter Posting and Visa Smarter Settlement Forecast, as well as Visa
+Smarter Stand-In Processing (STIP).
+Smarter Posting
+When a restaurant-goer adds a tip, or when a cross-border payment involves multiple currencies, the amount
+authorized in real time at checkout can differ from the amount eventually cleared from a consumer’s account. Banks
+often delay posting the payment or updating the account balance until they have certainty about the final amount. To
+help issuers create a better banking experience for cardholders, Visa developed Smarter Posting, a service that uses AI
+to deliver a customized score for each transaction as part of the authorization process. The Smarter Posting model
+analyzes transaction details and historical data to predict the likelihood that a transaction amount will remain consistent
+through clearing.
+Smarter Settlement Forecast
+As the final step in the payment cycle, transactions are aggregated, transfers are facilitated between acquirers
+and issuers, and merchant accounts are credited for completed sales. Visa created Smarter Settlement Forecast to
+provide financial institution clients with customized 7-day forecasts of the settlement amount they may need on hand
+each day. The service uses information generated by historical settlement volumes, seasonal indicators, macro-trends,
+outlier events and real-time transaction data to provide high-quality predictions of cash outflows and inflows.
+Smarter Stand-In Processing
+Smarter STIP uses deep learning to help financial institutions increase transaction authorizations during outages.
+Smarter STIP generates an informed decision to approve or decline transactions on behalf of issuers to provide
+consumers with a frictionless Visa payment experience.
+2021 Environmental, Social & Governance Report | 18
+Cybersecurity at Visa security requirements. Customized Visa-engineered Policy & Training
+solutions include Visa Behavior Analytics and the Self-
+Visa’s cybersecurity policy framework, the Key Controls,
+Defending Platform.
+Recognizing that the cyber threat landscape continues to details our approach to protecting our information
+evolve, Visa is committed to championing cybersecurity Visa Behavior Analytics defends against digital identity and technology assets, including the safe handling of
+within our operations. fraud by providing strong consumer authentication. By consumer nonpublic personal information. The Key
+building our own products, we keep cybersecurity data Controls are reviewed at least annually and updated as
+We use an established risk assessment methodology and in-house, compared to previous models which outsourced needed to address any changes to industry or regulatory
+framework to identify cybersecurity risks and associated data to a black-box model. requirements, new technologies or emerging threats.
+business impacts. Over the past several years, Gartner
+Consulting assessed Visa’s security posture and assigned Visa also makes year-over-year investments to improve We provide new employees with security awareness
+Visa its highest rating among peer companies for the our cybersecurity capabilities. We continue to implement training and conduct annual Key Controls training for all
+overall maturity of our cybersecurity program. new technologies and processes to enhance our security staff, to promote good cyber-hygiene and familiarity with
+posture against emerging threats. Visa processes and tools. In 2021, 100% percent of eligible
+At Visa, we build and use AI to detect and secure cyber
+employees completed Key Controls training. Additionally,
+threats. We approach cybersecurity with a layered No single technology in isolation can stop every threat.
+Visa Cybersecurity has launched an e-curriculum of online
+defense-in-depth strategy. We further advance our We deploy multiple redundant layers of preventative and
+training modules covering such topics as Phishing, Data
+capabilities based on our core areas of focus, including detective technologies across our network and data layers.
+Security, Security Assessment and more.
+enhancing our architecture, expanding our data security In the rare event cyber criminals succeed in breaching
+program to include unstructured data and conducting one layer, the doors beyond that layer are locked. We We publish cybersecurity awareness content to
+continuous security and efficacy efforts. Visa developers collaborate and share our security approach with industry employees across multiple enterprise channels throughout
+build security into applications with the very first lines peers, clients and competitors. the year. These include intranet pages dedicated to various
+of code. We augment our core detection capabilities topics such as phishing prevention and secure file transfer,
+Our cybersecurity approach is supported by robust
+with a proactive approach, where we “hunt” for traces of periodic blog articles covering seasonal threats and
+governance processes which involve regular reporting to
+malicious activity to intercept would-be attackers. relevant tips, such as secure remote working, executive
+management- and Board-level committees responsible
+announcements on key themes and instructor-led training
+Visa uses novel innovation in the new field of behavior for risk management and cybersecurity oversight. We
+and speaker sessions.
+biometrics coupled with the economics of vendor provide regular updates to the full Board, including an
+offerings to champion the development of AI products annual in-depth review. Each October, Visa celebrates Cybersecurity Awareness
+that support cybersecurity. Our cybersecurity team Month with a month-long, multi-channel messaging
+The following sections describe some of the components we
+develops solutions in-house to meet our stringent campaign, including online articles, training modules,
+use to enact our cybersecurity strategy across the business.
+speaker sessions and additional online content.
+2021 Environmental, Social & Governance Report | 19
+Adaptive Resiliency external reviews include: Payment Card Industry Data • We use personal information only for defined,
+Security Standard, Statement on Standards for Attestation appropriate purposes. In addition to operating one of
+We regularly conduct cross-functional response and
+Engagements (SSAE-18) and International Standard on the world’s largest electronic payments networks, we
+resiliency exercises involving multiple internal teams as
+Assurance Engagements (ISAE) 3402. provide authentication, fraud management, loyalty,
+well as external partners and agencies.
+consulting and data processing services. We also create
+In addition, we are subject to privacy and data security
+data products that give our clients insights into their
+In 2021, we further evolved the Visa Cyber Fusion
+laws, such as the Gramm-Leach-Bliley Act (GLBA) and the
+business performance. These products contain data that
+Framework to drive an active and adaptive global Cyber
+European Union General Data Protection Regulation (GDPR).
+is de-identified to protect consumer privacy.
+Defense capability. This capability allows us to scale to
+meet the increasing threat landscape through the ability • We support our commitments with a dedicated
+to rapidly collect, analyze and use cyber threat intelligence global privacy program, employee training and
+while providing continuous real-time validation of our rigorous assessments.
+Data Privacy
+security tools and assets. We augment our data with
+At Visa, we have accountable executives and hundreds of
+intelligence from hundreds of unique sources to enhance
+dedicated security, privacy and data professionals working
+detection and response capabilities.
+around the world on these topics. Our Global Privacy
+At Visa, building trust begins with a commitment to
+Office, composed of dozens of privacy professionals
+We also leverage AI and deep learning technology to privacy and security, which instills confidence in our
+around the world, is led by Visa’s Chief Privacy Officer and
+monitor our network and understand the threats aimed employees and clients, protects our brand and allows
+closely coordinates with several cross-functional teams
+at our company. As cybersecurity risks continue to us to innovate responsibly. We believe consumers
+and governance bodies, including our Cybersecurity and
+develop, we are focused on maintaining our security expect convenience, security and privacy from their
+Data Governance operations.
+posture ahead of the evolving threat landscape. We payment experiences.
+strengthened our supply chain by completing additional
+The Corporate Risk Committee and the Visa Board’s
+To meet these expectations, Visa makes
+risk assessments. Our efforts to mitigate risks, including
+Audit and Risk Committee oversee the Global Privacy
+the following commitments:
+malware attacks, data breaches and phishing scams,
+Program and the risks related to data privacy, including our
+focus on continuous cybersecurity threat identification. • We adhere to high ethical and legal standards compliance with current and emerging data protection
+everywhere we operate. laws around the world.
+Audits & Third-Party Certifications • We do not sell personal information. Our Global Privacy
+Notice describes how we share information, such as
+To promote the effectiveness of our cybersecurity
+when we process payments, provide services to card
+approach and systems, we conduct annual internal and
+issuers, prevent fraud or with a cardholder’s consent.
+external audits of our IT infrastructure and applications.
+These systems also are subject to examination by the
+Federal Financial Institutions Examination Council (FFIEC)
+and other regulators from across the globe. Examples of
+2021 Environmental, Social & Governance Report | 20
+Responsible Data Use Value Visa has developed an extensive, multi-layered governance
+Data use at Visa should benefit individuals, businesses and accountability structure, including operational, legal,
+and economies. We strive to do this by delivering greater privacy and risk-based frameworks. We have established
+We utilize data to improve the security and value of the security, financial inclusion and consumer convenience. several internal committees to help ensure our governance
+Visa network, better serve our clients and partners, and internal values are applied, including the MRM
+protect consumers from fraud and drive positive impact Fairness Committee and the Visa Data Use Council.
+for communities and economies around the globe. Visa’s application of data and data-driven insights aims
+to be fair and inclusive and avoid discrimination. Visa will
+We recognize consumers are concerned about how strive to make our models explainable, accurate and safe.
+their data is collected, used, shared and kept secure.
+Our privacy commitments are outlined in our Privacy Accountability
+Notices and, where we market services directly to Visa’s approach to data use should be consistently applied
+consumers, in the terms and conditions of those programs. at all levels of the organization and be embedded through
+process, training and management responsibilities.
+In addition to our Global Privacy Policy and the internal
+standards that form the basis of our Global Privacy Program, These principles, which are aspirational, may evolve over time
+we developed a set of Data Values to capture, in plain based on the needs of consumers, businesses and economies
+language, the principles we believe should apply when and to adapt to new privacy and data-related regulations and
+companies collect consumer data. These values inform standards that may emerge. As Visa’s business moves into
+Visa’s role as a leader in the payments ecosystem. Data new technologies, payment flows and value-added services,
+innovation is a vital component of Visa’s strategy — and we are committed to engaging with policymakers and
+in everything we do — built on our 60-year legacy of regulators worldwide to participate in the development and
+responsible data stewardship. harmonization of privacy regulations and standards.
+Security
+Responsible Use of
+Individuals and businesses should have confidence that
+Artificial Intelligence (AI)
+Visa payment data is safe. There is no higher priority
+for Visa than safeguarding those who use our products,
+Bias, or the potential of producing unlawful or undesired
+services and network.
+discrimination, is one of the greatest risks posed by AI. Bias
+can enter the product lifecycle at many stages, and Visa
+Control
+believes that mitigation needs to exist at all stages. Visa’s
+Visa will always strive to provide simple explanations
+Model Risk Management (MRM) tests models for statistical
+regarding how data may be used and to empower individuals
+integrity as well as unintended impacts, like bias.
+with easy processes to manage use of their data.
+2021 Environmental, Social & Governance Report | 21
+Transaction Integrity • Works with acquiring banks to identify and terminate
+merchants that are selling illegal items and services.
+• Engages with law enforcement to stay abreast of
+Visa connects the world through the most innovative,
+ecosystem risks.
+reliable and secure payments network — enabling
+individuals, businesses and economies to thrive. Visa • Supports the U.S. Financial Coalition Against Child
+is committed to ensuring the integrity of our payment Exploitation and the U.S.-based National Center for
+system. We do not tolerate the use of our network and Missing & Exploited Children.
+products for illegal activity, and we are vigilant in our efforts • Combats counterfeiting and piracy in partnership with
+to deter illegal activity on our network. the International Anti-Counterfeiting Coalition.
+Our approach to protecting the network is grounded Visa is a member of the Alliance for Safe Online Pharmacies,
+in the Visa Rules and our robust compliance programs. a global initiative that works to combat illegally sold
+When participants on the network are unable to meet our prescription medicines.
+requirements, we levy financial penalties and, based on the
+Visa continues to respond to situations that developed
+circumstances, suspend or terminate them from our system.
+during the COVID-19 pandemic, including by partnering
+Visa’s Global Brand Protection Program, for example, with government agencies to identify and address
+manages situations where the Visa brand is associated with merchants offering fake and/or unapproved COVID-19
+high-risk or potentially brand-damaging activities, such as cures, treatments and test kits online.
+internet gambling, pharmaceutical sales and adult content.
+As part of the Program, Visa:
+• Maintains registration requirements for acquirers and
+merchants, pursuant to which acquirers attest to their
+compliance with our standards.
+• Provides acquirers guidance and direction on controls to
+help comply with Visa’s rules.
+• Proactively monitors participant activity via machine-
+learning solutions.
+2021 Environmental, Social & Governance Report | 22
+Investing in Our People
+2233
+Inclusion & Diversity hiring panels. We also instituted a Quarterly Business Visa has established goals to build a more equitable
+Review specifically focused on Inclusion & Diversity for workforce. In 2021, we made strong progress toward our
+deeper understanding of proactive progress. two primary goals:
+Visa has made social justice and racial equality a business
+imperative. In 2020, our CEO made a public commitment By committing to building, developing and investing in • Increasing the number of employees from historically
+to Stand Together, our effort to address social and racial Black and African American and Latinx employees, as well underrepresented groups at the vice president level and
+inequality within Visa and around the globe through actions as employees from other historically underrepresented above in the U.S. by 50% by 2023.
+focused on our people, our community and our company. groups, we can create more socially and racially • Increasing the number of historically underrepresented
+To support these efforts, in 2021 we welcomed Michelle equitable teams. Visa employees in the U.S. by 50% by 2025.
+Gethers as our Chief Diversity Officer & Head of Corporate
+Responsibility — a role that reports directly to our CEO and
+Workforce Demographics
+sits on the Visa executive committee.
+We are committed to undertaking the next steps in our
+journey, with the goal of driving lasting change through:
+Gender in Global Workforce Gender in U.S. Workforce Ethnicities in U.S. Workforce
+• Our people
+58% 58% 41%
+• Community Allyship Men Men Asian
+7%
+• Our company 42% 42%
+Black
+Women Women 12%
+Hispanic
+Our People
+37%
+White
+At Visa, we want our employees to feel like they belong. We
+3%
+invest in a workplace that encourages diversity of thought, Other2
+culture and background so that diverse perspectives are
+embedded in the work that we do. We create an inclusive Gender in Global Leadership1 Gender in U.S. Leadership1 Ethnicities in U.S. Leadership1
+workplace by encouraging employees to come as they are
+and by investing in robust inclusion and diversity training. 65% 65% 20%
+Asian
+Men Men
+6%
+We are committed to creating and maintaining a diverse 35% 35% Black
+talent pipeline. In the United States, we have embedded Women Women 12%
+Hispanic
+our commitment to diversity and inclusion in the hiring
+59%
+process, including diverse candidates in all job slates and White
+2%
+Other2
+Data is based on company records as of September 30, 2021.
+1 Leadership: VP and above.
+2 Other: American Indian/Alaska Native, Native Hawaiian/Other Pacific Islander and two or more races. Ethnicity data does not include undeclared and blanks.
+2021 Environmental, Social & Governance Report | 24
+In 2021, we conducted the following initiatives to help • Introduced Leading and Belonging at Visa, a new
+achieve these goals: learning experience for leaders, created in partnership
+with the Perception Institute, an organization
+• Expanded new talent experience programs to develop
+that translates mind science research on race and
+and advance Black and African American talent and
+other identities into solutions that reduce bias and
+other historically underrepresented groups, including
+discrimination and promote belonging.
+partnering with the McKinsey Leadership Academy for
+Senior Director+ talent and our own cluster coaching
+Pay Equity
+program for employees up to the Senior Director level.
+At Visa, men and women earn the same pay for the
+• Launched Visa Black SUCCEED (Supporting
+same work globally, and the same is true for historically
+Underrepresented Coaching Clusters Engaged in
+underrepresented employees and their white peers in
+Executive Development) Program, an in-house
+the U.S.1
+program open to all Black and African American
+employees at the senior director level and below.
+As part of building our inclusive and equitable organization,
+Program participants are coached by Vice President
+we are committed to tracking, measuring, evaluating and
+and Senior Vice President level executives.
+reporting annually on our workforce demographics and
+• Continued evolving mentorship programs for Black and pay equity. Visa conducts pay equity assessments on an
+African American Senior Directors and career sponsorship annual basis.
+of Black and African American Vice Presidents.
+• Announced the inaugural class of 50 Visa Black
+Scholars and Jobs Program participants. In partnership
+Equal pay for equal work.
+with the Thurgood Marshall Foundation College Fund,
+the Visa Black Scholars and Jobs Program includes a Men and women earn the
+$10 million investment from Visa over the next five
+same pay for the same work
+years. Through the program, select college-bound
+Black and African American high school students in
+globally, and the same is true for
+the U.S. will receive yearly scholarship assistance,
+mentorship from Visa employees and the opportunity underrepresented employees
+for an immersive internship experience. Those who
+and their white peers in the U.S.
+meet all program requirements will receive a full-time
+job offer with Visa after graduation.
+1 Equal pay analysis is based on FY21 total compensation, which includes base salary, VIP (Visa Incentive Plan) and LTIP (Long-Term Incentive Program).
+Underrepresented employees are Black/African American, Hispanic/Latinx, American Indian/Alaska Native, Native Hawaiian/Other Pacific Islander or two or more races.
+2021 Environmental, Social & Governance Report | 25
+Employee Resource Groups of the benefits available to Visa employees in the U.S. that featured a speaker series from the National Autistic
+may be of particular interest to members of the LGBTQ+ Society, neurodiversity training for Visa employees and
+The Visa community-focused Employee Resource Groups
+community, including: conversations with neurodivergent athletes.
+(ERGs) complement our broader corporate inclusion and
+diversity efforts and help foster an inclusive workplace
+• Transgender Healthcare
+Community Allyship
+environment that seeks to fully take advantage of • HIV Prevention Prescription Coverage
+employees' talents, skills and abilities. ERGs include: • LGBTQ+ Family Planning
+We believe that active allyship is key to fostering an
+• Latinx Connect • Adoption & Surrogacy Assistance inclusive workplace. We encourage employees to build
+• Military (MERG)
+• Flexible Spending Accounts for LGBTQ+ related services knowledge of colleagues' backgrounds and experiences.
+We provide training opportunities to equip our employees
+• Native American As part of Transgender Day of Visibility, in 2021 we highlighted
+with resources and tools to become active allies and
+our partnership with Daylight, the first digital bank to address
+• Parents & Caregivers
+learn behaviors that build a workplace where diverse
+the unique financial needs of the LGBTQ+ community.
+• Visa Asian Employee Network (VAEN) perspectives are voiced and heard.
+• Visa Black Employees (ViBE) Additionally, Visa partnered with Chase and United Airlines
+Allyship efforts include promoting educational dialogue
+• Visa Employees with Disabilities (ViAble) to support the Human Rights Campaign, StartOut and The
+through our Stand Together resources, including a
+Trevor Project to drive donations to these organizations
+• Visa Indian Alliance (VINA)
+Global Inclusion Talks speaker series. This series provides
+supporting the LGBTQ+ community.
+• Visa Pride historical context on racism and identifies actions
+• Visa Women’s Network (VWN) (includes Women in employees can take to demonstrate solidarity and build
+Supporting Employees with Disabilities
+Business, Women in Finance, Women in Product, a better understanding of the experiences of historically
+Women in Technology) underrepresented groups. We encourage employees
+Visa welcomes talented people with diverse backgrounds
+• Young Professionals at Visa (YP@V) to combat unconscious bias by participating in internal
+and perspectives to help make the business and company
+courses on our virtual learning platforms. In addition, new
+culture better. We also recognize the unique contributions
+Supporting LGBTQ+ Employees manager training is designed to reinforce a culture of
+of employees with disabilities. Neurodiversity, like
+inclusion and allyship.
+any other form of diversity, provides input of different
+Visa celebrates the individuality of all employees and
+information and perspectives, leading to better decision
+is committed to building an inclusive culture where
+making and problem solving. Visa Employees with
+all employees feel they belong, no matter whom they
+Disabilities (ViAble), in partnership with the Talent
+love. Visa is a proud supporter of the Lesbian, Gay, Bi,
+Acquisition team, launched a neurodiversity hiring pilot
+Transgender, Queer and other (LGBTQ+) community.
+in 2019 to help ensure Visa’s workplace remains one of
+This commitment extends to our benefits programs, inclusivity and support for neurodiverse colleagues.
+which take into account the unique needs of the LGBTQ+
+To celebrate contributions, ViAble and the Inclusion
+community. In 2021 we partnered with the Pride ERG to
+and Diversity team hosted virtual events throughout
+develop the LGBTQ+ Benefits Toolkit, a high-level overview
+April to recognize Autism Awareness Month. Events
+2021 Environmental, Social & Governance Report | 26
+Throughout 2021, Visa employees mobilized to help At Visa, we are focused on creating fair and equitable Web Content Accessibility Guidelines (WCAG) 2.1 AA is a
+advance social justice, racial equality and inclusion in products that can serve as many people as possible. We global standard for accessibility that helps reduce barriers
+the community: believe inclusive product design produces better and more to people with disabilities. At Visa, we have created Global
+thoughtful products, as well as being a crucial element of Accessibility Requirements (VGAR) to support Visa staff to
+• Visa employees hosted coding camps for historically
+our strategy to uplift everyone, everywhere by being the more easily and consistently create accessible products.
+underrepresented youth.
+best way to pay and be paid. VGAR is a 5-step methodology that supports compliance with
+• We expanded the focus of pro bono legal efforts to international accessibility standards and laws. For more on
+In using an inclusion-first approach, we are able to develop
+address police discrimination and provided legal services VGAR, please visit the Visa Developer Center.
+products that reflect the full range of diversity in identity
+to minority-owned small businesses and asylum seekers
+and experiences of our clients, partners and consumers.
+stranded in Mexico with asylum applications.
+Marketing Responsibly
+• Visa Chairman & CEO Al Kelly participated in the 2021
+Inclusive Technology Terminology (ITT) We also are using the strength and influence of the Visa
+Bloomberg Equality Summit, discussing Visa’s progress
+brand to foster inclusive communities. We will continue
+to become a more inclusive and diverse company.
+As part of Visa's continuing efforts to build a culture of
+to reflect historically underrepresented groups in our
+• Visa Chief Diversity Officer & Head of Corporate intentional inclusion, we are working to remove non­
+marketing campaigns, sponsorships and events, including
+Responsibility, Michelle Gethers, participated in inclusive technology terminology and code in Visa owned
+partnerships with a diverse set of Team Visa athletes who are
+Fortune’s Most Powerful Women summit discussing applications, systems and artifacts. As the project evolves,
+representative of the communities where we live and work.
+allyship, mentorship and leveling the playing field for we are using scanning tools, expertise and ITT Guiding
+women, especially Women of Color, in the workplace. Principles to identify non-inclusive language and further In 2021, we launched a Creative Review Advisory
+inspire change within Visa. Council that reviews and advises on Visa marketing and
+• Visa recognized International Women’s Day and
+communications campaigns. The council aims to ensure
+Women’s History Month to celebrate women’s
+In order to support interoperability with the technology and
+that representation from historically underrepresented
+achievements, raise awareness against bias and take
+payments ecosystem, Visa will work with the industry to
+communities is embedded in each campaign, supporting
+action for gender equality. The Visa Foundation and Kiva
+influence and help change non-inclusive industry standard
+Visa’s belief that economies that include everyone,
+partnered around the theme #ChooseToChallenge:
+terms and apply changes in conjunction with the industry.
+everywhere, uplift everyone, everywhere. The Advisory
+Driving Women’s Economic Advancement Throughout
+Council consists of Visa employees who are members
+the World.
+Promoting Accessibility of a Visa ERG and represent varying career levels in
+non-marketing and non-communications roles. We
+Our Company Accessibility involves designing, developing and testing
+encourage participation from individuals with varying racial,
+an interface to make it accessible for people with
+We are also using our influence as a company to catalyze cultural and gender identities. We believe these diverse
+disabilities, including those that affect a user’s visual,
+change externally. For example, we are working to diversify our perspectives help ensure cultural resonance and relevance
+physical, cognitive or hearing ability. Careful design and
+supply chain by updating sourcing language and considering to historically underrepresented audiences.
+implementation help ensure a good user experience for all.
+diversity when making selections. For more information on our
+supplier diversity efforts, see page 48 of this report.
+2021 Environmental, Social & Governance Report | 27
+Employee Learning • Launching the Payments Everywhere Certification
+Program, a flagship program for Visa and the payments
+Inclusion & Diversity & Development
+industry, designed to advance payments expertise and
+Recognition set a key benchmark of skills proficiency for everyone at
+Visa, at any career or experience level.
+Visa has a longstanding commitment to invest in our
+• #14 Companies With Best Diversity and Inclusion
+employees. Robust development and educational • Debuting the Technology New College Graduate
+numbers (Fortune, 2021)
+programs in areas of payments, technology, inclusion and programs, an eight-day specialized onboarding program
+• Inclusion Index (Diversity Best Practices) diversity, professional development and leadership are key that supports new college graduates joining Visa in the
+components of this commitment. Technology function.
+• Gender-Equality Index (Bloomberg, 2022)
+• Expanding Visa’s Insights, Discovery, Deal, Energize
+In FY21, with many of our employees continuing to work
+• Best Places to Work for LGBTQ+ Equality — 100%
+and Advance Sales program, a bespoke sales training
+remotely, we adapted our strategy for delivering learning
+Corporate Equality Index
+program designed to elevate the key skills, behaviors and
+to ensure we still met the development needs of our
+(Human Rights Campaign, 2022)
+resources necessary to identify client needs, propose
+employees. Visa expanded our all-virtual learning offerings
+solutions, and sell and implement those solutions.
+• Black Equity Index Inaugural Member in 2021 by transitioning to virtual instructor-led training,
+(Coqual, 2022) scaling our approach, upskilling designers and trainers and • Beginning Ignite: Leading Visa Forward, a development
+optimizing processes on the Visa Learning Hub. In 2021, we program designed to enhance Visa Vice Presidents’
+• 100% on the Disability Equality Index & Best Place
+saw over 21,000 active users on the Visa Learning Hub, a 42 organizational agility and resilience skills in partnership
+to Work for People with Disabilities (Disability
+percent increase from 2020. with INSEAD business school.
+Equality Index, 2021)
+Additionally, we hosted Visa’s third annual global Learning
+We provided additional employee development
+• Corporate Inclusion Index, 5-Star Rating for
+Festival virtually. A series of over 80 learning sessions was
+opportunities and resources by expanding the Visa
+Employment and Governance (Hispanic
+created to inspire employee curiosity around the theme
+Learning Hub. Key accomplishments include:
+Association on Corporate Responsibility, 2021)
+“Energize.” During the three-day festival, leaders provided
+• Best Employers for Women (Forbes, 2021) • Establishing a mentoring program in North America to keynote speeches and shared ideas for cultivating
+support focused development for a range of levels and growth centered around the three pillars of Visa’s
+functions. Over 1,000 employees participated. ongoing success: Clients, Technology and People. More
+than a quarter of Visa employees registered for a virtual
+• Creating the Visa Inside Track Challenge, a new gamified
+event. Across the 80+ sessions, there were over 28,000
+e-learning program that offers education to client-facing
+registrations, totaling more than 80,000 hours of training.
+teams and all of Visa on the growing catalog of available
+products and services.
+2021 Environmental, Social & Governance Report | 28
+As a part of the 2021 Visa Learning Festival, Visa In 2022, we aim to increase participation and learning
+employees had the opportunity to participate in one of consumption by 10% across all modalities.
+the most sought-after client-facing programs, Payments
+Management Lab (PML). PML is a fully reimagined,
+virtual version of our popular Bankcard Management
+School,which has helped thousands of global participants Visa named #15 in top 100
+advance their payments careers.
+global learning organizations
+Visa has been recognized for programmatic excellence
+by Training magazine.
+by several global organizations. In 2021, Visa was named
+#15 in the top 100 global learning organizations by Training
+magazine. Visa also was recognized as a top-ten global
+Developing the Future Workforce
+learning organization (ranked #9 out of 70 submissions)
+for work in diversity and inclusion training, virtual training At Visa, we prioritize cultivating an educated, skilled and
+innovations and involvement of Visa senior executives in diverse workforce. In support of our priority and as part of
+talent development initiatives. our 2018 Pledge to American Workers, we continue working
+to enhance career opportunities for 14,500 individuals,
+Additionally, Visa was recognized with bronze awards in
+both within and outside of Visa's workforce, including
+two categories: “Best Results of a Learning Program” and
+through apprenticeships and work-based learning
+“Best Program for Sales and Training Performance” for the
+programs. In the summer of 2021, we hosted over 300 full-
+design, development, distribution and results of Visa Inside
+time interns with the goal of offering high performers Visa
+Track Challenge from Brandon Hall Group Excellence
+employment upon college graduation.
+Awards, Human Capital Management.
+In 2021, 86% of Visa employees participated in Visa
+University virtual, instructor-led or self-paced digital
+learning programs, consuming over 230,000 hours
+of learning, a 30% increase in participation from 2020.
+In addition, approximately 56% of Visa employees
+leveraged one or more of over 100,000 digital assets
+through enterprise subscriptions, which are available
+to all employees through the integrated learning
+experience platform, the Learning Hub totaling 130,000
+hours of digital, self-paced learning.
+2021 Environmental, Social & Governance Report | 29
+Employee Engagement The internal launch of Visa’s brand evolution — Meet
+Visa — drove record employee engagement with Visa’s
+In 2021, 100% of eligible
+new purpose and brand. We focused storytelling across
+In 2021, we reorganized and rebranded our Human channels to reflect Visa's purpose through perspectives employees received a
+Resources organization as the “People Team” to better of our employees as they share how their work uplifts
+performance review.
+reflect Visa’s strategic people programs and processes. We everyone, everywhere.
+also created a dedicated Global Employee Engagement
+function to deepen focus on the employee experience. We continue to inform and engage our employees through
+Performance Reviews
+content on Visa’s intranet, digital signage and employee
+As part of our ongoing commitment to increase employee attendance at events, quarterly all-staff meetings, virtual
+In 2021, we implemented a simplified performance
+engagement, we focused on planning and executing events, speaker series and other approaches.
+review focused on employee impact and development
+Return to Office and Reimagining Work, while fostering a
+opportunities. This strengthened performance conversations
+culture that values employee growth and wellbeing. Our
+Pulse Surveys to drive growth and improvement. In 2021, 100 percent of
+actions include continuing a bi-weekly video series from
+eligible employees received a performance review.
+our Chairman and CEO, as well as regular all-staff meetings
+In 2020, we replaced our Annual Employee Survey with
+held by our regional and functional leaders to allow
+pulse surveys—short-form questionnaires distributed
+employees to ask direct questions about Visa’s business Employee Recognition
+more than once per year to assess employee engagement,
+activities and response to global events.
+satisfaction and wellbeing. Given the challenges of
+We continued several new employee recognition programs
+COVID-19 and the sudden transition to remote work
+In 2021, we continued to support the evolving needs of in 2021, including one that enables our employees and
+arrangements, we tailored these surveys to understand
+employees amid the ongoing environmental, political and people managers to celebrate their colleagues through
+and respond to employee needs in an evolving and
+public health challenges we faced. Visa’s continued focus our GoBeyond peer-to-peer recognition platform. In 2021,
+complex environment.
+on employee experience aligns to four areas: employees sent more than 6,000 virtual cards to their
+colleagues. A pulse survey from the summer of 2021 noted
+According to the results of a 2021 employee pulse survey,
+• Employee engagement surveys
+that 76% of employees feel that Visa is recognizing the
+employees increasingly feel their different views and
+• Creating a new, inspiring employee value proposition
+people who are doing good work.
+opinions are valued and felt free to voice a contrary opinion
+linked to our leadership principles and purpose
+without fear of any negative consequences. In 2021, we
+• Developing a global and comprehensive recognition In 2022 we plan to create a global blueprint for how we
+launched a wellbeing-focused pulse survey to inform the
+framework that uplifts everyone, everywhere want to standardize and promote a culture of recognition
+design of new and existing global wellbeing offerings
+that includes comprehensive practices for event and
+• Revamping Visa’s year-one new hire experience for for employees.
+performance-based amplification across the moments
+enhanced engagement
+that matter in the employee lifecycle.
+Our @LifeatVisa Instagram channel continues to be an
+active destination for employees, potential employees
+and the general public to get a glimpse into Visa’s people,
+community and culture.
+2021 Environmental, Social & Governance Report | 30
+Employee Wellbeing • Offered culturally relevant regional customization for
+programs outside of North America.
+• Tailored Visa talent planning through a cross-functional
+Visa has heightened our focus on supporting the mental
+partnership between the Director of Wellbeing and
+health of our employees. We launched the Be Well
+Visa talent teams to build psychological safety and
+Wellbeing Hub, delivering frequent communication from
+empathetic leadership into our midyear and annual
+leaders and hosting mental health awareness events.
+review processes.
+The Be Well Wellbeing Hub hosts tools, workshops and
+wellbeing benefits programs organized by region. In • Scaled our Mental Health and Wellbeing for Peak
+addition, at no cost to employees, a dedicated wellness Performance course in Visa University to be offered in
+coach is reachable by video, phone or chat. our Central and Eastern Europe, Middle East and Africa
+and Asia Pacific regions.
+We enhanced our Wellbeing program in 2021 with the
+We are using local and national guidance and emergency
+following initiatives:
+and regulatory requirements to implement global
+• Launched the Be Well Ambassador program where best practices as employees return to offices in 2022.
+employees are empowered and equipped to support We designed a new Flexible Work approach to be
+their colleagues by leading workshops, providing implemented as we welcome our employees back to
+announcements and sharing wellbeing resources. Visa offices. We work closely with governments and
+health providers to make vaccines readily available to
+• Hosted safe spaces sessions for employees facing
+our employees, along with education sessions on the
+societal challenges, including Asian American and
+vaccination process.
+Pacific Islander, Latinx and Black and African American
+employees, to decompress and find respite with the We also have enhanced employee COVID-testing offerings,
+support of a facilitator or licensed mental health provider. office cleaning protocols and signage and educational
+• Provided people leader coaching sessions for senior materials posted around offices and online platforms.
+leaders to offer their advice to people leaders and
+facilitate conversations with experts on topics including
+digital wellbeing, mental health and work and beyond.
+2021 Environmental, Social & Governance Report | 31
+Employee Benefits We continue to offer programs with a renewed focus on • Access to virtual health and wellness coaching and a
+flexibility and mental health. Our benefits vary by location mobile app-based mindfulness training program
+and may include:
+• On-demand webinars, workshops and resources
+Our employees are our most important asset, and we
+focusing on mindfulness
+continue to enhance and evolve our Total Rewards • 20 service days for backup child and elder care
+compensation programs to attract and retain a talented • Dedicated wellbeing time at the end of each work • Work From Another Location, allowing employees to
+and engaged workforce. In addition to competitive base week for employees to devote to their personal or work from another location for up to 4 weeks out of the
+salary and bonus plans, financial benefits include a stock professional needs year, with manager approval
+purchase plan, available to 97 percent of our employees Additionally, at Visa we support our employees in the
+• Paid full day off work to vote in national elections,
+worldwide, and a 401(k) plan with matching contributions U.S. by supporting their family life. Visa Benefits package
+expanded from half day in 2020
+for U.S.-based employees. now includes services from WINFertility, a family
+• A Mental Health and Wellbeing Community, to enable
+planning service that provides family planning support
+employees to connect and support each other and
+and medical services regardless of medical necessity or
+to help to remove the stigma associated with mental
+relationship status.
+health needs
+For comprehensive information about employee benefits,
+• Free therapy sessions through the Employee
+please visit Visa’s Benefits website.
+Assistance Program
+2021 Environmental, Social & Governance Report | 32
+Employee Safety Visa’s support for our employees’ safety includes providing
+employees with the information and resources necessary
+for them to work effectively and safely. To promote healthy
+Visa has a long-standing commitment to protecting the remote work environments, Visa increased flexibility in
+physical safety, mental health and wellbeing of our global schedules, encouraged individuals to collaborate with
+workforce. Responsibility and oversight of employee safety managers to balance professional and personal obligations
+resides with the Visa Global Security and Safety (GSS) and launched “Wellbeing Hours” to encourage schedule
+team, which promotes the safety of Visa’s employees flexibility at the end of the work week.
+and contingent workers by establishing health and safety
+practices. In 2021, we expanded the employee headcount Visa also maintains an Ergonomics Program that provides
+in health and safety, emergency preparedness and security educational information and assistance to help employees
+operations teams. create an environment in which they can work comfortably
+and productively from anywhere.
+The GSS team maintains a global Safety, Health and
+Environmental policy and provides relevant training to the The Program includes an online office ergonomics
+executive team and key employees. Visa assesses and training to guide employees on how to identify potential
+manages safety risks, provides security measures and opportunities to improve working habits and adjust
+oversees emergency response by monitoring: workspaces. Upon completion of the training, employees
+receive a personal plan on how to address identified
+• Emerging security threats, such as natural disasters, civil ergonomic issues.
+unrest and terrorist attacks identified through security,
+government and media sources To track our health and safety performance, Visa conducts
+both monthly and annual audits of our health and safety
+• Personnel on business travel and employees who are
+equipment and facilities. Each month we track and audit
+working outside their home countries
+our near misses, injuries and worker compensation claims.
+• Company assets, including facilities and strategic
+third-party sites
+2021 Environmental, Social & Governance Report | 33
+Protecting the Planet
+3344
+Visa recognizes the importance of protecting our Our Goals
+planet and natural resources and of supporting
+Visa continues to aim to be among global corporate leaders in our efforts in this decisive decade of action.
+climate action.
+We focus our efforts on delivering on our corporate climate-focused goals and aspirations:
+We continue to use our products, services, network,
+Carbon neutral operations
+expertise, brand and partnerships to minimize the
+Maintain carbon neutrality of our operations (greenhouse gas emissions scopes 1 and 2
+environmental footprint of our operations, inspire
+as well as the business travel and employee commuting components of scope 3).
+and empower sustainable commerce and support
+the global transition to a low-carbon economy. Net Zero emissions by 2040
+Eliminate the footprint from our scopes 1, 2 and 3 emissions.
+Our priorities include:
+Climate positive company
+• Sustainable Operations
+Support positive climate action beyond our operational footprint by leveraging our products,
+• Sustainable Commerce
+services, network and other resources.
+Visa’s net zero by 2040 goal is aligned with global standards and definitions and will include efforts with suppliers to abate
+a significant portion of the greenhouse gas footprint of the Company’s purchased goods and services. Visa also has set
+science-based targets through the Science Based Target initiative (SBTi) at the 1.5 degree Celsius ambition level—targets that
+were approved by SBTi in May 2022.
+2021 Environmental, Social & Governance Report | 35
+Sustainable Operations Visa’s data centers account for more than half of our total
+electricity consumption and are an important focus of
+our sustainability efforts. In 2021, we achieved year-over­
+Our initiatives to deliver on our corporate goals for year improvements in our data center energy efficiency,
+environmental stewardship and climate action begin with measured by power usage effectiveness (PUE), as a
+our efforts within Visa. We take a proactive approach to result of programs such as upgrading our cooling and server
+reducing the environmental footprint from our business equipment. We have also piloted and evaluated innovations
+activities, which primarily include data centers and offices, like direct expansion, dry mode cooling and immersion
+employee commuting, business travel, corporate events cooling to improve our energy and/or water efficiency.
+and purchased goods and services.
+Globally, the PUE in our data centers has improved by 17
+percent over the past four years.
+Greening Our Offices
+& Data Centers
+Visa is committed to reducing the environmental impact
+of our offices and data centers by focusing on green
+building design and operation and managing energy
+and water use. Our approach includes obtaining the
+U.S. Green Building Council’s Leadership in Energy and
+Environmental Design (LEED), BREEAM, Green Mark or
+equivalent certifications for the design, construction and Visa Power Usage Effectiveness
+build-out of our office facilities. We use green building
+standards and guidelines to increase resource use 2.5 U.K.
+efficiency within our existing buildings. 1.84 U.S. – East
+2 1.67 1.63
+1.56 1.52 U.S. – Central
+As of September 30, 2021, Visa owned or leased 123 office
+1.5 Global
+locations in 77 countries around the world, including three Weighted
+Average
+data centers. At the end of 2021, approximately 75 percent 1
+of Visa’s owned or leased square footage achieved or was
+.5
+pending green building certification.
+0
+2017 2018 2019 2020 2021
+The average PUE value represents a weighted average, based on the reported PUE metrics and total energy consumption at each of our data center locations.
+2021 Environmental, Social & Governance Report | 36
+Renewable Electricity Travel & Events
+Visa continues to meet our goal (first announced in 2018) of Though corporate travel and employee commuting Green Bond
+purchasing 100 percent renewable electricity for our offices remained largely paused throughout 2021, we continued
+and data centers through participation in utility renewable to identify, enable and encourage more sustainable travel
+In 2020, Visa issued our inaugural $500 million green
+energy programs and through the purchase of renewable and commuting behavior among our employees, including
+bond — believed to be the first green bond issued by a
+energy certificates. mode switching and staying at green certified hotels. digital payments network — to finance initiatives that
+enable sustainable commerce and the transition to
+In 2021, we signed a multi-year agreement with MP2 As part of our efforts to reduce emissions from our air
+low-carbon operations and economy.
+Energy to power Visa’s largest data center – accounting travel, in September 2021, Visa joined the World Economic
+for 45 percent of our electricity usage – with 100 Forum’s (WEF) Clean Skies for Tomorrow Coalition as We intend for our projects to align with the eligibility
+percent renewable electricity from new solar generation a signatory to advance the commercial scale of viable categories of the International Capital Market
+facilities. The agreement signals the next phase for Visa production of Sustainable Aviation Fuel (SAF) for broad Association’s Green Bond Principles, a voluntary
+framework that provides guidance and best
+advancing its sustainability priorities, including supporting adoption in the industry. Through the Coalition, we
+practices for issuing Green Bonds. Specifically, we
+additional renewable electricity capacity to the grid, while are joining with our peer members to contribute to
+are using the green bond, due in 2027, to finance
+positively impacting the environment and local economic accelerating the supply and use of SAF to reach
+green building projects, energy and water efficiency
+development through job creation. 10 percent of global jet aviation fuel supply by 2030.
+improvements, expanded use of renewable energy,
+Additionally, in December 2021, Visa joined the United
+clean transportation, employee commuter programs,
+Visa addresses the remainder of our renewable energy
+Airlines Eco-Skies Alliance and committed to reducing the
+environmentally-friendly technologies and initiatives
+requirements through utility partnerships and the
+carbon emissions from our business travel on the carrier by
+focused on sustainable consumer behaviors.
+purchase of certified renewable energy certificates (RECs)
+helping to fund the green premium for SAF.
+across over 30 different markets. In 2021, we published our first Green Bond Report
+Visa helps eligible employees reduce the emissions from detailing the use of proceeds thus far. Our initial use of
+While we have achieved our goal of purchasing 100
+their commutes, including through providing subsidies for the green bond proceeds helped us achieve carbon
+percent renewable electricity, our multi-year approach
+public transit and bicycle commuting and access to electric neutrality and transition to 100 percent renewable
+remains focused on identifying opportunities to expand
+vehicle chargers in select locations. electricity across our global operations.
+investments and/or enrollments in renewable electricity
+offerings, including through long-term renewable
+electricity purchase agreements, and reduce our purchase
+of unbundled RECs.
+Visa also continues to champion the overall corporate
+renewable energy movement, including through our
+membership in the RE100 and support of the Clean Energy
+Buyers Association.
+2021 Environmental, Social & Governance Report | 37
+Employees Our efforts to engage suppliers include incorporating
+environmental sustainability expectations in the Visa
+Visa strives to inspire our employees around the world
+Supplier Code of Conduct, which suppliers receive during
+to be sustainability champions and advocates in the
+the onboarding process, and Visa’s participation in the
+workplace, at home and in our communities. We do so
+Carbon Disclosure Project (CDP) Supply Chain program.
+throughout the year by offering webinars, emails, videos
+Through the CDP Supply Chain program, we engage
+and chat sessions to share tips and suggestions for
+our leading suppliers around measuring their emissions
+integrating sustainability into employees’ daily routines.
+footprint, setting targets, reporting to the CDP and
+attributing their footprint back to Visa.
+Each April, we host our global Visa Earth Month series of
+events, including the Earth Month Speaker Series focused
+Since joining the CDP Supply Chain program, Visa
+on topics such as the state of the planet, the emergence of
+has expanded outreach to suppliers who represent
+the sustainable consumer and the role that fintech can play
+approximately two-thirds of Visa’s emissions as
+in sustainability and our Earth Month Eco-Challenge, which
+calculated by spend.
+asks employees to make simple commitments to help
+reduce their footprint and to support Visa’s commitments
+Our Results
+to sustainability.
+To measure and manage our environmental impact,
+In 2021, we created a new sustainability learning path within
+Visa has conducted a global environmental footprint
+Visa University, our training and development platform.
+assessment with support from leading third-party firms
+The new learning path is designed to give employees a
+each year since 2008. We measure our global energy
+foundation in topics and solutions related to sustainability
+and water use, waste production, landfill diversion and
+and climate change.
+GHG emissions. Our energy and GHG emissions are
+verified by an independent third party. The 2021 GHG
+Suppliers
+Verification Statement is publicly available on our website
+and included in the Appendix of this report.
+Visa recognizes the importance of addressing the emissions
+from our purchased goods and services, which make up
+94 percent of Visa’s scope 3 emissions. To that end, Visa
+engages with our suppliers to help them measure and report
+their emissions and to set Science Based Targets.
+2021 Environmental, Social & Governance Report | 38
+Energy & Greenhouse Gas Emissions
+Around the world, momentum continues to accelerate behind the need to take urgent action on climate OOppeerraattiioonnaall EEmmiissssiioonnss ((MMTTCCOO₂₂ee))
+change and transition to a low-carbon economy. Visa is responding by taking serious action to reduce
+GHG emissions, including achieving carbon neutrality across our operations for the first time in 2020. 100,000 94,469 Scope 1
+78,750 79,497 76,465 80,551 84,231 Scope 2
+80,000 64,286 69,095 63,414 60,128 59,803 Carbon Offsets
+This achievement, which includes the footprint from our scope 1, scope 2 and the employee 60,000
+commuting/business travel components of scope 3 greenhouse gas emissions, is the result of ongoing 40,000
+energy efficiency initiatives, our transition to 100 percent renewable electricity and limited use of carbon 20,000 13,914
+4,018
+0
+offsets to cover our residual footprint. Our carbon offsets portfolio spans regions in which we operate
+-20,000
+and includes projects such as forest management in the U.S., reforestation in Uruguay, renewable -19,154
+-40,000
+energy generation in Turkey, China and India and clean cookstove initiatives in Kenya and Uganda. -46,100
+-60,000
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+We use international standards, including the GHG Protocol, to measure and report GHG emissions
+associated primarily with our energy usage, business travel and employee commuting.
+In 2021, we used approximately 646,000 gigajoules (GJ) of energy from electricity, natural gas and other OOppeerraattiioonnaall EEmmiissssiioonnss RReellaattiivvee ttoo 22000099 ((MMTTCCOO₂₂ee))
+fuels – an eight percent decrease in consumption compared to 2020.
+0% Absolute
+-10% Emissions
+-20% MTCO2e per
+Our energy intensity per square foot, a commonly used metric that adjusts for growth, improved by 10 -30% square foot
+percent year-over-year, the seventh consecutive year of improvement. -- 540 0% % M emTC plO o2 ye e ep er
+-60% MTCO2e per
+Our scope 1 and 2 GHG emissions, measured in absolute terms with a market-based approach, were -- 870 0% % M rei vll eio nn u d e ollar
+-90%
+4,000 metric tons of carbon dioxide equivalent (MTCO2e) in 2021. This represents a 71 percent decrease -100%
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+year-over-year from 2020—largely driven by the achievement of our goal to transition to 100 percent
+renewable electricity.
+In 2021, Visa responded to the CDP Climate Change questionnaire for the 11th consecutive year and
+was named to the CDP A-List for the first time. Visa’s CDP response is available on the websites of SSccooppee 33 EEmmiissssiioonnss ((MMTTCCOO₂₂ee))
+Visa and CDP.
+600,000 Employee commuting
+527,741
+500,000 462,604 Business Travel
+405,915
+400,000 Waste generated in operations
+320,987
+300,000 F (nu oe tl - ia nn cd lu- de en de r ig ny S- cre ol pat ree d 1 oa rc 2ti )v ities
+200,000 Purchased Goods and Services
+100,000 Downstream leased assets
+0
+2018 2019 2020 2021
+2021 Environmental, Social & Governance Report | 39
+Water
+We recognize the importance of protecting water as a shared resource, particularly in water-
+Total Water Usage (Million Gallons)
+constrained areas. Although as a payments technology company Visa’s business is not
+water intensive, we do implement data-driven strategies to reduce the total water use at our
+94.4
+offices and data centers. 100 87.6 82.6 89.7 90.1 82.1 Reclaimed
+80 18% 23% 25% 26% 71.8 Potable
+28% 30%
+In 2021, we used an estimated 38,950,000 gallons of potable water in our global portfolio. million 60
+gallons 46%
+We largely attribute our 32 percent potable water usage decrease year-over-year to o uf sw aa gt eer 40 82% 77% 72% 75% 74% 70%
+temporary office closures. By facility type, 77 percent of potable water use occurred in our 20 54%
+offices, while 23 percent occurred in our data centers, in which we use a significant amount 0
+2015 2016 2017 2018 2019 2020 2021
+of reclaimed water.
+Change in Potable Water Use Relative to 2015
+In 2021, 46% of Visa’s total water usage came
+10% Gallons
+0%
+from reclaimed water. Gallons per
+-10% square foot
+-20% Gallons per
+-30% employee
+-40% Gallons per
+-50% m revill eio nn u edollar
+-60%
+Waste
+-70%
+-80%
+While not a major producer of solid waste, Visa continues to reduce the amount of office 2015 2016 2017 2018 2019 2020 2021
+waste we dispose of in landfills each year. Visa works to reduce waste streams at our
+office facilities and data centers through thoughtful design of our spaces and kitchenettes,
+engaging with our food service providers, reducing single-use items and plastics and by
+Waste by Destination
+engaging employees through education and awareness building.
+In 2021, we achieved a landfill diversion rate of 43 percent, or 22.9 kg per employee.
+Diversion rate per employee is calculated based on the total amount of Visa’s operational 52 % 20 % 23 % 5 %
+waste that is recycled, reused or composted in the reporting year divided by the total Landfilled Recycled/ Composted Incinerated
+reused
+number of employees. This does not include waste that is landfilled or incinerated.
+598 Metric Tons
+2021 Environmental, Social & Governance Report | 40
+Sustainable Commerce • Collaboration and partnerships: Shaping and creating to embed sustainability into physical payment cards and
+new services and solutions with others help enable sustainable features in payment accounts.
+Highlights of our 2021 progress include:
+• Narrative and advocacy: Using corporate influence to
+Visa continues to expand our initiatives toward being a
+shape the broader landscape for the net zero transition
+climate positive company by embedding sustainability • Expanded partnership with ecolytiq offering bank and
+across our business. Our existing efforts to support a low- Highlights of our efforts in 2021 include the following: financial institutions an all-in-one Sustainable-as-a-
+carbon future across our network include: Service® solution to empower their customers to take
+For the third year, Visa participated as a design partner
+climate action.
+• Research & Insights: Supporting and/or conducting in GlobeScan’s Healthy and Sustainable Living Study,
+• Announced the launch of Visa Eco Benefits to allow
+research to understand barriers to and drivers of which focused on attitudes, opinions and behaviors
+account issuers to add sustainability-focused benefits
+sustainable living behaviors linked to healthier and more sustainable lifestyles and
+to existing Visa cardholder credit/debit products toward
+reached 30,000+ consumers spanning 31 markets.
+• Cards & Accounts: Embedding sustainability features in the goal of enabling their cardholders to engage in
+payment cards and accounts Visa partnered with third-party research firms to conduct sustainable consumption.
+• Sustainable Behaviors: Global initiatives supporting bespoke research on consumer attitudes toward • Continued to support the introduction and uptake by
+sustainable behaviors, such as in mobility and travel sustainability features in payments accounts, starting in our clients of sustainable materials for physical payment
+four markets. We continue to disseminate the results of
+• Global Movement: Using our platforms, partnerships cards, including the CPI Card Group’s payment card
+this work to our clients and partners.
+and sponsorships to inspire and empower sustainable composed of up to 98 percent upcycled plastic.
+living among millions of consumers Visa collaborated with the Cambridge Institute for
+Sustainability Leadership (CISL) to identify new
+Research & Insights opportunities for electronic payments and networks to
+support a sustainable future. As a result of this work, CISL
+Visa’s approach to enabling sustainable commerce
+identified four roles that payment networks can play to
+begins with our efforts to help the broader payments and
+bridge the “opportunity gap” by enabling net zero solutions.
+commerce ecosystem understand the barriers to and
+drivers of sustainable living behaviors—particularly among Read the CISL report, Payments for Net Zero: How the
+consumers—and the opportunities for digital payments to payments industry can contribute to the transition to a net
+support a low-carbon economy. zero economy, to learn more.
+• Empower citizens: Through product and service
+Cards & Accounts
+innovation, as well as the provision of information and
+choice architecture
+As a global payments network, we believe we can play
+• Provision of data-driven insights: Payments data- an important role in helping consumers and businesses
+driven products and services shift to more sustainable behaviors through our efforts
+2021 Environmental, Social & Governance Report | 41
+Sustainable Behaviors Travel & Tourism Public Policy
+Visa continued our efforts to help advance sustainable At Visa, we believe in the importance of supporting public
+In addition to our efforts to support sustainable commerce
+travel and tourism through our founding partner role policy dialogue as part of our approach to sustainable
+through incorporating sustainability features in payment
+with Travalyst, a sustainable travel and tourism initiative commerce, decarbonization and net zero. In 2021, we
+cards and accounts, Visa also continues to work in areas
+founded by the Duke of Sussex together with Skyscanner, continued our participation in the Energy and Environment
+where we believe our products, services, network,
+Booking.com, Trip.com Group and TripAdvisor. Coordinating Committee of the Business Roundtable
+expertise and/or brand platform can play a role.
+(BRT), the Sustainable Finance Working Group of the
+Highlights from 2021 include: Visa also launched the Visa for Athens sustainable tourism
+Institute for International Finance (IIF) and various
+initiative, contributed to the Net Zero Roadmap of the
+sustainability-focused working groups of the Information
+Urban Mobility
+World Travel & Tourism Council and served as a member
+Technology Industry Council (ITI).
+Visa is working to bring digital payments to citizens’
+of the World Economic Forum’s Global Agenda Council for
+door-to-door journeys, to reduce emissions and address
+Sustainable Tourism.
+climate change. In 2021, Visa continued to work with transit
+agencies in more than 400 cities worldwide to support
+Global Movement
+sustainable mobility through contactless ticketing and fare
+payment solutions.
+Visa remains committed to helping build and support the
+overall sustainable living movement. Highlights of our
+In 2021, Visa continued our partnership with the Global
+progress in 2021 include:
+Resilient Cities Network (GRCN) to help cities become more
+resilient to the physical, environmental, social and economic
+Industry Initiatives
+challenges of the 21st century.
+In 2021, Visa joined the World Business Council for
+Sustainable Development, a global, CEO-led organization
+Electric Vehicle Charging (EVC)
+of over 200 leading businesses working together to
+Visa is supporting the global transition to electric vehicles,
+accelerate the transition to a sustainable world. Visa also
+by partnering with leading participants in the EVC
+continued to serve as a Founding Partner of and contributor
+ecosystem through enhancing the customer payment
+to Brands for Good, an initiative of Sustainable Brands
+experience at charging stations. In 2021, Visa continued
+focused on building a movement among leading brands
+to expand usage of a dedicated merchant category code
+to make sustainable living more attractive, rewarding and
+for EVC, jointly published a white paper on open loop
+attainable. Visa’s Chief Sustainability Officer became a
+payments for EVC, conducted a study on EVC challenges
+founding member of the Adweek Sustainability Council, a
+and opportunities and served as lead supporter of the
+group comprised of CMOs and heads of sustainability from
+EV Summit. As we entered 2022, Visa also announced
+the world’s top brands working to address responsible
+our joining as the first payments community member of
+environmental practices, social purpose and equality, as
+CharIN, an international charging initiative working with all
+well as the NYSE Sustainability Advisory Council.
+parts of the e-mobility value chain.
+2021 Environmental, Social & Governance Report | 42
+Alignment with Task designed to enable and encourage cardholders to engage Metrics & Targets
+in sustainable consumption behaviors. This new account
+Force on Climate- In 2021, we formally submitted near-term GHG reduction
+benefits bundle expands Visa’s sustainability solutions for
+targets to the Science Based Targets initiative (SBTi). The
+Related Financial clients as part of our climate positive goal.
+targets — covering scopes 1, 2, and 3 emissions and in line
+Disclosures (TCFD) We continue to monitor and assess climate-related risks with a 1.5°C pathway — were approved by SBTi in May 2022.
+and opportunities and embed these considerations
+In addition, Visa has set a goal to achieve net-zero
+into our business strategy decisions. See our inaugural
+emissions by 2040, 10 years ahead of the Paris Climate
+Green Bond report for information on the financing of our
+Governance Agreement goal. This goal covers both direct operations
+climate-related objectives.
+and our supply chain.
+Throughout 2021, Visa focused on increasing Board
+engagement and education on climate-related issues Risk Management We have further developed our approach to 100%
+through quarterly ESG updates to the Nominating and renewable electricity to focus on renewable electricity
+Corporate Governance Committee, which meets at least Visa maintains an Enterprise Risk Management (ERM) procurement options at our largest facilities and data
+quarterly and has formal responsibility for and oversight Framework to identify, assess, treat, monitor and report centers, such as utility and renewable programs, and to
+of corporate responsibility and sustainability policies, on substantive risks. Prior to FY21, we conducted a deep rely less on unbundled renewable energy certificates.
+programs and reporting, including those related to dive into our climate-related risks and opportunities in This demonstrates that Visa is evolving our approach to
+climate change. alignment with the Task Force on Climate-Related Financial renewable electricity procurement to help ensure that our
+Disclosures (TCFD). This exercise analyzed both direct and
+purchases support renewable electricity generation in the
+These updates cover internal climate-related goals, indirect climate-related risks and opportunities across our
+areas where we operate.
+initiatives and external developments, including on entire business for Business as Usual and 2-Degree climate
+climate-related goals, initiatives and risk. Our Chief scenarios. We aim to update the TCFD assessment on a The largest area of impact in our value chain lies with
+Sustainability Officer communicates directly with the periodic basis and leverage the findings into our existing our suppliers. We are expanding on associated metrics,
+Board and continues to help formalize oversight and ERM process to inform our business planning. including improved measurement and management of
+governance of climate-related topics within Visa. emissions and emissions targets globally.
+As an outcome of this analysis, Visa has taken notable
+steps to reduce upstream risks in our supply chain. As part of our goal to reach net-zero emissions by 2040, in
+Strategy
+Beginning in 2018 we began collaborating with CDP to 2021 Visa became a new signatory of The Climate Pledge,
+collect supplier-specific data. Additionally, through our an initiative co-founded by Amazon and Global Optimism,
+Visa’s global sustainability strategy centers on our goals
+supplier engagement program, we anticipate that we will as well as a new member of the Climate Business Network,
+of achieving net-zero emissions by 2040 and maintaining
+continue to utilize the CDP Supply Chain survey to collect a World Wildlife Fund (WWF) initiative to accelerate action
+carbon neutral operations, while limiting use of offsets.
+direct data from our suppliers, enhance ESG language in toward a net-zero future.
+We harness our global brand and initiatives to drive our Supplier Code of Conduct, develop supplier scorecards,
+decarbonization efforts and promote sustainable practices create educational materials on climate topics for internal
+beyond our direct operations. An example of these and external stakeholders and develop individualized
+actions was the launch of Visa Eco Benefits, a new package engagement approaches on climate topics for our
+of sustainability-focused benefits for account issuers top suppliers.
+Environmental, Social & Governance Report | 43
+Operating Responsibly
+4444
+Corporate Governance Visa’s Corporate Governance Guidelines establish various Board Diversity
+limits on our directors serving on publicly traded company
+Visa strives to reflect the diversity of our global key
+boards and audit committees. We limit our directors
+Visa’s corporate governance practices help promote to serving on four publicly-traded company boards constituencies, including clients, customers, employees,
+long-term value and strong Board and management (including Visa), or two for executive officers of publicly- business partners and stockholders, in the makeup of
+accountability to our diverse set of stakeholders. Our traded companies (including Visa). The Board may grant our Board. To support this objective, the Nominating and
+Board of Directors oversees and monitors important exceptions to established limits on a case-by-case basis. Corporate Governance Committee considers women and
+governance issues, including risk management, board candidates from underrepresented groups in the pool from
+composition and refreshment, executive and Board To best serve our shareholders, employees which the Committee considers director candidates. As
+compensation and ESG matters. and customers, the Board periodically reviews and of April 2022, Visa’s overall board diversity (gender, race,
+evaluates its internal leadership structure and Lead ethnicity) is at 64%, with gender diversity specifically at 36%.
+We regularly monitor our corporate governance Independent Director responsibilities.
+policies and practices to confirm we meet or exceed the
+requirements of applicable laws and the New York Stock Our current Board committees include Audit and Risk,
+Exchange's listing standards and that we are responsive Compensation, Finance, and Nominating and Corporate
+to investors. Visa’s corporate governance framework, Governance. All four Board committees are composed
+including our Corporate Governance Guidelines, solely of independent directors. Each committee operates
+exemplifies our commitment to these standards. pursuant to a written charter, available on the Investor
+Relations page of our website.
+Board Structure
+As of May 2022, Visa’s Board of Directors is an 11-member
+Snapshot of Directors
+board with 10 independent members. Al Kelly serves as
+our Chief Executive Officer and Chair of the Board, and
+INDEPENDENCE TENURE DIVERSITY
+John Lundgren serves as our Lead Independent Director,
+responsible for providing independent leadership to
+the Board. Our directors exhibit an effective mix of skills, 1 3 4 4 3
+qualifications, perspectives and experience in payments,
+91 7.2 36 27
+% % %
+technology, finance and ESG.
+Independent Years Gender Race and
+average Ethnicity
+10 4 7 8
+Non-Independent Independent < 5 years 5-9 years 9+ years Women Men Non-White White
+Data as of April 11, 2022.
+2021 Environmental, Social & Governance Report | 45
+Board & Executive Compensation Our commitment to ethics and compliance is captured in Visa measures and monitors ethical behavior through the
+Programs & Philosophy our Code of Business Conduct and Ethics (Code), which use of Regional Scorecard metrics that have direct impact
+applies to everyone working with or on behalf of Visa, on performance rating decisions and associated bonus of
+Visa’s approach to executive compensation includes a
+including employees, contingent staff and the Board of first line business leaders. Every quarter, our Compliance
+recognition that ESG practices are important elements of
+Directors. We provide a Code of Business Conduct and leaders review status of progress against agreed upon
+long-term corporate strategy and contribute to Visa being
+Ethics training to improve employee knowledge and goals with the regional president and country managers,
+a sustainable and responsible company. Annual goals
+retention of content, achieving a 100% completion rate for and report at year end on achievement of those goals to
+incorporate and promote ESG factors that are relevant
+all eligible Visa employees. the Visa Chairman and CEO and President. These metrics,
+to the Company’s strategic objectives, such as: inclusion
+together with similar metrics from Controllership, Risk,
+and diversity; employee leadership and development; The Code includes a supplemental Code of Ethics for
+and Audit, directly impact the compensation of business
+employee health, safety, productivity and engagement; Certain Executives and Financial Officers, which requires
+leaders in the organization.
+cybersecurity and data privacy; sustainability and climate; senior officers to engage in honest and ethical conduct in
+financial inclusion and access; and corporate governance. performing their duties and provides guidelines for the
+ethical handling of conflicts of interest and reporting of
+For more on our approach to executive compensation, please
+unethical conduct. Additionally, Visa’s Supplier Code In early 2022, Visa was named
+refer to page 7 of the report and our 2022 Proxy Statement.
+of Conduct further explains our expectations and
+values to suppliers. to the World’s Most Ethical
+Ethics & Compliance We maintain a confidential compliance hotline, operated Companies list by Ethisphere
+by a third party, to allow anyone to share questions,
+Institute for the tenth
+concerns or comments online or by phone, 24 hours a day,
+We work to maintain the trust of our stakeholders
+seven days a week. Additionally, our “Speak Up” Campaign consecutive year.
+through our culture of honesty and integrity, in which we
+aims to empower employees to report misconduct. Our
+hold ourselves to the highest ethical standards, and by
+updated Global Ethical Manager Toolkit helps leaders
+continuously strengthening our ethics and
+engage in team discussions related to ethics.
+compliance program.
+We continue to strengthen our approach to embed
+Visa’s global compliance program provides processes
+ethics and compliance into enterprise-wide management
+and controls to manage legal and regulatory risk, drive
+processes and business leader performance scorecards.
+an ethical culture and empower the business to achieve
+In 2021, Visa reinforced its commitment to ethical
+Visa’s objectives legally and with integrity. The Office of the
+operations while transitioning to a primarily virtual
+Chief Ethics & Compliance Officer, along with the business
+business environment.
+leadership, is responsible for Visa’s global compliance and
+ethics program.
+2021 Environmental, Social & Governance Report | 46
+Engaging with perspectives and contribute to policy dialogue on the future
+of payments, small business enablement, sustainability and
+Visa once again earned
+Governments
+digital equity and inclusion, among other issues.
+"Trendsetter" status on the 2021
+In 2021, Visa participated in a range of collaborative
+Visa actively engages with governments, officials, CPA-Zicklin Index of Corporate efforts, including:
+policymakers and stakeholders across the world to
+help shape the future of digital payments. Through our Political Disclosure and • Contributing to the World Economic Forum’s Data for
+partnerships, we foster innovation and find opportunities Common Purpose Initiative, including the development
+Accountability with a perfect
+to drive digital transformation and further enable access to and publication of novel frameworks for responsible
+financial services. score of 100. data marketplaces.
+• Supporting the World Economic Forum’s Trade and
+Visa is committed to transparency around our political
+Visa contributes its expertise in digital payments to Investment platform to support Payments to Advance
+involvement. We publish an annual Visa Inc. Corporate
+help government partners advance their development Growth for All, focused on the growth of digital
+Political Contributions Report, which includes a listing
+goals, such as supporting the government of Japan in payments in Latin America.
+of all U.S. trade associations to which Visa pays annual
+increasing the percentage of payments made digitally
+membership dues that are $25,000 or more, and, if • Sponsoring D.C. Fintech Week, an event supporting
+to 40 percent by 2025.
+applicable, the portion of dues that were used for political dialogue on the nexus of fintech innovation and digital
+expenditures. In the United States, we disclose all Through Visa University, we also provide training and equity and inclusion.
+contributions made by Visa’s Political Action Committee outreach programs to governments and policymakers • Collaborating with the Institute of International Finance on
+(PAC) in accordance with the requirements of the Federal around the world to allow us to foster the exchange of a Strategic Framework for Digital Economic Cooperation.
+Election Commission. In 2021, we made updates to our ideas on legal and economic aspects of digital
+• Contributing to the Official Monetary and Financial
+PAC Giving Criteria for proposed contributions, which was financial services.
+Institutions Forum’s December 2021 marquee “Future
+approved by the Board.
+Visa also engages in strategic partnerships with a wide range of Payments” report, including a Visa Economic
+of international and multilateral organizations, universities, Empowerment Institute paper on digital remittances
+think tanks and other policy organizations to share and a series of speaking engagements.
+2021 Environmental, Social & Governance Report | 47
+Tax Compliance & Responsible Sourcing EcoVadis, a leading supply chain-focused ESG ratings
+organization, to collect data and measure the ESG impact
+Governance
+in our supply chain.
+Beyond Visa operations, our commitment to operate
+responsibly and sustainably extends to our suppliers and Visa has expanded its engagement with our top suppliers
+Relationships are at the heart of Visa’s business. We know
+business partners. In 2021, we continued implementation around climate change and other environmental issues.
+that trust must be continuously earned and are committed
+of the Supplier Code of Conduct (Supplier Code) and We include environmental criteria for consideration in
+to being a transparent and reliable partner in business and
+focused on maintaining our supplier relationships requests for proposal as part of weighted scoring for
+in engagement with governments and the communities
+throughout the pandemic. suppliers in addition to diversity and social responsibility.
+we serve. Visa operates globally and seeks to comply with
+applicable laws, regulations and requirements, including Our global Supplier Code outlines our expectations in
+Supplier Diversity
+those related to tax, around the world. areas including human rights, employment practices,
+environmental impact, supplier diversity, conflicts of
+Expanding engagement with diverse suppliers is a priority
+A global team of tax professionals, in close coordination
+interest and other aspects of responsible business. We
+business imperative that adds value to our brand, provides
+with business units, manages tax affairs in every Visa
+reference the Supplier Code in our global Governing
+a competitive advantage and reflects our customer base.
+region. Everyone working for, or on behalf of, Visa shares a
+Agreements with suppliers and in our Global Sourcing
+We strive to include inclusion and diversity provisions in
+responsibility to follow our Code of Business Conduct and
+Policy. We also send the Supplier Code to new suppliers
+new sourcing agreements in North America operations and
+Ethics and work with integrity. Visa has a zero-tolerance
+during their onboarding process.
+commit to working with qualified suppliers who fully meet
+approach to tax evasion or the facilitation of tax evasion.
+the criteria established in our Supplier Diversity Program.
+Tax oversight resides with management, including relevant When identifying new suppliers to work with Visa, we aim
+Visa partners with a third-party supplier to provide up to
+oversight committees, and ultimately the Board of Directors. to partner with suppliers that share the same respect for
+date information on supplier diversity certifications for
+human rights, including those principles recognized in
+In addition to following the letter of the law, we strive to our suppliers, allowing us to report more accurately with
+international human rights standards such as the Universal
+adhere to the spirit of tax laws. Visa insists on adherence independently validated data.
+Declaration of Human Rights. Suppliers’ approaches to
+to our values, honoring our commitments, and avoiding
+human rights should be consistent with the UN Guiding
+activities that could adversely affect our reputation. We
+Principles on Business and Human Rights. Suppliers are
+make tax planning decisions in a manner that is consistent
+expected to comply with all applicable legal requirements
+with Visa’s commercial business and economic activities,
+related to human rights.
+evaluating the tax implications and risks related to
+potential transactions. In 2021, Visa took additional steps to engage prospective
+and existing suppliers to understand their current
+Visa’s statement on tax compliance and governance is
+integration of various ESG topics and plans to improve.
+available online at visa.com/esg under Operating Responsibly.
+To complement these efforts, we are partnering with
+2021 Environmental, Social & Governance Report | 48
+As part of Visa’s Stand Together Initiative, we have made Human Rights
+significant investments in and commitments to fostering a
+diverse supplier base. Our progress on the following goals
+is reported internally to the Visa Executive Committee on We recognize our responsibility to respect and, where
+a quarterly basis, identifying progress and opportunities for possible, promote human rights across our company,
+continuous improvement. operations and supply chain, including standards identified
+in the Universal Declaration of Human Rights and the
+• Requesting diverse account teams for preferred International Labour Organization Declaration on the
+suppliers and partners. Fundamental Principles and Rights at Work. Our approach
+• Increasing the number of diverse suppliers in our to respecting human rights is informed by the United
+network, and thereby increasing Visa spend with Nations Guiding Principles on Business and Human Rights
+these suppliers. (Guiding Principles).
+• Requiring diverse sourcing options for spend across RFPs. Visa's cross-functional Human Rights Working Group
+(HRWG) oversees our overall approach, including risk
+We encourage our prime non-diverse suppliers to
+identification, mitigation and due diligence strategy.
+establish relationships with, and commit a percentage
+The HRWG shares progress with members of the Visa
+of expenditures to, diverse suppliers. Prime suppliers
+executive team and Board of Directors on a regular basis.
+participating in our Second-Tier Initiative report
+The Board’s Nominating and Corporate Governance
+information and data on their specific use of small and
+Committee provides human rights oversight as part
+diverse suppliers. We have implemented a system to track
+of its overarching ESG responsibility, as detailed in the
+Visa spend with diverse Tier II suppliers.
+Committee’s Charter.
+Visa also invests in tools and memberships with diverse
+We completed our most recent triennial Human
+supplier certification organizations like the National
+Rights Impact Assessment in 2020. Through this global
+Minority Supplier Development Council, Women’s
+assessment—conducted in accordance with the Guiding
+Business Enterprise National Council, National LGBT
+Principles—we identify and review salient human rights
+Chamber of Commerce and Western Regional Minority
+risks resulting from our operations, network, supply chain,
+Supplier Development Council.
+partnerships and sponsorships.
+In 2021, Visa expanded Supplier Diversity programs to
+additional regions beyond North America, designing and
+developing reporting criteria and qualifications based
+on data availability. The expansion focused on small and
+micro businesses owned by historically underrepresented
+individuals. For example, an area of focus in South Africa
+was on women and the Broad Based Black Economic
+Empowerment program.
+2021 Environmental, Social & Governance Report | 49
+Informed by this assessment, our human rights strategy In 2021, Visa advanced our human rights due diligence
+focuses on mitigating risks emanating from Visa’s role as a/an: approach through:
+Centre for Sport
+Employer • Conducting a review of the human rights implications & Human Rights
+We acknowledge and respect the human rights of each of artificial intelligence (AI) and Visa’s current approach
+employee. Our Code of Business Conduct and Ethics to responsible AI.
+outlines our employee protections and freedoms, As a sponsor of major sports bodies and events, Visa
+• Collaborating with peer companies and expert
+including: privacy, expression, association and maintaining remains a proud founding supporter and Advisory
+stakeholders at the Centre for Sport and Human
+a workplace safe from retaliation. Policies contributing to Council member of the Centre for Sport and Human
+Rights as co-founding supporter and member of the
+the respect of human rights of our employees include: Rights (CSHR).
+Centre’s Advisory Board and Mega-Sporting Events
+Harassment and Discrimination Policy; Safety, Health and
+Working Group. In 2021, CSHR announced a strategic plan for the
+Environmental Policy; Whistleblower Policy and Non-
+• Engaging with major sporting bodies and other human period 2021-2025. The strategy outlines urgent
+Retaliation Policy.
+rights stakeholders to help advance human rights in challenges and trends in sport and human rights and
+Purchaser major sporting events. describes how CSHR will seek to address them in
+We acknowledge and respect the human rights of cooperation with its global network. CSHR’s approach
+• Reviewing Visa’s approach to human rights due diligence
+workers in our supply chain. Our Supplier Code outlines is rooted in international standards, including the
+in select high risk markets.
+our expectations for suppliers including safe working United Nations Guiding Principles on Business and
+conditions and respect of human rights. We publish an annual UK Modern Slavery Act Transparency Human Rights, as well as a shared commitment to
+Statement, highlighting our efforts to help ensure slavery the Sporting Chance Principles.
+E-Payments Enabler and human trafficking are not taking place in our business
+As financial crimes can support and contribute to human and across our supply chain.
+rights abuses such as human trafficking, we are committed
+to preventing illegal activities on our network.
+Business Partner and Sponsor
+We incorporate respect for human rights into the
+expectations of and engagement with our partnerships
+and sponsorships, including issues at the intersection of
+sport and human rights.
+2021 Environmental, Social & Governance Report | 50
+Appendix
+5511
+GHG Emissions Verification Statement
+Page 2 Page 3
+VERIFICATION OPINION DECLARATION x W StR anI/ dW aB rdC (S SD co G pere 3e )n house Gas Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Statement of independence, impartiality and competence
+GREENHOUSE GAS EMISSIONS Reference Standard: mAp ae nx a gis e man e nin t d se ep rve in cd ee s n int cp lr uo df ie ns gs aio sn sa ul rs ae nr cv eic we is t h c oo vm ep r a 3n 0y yt eh aa rt s s hp ie sc toia ryliz ie ns p rin o vH ide ina glth t, h eS sa efe sty e, r vS ico ec sia . l and Environmental
+To: The Stakeholders of VISA Inc. x I vS eO rif i1 c4 a0 ti6 o4 n - a3 n S de vc ao ln idd a e tiod nit i o on f g2 r0 e1 e9 n- h0 o4 u: sG er e ge asn h so tau ts ee m g ea ns tse s --Part 3: Specification with guidance for the rN eo q um ire em d b oe f r t ho isf t ah se s iv ge nr mifi ec na tt .io n W t ee a cm on h da us c tea d b tu hs isin ve es rs if ir ce ala tioti no n insh di ep p ew nit dh e nV tI lS y A a, n i dts t oD i ore uc r t ko nrs o wo lr e dM ga en a thg ee rr es hb ae sy o bn ed e nt h na ot
+Apex Companies, LLC (Apex) was engaged to conduct an independent verification of the greenhouse gas (GHG) conflict of interest.
+ae pm pis liesi so n tos thre ep ro er lt ae td e db iy n foV rI mSA at ioU n.S in.A cl. u dIn ec d. w(V itI hS inA ) t hf eo r s cth oe p ep oe fr i wo od r ks t da ete sd cr ib be el do w be. loT whi .s verification opinion declaration Leve xl of LA imss itu er da nce and Qualifications: A dap ye -x to h -da as y i m bup sle inm ee sn st e ad ct ia v itC ieo sd . e of Ethics across the business to maintain high ethical standards among staff in their
+iaT nnh dde e pfd a ee i nrt e dpr erm e nsi tn ea vn et tio a rin t fi io c o anf t io oth f n e t h oG e n H G G tH h eGe m as ci ts a cs t ueio rm an ces y n i ts o in ft h te a hc es c o o Gl re d H ar Ge ns c p e eo mwn is i sti h sb ii otl hi nty e s o c rrf e itV pe oI rS i ra tA e. . dA ,V p I e aS x nA ’ ds i ss oo nr le e t s hrp e eo s n p us o ni nb dsl ee ib r lf i ylo i it nr y g th w e sa ysp s r t te o ep mpa srr o a v at ii ndo den x T abh ois v v ee inrif dic ica ati to on rs u sed a materiality threshold of ±5% for aggregate errors in sampled data for each of the T h exeh cae el t lhv lee a nri n tf i d uc na s dt aio efn e rs t tyt ae nia n dm fo in r gmh a oas ft i Aoe n px , et e xsn ’y sss stiv e te am nse d x aap rn de d r m ie p en ro tc hce oe dsin os le oc s go , y n h d fa ou s rc tt o hin v eg e v r ea 2s r0 is fi u cyr aea ta in orc nse oc oo f mv ge rb er i ene nen hdv o i e uro x sn p em e gre aien snt a ecl e m, iis sno s c t iohia nisl s, f die e at lh d tai c .aa nl da an nd
+processes used to collect, analyze and review the information. Apex is responsible for expressing an opinion on the
+GHG statement based on the verification. Verification activities applied in a limited level of assurance verification are GHG Verification Methodology:
+less extensive in nature, timing and extent than in a reasonable level of assurance verification. Evidence-gathering procedures included but were not limited to: Attestation:
+Boundaries of the reporting company GHG emissions covered by the verification: x Interviews with relevant personnel of VISA;
+x Operational Control x Review of documentary evidence produced by VISA;
+x Worldwide x Review of VISA data and information systems and methodology for collection, aggregation, analysis and Trevor Donaghu, Lead Verifier Joe Winslow, Technical Reviewer
+GTy Hp Ge s E o mf i sG sH ioG ns s: SC tO a2 t emN e2O n t: CH4 HFCs,PFCs x r Ae uv die itw o fo sf ain mfo pr lm e a ot fi o dn a tu as ue sd e t do bd ye t Ve Ir Sm Ain te o G deH tG er mem ini es s Gio Hn Gs; ea mnd is sions. P A Pr p leo e ag x sr a aCm no tm M Hp ia la ln ,n a Cieg Ase ,r LLC AP A tr p lo aej ne x t c aCt ,o M Gma Apn aa ng ie er s , LLC
+x Scope 1: 4,000 metric tons of CO2 equivalent January 27, 2022
+x Scope 2 (Location-Based): 59,200 metric tons of CO2 equivalent
+x Scope 2 (Market-Based): 0 metric tons of CO2 equivalent Verification Opinion: aT ch cis o rv de ar nifi cc ea t wio itn h s tt ha ete tm ere mn st, oin f c ol uu rd i an gg r eth ee m o ep ni tn . i Won e e cx op nr se es nse t d to h te hr ee rin e, l eis a sp ero ov fi d the id s t so t a V teIS mA e na tn bd y i s y os uo le toly C fo Dr P t h ine ob re dn ee rf i tt o o sf aV tiI sS fyA ti hn e terms
+x Scope 3: B aba os ve ed : on the process and procedures conducted, there is no evidence that the GHG emissions statement shown o pf a rC tyD wP hd ois mcl ao ys u hr ae v r ee q au ccir ee sm se tn ot s th b isu t s tw ai tt eh mou et n a t.c cepting or assuming any responsibility or liability on our part to CDP or to any other
+Purchased Goods & Services: 302,200 metric tons of CO2 equivalent x is not materially correct and is not a fair representation of the GHG emissions data and information; and
+Capital Goods: 0 metric tons of CO2 equivalent x has not been prepared in accordance with the WRI/WBCSD GHG Protocol Corporate Accounting and
+Fuel & Energy Related Activities: 4,200 metric tons of CO2 equivalent Reporting Standard (Scope 1 and 2), and WRI/WBCSD Greenhouse Gas Protocol Corporate Value Chain
+Waste Generated in Operations: 500 metric tons of CO2 equivalent Accounting and Reporting Standard (Scope 3).
+Business Travel: 1,300 metric tons of CO2 equivalent I qt uis a no tu itr a o tivp ein dio an ta t h foa rt V deIS teA r mha ins a e tiost na b ol fi s thh ee sd e a Gpp Hr Gop eri mat ie s ss ioys nt se m fos r tf ho er t sh te a tc eo dl l pe ec rti io on d, aa ng dg r be og ua nti do an r ia en sd . analysis of
+Employee Commuting: 13,000 metric tons of CO2 equivalent
+Downstream Leased Assets: 12 metric tons of CO2 equivalent
+Data and information supporting the Scope 1 and Scope 2 GHG emissions statement were historical in nature.
+Data and information supporting the Scope 3 GHG emissions statement were in some cases estimated rather
+than historical in nature.
+Period covered by GHG emissions verification:
+x October 1, 2020 to September 31, 2021
+Criteria against which verification conducted:
+x World Resources Institute (WRI)/World Business Council for Sustainable Development (WBCSD)
+Greenhouse Gas (GHG) Protocol Corporate Accounting and Reporting Standard (Scope 1 and 2)
+2021 Environmental, Social & Governance Report | 52
+ESG Framework Map
+We map relevant disclosures to help stakeholders assess our performance. Visa used the Global Reporting Initiative (GRI) Standards to help guide the development of this report.
+Elements of the following GRI, Sustainability Accounting Standards Board (SASB) and World Economic Forum (WEF) indicators may be partially disclosed.
+General Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Organizational Profile
+General Core 102-1 Name of the organization Visa Inc.
+Disclosures
+Core 102-2 Activities, brands, 2021 Annual Report: Business, pages 4-17
+2016
+products, and services
+Core 102-3 Location of headquarters San Francisco, CA
+Core 102-4 Locations of operations Corporate Profile, page 5; 2021 Annual Report: page 1 and Properties, page 31
+Core 102-5 Ownership and legal form Visa Inc. (NYSE: V) is a publicly held corporation organized existing under the laws of the
+State of Delaware.
+Core 102-6 Markets served Corporate Profile, page 5; 2021 Annual Report: Business, page 4
+Core 102-7 Scale of the organization Corporate Profile, page 5
+Core 102-8 Information on TC-SI-330a.3 Dignity and Equal Opportunity Employment Report; 2022 Proxy Statement, page 10
+employees and other equality
+workers
+Core 102-9 Supply chain 2021 Annual Report: Business, page 5; Revenue Growth Drivers. pages 7-17
+Core 102-10 Significant changes to 2021 Annual Report, page 13.
+the organization and its
+In FY 2021, Visa acquired YellowPepper to accelerate its network of networks strategy in
+supply chain
+Latin American and the Caribbean. On June 24, 2021 Visa signed an agreement to acquire
+Tink AB (Tink). On July 22, 2021 Visa signed a definitive agreement to acquire The Currency
+Cloud Group Limited (Currencycloud).
+Core 102-11 Precautionary Principle Protecting the Planet, page 34
+or approach
+Core 102-12 External initiatives UK Modern Slavery Act Transparency Statement
+Clean Energy Buyers Association
+Council for Inclusive Capitalism
+Chase, United Airlines and Visa partnership to support The Human Rights Campaign,
+StartOut and The Trevor Project
+Core 102-13 Membership of Relevant Memberships, page 7
+associations
+2021 Environmental, Social & Governance Report | 53
+ESG Framework Map
+General Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Strategy
+General Core 102-14 Statement from senior Governing CEO Letter, page 1
+Disclosures decision maker purpose
+2016
+Comprehensive 102-15 Key impacts, risks, and TC-SI-550a.2 Risk and 2021 Annual Report: Risk Factors pages 17-30
+opportunities opportunity
+oversight
+Ethics and integrity
+General Core 102-16 Values, principles, Visa Inc. Code of Business Conduct, Visa Inc. Supplier Code of Conduct, Anti-Bribery
+Disclosures standards, and norms of Policy, Political Participation, Lobbying and Contributions Policy
+2016 behavior
+Comprehensive 102-17 Mechanisms for advice Ethical Ethics & Compliance, page 46
+and concerns about behavior Visa’s Confidential Compliance Hotline, operated by a third party, is available in
+ethics multiple languages, and online or by phone, 24 hours a day, seven days a week.
+Governance
+General Core 102-18 Governance structure Quality of Corporate Governance, page 45; 2022 Proxy Statement: Corporate Governance,
+Disclosures governing pages 11-19
+2016 body
+Comprehensive 102-19 Delegating authority Our Environmental, Social & Governance Approach, ESG Oversight, page 6
+Comprehensive 102-20 Executive-level Our Environmental, Social & Governance Approach, ESG Oversight, page 6
+responsibility
+for economic,
+environmental, and social
+topics
+Comprehensive 102-21 Consulting stakeholders Stakeholder Engagement, page 7; 2022 Proxy Statement: Stockholder Engagement on
+on economic, Corporate Governance, Corporate Responsibility, and Executive Compensation Matters,
+environmental, and social pages 16-18
+topics
+2021 Environmental, Social & Governance Report | 54
+ESG Framework Map
+General Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Governance
+General Comprehensive 102-22 Composition of the Quality of 2022 Proxy Statement: Board Leadership Structure, page 11; Committees of the Board of
+Disclosures highest governance body governing Directors, pages 22-28
+2016 and its committees body
+Comprehensive 102-23 Chair of the highest 2022 Proxy Statement: Board Leadership Structure, page 11; Committees of the Board of
+governance body Directors, pages 22-28
+Comprehensive 102-24 Nominating and selecting 2022 Proxy Statement: Process for Nomination of Director Candidates, page 29
+the highest governance
+body
+Comprehensive 102-25 Conflicts of interest Visa Inc. Corporate Governance Guidelines
+Comprehensive 102-35 Remuneration policies 2022 Proxy Statement: Compensation of Non-Employee Directors, pages 31-34; Executive
+Compensation, pages 71-91
+Comprehensive 102-36 Process for determining 2022 Proxy Statement: Highlights of our Non-Employee Director Compensation Program,
+remuneration page 31;
+Stakeholder Engagement
+General Core 102-40 List of stakeholder Stakeholder Engagement, page 7
+Disclosures groups
+2016
+Core 102-41 Collective bargaining Visa does not report the percentage total of employees covered by collective bargaining
+agreements agreements.
+Core 102-42 Identifying and selecting Our Company, page 4
+stakeholders
+Core 102-43 Approach to stakeholder Stakeholder Our Company, page 4
+engagement engagement
+Core 102-44 Key topics and concerns Our Company, page 4
+raised
+2021 Environmental, Social & Governance Report | 55
+ESG Framework Map
+General Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Reporting Practice
+General Core 102-45 Entities included in the 2021 Annual Report: Business, page 5
+Disclosures consolidated financial
+2016 statements
+Core 102-46 Defining report content Our Company, page 4
+and topic boundaries
+Core 102-47 List of material topics Stakeholder The sections of this report are organized in line with the results of our materiality
+engagement assessment; 2022 Proxy Statement, page 20.
+Core 102-48 Restatements of Environmental data have been restated where applicable due to new data management
+information practices to improve consistency.
+Core 102-49 Changes in reporting This report references GRI but was not prepared in accordance with the Standards.
+Core 102-50 Reporting period October 1, 2020 — September 30, 2021
+Core 102-51 Date of most recent May 2021
+report
+Core 102-52 Reporting cycle Annual
+Core 102-53 Contact point for Please direct questions on this report or topics related to our corporate responsibility
+questions regarding disclosures to sustainability@visa.com.
+report
+Core 102-54 Claims of reporting in This report references the GRI but was not prepared in accordance with the Standards.
+accordance with the GRI
+Standards
+Core 102-55 GRI Content Index ESG Framework Map, pages 53-64
+Core 102-56 External assurance Visa does not seek external assurance. We assure report content through an internal
+review process, including executive oversight of subject matter reviews and validation.
+We also work with a third party to assure the following data: scope 1, scope 2 and select
+scope 3 greenhouse gas emissions.
+2021 Environmental, Social & Governance Report | 56
+ESG Framework Map
+Topic-Specific Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Material Topic: Employee Safety & Wellbeing
+Management Core 103-1, Explanation of the Employee Safety, page 33; Employee Wellbeing, page 31
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Occupational Core 403-1 Occupational health Employee Safety, page 33; Employee Wellbeing, page 31
+Health and and safety management
+Safety 2019 system
+Core 403-2 Hazard identification, risk Employee Safety, page 33; Employee Wellbeing, page 31
+assessment, and incident
+investigation
+Core 403-3 Occupational health Employee Safety, page 33; Employee Wellbeing, page 31
+services
+Core 403-4 Worker participation, Employee Safety, page 33; Employee Wellbeing, page 31
+consultation, and
+communication on
+occupational health and
+safety
+Core 403-5 Worker training on Employee Safety, page 33; Employee Wellbeing, page 31
+occupational health and
+safety
+Core 403-6 Promotion of worker Health and Employee Safety, page 33; Employee Wellbeing, page 31
+health wellbeing
+Core 403-7 Prevention and mitigation Employee Safety, page 33; Employee Wellbeing, page 31
+of occupational health
+and safety impacts
+directly linked by
+business relationships
+2021 Environmental, Social & Governance Report | 57
+ESG Framework Map
+Topic-Specific Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Material Topic: Employee Engagement
+Management Core 103-1, Explanation of the Employee Engagement, page 30
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Training and Core 404-3 Percentage of employees Visa expects employees and managers to engage in regular check-in conversations for
+Education receiving regular ongoing feedback and career development, with specific guidance for mid-year and year-
+2016 performance and career end performance discussions. 100% of eligible employees received a performance review.
+development reviews
+Material Topic: Inclusion & Diversity
+Management Core 103-1, Explanation of the Inclusion & Diversity, page 24
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Diversity Core 405-1 Diversity of governance TC-SI 330a.3 Dignity and Inclusion & Diversity, page 24; Snapshot of Directors, page 45
+and Equal bodies and employees equality
+Opportunity
+Comprehensive 405-2 Ratio of basic salary and Dignity and Pay Equity, page 25; 2022 Proxy Statement, page 10
+2016
+remuneration of women equality
+At Visa, men and women earn the same pay for the same work globally. For our last
+to men
+completed fiscal year ended September 30, 2021, the ratio of the median of the annual
+total compensation of our employees, excluding our Chief Executive Officer (CEO), to the
+annual total compensation of our CEO is 211:1.
+Material Topic: Employee Learning & Development
+Management Core 103-1, Explanation of the Employee Learning & Development, page 28
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Training and Core 404-1 Average hours of training Skills for In 2021 on average, Visa employees participated in 12 hours of training.
+Education per year per employee the future
+2016
+Comprehensive 404-2 Programs for upgrading Employee Learning & Development, page 28
+employee skills and
+transition assistance
+programs
+2021 Environmental, Social & Governance Report | 58
+ESG Framework Map
+Topic-Specific Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Material Topic: Employee Benefits
+Management Core 103-1, Explanation of the Employee Benefits, page 32
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Employment Core 401-2 Benefits provided to Employee Benefits, page 32
+2017 full-time employees
+that are not provided to
+temporary or part-time
+employees
+Material Topic: Digital Equity and Inclusion
+Management Core 103-1, Explanation of the Digital Equity & Inclusion, page 12
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Indirect Core 203-2 Significant indirect Digital Equity & Inclusion, page 12; Sustainable Commerce, page 41
+Economic economic impacts
+Impacts
+Material Topic: Community Support
+Management Core 103-1, Explanation of the Community Support, page 13
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Local Core 413-1 Operations with local Empowering People, Communities & Economies, page 9; Investing in Our People, page 23
+Communities community engagement,
+2017 impact assessments, and
+development programs
+2021 Environmental, Social & Governance Report | 59
+ESG Framework Map
+Topic-Specific Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Material Topic: Payments Security
+Management Core 103-1, Explanation of the Payments Security, page 17
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Core Self-Selected Metric FN-CF-230a.3 Payments Security, page 17
+Material Topic: Cybersecurity
+Management Core 103-1, Explanation of the
+Approach 103-2, material topic and its Cybersecurity, page 19
+2016 103-3 Boundary
+Core Self-Selected Metric TC-SI-230a.2 Cybersecurity, page 19
+Material Topic: Responsible Data Use
+Management Core 103-1, Explanation of the Responsible Data Use, page 21
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+2021 Environmental, Social & Governance Report | 60
+ESG Framework Map
+Topic-Specific Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Material Topic: Responsible Data Use
+Customer Core 418-1 Substantiated Per SEC rules, any material breach of Visa’s Code of Business Conduct and Ethics would
+Privacy 2016 complaints concerning be disclosed. Visa does not disclose non-material breaches of our Code of Business
+breaches of customer Conduct and Ethics.
+privacy and losses of
+customer data
+TC-SI-220a.1 Responsible Data Use, page 21
+Material Topic: Sustainable Operations
+Management Core 103-1, Explanation of the Protecting the Planet, page 34
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Energy 2016 Core 302-1 Energy consumption TC-SI-130a.1 Protecting the Planet, page 34; Visa's CDP Response
+within the organization
+Comprehensive 302-2 Energy consumption TC-SI-130a.1 Energy & Greenhouse Gas Emissions, page 39
+outside of the
+organization
+Comprehensive 302-4 Reduction of energy Our Results, page 38
+consumption
+Water and Comprehensive 303-3 Water withdrawal TC-SI-130a.2 Freshwater Water withdrawal data is collected directly from facilities that Visa operates (owned or
+Effluents 2018 availability leased) as part of the annual environmental inventory process. Visa then determines areas
+of high or extremely high water stress using WRI’s Aqueduct Water Risk Atlas. Forty-four
+percent of Visa's water use occurs in an area of high or extremely high baseline water
+stress. This metric does not include the recycled water that is used at Visa’s data center in
+the Eastern U.S.
+Comprehensive 303-5 Water consumption TC-SI-130a.2 Freshwater Water, page 40
+availability
+2021 Environmental, Social & Governance Report | 61
+ESG Framework Map
+Topic-Specific Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Material Topic: Sustainable Operations
+Emissions Comprehensive 305-1 Direct (Scope 1) GHG Climate Energy & Greenhouse Gas Emissions, page 39; Visa discloses to the CDP survey annually.
+2016 emissions change See Visa's CDP Response for further energy and emissions information.
+Comprehensive 305-2 Energy indirect (Scope 2) Climate
+GHG emissions change
+Comprehensive 305-3 Other indirect (Scope 3) Climate
+GHG emissions change
+Comprehensive 305-4 GHG emissions intensity
+Comprehensive 305-5 Reduction of GHG Climate
+emissions change
+Effluents and Comprehensive 306-2 Waste by type and Water, page 40
+Waste 2017 disposal method
+TC-SI-130a.3 Protecting the Planet, page 34
+Material Topic: Sustainable Commerce
+Management Core 103-1, Explanation of the Sustainable Commerce, page 41
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Indirect Core 203-2 Significant indirect Inclusive Economies, page 8; Sustainable Commerce, page 41
+Economic economic impacts
+Impacts
+Material Topic: Corporate Governance
+Management Core 103-1, Explanation of the Corporate Governance, page 45
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Diversity Core 405-1 Diversity of governance Inclusion & Diversity, page 24; Snapshot of Directors, page 45
+and Equal bodies and employees
+Opportunity
+2016
+2021 Environmental, Social & Governance Report | 62
+ESG Framework Map
+Topic-Specific Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Material Topic: Ethics & Compliance
+Management Core 103-1, Explanation of the Ethics & Compliance, page 46
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Anti- Comprehensive 205-1 Operations assessed Ethics & Compliance, page 46
+Corruption for risks related to
+2016 corruption
+Comprehensive 205-2 Communication and Ethical Ethics & Compliance, page 46
+training about anti- behavior
+corruption policies and
+procedures
+Material Topic: Ethics & Compliance
+Anti- Core 206-1 Legal actions for anti- TC-SI-520a.1 2021 Annual Report: Legal and Regulatory Matters, pages 47-48, and Note 20-Legal
+Competitive competitive behavior, Matters, pages 103-110
+Behavior 2016 anti-trust, and monopoly
+practices
+Material Topic: Engaging with Governments
+Management Core 103-1, Explanation of the Engaging with Governments, page 47
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Tax 2020 Core 207-1 Approach to tax Community Tax Compliance & Governance, page 48; 2021 Annual Report, page 36 and pages 56-57
+and social
+vitality
+2021 Environmental, Social & Governance Report | 63
+ESG Framework Map
+Topic-Specific Disclosures
+GRI Standard GRI Core or GRI GRI Metric SASB Code WEF Metric Location or Direct Response
+Comprehensive Code
+Material Topic: Responsible Sourcing
+Management Core 103-1, Explanation of the Responsible Sourcing, page 48
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Supplier Core 308-1 New suppliers that Visa does not disclose the number of new suppliers screened using environmental
+Environmental were screened using criteria.
+Assessment environmental criteria
+2016
+Material Topic: Human Rights
+Management Core 103-1, Explanation of the Human Rights, page 49
+Approach 103-2, material topic and its
+2016 103-3 Boundary
+Human Rights Core 412-1 Operations that have Human Rights, page 49; Visa Modern Slavery Act Transparency Statement
+Assessment been subject to human
+2017 rights reviews or impact
+assessments
+Comprehensive 412-3 Significant investment Human Rights, page 49
+agreements and
+contracts that include
+human rights clauses or
+that underwent human
+rights screening
+Other Disclosures
+Economic Comprehensive 201-1 Direct economic Employment Corporate Profile, page 5; 2021 Annual Report, pages 2, 34
+Performance value generated and and wealth
+2016 distributed generation
+Employment 2021 Annual Report: Liquidity and Capital Resources, pages 42-45, and Fiscal Year 2021
+and wealth Key Statistics, page 5
+generation
+Innovation Visa does not report total costs related to research and development.
+of better
+products and
+services Environmental, Social & Governance Report | 64
+visa.com/esg
+©2022 Visa. All rights reserved.

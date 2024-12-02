@@ -32,11 +32,12 @@ def extract_text_from_pdf(pdf_path):
 
 """批量更新，输入初始数据所在文件夹:pdf_folder_path = 'original_pdf' """
 def batch_extract_from_folder(folder_path):
+    print('Start transforming...')
     for filename in os.listdir(folder_path):
         if filename.endswith(".pdf"):
             pdf_file_path = os.path.join(folder_path, filename)
             extract_text_from_pdf(pdf_file_path)
-    print('Finishing transforming')
+    print('Finish transforming.')
 
 # Specify the folder containing the PDF files
 pdf_folder_path = "original_pdf"

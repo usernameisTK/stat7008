@@ -3,84 +3,84 @@ Prediction
 """
 from transformers import pipeline, AutoTokenizer
 import textwrap
-# from keybert import KeyBERT
-# import jieba
 import pandas as pd
 import torch
+from torch.utils.data import Dataset, DataLoader
 import time
+
 import os
 
+
+class TextDataset(Dataset):
+    def __init__(self, csv_file, text_folder):
+        self.df = pd.read_csv(csv_file, encoding='ISO-8859-1')
+        self.text_folder = text_folder  # 存储文本文件的文件夹
+
+    def __len__(self):
+        return len(self.df)
+
+    def __getitem__(self, idx):
+        company_name = self.df.iloc[idx]['Company Name']  # 获取公司名称
+        txt_path = os.path.join(self.text_folder, f"{company_name}.txt")  # 构建文本文件路径
+
+        # 读取文本文件内容
+        with open(txt_path, 'r', encoding='utf-8') as file:
+            text = file.read()
+
+        return company_name, text
+
 """ 生成摘要 """
-def generate_summary(text, max_length=1024, max_new_tokens=150):
-    # 检查是否有可用的 GPU
-    device = 0 if torch.cuda.is_available() else -1  # -1 表示使用 CPU
+def generate_summary(text, max_length=512, max_new_tokens=120):
+    device = 0 if torch.cuda.is_available() else -1
     summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6", revision="a4f8f3e", device=device)
 
-    # 将长文本分割为多个部分
-    wrapped_text = textwrap.wrap(text, width=max_length)
-    total_parts_num = len(wrapped_text)
+    wrapped_texts = textwrap.wrap(text, width=max_length)
     summaries = []
-    # print(f"Start Summarying.")
-    for i, part in enumerate(wrapped_text):
-        # print(f"Summarying {i+1} part/ Totally {total_parts_num} parts")
-        summary = summarizer(part, max_new_tokens=max_new_tokens, do_sample=False)  # 只使用 max_new_tokens
-        summaries.append(summary[0]['summary_text'])
 
-    # print('Joining')
-    # 合并所有摘要
-    final_summary = ' '.join(summaries)
-    return final_summary
+
+    part_summaries = summarizer(wrapped_texts, max_new_tokens=max_new_tokens, do_sample=False)
+    summaries.append(' '.join([summary['summary_text'] for summary in part_summaries]))
+
+    return summaries[0]
 
 """总结文本"""
 def conclude(text):
-    # 总结文本
-    result = generate_summary(text, max_length=1024, max_new_tokens=150)
+    result = generate_summary(text)
 
-    # 计算总结后文本的单词数量
     while len(result.split()) > 512:
-        result = generate_summary(result, max_length=512, max_new_tokens=150)
+        result = generate_summary(result)
 
     return result
 
-"""将总结的文本写入csv"""
-def conclude_update(company_name, txt_name):
+"""总结文本"""
+def update_csv(csv_file, text_folder):
+    dataset = TextDataset(csv_file, text_folder)
+    dataloader = DataLoader(dataset, batch_size=1, shuffle=False)
 
-    path = os.path.join("..", "extracted_text", txt_name)  # 上一级目录中的 extracted_text 文件夹
-    print("The filename is:" + txt_name)
-    with open(path, 'r', encoding='utf-8') as file:
-        text = file.read()
+    # 读取原始 ESG_Score_Conclusion.csv
+    df = pd.read_csv(csv_file, encoding='ISO-8859-1')
 
-    # 定义输出的文件路径
-    csv_file_path = "esg.csv"
-
-    # 读取 CSV 文件
-    df = pd.read_csv(csv_file_path, encoding='ISO-8859-1')
-
-    # 总结文本
-    result = conclude(text)
-
-    # 更新特定公司的 ESG Report 列
-    df.loc[df['Name'] == company_name, 'ESG Report'] = result
-
-    # 保存更新后的 DataFrame 回 CSV 文件
-    df.to_csv(csv_file_path, index=False)
-
-    print(f"{company_name}已更新。")
-
-"""批量更新csv"""
-def update_csv():
-    # 导入文件。 raw.xlsx是初始文件路径。esg.csv是总结文本并导入后的路径
-
-    company_name = pd.read_csv("raw.csv", encoding='ISO-8859-1')['Name']
-
+    results = []
     start_time = time.time()
+    # 遍历 DataLoader 中的每一项
+    print("Start summarizing...")
+    for company_name, text in dataloader:
 
-    for name in company_name:
-        txt_path = name +'.txt'
-        conclude_update(name, txt_path)
+        company_name = company_name[0]  # 因为批量大小为1，取第一个元素
+        summary = conclude(text[0])  # 生成摘要
+
+        # 更新 DataFrame 的第三列
+        df.loc[df['Company Name'] == company_name, 'ESG Report Conclusion'] = summary
+
+        # 保存更新后的 DataFrame 到 CSV
+        df.to_csv(csv_file, index=False)
+
         end_time = time.time()
-        print(f'{name} Finished. Time:{(end_time - start_time)//60}min {(end_time - start_time)%60}s')
+        total_time = end_time - start_time
+        print(f"{company_name} has been summarized to {len(summary.split())} words! Total update time: {round(total_time//3600)}h {round(total_time//60)}min {round(total_time%60, 1)}s")
 
 """Main function"""
 if __name__ == "__main__":
-    update_csv()
+    csv_file = 'ESG_Score_Conclusion.csv'
+    text_folder = '../extracted_text'
+    update_csv(csv_file, text_folder)

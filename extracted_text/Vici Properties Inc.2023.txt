@@ -1,0 +1,2985 @@
+2 0 2 3 - 2 0 2 4 E S G R E P O R T
+ENVIRONMENTAL SOCIAL CORPORATE
+SUSTAINABILITY RESPONSIBILITY GOVERNANCE
+THE VENETIAN RESORT
+THE MANSION AT MGM GRAND
+CHELSEA PIERS
+MANDALAY BAY
+Table of Contents
+INTRODUCTION TO VICI ENVIRONMENTAL
+01 04
+AND HIGHLIGHTS 4 SUSTAINABILITY 31
+Introduction to VICI 5 Recent Developments 32
+Message from the CEO 6 Corporate Headquarters 33
+Our Property Portfolio 7 ESG Due Diligence 33
+Introduction to Triple-Net Lease Model 8 Environmental Management System 33
+Impact of the Gaming Regulatory Environment 9 Golf Courses 34
+ESG Strategy 10 Water 36
+Key ESG Objectives and Approach 10 Energy and Emissions 37
+2024 Progress and Recent Developments 11 Waste, Recycling, and Repurposing 38
+Stakeholder Engagement Principles 12 Operational Portfolio Sustainability Data 39
+Stakeholder Materiality Assessment 13 Addressing Climate Change 40
+Our Approach to the UN Sustainable Development Goals 14 ESG Tenant Engagement Programs 43
+Tenant Engagement Philosophy and Touchpoints 15 Triple-Net Portfolio Sustainability Dashboard 44
+Select Tenant ESG Highlights 46
+CORPORATE
+02
+GOVERNANCE 16
+05
+APPENDIX 49
+Recent Developments 17
+Governance Best Practices 17
+ESG Oversight and Governance 18 Sustainability Accounting Standards Board (SASB) 50
+Our Board of Directors 19 Task Force on Climate-Related Financial Disclosures (TCFD) 53
+Key Corporate Policies 20 Disclaimers 56
+Risk Oversight 21
+Enterprise Risk Management Process 21
+SOCIAL
+03
+RESPONSIBILITY 22
+Recent Developments 23
+Team VICI 24
+Employee Engagement 25
+Diversity, Equity, and Inclusion 25
+VICI Values 26
+Professional Development, Training, and Integration 27
+Compensation and Benefits; Health, Safety, and Wellness 28
+Corporate Citizenship 29
+About This Report
+VICI Properties Inc. (“VICI”) has prepared this 2023-2024 ESG Report to address topics raised through stakeholder feedback and certain
+third-party disclosure and ratings frameworks. This report includes information aligned with certain external frameworks, including the
+Sustainability Accounting Standards Board (“SASB”) - Real Estate Standard, the Task Force on Climate-Related Financial Disclosures (“TCFD”)
+guidelines, and the UN Sustainable Development Goals (“UN SDGs”). Certain information in this report, including information with respect to
+our triple-net leased portfolio and our tenants’ operations at such properties, has been obtained from sources believed to be reliable. While
+we believe that such information is generally reliable, we have not independently investigated or verified such information. Except where
+specified, data and metrics are through December 31, 2023 and narrative highlights and information are current as of June 30, 2024.
+Information stemming from our audited financial statements and other public disclosures are referenced accordingly. Certain statements in
+this report constitute “forward-looking statements” within the meaning of the federal securities laws. Please see page 56 for more information
+regarding these forward looking statements. If you have any questions or feedback on the content of this report, we encourage you to reach
+out to ESG@viciproperties.com.
+0 1
+INTRODUCTION TO
+VICI AND HIGHLIGHTS
+MANDALAY BAY
+Introduction to VICI
+Formed in October 2017, VICI began with a portfolio of 18 leading gaming assets across the United States leased to and operated by
+Caesars Entertainment. Since then, we have grown to become an S&P 500 ® company and the owner of one of the largest portfolios of
+market-leading gaming, hospitality, and entertainment destinations. Our geographically diverse portfolio of 93 experiential assets
+consists of 54 gaming properties and 39 other experiential properties across the United States and Canada occupied by
+industry-leading gaming, leisure, and hospitality operators under long-term, triple-net lease agreements. Our portfolio is comprised of
+approximately 127 million square feet and features approximately 60,300 hotel rooms and over 500 restaurants, bars, nightclubs, and
+sportsbooks. We also have a growing array of real estate and financing partnerships with leading operators in other experiential
+sectors, including Bowlero, Cabot, Canyon Ranch, Chelsea Piers, Great Wolf Resorts, Homefield, and Kalahari Resorts, and own four
+externally managed championship golf courses in Nevada, Indiana, and Mississippi.
+Financial and Growth Highlights
+FY2023 $44.1B $3.6B
+Total Assets Revenue
+12 75
+SINCE FORMATION
+In October 2017 Additional Triple-Net Tenants Additional Triple-Net Leased Properties
+6 15
+Additional Experiential Current Investments in
+Strategic Partners Other Experiential Assets
+Diversified to 20 New Jurisdictions, including Internationally
+As of June 30, 2024
+Investment Strategy
+Our investment strategy involves a long-term relationship-based approach to transactions through which we seek to help our partners
+achieve their objectives by being a capital solutions provider through real estate financings and acquisitions, both today and in the
+future. Our goal is to create the highest quality and most productive experiential real estate portfolio through a strategy of partnering
+with the highest quality experiential place makers and operators.
+REAL ESTATE ACQUISITIONS
+Acquire irreplaceable, mission-critical, non-commodity real estate offering place-based, scaled leisure and hospitality
+experiences in a triple-net lease structure with industry-leading operators
+VICI PARTNER PROPERTY GROWTH FUND
+Work collaboratively with existing tenants and partners to invest in growth opportunities across real estate developments
+and capital improvements that achieve mutually beneficial outcomes
+VICI EXPERIENTIAL CREDIT SOLUTIONS
+Creatively provide debt capital with new and existing partners across experiential sectors that generate attractive
+returns and build a strategic path towards potential future real estate ownership
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+5
+Message from the CEO
+Dear VICI Stakeholders,
+We are proud to present you with VICI’s fourth annual ESG report. At VICI, we believe that our success can be attributed to
+our focus on making sure that as we grow our portfolio, we take every opportunity to also improve as a company. Over the
+past 6 years, we have grown to now own 93 experiential properties in the U.S. and Canada operated by 13 tenants,
+increased our dividend at a 7.9% CAGR since our first quarter post-IPO, achieved investment grade credit rating and S&P
+500® inclusion, all while continuing to improve our focus and approach to ESG. Among other highlights this year, we
+increased the scope and quality of asset-level data received through our tenant outreach efforts, implemented new
+sustainable policies at our new corporate headquarters, pursued significant resource-conserving capital improvement
+projects at our golf courses, expanded our corporate giving and citizenship efforts led by our VICI Volunteers group, and
+maintained our stockholder-friendly corporate governance practices.
+As part of our ongoing effort to get better as we grow, the entire VICI team engaged in defining the below five pillars that
+encompass our values as an organization. The full set of VICI Values is presented later in this report, but what I want to
+emphasize here is that not only do these values underpin our success from an earnings growth perspective, they also inform
+our approach to ESG:
+1. LEAD WITH GOOD INTENTIONS
+At VICI, relationships are at the heart of what defines our business success. We lead with positivity and a partnership
+mentality in seeking creative solutions that mutually benefit us and our partners and provide returns for our stockholders.
+Our business and our portfolio benefit from well-intentioned, environmentally and socially responsible partners to build
+and sustain a best-in-class real estate portfolio.
+2. ENGAGE WITH RIGOR
+Due to our relatively small tenant base when compared to triple-net peers, we are able to maintain meaningful dialogues
+with each of our partners. Quality of tenant engagement is one of VICI’s unique strengths and facilitates our engagement
+on environmental sustainability and social responsibility issues.
+3. CARRY THE BATON
+While the majority of our portfolio’s ESG impact is under the purview of our tenants, we continue to expand our social
+responsibility efforts with the growth of our organization and remain focused on improving our environmental
+performance at our externally managed golf courses, as well as our corporate headquarters located in a LEED Gold
+certified building in New York City. We lead by example where we can with sustainability initiatives at our corporate
+headquarters and externally managed golf courses.
+4. BRING A FIFTH CHAIR
+Our VICI team is small but mighty (with 29 full-time staff), and as we continue to grow our headcount, we seek to provide
+opportunities to our employees to grow their responsibilities and develop their strengths, while also recognizing the value
+of third-party support and force multiplication. Being inclusive and open to differing viewpoints is vital to pursuing
+meaningful improvement in our organization on all fronts.
+5. CULTIVATE RELATIONSHIPS TO WIN THE TIES
+In light of our triple-net lease model, constructing our tenant roster is one of the most important things we do, and we have
+continued to approach each of our partnerships with quality as a top-of-mind outcome. Building and maintaining strong
+and constructive relationships with our partners is essential to our progress on ESG initiatives.
+Within this report, we have highlighted our recent progress and continuing efforts within each of these pillars. We hope you
+will find this report useful and encourage you to reach out to us at ESG@viciproperties.com with any questions or thoughts
+you may have.
+EDWARD B. PITONIAK
+Chief Executive Officer
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+6
+Our Property Portfolio
+As of June 30, 2024
+REAL ESTATE PORTFOLIO SUMMARY
+~127MM 450+
+93 Triple-Net Leased Properties, TOTAL SF F&B OUTLETS
+comprised of:
+~6.7MM SF ~500
+54
+Gaming Properties
+MEETING & RETAIL OUTLETS
+39 Other Experiential Properties CONVENTION SPACE
+4 Golf Courses Operated by ~4.2MM SF 50+
+CDN Golf
+GAMING SPACE ENTERTAINMENT VENUES
+15 Additional Investments in
+100%
+Experiential Assets 60,300+
+OCCUPANCY
+HOTEL ROOMS
+OUR TENANTS AND STRATEGIC PARTNERS
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+7
+Introduction to the Triple-Net Lease Model
+Within our real estate investment trust (“REIT”) structure, our leased properties are subject to long-term triple-net leases, which
+generally provide that our tenants retain exclusive operational control of the properties and are solely responsible for management
+and operation of the property and all related expenses, including taxes, insurance, operating expenses such as maintenance, repair,
+and capital improvement, and utilities.
+While the terms of our triple-net leases include conditions and requirements relating to, among other things, operating condition and
+maintenance, capital expenditures, and reporting, our tenants generally have autonomy in operating their businesses and managing
+the properties, including with respect to their implementation of any ESG initiatives. As a result, our tenants make independent decisions
+regarding their business strategy and operations, including whether and how to pursue ESG initiatives at our leased properties.
+LANDLORD
+NON-OPERATING REAL ESTATE OWNER INDEPENDENT OPERATIONS
+— Lease Compliance Monitoring — Investment and Acquisition Strategy
+— Limited Consent / Approval Rights — Environmental Sustainability
+— Limited Ability to Influence Tenant / Property Operations • Transactional and Real Estate Due Diligence
+— Reliant on Tenants for Property-Level Data • Asset Management
+— Indemnification by Tenant • Tenant Engagement
+— Landlord Social Responsibility Initiatives
+— Landlord Corporate Governance Program
+TRIPLE-NET LEASE MODEL
+STANDARD RELATIONSHIP TENANTS ARE RESPONSIBLE FOR: ESG ROLES, RIGHTS,
+AND BARRIERS AND RESPONSIBILITIES
+— Rent — Insurance
+— Taxes — Other Operating Expenses
+EXCLUSIVE OPERATIONAL CONTROL INDEPENDENT OPERATIONS
+— Strategy, Operations, and Financial Performance — Setting ESG Strategy and Priorities
+— Property Legal and Regulatory Compliance Obligations — Environmental Sustainability
+— Capital Expenditure and Maintenance Obligations • Determining Capital Improvements and
+Sustainability / Efficiency Budgets
+— Casualty and Condemnation Risk
+• Addressing Climate Change Risk Management
+— Indemnification of Landlord
+and Mitigation
+• Tracking and Reporting Property-Level Data
+— Tenant Social Responsibility Initiatives
+— Tenant Corporate Governance Program
+TENANT
+This is a high-level summary of general landlord and tenant ESG roles, rights, and responsibilities in a triple-net lease context and is not a summary or presentation of the
+terms of any specific lease.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+8
+Impact of the Gaming Regulatory Environment
+Due to the highly regulated nature of the gaming and racing industries, the ownership of our gaming and racing assets is subject to
+applicable gaming and racing licenses, state and local gaming and racing laws, and gaming and racing regulatory oversight,
+which generally qualifies us as an owner and supplier of real estate (in contrast to the licensure status of our tenants as gaming and
+racing operators). As a real estate owner and landlord, these regulations strictly limit our ability to participate in any operational decisions.
+Accordingly, the implementation of operational measures at our leased properties is beyond the scope of our role and authority.
+ECONOMIC IMPACT OF GAMING
+According to the American Gaming Association (AGA), the
+gaming industry has an expansive impact on the U.S. economy,
+PUBLIC SPENDING PRIORITIES FUNDED
+contributing billions of dollars in economic activity and
+BY GAMING TAX REVENUES
+generating direct and indirect tax revenue in the form of payroll
+taxes, as well as income, sales, and other corporate taxes. In
+2023, the AGA reported that the U.S. gaming industry was
+EDUCATION
+responsible for:
+$329 BILLION
+PUBLIC SAFETY
+CONTRIBUTED TO THE U.S. ECONOMY
+ECONOMIC DEVELOPMENT
+700,000
+PEOPLE DIRECTLY EMPLOYED
+RETIREMENT AND PENSION FUNDS
+1.8 MILLION
+JOBS SUPPORTED HEALTH AND SOCIAL SERVICES
+TRANSPORTATION
+$104 BILLION
+IN WAGES AND SALARIES
+INFRASTRUCTURE
+$53 BILLION
+IN TAX REVENUE TO FEDERAL, STATE,
+CAPITAL PROJECTS
+AND LOCAL GOVERNMENTS, INCLUDING
+$13.5 BILLION IN GAMING TAXES
+Commercial gaming data is publicly available through the American Gaming Association
+https://www.americangaming.org/resources/national-economic-impact-of-the-u-s-gaming-industry/
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+9
+ESG Strategy
+Our ESG program and overall strategy is guided by the characteristics of our triple-net lease business model, guidance provided by
+industry and sustainability-oriented frameworks and guidelines, feedback received from internal and external stakeholders, our
+overarching business and strategic objectives, and the value we place as an organization on each component of environmental
+sustainability, social responsibility, and corporate governance.
+Key ESG Objectives and Approach
+Our key objectives and approach with respect to each pillar of ESG matters continue to evolve as we progress our ESG program and
+grow our business.
+ENVIRONMENTAL SUSTAINABILITY
+CORPORATE SUSTAINABILITY - Strive to improve the environmental performance of our headquarters
+and golf course operations, including improving energy efficiency, reducing water usage and waste
+generation, and increasing recycling and waste diversion
+TRIPLE-NET PROPERTY SUSTAINABILITY ENGAGEMENT - Encourage our tenants’ implementation of
+environmental sustainability and performance improvement measures to address the sustainability and
+long-term climate resilience of our portfolio
+PARTICIPATION AND REPORTING - Improve our ability to address investor and other stakeholder group
+expectations with respect to our corporate-level environmental sustainability initiatives, including through
+our tenant engagement efforts, data reporting, and third-party framework participation
+SOCIAL RESPONSIBILITY
+COMPANY CULTURE - Nurture our company culture and focus on the health, safety, wellbeing, and
+professional development of our employees through recruiting and retention, employee engagement,
+and strong support and benefits
+COMMUNITY AND CORPORATE CITIZENSHIP - Support the communities and charitable organizations
+where we own properties and demonstrate our commitment through volunteering, regular giving, and
+taking advantage of unique opportunities as they arise
+ETHICAL AND RESPONSIVE ENGAGEMENT - Enhance our commitments to key social responsibility issues
+such as diversity, equity, and inclusion and human rights by implementing and expanding policies and
+procedures, training, and external engagement
+CORPORATE GOVERNANCE
+EFFECTIVE OVERSIGHT AND RISK MANAGEMENT - Maintain effective oversight and risk management as
+a real estate owner and triple-net lease lessor
+REPORTING AND STRATEGIC INTEGRATION - Enhance our internal framework, processes, and controls
+to continue progressing our ESG reporting capabilities and integrating ESG considerations into our
+investment, business, and asset management strategies
+STOCKHOLDER VALUE CREATION - Continue our commitment to maintaining the highest standards
+of corporate governance in promoting long-term value creation, transparency, and accountability to
+our stockholders
+Our 2024 Proxy Statement includes additional information on our broader corporate governance programs and policies.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+10
+2024 Progress and Recent Developments
+PROGRESS SUMMARY E S G REFERENCE
+ESG FRAMEWORK ALIGNMENT
+Furthered our assessment of the UN Sustainable Development Goals Our Approach to the UN Sustainable
+and alignment with our ESG strategy and roadmap Development Goals (14)
+TENANT ENGAGEMENT
+ESG Tenant Engagement Programs (43)
+Continued to enhance our tenant data collection program to expand
+the scope and detail of available sustainability data with respect to
+Triple-Net Portfolio Sustainability
+our triple-net lease portfolio
+Dashboard (44-45)
+Shared property-level climate risk reports with tenants and continued to
+Addressing Climate Change (40)
+evaluate additional tenant incentives to encourage sustainability initiatives
+SUSTAINABLE OPERATIONS AND INVESTMENTS
+Water (36)
+In connection with our transition to new office space, implemented
+Energy and Emissions (37)
+additional sustainable practices into our office environment and operations
+Waste, Recycling, and Repurposing (38)
+Golf Courses (34)
+Advanced our environmental sustainability initiatives at our externally
+managed golf courses
+Ongoing Sustainability Projects (35)
+CORPORATE CITIZENSHIP AND VOLUNTEERING
+Identified key impact pillars for our corporate giving framework through
+Corporate Citizenship (29)
+the leadership of our VICI Volunteers team
+Participated in volunteer events for City Harvest in November 2023 and
+Corporate Citizenship (30)
+Child Centers of NY in July 2024
+Supported the Las Vegas Super Bowl LVIII Host Committee Charities and
+Corporate Citizenship (30)
+other organizations through our corporate giving efforts
+EMPLOYEE ENGAGEMENT AND ORGANIZATIONAL CULTURE
+Certified as a Great Place To Work® for the fifth year in a row and
+established an eNPS of 72 in an additional internal engagement survey Employee Engagement (25)
+performed in June 2024
+Completed a collaborative teamwide effort to refresh our VICI Values to
+VICI Values (26)
+reflect our growth as an organization
+PROFESSIONAL DEVELOPMENT, TRAINING, AND INTEGRATION
+Expanded our VICI 101 training program and rebranded it to “VICI U” to Professional Development, Training, and
+include additional learning opportunities on more advanced topics Integration (27)
+Completed an organization-wide personality assessment under the DiSC Professional Development, Training, and
+framework and provided training and feedback sessions for employees Integration (27)
+CORPORATE POLICIES
+Articulated new Corporate Responsibility commitments, including with
+Key Corporate Policies (20)
+respect to biodiversity, human rights, and labor
+Developed an expanded third-party risk management playbook to
+govern our vendor/supplier due diligence, onboarding, monitoring, Risk Oversight (21)
+and offboarding
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+11
+Stakeholder Engagement Principles
+We engage with internal and external stakeholders across our business profile, portfolio, and operations on an ongoing basis, with our
+engagement tailored to each group. Our key stakeholders and the core principles governing our engagement with each group are set
+forth below:
+STAKEHOLDER GROUP CORE ENGAGEMENT PRINCIPLE
+Develop and maintain strong relationships with our stockholders to ensure that we understand and
+STOCKHOLDERS consider their focus issues and provide necessary information needed for their investment
+decisions and continued ownership
+Ensure effective corporate governance and operation of the Board through clear allocation of
+BOARD OF DIRECTORS responsibilities and open communication, establishing ongoing dialogues and maintaining
+alignment on long-term strategy and execution
+Provide an environment in which our employees thrive and our organizational culture can continue
+EMPLOYEES: TEAM VICI to grow by encouraging frequent and collaborative communication, employee feedback and
+engagement opportunities, and individual and professional growth opportunities
+Maintain positive dialogues to understand our partners’ financial performance, strategy, and
+PARTNERS: TENANTS
+priorities and nurture collaborative relationships to constructively solve business issues, expand
+AND BORROWERS
+our business relationships, and achieve mutually beneficial objectives
+Ensure that we understand and consider the perspectives of our lenders and bondholders and the
+LENDERS AND
+issues most meaningful to them by maintaining an ongoing dialogue regarding our business and
+BONDHOLDERS transactional activity, including financing needs
+Communicate our business model and operational profile as a real estate owner, while
+COMMUNITIES demonstrating our support for the communities in which we own properties and building
+relationships with community representatives as opportunities arise
+Ensure that we understand and consider the issues important to regulatory authorities and
+INDUSTRY REGULATORS maintain responsive engagement and prompt action as a critical part of our comprehensive
+regulatory compliance program
+INDUSTRY AND Actively participate in industry and trade group initiatives, working groups, and other engagement
+TRADE GROUPS opportunities to contribute to and seek to advance collective priorities of membership
+VENDORS, SUPPLIERS, Establish positive relationships and open dialogue to maintain appropriate oversight and risk
+AND SERVICE PARTNERS management in any engagement and address opportunities to serve business needs
+Nareit Involvement and Support
+As a member of the National Association of Real Estate Investment Trusts (Nareit), we are proud to support Nareit and the
+Nareit Foundation’s corporate responsibility initiatives. Our executive officers and employees serve Nareit in various capacities,
+including our CEO, Ed Pitoniak, who currently serves as an Executive Board Member; our General Counsel, Samantha Gallagher,
+who currently serves as Chair of the Corporate Governance Council; and Cameron Lewis, a Vice President, Associate General
+Counsel, who serves on the Nareit Social Responsibility Council and the DDEI Giving Campaign Advisory Committee.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+12
+Stakeholder Materiality Assessment
+Our initial stakeholder materiality assessment completed in 2023 assessed a range of material topics for VICI based on the overall real
+estate industry, select peer materiality assessments, and the unique characteristics of our business through a survey completed by key
+internal and external VICI stakeholders, including our executive officers, members of our Management Committee (as described on
+page 18), our Board of Directors, as well as our tenants, significant stockholders, and business partners. The following materiality matrix
+presents the results of the survey and additional analysis in measuring the ESG topics of highest importance to these stakeholders, as
+well as an assessment of VICI’s scope of control and perceived ability to impact each topic in light of our triple-net model as well as
+gaming and regulatory considerations.
+2023 MATERIALITY SURVEY RESULTS VICI’S PERCEIVED
+ABILITY TO IMPACT AS
+HIGH
+TRIPLE-NET LESSOR
+LOW
+MEDIUM Limited opportunity due to
+organization and business model,
+contractual and regulatory limitations,
+and size of operational portfolio
+HIGH
+LOW Opportunity to positively impact
+highlighted topic throughout
+organization and operational portfolio
+TENANT ENGAGEMENT
+OPPORTUNITY
+Opportunity through tenant
+engagement to positively impact
+highlighted topic at triple-net portfolio
+OPERATIONAL PORTFOLIO TRIPLE-NET PORTFOLIO
+Our operational portfolio is Our triple-net portfolio is comprised of our leased gaming and experiential assets for which our
+comprised of our corporate tenants retain exclusive operational control, including the implementation of sustainability initiatives
+headquarters and four golf and climate change risk mitigation efforts. Our tenants independently operate their businesses,
+courses operated by including with respect to social responsibility, human capital management, corporate governance,
+CDN Golf. and legal and regulatory compliance efforts.
+SREDLOHEKATS
+OT
+ECNATROPMI
+Stakeholder Human Capital
+Engagement Management
+Diversity, Equity
+and Inclusion Business Ethics
+Enterprise Risk and
+Opportunity Management Corporate Governance
+Gaming Regulatory
+Compliance
+Transparency and
+Disclosure of ESG Training and Business Education Performance
+Legal and Regulatory
+Human and
+Labor Rights Health Compliance
+and Safety Climate Change Risks
+and Management
+Water and
+Wastewater Tenant Sustainability
+Management Initiatives Tenant
+Satisfaction
+Data Privacy and
+Energy Local Tenant Social Information Security
+Management Community Initiatives Investment Due
+Diligence
+Public Policy ENVIRONMENTAL
+Practices Asset
+Management SOCIAL
+Recycling, Waste Supply Chain Biodiversity GOVERNANCE
+Recovery, and Reduction Management
+DEGREE OF IMPACT TO VICI
+Strategy Snapshot: Casting a Wide
+Net on Stakeholder Engagement
+In June 2024, we hosted an event at the Bowlero in Chelsea Piers
+New York to bring together key stakeholder groups for an afternoon
+of entertainment and education. Emphasizing our core belief in the
+importance of relationships and sharing this belief (and the stage)
+with the management teams of Chelsea Piers and Bowlero, this
+event brought together representatives of J.P. Morgan (one of our
+key partners), executive teams at VICI, Chelsea Piers, and Bowlero,
+key investors, our employees, and various community participants
+for management presentations, a live Q&A session, and bowling
+lessons provided by professional bowlers.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+13
+Our Approach to the UN Sustainable Development Goals
+Our 2022-2023 ESG Report included an initial identification of which UN SDGs were most relevant
+to our business and offered opportunity for the greatest potential impact following the completion
+of our inaugural stakeholder materiality assessment in 2023. Since then, our ESG Committee has
+continued to review and refine our ESG strategy and alignment with the UN SDGs, the results of
+which are presented below. We expect to continue to refresh this analysis from time to time with the
+growth of our business, overall ESG program, and future stakeholder feedback.
+GOAL DESCRIPTION VICI CONTRIBUTIONS REFERENCE
+— Provide comprehensive and inclusive healthcare, Compensation and
+Ensure healthy lives and wellness, and family formation benefits Benefits; Health, Safety,
+promote well-being for all at and Wellness (28)
+— Support charitable organizations through our
+all ages
+Community Relief and Youth Development pillars Corporate Citizenship (29)
+— Maintain strong female representation on Our Board of Directors (19)
+Board of Directors, executive leadership, and
+Compensation and
+across organization
+Benefits; Health, Safety,
+Achieve gender equality and — Provide robust parental leave and family and Wellness (28)
+empower all women and girls formation benefits
+Key Corporate Policies (20)
+— Maintain equal employment, anti-discrimination
+/ harassment, and human rights policies
+Diversity, Equity, and
+— Empower DEI Committee to pursue initiatives Inclusion (25)
+— Engaged green energy service provider for
+Ensure access to affordable,
+corporate headquarters
+reliable, sustainable, and Energy and Emissions (37)
+— Pursue energy efficiency and usage reduction
+modern energy for all
+initiatives at golf courses
+Compensation and
+Promote sustained, inclusive,
+Benefits; Health, Safety,
+and sustainable economic — Ensure fair and competitive compensation and
+and Wellness (28)
+growth, full and productive internal growth opportunities
+employment, and decent — Maintain human rights and labor policies Team VICI (24)
+work for all
+Key Corporate Policies (20)
+— Pursue Audubon Society certification at Audubon Cooperative
+Make cities and human golf courses Sanctuary Program for
+settlements inclusive, safe, Golf (35)
+— Support charitable organizations through our
+resilient, and sustainable
+Community Relief pillar Corporate Citizenship (29)
+Ongoing Sustainability
+— Advance sustainability initiatives and strategies
+Projects (35)
+at corporate headquarters and golf courses
+Ensure sustainable — Continue to expand sustainability-related ESG Tenant Engagement
+consumption and disclosure and reporting Programs (43)
+production patterns — Engage with tenants to encourage sustainability Select Tenant ESG
+across triple-net portfolio Highlights (46)
+— Maintain Responsible Supplier Principles
+Key Corporate Policies (20)
+Addressing Climate
+— Articulate climate strategy pursuant to Change (40-42)
+TCFD framework
+Take urgent action to Appendix: Task Force on
+— Report on estimated Scope 1 and Scope 2
+combat climate change Climate-Related Financial
+emissions and available tenant emissions
+and its impacts Disclosures (TCFD) (53-55)
+— Share climate risk findings with tenants to
+advance independent climate change efforts Operational Portfolio
+Sustainability Data (39)
+The content of this publication has not been approved by the United Nations and does not reflect the views of the United Nations or its officials or Member States.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+14
+Tenant Engagement Philosophy and Touchpoints
+As a passive real estate owner, our tenants at our leased properties independently operate their businesses and serve as long-term
+stewards of our real estate assets. We believe we have established positive relationships with each of our tenants that empower them
+to independently operate and grow their businesses, while maintaining ongoing communication and open dialogue regarding our
+leased properties, areas of shared interest, and the potential for mutually beneficial opportunities that allow for shared growth and
+success. Our engagement with our tenants and feedback obtained from them through a broad range of contact points allows us to
+maintain these positive relationships and monitor our tenants and the performance and condition of our assets.
+PRINCIPAL-LEVEL FINANCIAL & ENVIRONMENTAL
+ENGAGEMENT OPERATIONAL REPORTING REPORTING
+Regular conversations on topics including Regular tenant reporting on financial Ongoing discussions regarding
+strategy, performance, industry/market and operating metrics, including rent environmental sustainability initiatives,
+trends, and other tenant management coverage, capex, and occupancy/ priorities, and potential opportunities and
+priorities, including property-level performance information pursuant to periodic tenant reporting of available
+matters, and potential future transaction triple-net leases, to facilitate our property-level information
+and funding opportunities through the tenant, lease, and property-level
+VICI Partner Property Growth Fund performance monitoring
+GAMING REGULATORY LEASE MONITORING ENVIRONMENTAL
+COMPLIANCE AND COMPLIANCE AND AND SOCIAL
+AND ENGAGEMENT ASSET MANAGEMENT DISCUSSIONS
+Regular coordination regarding gaming Lease administration and compliance Engage in dialogue with key ESG
+regulatory processes, including with and landlord-tenant relationship counterparts to share progress and
+respect to licensing matters, lease administration, including operational developments, identify potential
+amendments, information requests and requests such as sub-leasing, property collaboration opportunities, and shape
+notices, and property-level matters condition, and other real estate VICI’s overall ESG strategy and priorities
+owner-related matters
+CAESARS PALACE LAS VEGAS
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+15
+15
+02
+CORPORATE
+GOVERNANCE
+PARK MGM
+Corporate Governance
+EFFECTIVE OVERSIGHT AND RISK MANAGEMENT - Maintain effective oversight and risk
+management as a real estate owner and triple-net lease lessor
+REPORTING AND STRATEGIC INTEGRATION - Enhance our internal framework, processes,
+and controls to continue progressing our ESG reporting capabilities and integrating ESG
+considerations into our investment, business, and asset management strategies
+STOCKHOLDER VALUE CREATION - Continue our commitment to maintaining the highest
+standards of corporate governance in promoting long-term value creation, transparency,
+and accountability to our stockholders
+Our 2024 Proxy Statement includes additional information on our broader corporate governance
+programs and policies.
+Recent Developments External
+Recognition
+Ranked 5th among all REITs covered by Green Street's REIT
+Corporate Governance rankings released in June 2024.
+CORPORATE POLICIES
+— Articulated new Corporate Responsibility Governance Best Practices
+commitments, including with respect to human
+rights and labor
+INDEPENDENCE Independent Board of Directors (Except for
+— Amended our Code of Business Conduct in
+CEO), Independent Non-Executive Chair, and
+February 2024 to articulate our policies
+Fully Independent Committees
+regarding, among other things, anti-corruption/
+anti-bribery, anti-money laundering, and
+economic sanctions
+DIRECTOR Annual Election of Directors (No Classified
+— Amended our Corporate Governance Guidelines
+ELECTIONS Board) and Majority Voting Standard for
+in February 2024 to reflect continuously
+Director Elections
+enhanced Board governance practices
+ANNUAL Annual Board, Committee, and Director
+EVALUATIONS Self-Evaluations and Annual Review of
+Charter, Bylaws, and Committee Charters
+RISK MANAGEMENT
+— Developed an expanded third-party risk RISK MANAGEMENT Systemic Risk Oversight by Board of Directors
+management playbook to govern our supplier,
+and Committees and Committee Oversight of
+vendor, and partner due diligence, onboarding,
+ESG Matters
+monitoring, and offboarding
+RELATED PARTIES No Material Related Party Transactions and
+No Family Relationships Among Directors and
+Executive Officers
+STAKEHOLDER ENGAGEMENT
+— Expanded our robust stakeholder engagement STOCKHOLDER Stockholder Proxy Access Right, Right to Call
+program to offer additional opportunities for FRIENDLY Special Meeting Without Material Restriction,
+GOVERNANCE
+interaction across stakeholder groups, such as Opted Out of Maryland Unsolicited Takeover
+our investors and tenants/borrowers Act (MUTA) at Formation
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+17
+ESG Oversight and Governance
+BOARD OF DIRECTORS Our Board of Directors retains ultimate oversight of our ESG programs and delegates certain
+areas of responsibility to its committees pursuant to their respective charters.
+Audit Committee, Compensation
+— The Audit Committee is responsible for, among other things, our overall Enterprise Risk Committee, Nominating and
+Management framework and our cybersecurity and information technology framework.
+Governance Committee
+— The Compensation Committee is responsible for, among other things, our human capital
+management programs, including those relating to employee compensation practices,
+employee benefits, and employee recruitment and retention.
+— The Nominating and Governance Committee is responsible for, among other things,
+reviewing and overseeing our ESG policies, goals, and initiatives, including with respect to
+environmental sustainability, climate change, and diversity, equity, and inclusion (DEI).
+EXECUTIVE LEADERSHIP
+Our Executive Leadership, comprised
+of our four named executive officers,
+Chief Executive Officer, President
+leads our organization and engagement
+and Chief Operating Officer, Chief
+with the Board of Directors.
+Financial Officer, General Counsel
+ESG COMMITTEE Our ESG Committee, formerly the Environmental Sustainability and Social
+Responsibility Task Force, consists of employees across functional areas
+Includes the Chief Financial and professional levels, including our Chief Financial Officer and General
+Officer and General Counsel, as Counsel. The ESG Committee periodically meets to consider, implement,
+well as internal ESG stakeholders and oversee our ESG strategy and initiatives, and reports to the Nominating
+across functions and departments and Governance Committee of the Board of Directors on a quarterly basis.
+Our Management Committee, formed in 2022 and comprised of our established
+Senior Vice President and Vice President-level employees, is independently MANAGEMENT
+driven with the overall mandate to assist and support executive leadership in
+COMMITTEE
+guiding the Company’s business, operations, and strategic priorities. With
+respect to ESG matters, the Management Committee has recently focused on Includes all established Senior Vice
+employee engagement efforts, including mentorship and training, professional Presidents and Vice Presidents
+development, and employee engagement and satisfaction.
+DEPARTMENT/
+Our Departmental Leaders each engage within their functions and
+FUNCTIONAL LEADERS
+across our organization to manage our business, with individuals in
+each department contributing to our ESG initiatives, including our
+Accounting/Tax, Administration/Human
+tenant engagement, risk management, and stakeholder outreach
+Resources, Asset Management, Capital
+efforts, as well as our overall business strategy.
+Markets, Finance/Investor Relations, Legal
+Our Employee-Led Initiatives each focus on their respective areas within our overall ESG program.
+EMPLOYEE-LED
+— Our DEI Committee, led by and comprised of volunteers across functional areas and professional
+INITIATIVES
+levels, meets regularly to share ideas and discuss the advancement of our DEI initiatives.
+— Our VICI Volunteers team, comprised of employees across various functional areas and DEI Committee,
+professional levels and sponsored by our President and Chief Operating Officer, leads our VICI Volunteers
+organization’s community service engagement and related initiatives.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+18
+Our Board of Directors
+We endeavor to have a Board of
+Directors that represents diverse
+Gaming Regulatory Implications for Directors
+backgrounds, experiences, expertise,
+perspective, age, gender, ethnicity,
+Due to the highly regulated nature of the gaming industry, our directors are subject
+skills, and contacts that, collectively,
+to individual review and licensure in certain jurisdictions. Accordingly, they must
+enable the Board of Directors to perform
+maintain and demonstrate a high degree of transparency and integrity with respect
+its oversight function effectively. Our
+to their personal, financial, and professional endeavors. We believe that compliance
+directors all bring a broad range of
+with these obligations beyond a typical public company directorship represents a
+qualifications, skills, and experience,
+high degree of commitment to VICI.
+including with respect to the key areas
+of ESG engagement presented below.
+SNAPSHOT OF BOARD PROFILE AND DIVERSITY
+Black/African
+American
+CEO
+Female
+50-59
+14% 2 64
+86% 43%
+ETHNICALLY AVERAGE
+INDEPENDENT FEMALE
+DIVERSE AGE
+60-69
+Male 5
+White/
+Independent Caucasian
+INDEPENDENCE RACE/ETHNICITY GENDER AGE
+Female
+Female Female
+< 4 YRS
+1
+71% 5.3 Yrs
+50%
+4-6 YRS
+CEO AVERAGE
+FEMALE 1
+EXPERIENCE TENURE
+6+ YRS
+5
+Male
+BOARD LEADERS BY GENDER (1) CEO LEVEL EXPERIENCE BOARD TENURE
+(1) Comprised of the Chair of the Board and each committee of the Board.
+Relevant Areas of Director Experience
+71%
+ENVIRONMENTAL SUSTAINABILITY
+5/7
+71%
+SOCIAL RESPONSIBILITY
+5/7
+86%
+HUMAN CAPITAL MANAGEMENT
+6/7
+100%
+CORPORATE GOVERNANCE
+7/7
+100%
+RISK OVERSIGHT AND MANAGEMENT
+7/7
+43%
+CYBERSECURITY/IT
+3/7
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+19
+Key Corporate Policies
+Our corporate policies establish our expectations and requirements with respect to key areas of our operations, as well as the
+conduct of our executives, employees, and directors. These policies are reviewed periodically under the purview of our Board and its
+respective committees to address key changes in our business, emerging best practices, new legal and regulatory requirements,
+and other developments.
+Our Code of Business Conduct establishes our commitment to business ethics and integrity, our overarching policy to
+conduct our business activities with the highest level of integrity and ethical standards, and our expectation that our
+officers, employees, and directors adhere to high ethical standards in their conduct, as well as strict compliance and
+reporting requirements. The Code of Business Conduct covers key topics such as conflicts of interest, competition and fair
+dealing, business entertainment and gifts, and compliance with applicable anti-bribery and anti-corruption, anti-money
+laundering, and economic sanctions laws.
+Our approach to Corporate Responsibility is predicated on our core commitment to sustainable business practices
+that encourage a culture of economic, environmental, and social responsibility through our business activities
+regardless of geographic location, within the scope of our capabilities, and consistent with applicable laws and
+regulations, and our Code of Business Conduct and other policies. These commitments address topics such as:
+— Environmental Sustainability — Education and Training Opportunities
+— Biodiversity — Employee Engagement and Satisfaction
+— Climate Strategy, Governance, and Risk Management — Health, Safety, and Wellness
+— Green Building Certifications — Human Rights and Labor
+— Corporate Giving and Community Impact — Cybersecurity and Data Protection
+— Diversity, Equity, and Inclusion — Supplier Engagement
+Our Corporate Governance Guidelines set forth a flexible framework within which the Board of Directors, assisted by its
+committees, directs the affairs of the Company. The Guidelines reflect the Board of Directors’ commitment to monitoring
+the effectiveness of decision-making at the Board of Directors- and management-level and ensuring adherence to good
+corporate governance principles.
+Our Responsible Supplier Principles outline our expectations for the responsible business practices of our third-party
+suppliers, including our expectation that our third-party suppliers comply with all applicable laws and regulations; have
+a commitment to a diverse workplace; institute and enforce policies prohibiting harassment and discrimination; prohibit
+forced labor, abuse of labor (including human trafficking), and child labor; comply with all applicable local and national
+wage, work hours, overtime, and benefits laws; and support environmental sustainability and business integrity.
+Our Political Contribution Policy requires that the utilization of company resources for political advocacy purposes
+must be in compliance with applicable law and subject to the approval of the Board of Directors. VICI has not expended
+corporate resources for political advocacy purposes, including in support of any political candidate, party, or political
+action committee. Certain trade and industry groups of which we are a member, including Nareit and the AGA, may
+utilize a portion of our membership fees for lobbying and political activities which are allocated by the respective
+organizations and not directed by VICI. Our general membership objectives are to support the key sectors in which we
+operate, specifically real estate investment trusts and the American gaming industry, including advocacy on behalf of
+members. We also encourage our employees to participate in political activities on their own time and at their own
+expense, in a manner consistent with applicable law and policies.
+Our Whistleblower Policy provides for a confidential and secure online
+and telephonic whistleblower reporting structure for the anonymous ZERO
+submission of complaints, including submissions unrelated to Material Whistleblower Submissions
+accounting, controls, or auditing matters, which is maintained through Received Since Implementation
+an independent, unaffiliated vendor.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+20
+Risk Oversight
+The Board of Directors has overall responsibility for Strategy Snapshot:
+risk oversight, including, as part of regular Board of
+Third-Party Risk Management
+Director and committee meetings, general oversight
+of executive leadership’s management of risks In 2024, we developed and are implementing an enhanced third-party
+relevant to the Company. In this regard, the Board risk management playbook, a set of formal procedures that outlines
+of Directors seeks to identify, understand, analyze, our process and approach to management of third-party vendors and
+and oversee critical business risks. Pursuant to their suppliers, including due diligence, onboarding, relationship and
+respective charters, each of the Board of Directors’ performance management, and offboarding. Our policies and
+committees maintain responsibility and oversight procedures are managed by individuals across our Administrative,
+over key areas relevant to their purview. Accounting, Compliance, and Legal functions.
+Management also performs additional risk evaluations and reports to the Audit Committee and the Board on a regular basis regarding
+risks associated with areas such as our long-term strategy, overall compliance with applicable gaming regulatory requirements and
+licensure, financial covenants and reporting, listing exchange rules, and other obligations, cybersecurity and information technology,
+developing corporate governance topics, and our executive compensation practices.
+Enterprise Risk Management Process
+Our Enterprise Risk Management (“ERM”) framework is premised on actively monitoring the Company’s risk profile; ensuring the
+involvement of management, the Board of Directors, and key employees in evaluating and addressing risk; and maintaining effective
+policies, controls, and procedures to manage risk and pursue our strategic priorities.
+MANAGEMENT ROLE
+01
+Management is responsible for our risk management policies and practices and monitors risks identified under the
+ERM framework and new and emerging risks throughout the year in the course of operating our business. As
+appropriate, management provides detailed briefings to the Board of Directors and appropriate committees with
+respect to assessments, procedures, and controls completed or implemented in response to new and emerging risks.
+QUARTERLY REFRESH
+02
+On a quarterly basis, management and key employees reevaluate their risk assessment from the most recent
+Enterprise Risk Assessment ("ERA"), including with respect to key risk drivers, mitigants and trends, and emerging risks.
+ANNUAL ASSESSMENT
+03
+On an annual basis, management (with the input of directors and external advisors) refreshes the ERA to reevaluate
+the spectrum of potential risks under our ERM framework and incorporate new and emerging identified risks.
+BOARD OF DIRECTORS AND COMMITTEE REVIEW
+04
+The results of the annual ERA are presented for review and further discussion among the executive leadership team, key
+employees, and members of the Audit Committee and the Board of Directors. Each quarter, the executive leadership
+team reports to the Audit Committee and the Board of Directors to review and discuss trends in the risk assessment.
+Additional information on our risk management practices, including our ERM framework and our cybersecurity and IT policies and
+procedures, is available in our 2024 Proxy Statement. Information regarding the responsibilities of our Board of Directors and its
+committees is available in our 2024 Proxy Statement and each committee charter, which are available on our website.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+21
+03
+SOCIAL
+RESPONSIBILITY
+MGM NATIONAL HARBOR
+Social Responsibility
+COMPANY CULTURE - Nurture our company culture and focus on the health, safety,
+wellbeing, and professional development of our employees through recruiting and
+retention, employee engagement, and strong support and benefits
+COMMUNITY AND CORPORATE CITIZENSHIP - Support the communities and charitable
+organizations where we own properties and demonstrate our commitment through
+volunteering, regular giving, and taking advantage of unique opportunities as they arise
+ETHICAL AND RESPONSIVE ENGAGEMENT - Enhance our commitments to key social
+responsibility issues such as diversity, equity, and inclusion and human rights by
+implementing and expanding policies and procedures, training, and external engagement
+Recent Developments
+EMPLOYEE ENGAGEMENT AND ORGANIZATIONAL CULTURE
+— Certified as a Great Place To Work® for the fifth year in a row, with annual employee satisfaction surveys through the
+Great Place to Work Institute™ and established an eNPS of 72 in an additional internal engagement survey performed in
+June 2024
+— Collaborative team-wide effort in 2023 to refresh our VICI Values to reflect our growth as an organization
+— Expanded our team with the addition of a Director of People in January 2024
+PROFESSIONAL DEVELOPMENT, TRAINING, AND INTEGRATION
+— Expanded our VICI 101 training program, a comprehensive curriculum introducing new hires and existing employees to
+concepts and topics that are core to our business, and rebranded the program to “VICI U” to include additional learning
+opportunities on more advanced topics
+— Completed an organization-wide personality assessment under the DiSC framework and provided training and feedback
+sessions for employees to understand their workstyle and facilitate collaboration and more effective interactions
+CORPORATE CITIZENSHIP AND VOLUNTEERING
+— Identified three key impact pillars to guide our corporate giving and community engagement efforts: Community Relief,
+Environmental Sustainability, and Youth Development
+— Participated in volunteer events for City Harvest in November 2023 and Child Centers of NY in July 2024
+— Supported the Las Vegas Super Bowl LVIII Host Committee Charities and other organizations through our corporate
+giving efforts
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+23
+Team VICI
+Team VICI is comprised of 29 employees (as of June 30, 2024) working primarily from our headquarters in New York City, with five of our
+employees working remotely across the country. All of our employees are full-time, either professional or administrative, and we do not
+utilize contract or contingent employees. We strive to nurture our company culture and take advantage of the highly interpersonal,
+relationship-based nature of our company and strongly believe that our employees are the driving force behind the achievement of our
+strategic goals and an essential part of our continued success. In light of our relative youth as an organization, many of our employees
+have worked at VICI for a majority of our company’s existence and meaningfully contributed to shaping our company’s growth and
+development – a continuing opportunity that we believe we can offer to all of our employees.
+TEAM VICI COMPOSITION SNAPSHOT
+EMPLOYEE COUNT AND LOCATION
+29
+TOTAL
+24 5
+EMPLOYEES
+NYC EMPLOYEES REMOTE EMPLOYEES
+RACE/ETHNICITY GENDER
+10%
+White / Caucasian
+3%
+7% Asian
+23% Black or African American 48% Female
+7% 52%
+48%
+Decline to state or Unknown Male
+DIVERSE 3% FEMALE
+Hispanic or Latino
+69%
+Two or More Races
+AGE TENURE
+7%
+14%
+< 1 year
+28% 14% 20-29
+31% 1 to 2
+39 30-39 3.7 2 to 3
+17%
+40-49 3 to 4
+YEARS OLD YEARS
+AVG. AGE 17% 50-59 AVG. TENURE 4 to 5
+5 to 6
+60-69 10% 10%
+34% 6 to 7
+7% 10%
+HIRING AND RETENTION
+2023 1H 2024
++6 +3
+NEW HIRES NEW HIRES
+96% 93%
+Retention Rate
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+24
+Employee Engagement
+As a close-knit organization, we rely on our employees to drive
+Strategy Snapshot:
+positive outcomes in all areas of our business, both externally
+and internally. Since 2019, we have utilized the Great Place to Expanding Employee Feedback
+Work® platform for annual employee engagement surveys to
+monitor employee satisfaction, obtain qualitative and In 2024, we began utilizing an additional employee
+quantitative feedback, and utilize the results and insights to engagement and survey platform to improve our facilitation
+further improve our company and culture. Results from these of periodic pulse surveys and provide greater flexibility in
+surveys are reviewed among executive leadership and the obtaining feedback from our employees.
+Board of Directors and have been used to direct our ongoing
+In our first internal engagement survey completed
+72
+employee engagement efforts and have resulted in several
+in June 2024, our employee Net Promoter Score
+key improvements across our culture, operations, and benefits eNPS
+(eNPS) among participants was 72.
+offerings.
+For 2023-2024, we were certified as a Great Place to Work® by the
+Great Place to Work® Institute for the fifth year in a row. With 100%
+participation across our organization, 100% of our employees agreed
+that “Taking all things into account, this is a great place to work”.
+Diversity, Equity, and Inclusion
+DEI COMMITTEE PROGRESS REPORT
+We are firmly committed to the encouragement and
+facilitation of diversity, equity, and inclusion; equal
+ACCOMPLISHMENTS — Comprehensive diversity, equity,
+opportunity; a culture of inclusivity; personal and professional
+inclusion, and belonging curriculum
+development; and optimal performance and engagement of
+completed in 2022
+our employees. We believe that a diverse and inclusive
+workforce makes us better, most fundamentally because — Expanded benefits in 2022, including
+diverse and inclusive teams produce more innovative ideas, extended parental leave and family
+increase creativity, and deliver better results for our formation benefits
+stakeholders. This commitment extends to every individual in
+— Organization-wide DiSC assessment
+our organization, including our Board of Directors, executive
+completed in 1H 2024
+leadership, and all other employees.
+Our DEI Committee, led by and comprised of volunteers CURRENT AREAS OF — Implementation of enhanced hiring
+across functional areas and professional levels, meets FOCUS and recruiting practices
+regularly to share ideas and discuss the advancement of our
+— Additional opportunities for personal
+DEI initiatives. Since its inception, the DEI Committee has met
+and professional development
+on a quarterly basis to identify and progress various initiatives
+in coordination with our Director of People and Executive
+— Additional efforts and programs
+Leadership. As a result of these efforts, the DEI Committee has
+toward inclusivity and communication
+been a driving force behind key organizational developments,
+including those set forth in the Progress Report to the right.
+VICI CORPORATE HEADQUARTERS
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+25
+VICI Values
+In 2023, we undertook a process to collectively revisit and refine our VICI Values, developing an updated
+set of values and accompanying core principles that are unique to our company and articulate how we
+strive to conduct ourselves individually, build our collective culture, sustain our internal and external
+relationships, and hold ourselves and each other accountable. We expect to advance this effort by further
+integrating these values into our day-to-day organizational processes by recognizing employees who
+embody these values and enhancing our performance management and talent engagement efforts.
+LEAD WITH GOOD INTENTIONS – How we conduct ourselves
+— We lead with kindness, humility, respect, and inclusion.
+— We seek fairness and recognize it is not about who is right, but rather what is right.
+— We communicate with clarity, openness, and purpose.
+— We strive to be exceptional listeners by seeking to understand before being understood.
+ENGAGE WITH RIGOR – How we approach our work
+— We take the initiative to pursue new challenges and explore our knowledge gaps with intellectual curiosity.
+— We bring intensity and intellectual rigor, questioning our own assumptions and proposing thoughtful solutions.
+— We are flexible, adaptable, and creative in pursuing our goals.
+— We embrace a manageable degree of risk and discomfort as a path to growth and learning.
+CARRY THE BATON – How we contribute
+— We are entrepreneurial and willing to wear many hats.
+— We relish the opportunity to have a big impact within a small team.
+— We are energetic, reliable, and responsive in engaging with others.
+— We own the work we do and hold ourselves and each other accountable.
+BRING A FIFTH CHAIR – How we act as a team
+— We support each other with a team mindset and value everyone’s ability to contribute to the greater whole.
+— We encourage growth through seeking and providing feedback, mentorship, and apprenticeship.
+— We act in the best interests of our organization and trust our team members to do the same.
+— We invite and embrace insights from diverse perspectives and differing opinions.
+CULTIVATE RELATIONSHIPS TO WIN THE TIES –
+How we value relationships, internally and externally
+— We foster relationships to realize the multiplier effect and expand our network.
+— We engage with a partnership mentality to forge mutually beneficial outcomes and avoid zero-sum thinking.
+— We recognize the value of courtesy and respect in building trust, loyalty, and reputational integrity.
+— We seek opportunities to collaborate and share experiences, information, and insights.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+26
+Professional Development, Training, and Integration
+We are committed to advancing our efforts to TOTAL AVERAGE TRAINING
+provide opportunities for our employees to
+TRAINING HOURS HOURS PER EMPLOYEE
+grow personally and professionally and the
+ability to contribute to shaping the future
+direction of our company. Our training
+program includes essential areas such as 276 Hours 11.0 Hours
+anti-harassment and anti-discrimination,
+2023 2023
+business ethics and code of conduct,
+anti-corruption/anti-bribery, and human rights,
+as well as substantive training and onboarding
+programs on key topics relevant to our
+199 Hours 8.0 Hours
+business through the initiatives outlined below.
+1H 2024 1H 2024
+Our major professional development and
+training initiatives include:
+CONTRIBUTING TO OUR SUCCESS BUILDING RELATIONSHIPS
+Through execution of our core business strategy, our employees Our Management Committee Advisors Program pairs new hires
+have meaningful opportunities to participate outside of their and existing employees with a Management Committee
+designated role, including opportunities to join key principals in member outside of their department to provide the benefit of
+meetings and on- and off-site visits and participation in our institutional knowledge and insight toward an employee’s
+strategic exploration of different experiential sectors that align integration into their role and our broader organizational
+with their passions and areas of interest as we evaluate culture, while building relationships and connections across
+potential investments. departments and seniority levels.
+OFFERING SHARED EXPERIENCES SUPPORTING INDIVIDUAL GROWTH
+We organize a regular cadence of dedicated “lunch and learn” We offer a professional development stipend intended to
+sessions, through which subject matter experts provide insight empower the independent pursuit of professional certification
+on topics of interest or relevance to our business. From time to or credentials, continuing education opportunities,
+time, we also pursue more in-depth exposure through third-party attendance at conferences and workshops, and other
+led sessions on a variety of topics. employee-identified experiences.
+In 2024, we completed an organization-wide DiSC exercise to enable our employees to learn more about their personal and
+professional work styles, providing an individual learning experience and team engagement opportunity while increasing our collective
+understanding of these differences across the organization.
+Strategy Snapshot: VICI U
+In 2023, we launched “VICI 101”, a series of VICI-focused training
+sessions intended to provide a meaningful introduction and training
+with respect to the business development, finance, accounting, and
+legal principles, strategies, and best practices that form the
+foundation of our business. More recently, we’ve expanded our VICI
+101 program to include additional modules and more advanced
+discussion of these topics to extend beyond the onboarding of new
+hires and junior employees. To reflect the expanded programming,
+we have rebranded the program to "VICI U".
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+27
+Compensation and Benefits; Health, Safety, and Wellness
+Team VICI’s small size and individual commitments to our organization’s success encourages a similar degree of commitment from
+executive leadership in providing a leading, competitive compensation and benefits package that supports our employees as they
+build their lives and careers; safeguards their health, wellness, and financial future; and demonstrates our recognition of their efforts.
+We are continuously exploring opportunities to improve our compensation and benefits offerings and seek feedback from employees
+and employee-led initiatives.
+Summary of Benefits
+HEALTH AND FAMILY BENEFITS FINANCIAL BENEFITS
+— Comprehensive healthcare, dental, and — 401(k) plan with matching contributions
+vision coverage
+— Annual cash bonus program
+— Flexible paid-time off policy, with annual
+— Equity compensation plan participation
+two-week minimum
+— Life insurance
+— 16 weeks of paid parental leave, with 4-week
+ramp-up/down periods — Short-term and long-term disability coverage
+— Parenthood pursuit program with — Accidental death and disability
+substantial lifetime reimbursement benefit (AD&D) coverage
+SUPPLEMENTARY BENEFITS WORKING SUPPORT
+— Access to mental health and — Flexible, hybrid remote work policy
+wellness-related services
+— In-office support, including amenities
+— Fitness/wellness allowance center, daily lunch stipend, and frequent
+shared meal opportunities
+— Charitable contribution benefit platform
+— Remote work support, including home office
+stipend, cellular service stipend, and
+technology allowance
+Unique Benefits Offerings
+We also seek to provide unique benefits to reflect our specific circumstances and available opportunities.
+VICI PORTFOLIO AUGUST WORK-FROM-
+EXPERIENCE BENEFIT ANYWHERE INITIATIVE
+We provide a meaningful annual expense reimbursement to For the third year in a row, we maintained our policy to
+all of our employees to allow them (and their families) to encourage remote work during the month of August and
+experience our tenants’ operations as a guest at one of our allow employees to relocate during late summer. We also
+portfolio properties on an annual basis. provided a travel and expense reimbursement to enable our
+employees to work from their location of choice.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+28
+Corporate Citizenship
+We seek to support charitable causes and organizations
+that positively impact our stakeholders, including our
+Supporting Responsible Gaming
+communities, employees, tenants, the REIT and real
+estate industries, gaming, and other experiential sectors.
+In light of our connection with the gaming industry, we also seek to
+In driving our corporate citizenship efforts, we also seek
+support organizations committed to responsible gaming and
+to demonstrate our commitment to and support of our
+initiatives that educate the public about healthy gambling habits,
+employees by contributing to causes to which they are
+promoting responsible enjoyment and addiction prevention.
+personally committed, encouraging employee
+Under the terms of our gaming licensure, we do not operate
+engagement and in-person volunteer opportunities,
+gaming facilities and accordingly do not maintain a Responsible
+advancing DEI within the REIT and real estate industries,
+Gaming program.
+and establishing longer-term relationships with
+charitable organizations that we support.
+Our VICI Volunteers group, sponsored by our President and Chief Operating Officer, leads our organization’s corporate giving and
+community service engagement. As we continue to refine our corporate giving strategy and programs, our VICI Volunteers have
+identified the below key pillars to further focus the impact of our charitable giving and relationship efforts with non-profit organizations.
+COMMUNITY ENVIRONMENTAL YOUTH
+RELIEF SUSTAINABILITY DEVELOPMENT
+We seek ways to help our communities We stand firm on the principles of We support youth education,
+directly by supporting organizations that environmental sustainability and are development, and recreation to help
+help those most in need and provide dedicated to safeguarding the planet for cultivate a future generation of
+support in fundamental areas such as future generations. We support programs well-rounded individuals. The educational
+addressing homelessness, food security, that promote eco-consciousness, programs and accessible sports initiatives
+job preparation, and disaster resource conservation, the exploration of we support empower young minds and
+preparedness and relief. renewable energy sources, and bodies, fostering a sense of teamwork,
+addressing climate change. discipline, personal growth, and the
+pursuit of knowledge.
+We make direct contributions from time to time to organizations or causes identified by
+our VICI Volunteers group that align with our core pillars. We also support causes that our
+employees are personally involved in or that are particularly meaningful to them. Over the
+CORPORATE
+past few years, we have supported many charitable organizations, including those
+GIVING
+identified to the right in 2023 and 2024.
+We annually identify organizations for our organization and employees to support
+through year-end contribution drives. In 2023, we supported the Bowery Mission with
+contributions from a professional clothing drive and supported The Child Center of NY’s
+CONTRIBUTION
+Annual Toy Drive, with our Team Members purchasing gifts to fulfill 100 individual wish
+DRIVES
+letters provided by students.
+Groundswell Contribution Matching Program
+In addition to our corporate efforts, our Charitable Contribution Matching Program multiplies the impact of our employees’
+support to charitable organizations of their choice, with a significant VICI dollar-for-dollar matching cap per individual and
+additional VICI contributions that recognize our employees’ in-person volunteer events with supporting donations. Through the
+Groundswell Charitable Giving platform, each employee has access to a Personal Giving Account through which they are able to
+research charities, make contributions, track their giving activity, and seamlessly facilitate matching contributions pursuant to
+our program. In recognition of the value of our employees’ impact, we offer new employees an initial allocation and from time to
+time provide our employees with funding allocations to encourage and empower them to continue supporting the causes and
+organizations that matter most to them.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+29
+We seek opportunities to engage in person with charitable organizations in the New York City area to support
+and fund their missions and provide opportunities for our Team Members to directly contribute to the success
+ENCOURAGING of these organizations. Our Charitable Contribution Matching Program also recognizes our employees’
+VOLUNTEERISM volunteer efforts with supporting donations.
+City Harvest Repack to Give Back
+In November 2023, fifteen of our employee volunteers participated in
+City Harvest’s annual Repack to Give Back event, helping to repack bulk
+food produce for local food distribution partners and organizations. City
+Harvest rescues perfectly good, nutritious food that would otherwise go
+to waste and delivers it for free to New Yorkers experiencing hunger,
+rescuing and distributing over one billion pounds of food over the past
+40 years.
+Child Center of NY Volunteer Day
+In July 2024, our employee volunteers spent the day at one of the
+Child Center of NY’s program sites in Corona, Queens to support
+their childhood education programs through interactive reading
+sessions and revitalizing a play space for the children. The Child
+Center of NY is a powerful community presence throughout New York
+City with more than 60 locations and 100 programs in NYC’s most
+under-served communities.
+Although we are headquartered in New York City, we recognize the significance of our tenants’ operating
+presence in the communities surrounding our assets and the importance of supporting these communities.
+As opportunities arise, we seek to positively impact these communities in unique ways.
+COMMUNITY
+IMPACT
+CDN Golf, our golf course manager, engages with and supports the local communities surrounding each of our
+OPPORTUNITIES
+golf courses on a regular basis, including hosting fundraising events and donating hundreds of rounds of golf
+each year in support of local charity fundraising and contributing a portion of rounds fees to local
+organizations during designated awareness months.
+Las Vegas Super Bowl LVIII Host Committee Charities Support
+In connection with Super Bowl LVIII in Las Vegas in February 2024, we provided our support to the Las Vegas Super Bowl LVIII
+Host Committee Charities, a 501(c)(3) organization whose mission is to improve the quality of life of Nevada residents through
+community affairs programs, initiatives, and legacy projects. Leading up to and beyond Super Bowl LVIII, over $4 million
+dollars will be invested into community and legacy based programs and initiatives, including $3 million in contributions to over
+100 Southern Nevada and Las Vegas area charities in support of their respective missions.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+30
+0 4
+ENVIRONMENTAL
+SUSTAINABILITY
+HARRAH’ S LAKE TAHOE
+Environmental Sustainability
+CORPORATE SUSTAINABILITY - Strive to improve the environmental performance of our
+headquarters and golf course operations, including improving energy efficiency, reducing
+water usage and waste generation, and increasing recycling and waste diversion
+TRIPLE-NET PROPERTY SUSTAINABILITY ENGAGEMENT - Encourage our tenants’
+implementation of environmental sustainability and performance improvement measures
+to address the sustainability and long-term climate resilience of our portfolio
+REPORTING AND PARTICIPATION - Improve our ability to address investor and other
+stakeholder group expectations with respect to our corporate-level environmental
+sustainability initiatives, including through our tenant engagement efforts, data reporting
+capabilities, and third-party framework participation
+Recent Developments
+CORPORATE INITIATIVES
+— Development of an Environmental Management System (“EMS”) to govern our internal policies and procedures with
+respect to our operating portfolio and tenant engagement with respect to our triple-net lease portfolio
+— In connection with our recent transition to new office space, implemented additional sustainable practices into our
+office environment and operations, including an expanded recycling program, smart lighting, and low-flow fixtures
+GOLF COURSE SUSTAINABILITY INVESTMENTS
+— Replaced a more than 100,000 square foot pond liner at the main irrigation pond at Rio Secco Golf Club to minimize
+groundwater leakage and reduce water consumption
+— Installed closed-loop water wash recycling stations at Cascata Golf Club and Rio Secco Golf Club to reduce
+water consumption
+— Built a greenhouse at Grand Bear Golf Club to cultivate course landscaping and fresh produce for on-site dining
+— Installed fuel pump monitoring systems at each golf course to improve tracking of vehicle fuel usage and efficiency
+and reduce the risk of spillage and waste
+TRIPLE-NET LEASE PORTFOLIO SUSTAINABILITY INITIATIVES
+— Expanded our tenant data reporting processes through development and formalization of an asset-level survey and
+data collection process
+— Enhanced our operator-level due diligence on environmental sustainability programs and initiatives and property-level
+due diligence regarding environmental, sustainability, and climate-related considerations
+— Through our Sustainability Dashboard (refer to pages 44-45), reported additional data regarding our tenants'
+sustainability performance data tracking, implementation of energy, waste, and water audits and efficiency measures,
+and green building certifications across our triple-net lease portfolio
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+32
+VICI BOARD ROOM
+Corporate Headquarters
+Our corporate headquarters in New York City is located in an Energy Star-certified and LEED-EB
+Gold-certified building through the integration of many of the latest sustainable building materials
+and systems into the building’s operations. In May 2024, we transitioned to new office space within
+our existing building pursuant to an amended lease, which incorporated certain green lease
+provisions with respect to:
+— Establishing dedicated — Utility submetering to — Energy Star — Cooperation with respect to
+notice contacts for track usage and benchmarking performance the broader environmental
+issues relating to disclosure and reporting performance, sustainability, or
+sustainability and energy of utility and service usage climate impact of the building
+ESG Due Diligence
+Within our broader underwriting and due diligence strategy, our ESG-related evaluations are two-fold. Our transactional due diligence
+serves as a starting point for our subsequent tenant engagement programs, including establishing a dialogue with key counterparts to
+learn about their ESG strategies and priorities, collaborating with respect to collecting and reporting sustainability data, and
+evaluating the sustainability, environmental impact, and climate risk readiness of the properties.
+OPERATOR-LEVEL ESG DUE DILIGENCE PROPERTY-LEVEL ESG DUE DILIGENCE
+In evaluating potential transactions, we utilize our due In evaluating the real estate underlying a potential acquisition, we obtain
+diligence processes to assess the degree to which our customary due diligence reports, sustainability reports, and climate
+potential counterparties have integrated environmental change risk assessments to evaluate risks related to environmental
+sustainability and social responsibility into their operations performance and potential environmental exposure or liability, regulatory,
+and management practices in light of their role as and zoning-related risks, as well as the long-term impact of climate
+long-term stewards of our real estate assets. change. We further improved this process in the first half of 2024 to develop
+a more streamlined process for environmental sustainability due diligence.
+Environmental Management System
+In 2024, with the assistance of our strategic ESG consultant, we are developing an internal EMS based on the ISO 14001 framework,
+which governs our approach to addressing the environmental performance of our operational portfolio and to environmental
+management of properties outside of our operational control given our triple net-lease structure. The EMS outlines how we aim to
+identify, document, monitor, evaluate, provide resources for, and communicate our environmental initiatives by focusing on meeting
+the environmental commitments we make in our corporate policies. We expect to utilize this framework to further progress our
+internal environmental sustainability projects and engagement with our key partners, including CDN Golf and our tenants and
+borrowers.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+33
+Golf Courses
+Our golf courses are managed and operated by CDN Golf, an affiliate of Cabot, a developer, owner, and
+operator of world-class destination golf resorts and communities. CDN Golf and Cabot are committed to
+sustainability and innovation in golf course management. We are actively working together with CDN
+Golf and Cabot to further advance our sustainability initiatives at our golf courses.
+In 2024, CDN Golf launched the CDN Sustainability Committee, chaired by the Director of Agronomy
+and comprised of members representing each of the four golf courses. The CDN Sustainability
+Committee meets regularly to discuss implementation of environmental sustainability projects at the
+courses and reports to Cabot management on a quarterly basis.
+CASCATA GOLF CLUB RIO SECCO GOLF CLUB
+BOULDER CITY, NV HENDERSON, NV
+GRAND BEAR GOLF CLUB CHARIOT RUN GOLF CLUB
+SAUCIER, MS LACONIA, IN
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+34
+ONGOING SUSTAINABILITY PROJECTS
+We recognize the sustainability impact of golf course management and operations and are committed, in partnership with CDN Golf,
+to improving our practices and operations at our golf courses to minimize that impact. Our ongoing sustainability projects at our golf
+courses include a broad range of property and operational improvements intended to improve overall efficiency, reduce water and
+energy usage, and demonstrate a commitment to environmental sustainability.
+— Upgrading HVAC equipment with high-efficiency, Energy Star-certified appliances and
+REDUCING ENERGY installing smart thermostats where feasible
+CONSUMPTION AND
+— Transitioning substantially all indoor lighting to high-efficiency LED lights
+GREENHOUSE GAS
+EMISSIONS — Replacing golf cart fleets with higher efficiency, battery-operated models
+— Implementing fuel output measuring to monitor maintenance vehicle fuel usage and performance
+— Replacing pond liners and other irrigation infrastructure and removing or deactivating certain
+water features to limit leakage and evaporation
+REDUCING WATER
+— Utilizing reclaimed water with respect to irrigation and other maintenance activities, including
+CONSUMPTION
+the installation of closed loop water recycling stations for vehicle maintenance
+— Transitioning to low-flow fixtures and other consumption reduction measures
+— Implementing consumer and business recycling programs and other measures to reduce waste,
+including reusable aluminum bottles and water refilling stations
+REDUCING WASTE
+— Retaining on-site materials, including reclaimed soil and construction materials, generated
+from maintenance activities and repurpose them into other areas
+— Continuing to pursue xeriscaping initiatives by transitioning designated areas to naturalized
+landscaping and low water-consumption grasses
+IMPROVING
+BIODIVERSITY — Executing biodiversity/naturalization initiatives to restore portions of the courses and welcome
+back local flora and fauna
+Audubon Cooperative Sanctuary Program for Golf
+We are proud to acknowledge two of our golf courses as certified members of the Audubon Cooperative Sanctuary Program for
+Golf, with Chariot Run Golf Club certified since 2009 and Grand Bear Golf Club achieving the first level of certification with
+respect to environmental planning in early 2023. CDN Golf and management at each of our golf courses continue to work with
+the Audubon Society on the multi-year planning and certification process.
+The Audubon Cooperative Sanctuary Program for Golf, sponsored by the Audubon Society, is an education and certification
+program that helps golf courses protect the environment, preserve the natural heritage of the game of golf, promote
+environmental sustainability, and gain recognition for the efforts of golf course operators. The program serves an important
+environmental role by helping enhance the valuable natural areas and wildlife habitats that golf courses provide, improve
+efficiency, and minimize potentially harmful impacts of golf course operation by assisting members in planning on six key
+environmental components: site assessment / environmental planning, wildlife and habitat management, chemical use
+reduction and safety, water conservation, water quality management, and outreach and education.
+The Cabot Collection and Audubon International
+Sustainability Partnership
+In June 2024, Audubon International and The Cabot Collection announced a groundbreaking sustainability partnership, with
+Cabot becoming the first multi-property brand to enroll every one of its owned golf courses and surrounding built
+environment into Audubon International’s comprehensive, all-inclusive Platinum Signature Sanctuary certification program.
+We are thrilled at Cabot’s continuing commitment to sustainability as demonstrated by this partnership and the continued
+management of our golf courses by their affiliate, CDN Golf.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+35
+Water
+We recognize the vital importance of responsible water usage and continue to implement water reduction initiatives at our
+corporate headquarters and golf courses. We are also proud of the independent efforts that tenants at our leased properties are
+taking throughout their operations to improve water efficiency, reduce water usage, and promote sustainability, certain of which
+are described in more detail under “Select Tenant ESG Highlights” on page 46.
+Corporate Headquarters Golf Courses
+At our corporate headquarters, our water use is limited to Due to the irrigation needs of our golf courses, particularly at Cascata
+the daily needs of our in-office employees through the Golf Club and Rio Secco Golf Club in the Southern Nevada area, a
+utilization of low-flow fixtures, as well as our corresponding significant majority of our reported water usage is utilized in the
+portion of water utilized by building management in maintenance and irrigation of the golf courses. We recognize the
+connection with HVAC systems and building operations. importance of continuing to reduce our water usage and improve
+We estimate water usage at our corporate headquarters efficiency at these courses, although our overall consumption is
+based on pro rata square footage of overall building ultimately dependent to some degree on total rainfall and weather
+usage, which comprises less than 0.2% of our overall patterns at each course. At each of our courses, the CDN Golf team is
+reported water usage for each year. actively implementing measures to reduce water usage through the
+below strategies.
+WATER CONSUMPTION REDUCTION STRATEGIES
+— Pursuing xeriscaping initiatives, including by installing artificial turf in certain areas and converting actively maintained and
+irrigated areas to drought-tolerant grass or naturalized landscaping
+— High-efficency equipment replacement and leak mitigation efforts, including with respect to irrigation ponds and equipment
+— Increased utilization of reclaimed water for irrigation activities and operations, including utilizing closed-loop wash water recycling
+systems for equipment maintenance and cleaning
+Strategy Snapshot: Reducing Irrigation Leakage
+At Rio Secco Golf Club, we undertook a substantial capital investment in 2023 and early 2024 to replace the more than
+100,000 square foot pond liner for the primary irrigation pond used in the maintenance and irrigation of the course. Replacing
+the pond liner will minimize leakage into the surrounding area, reducing our overall water consumption and improving the
+efficiency and sustainability of our irrigation activities.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+36
+Energy and Emissions
+We continue to pursue the reduction of our overall energy requirements and emissions profile at our corporate headquarters and
+golf courses. We are also proud of the independent efforts that tenants at our leased properties are taking throughout their
+operations to reduce energy usage, implement renewable energy solutions, and limit greenhouse gas (“GHG”) emissions, certain
+of which are described in more detail under “Select Tenant ESG Highlights” on page 46.
+Corporate Headquarters Golf Courses
+Our corporate headquarters represents a small portion of our overall energy use and Energy usage at our golf courses is the
+GHG emissions, comprised primarily of our electricity requirements driven by largest driver of our Scope 1 and Scope 2
+energy-efficient practices, including Energy Star-rated appliances and 100% LED GHG emissions and represents a significant
+lighting. In connection with our transition to new office space in May 2024, we have area of potential improvement with respect
+also implemented additional measures to reduce our energy use, including to reducing our energy needs and improving
+occupancy and daylight sensors in each space and smart lighting programs. performance. At each of our courses, the
+Through a green energy service company (ESCO), electricity consumption at our CDN Golf team is actively implementing
+corporate headquarters is generated from wind and solar energy sources and measures to reduce energy usage and
+certified through renewable energy certificates (RECs) that are generated and emissions through the below strategies.
+retired on our behalf.
+SCOPE 1 SCOPE 2
+EMISSIONS REDUCTION STRATEGIES EMISSIONS REDUCTION STRATEGIES
+— Implementing high-efficiency generators, heating, and — Continuing to replace conventional lightbulbs with LEDs
+maintenance equipment, such as replacing gas-powered across our golf courses, including exterior lighting
+vehicles with energy-efficient battery-powered units
+— Replacing existing HVAC units and appliances with Energy
+— Improving fuel efficiency through the installation of Star-certified units going forward
+electronic fuel pump monitors to increase our ability to
+— Implementing operational improvements to reduce
+track and monitor vehicle fuel usage
+electricity usage
+— Reducing overall fuel needs by eliminating unnecessary
+energy requirements across our golf courses
+Strategy Snapshot:
+Improving Fuel Efficiency
+All of our Scope 1 emissions result from the operation of our golf courses, with a
+significant portion generated through vehicle fuel used in the maintenance and
+operation of the golf courses. At each of our golf courses, we have recently
+installed fuel controllers that will enable increased tracking of each vehicle’s fuel
+usage, reducing the risk of spillage and waste and enabling us to monitor fuel
+usage patterns and improve operating efficiencies.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+37
+Waste, Recycling, and Repurposing
+Corporate Headquarters Golf Courses
+At our corporate headquarters, we maintain an active recycling All of our golf courses have implemented recycling
+program, including the recycling of wastepaper products, glass, programs, which encourage employees and customers to
+metal, electronics, and packaging waste. We encourage employees participate in recycling consumer waste, including paper,
+to seek out and utilize recycled content and reduced packaging glass, and plastic (including packaging waste). Our golf
+options where available and feasible. In connection with our transition courses also retain on-site landscape materials and soil
+to new office space in May 2024, we have also implemented generated from landscaping and maintenance activities
+additional initiatives, including the reduction of single-use plastic and stockpile and repurpose them for use in other areas.
+bottles and coffee containers, and offer a beverage station and The CDN Golf team continues to consider ways to further
+reusable water bottles to our team members. We also worked reduce waste generation and divert generated waste from
+collaboratively with building management to donate old office landfills, including the case studies set forth below.
+workstations for reuse to a New York-based non-profit organization.
+Strategy Snapshot: Reducing Consumption
+At Grand Bear Golf Club, the team recently completed construction of an on-site
+greenhouse that will enable them to produce landscaping greenery and provide
+fresh produce for on-site consumption, reducing the quantity of purchased goods
+used in operation of the course.
+Strategy Snapshot: Reducing Plastic Waste
+At Chariot Run Golf Club, the team is implementing a program to reduce plastic water
+bottles used on property with reusable aluminum bottles offered to guests and
+employees. By encouraging the use of these reusable bottles, we hope to reduce
+plastic waste generated at each of the golf courses.
+Biodiversity
+In connection with efforts to reduce water irrigation needs, our golf courses also promote
+biodiversity and encourage naturalized habitats for local flora and fauna. Certain
+native sand and landscape areas have been returned to their natural habitat to limit
+erosion and encourage wildlife in those areas. At both Grand Bear Golf Club and
+Chariot Run Golf Club, the teams have installed bird nesting boxes throughout the
+courses to encourage bluebirds and other local species and work with a local
+organization to monitor the success of this program.
+CHARIOT RUN GOLF CLUB
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+38
+Operational Portfolio Sustainability Data
+The following data represents water, electricity, fuel, and combined energy consumption, as well as estimated Scope 1, Scope 2,
+and combined Scope 1 and Scope 2 GHG emissions in our operational portfolio, comprised of our corporate headquarters and
+four golf courses.
+We utilize a third-party sustainability monitoring platform to track utility usage, evaluate trends, and report available data with
+respect to our operational portfolio. Our estimated Scope 1 and Scope 2 emissions data is generated through our third-party
+sustainability monitoring platform, through which we monitor and track our overall utility usage at our corporate headquarters
+and golf courses.
+Our ability to track and report waste and waste diversion data is limited in some cases by the available utilities and services at our
+corporate headquarters and our golf courses, including the communities in which they are located. Specifically, we do not provide
+for waste disposal or recycling tracking on a tonnage basis at a significant portion of our operational portfolio.
+YEAR-OVER-YEAR
+In MGals 2022 2023
+PERFORMANCE
+WATER USAGE 1 472 418 (11.4%)
+YEAR-OVER-YEAR
+In MWh 2022 2023
+PERFORMANCE
+ELECTRICITY 2 5,106 5,732 10.3%
+FUEL 3 2,825 2,326 (17.7%)
+TOTAL ENERGY 4 7,931 8,057 1.6%
+YEAR-OVER-YEAR
+In MTCO e 2022 2023
+2 PERFORMANCE
+SCOPE 1 5 616 524 (14.9%)
+SCOPE 2 6 1,961 2,104 7.3%
+COMBINED
+2,577 2,628 1.9%
+SCOPE 1 AND 2 7
+1. Represents actual water usage at golf courses, as well as estimated water usage at corporate headquarters based on pro rata square footage of overall building usage.
+The portion of estimated water usage comprises less than 0.2% of overall reported water usage for each reported year. All water is withdrawn from municipal sources.
+2. Represents combined actual electricity usage at corporate headquarters and golf courses, all of which is sourced from local grids.
+3. Represents actual fuel usage at golf courses, including propane, liquid natural gas, gasoline, diesel fuel, and heating oil. No direct fuel usage at corporate headquarters.
+4. Represents the sum of combined actual electricity usage at corporate headquarters and golf courses plus actual fuel usage at golf courses.
+5. Represents estimated direct Scope 1 GHG emissions impact, as applicable, from available energy usage data, as calculated pursuant to our third-party sustainability
+data monitoring platform.
+6. Represents estimated indirect Scope 2 (location-based) GHG emissions impact, as applicable, from available energy usage data, as calculated pursuant to our third-
+party sustainability monitoring platform.
+7. Represents estimated combined Scope 1 and Scope 2 (location-based) GHG emissions impact, as applicable, from available energy usage data, as calculated
+pursuant to our third-party sustainability monitoring platform.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+39
+Addressing Climate Change
+As a real estate owner and investor, we recognize that the impact of increasing natural hazards and global climate trends,
+chronic trends, and acute events may pose a risk to VICI’s business model and performance. While we operate under a triple-net
+lease model, and the operation, maintenance, repair, and improvements of our leased properties are the responsibility of our
+tenants, the ongoing efforts described below allow us to better understand the risks and opportunities posed by climate change,
+enhance our climate-related governance and risk management processes, and engage with our tenants regarding their climate
+change risk evaluation and mitigation efforts. In the Appendix beginning on page 53, we provide an index in alignment with the
+Task Force on Climate-related Financial Disclosures (TCFD) Guidelines.
+CClliimmaattee CChhaannggee SSttrraatteeggyy
+RISK ASSESSMENT TIMEFRAMES
+Our current real estate portfolio is broadly diversified across
+In assessing climate risk through the lens of our triple-net lease
+geographies within the United States and Canada, serving
+business model, we consider the presented short-term,
+to diversify our potential exposure to specific climate risks
+medium-term, and long-term time horizons.
+across geographies. In addition, we have identified related
+strategic opportunities, such as additional investment and
+SHORT-TERM Next 10 years, which relates to the period
+capital allocation opportunities through potentially
+through which climate change risk may impact
+financing our tenants’ capital expenditure, redevelopment,
+our property portfolio as we engage with our
+and other improvements at our leased properties (to the
+current tenants during their initial lease terms
+extent our tenants elect to utilize such financing), including
+those related to addressing the impact of climate change.
+MEDIUM-TERM 10-30 years, which relates to the period
+As we are ultimately reliant on our tenants, who retain through which climate change risk may impact
+exclusive operational control of our leased properties, our property portfolio through existing lease
+tenant engagement is the key pillar through which we seek terms (including renewals)
+to address climate change risk in our leased property
+portfolio. As an example, we have offered to our tenants the LONG-TERM 30+ years, which generally relates to the period
+findings from property-level climate risk analyses to provide after our tenants’ existing lease terms
+insight and opportunities for additional evaluation in our (including renewal options) and represents the
+tenants' independent climate change risk management greatest likelihood of climate change risk
+and mitigation efforts. impacting our property portfolio
+Refer to the TCFD Appendix beginning on page 53 for additional information.
+CClliimmaattee CChhaannggee GGoovveerrnnaannccee
+Our ESG Committee leads our internal assessment and management of climate change risk, as well as broader environmental
+sustainability matters. Through the engagement of the ESG Committee, management retains ultimate responsibility for supporting and
+implementing our environmental sustainability initiatives, including our tenant engagement program and other efforts intended to
+address the impact of climate change and related risks. The ESG Committee reports to executive leadership and the Nominating and
+Governance Committee on a quarterly basis with respect to the Company’s progress and developments relating to the Company’s
+environmental sustainability efforts and initiatives, including those related to climate change impact and related risks. See “ESG
+Oversight and Governance” on page 18 for additional information.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+40
+Climate Change Risk Management
+TENANT TENANT
+TIME HORIZON PHYSICAL RISKS TRANSITION RISKS
+RESPONSIBILITY? RESPONSIBILITY?
+Potential physical damage to
+Increased energy
+structures, parking areas,
+and water demand and/or costs
+and amenities
+SHORT-TERM
+(NEXT 10 YEARS)
+Increased frequency and Active energy use
+intensity of storm surge from benchmarking requirements at
+tropical storms and flash floods our tenants' properties
+The potential for rising sea levels Emerging energy use, water use,
+to flood properties and GHG emissions regulations
+MEDIUM-TERM
+(10- 30 YEARS) Prolonged drought conditions Changing geographic or
+anticipated to increasingly affect consumer demand at our
+the properties tenants' business
+Tenants' ability to operate
+their businesses and
+Potential for climate event
+generate revenue
+LONG-TERM impacts resulting in significant
+(30+ YEARS) physical damages (e.g., flooding,
+Potential for tenants to elect not
+drought, extreme weather)
+to renew lease agreements or
+request modifications
+PHYSICAL RISK TRANSITION RISK
+Through our climate risk assessments in connection with our As a triple-net lessor, we believe that our business is less likely
+transactional due diligence (including our portfolio-level climate to be directly impacted by many commonly identified
+risk assessment performed in 2022), we determined that flooding, transition risks. Our tenants are responsible for all operating
+heat stress, and water stress continue to represent the greatest expenses with respect to the leased properties, including
+material risk to our portfolio. In assessing risk trends across the obtaining and paying for utility services, capital expenditures,
+portfolio, we identified major and notable stressors within our and capital improvements. Accordingly, any increased
+leased properties and golf courses across four regions: Nevada, operating costs, such as increased utility costs, charges, or
+Southeast, Midwest, and Northeast & West Virginia. With the costs with respect to compliance with applicable laws or
+acquisition of 38 bowling entertainment centers operated by regulations (including local or regional environmental
+Bowlero in October 2023, the properties in our triple-net lease regulations), are borne by our tenants directly in the operation
+portfolio vary significantly in terms of size, complexity, and of their businesses at our leased properties.
+environmental impact, as well as overall materiality to our real
+Over the long-term, transition risks across our portfolio
+estate portfolio.
+primarily relate to the continued success and viability of our
+As a result of our triple-net lease model, our tenants are generally tenants’ operations at our properties, including long-term
+responsible for (1) costs associated with any damage to the leased shifts in consumer behavior, consumer preference, and tenant
+property, such as restoration and repair, including as a result of determinations regarding renewal and reentry into triple-net
+climate events, and (2) obtaining and maintaining adequate leases at expiration of the respective lease terms. Our leases
+insurance coverage with respect to the leased properties, generally have initial terms of 15-30 years and provide for
+including climate-related risk exposure. Accordingly, we believe multiple tenant renewal options, with a weighted average
+that the potential impact of any climate-related event at one or lease term of 41.2 years remaining as of June 30, 2024 across
+more of our properties is generally limited to the impact on our our triple-net portfolio (inclusive of tenant renewal options).
+tenants’ business and operations and ability to maintain
+compliance with the terms of the respective lease agreement.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+41
+Climate Goals, Metrics, and Targets
+We understand the importance of, and seek to provide for, the long-term sustainability and resilience of our real estate portfolio
+against the impact of climate change. We independently evaluate asset-level climate risk in the course of our transactional due
+diligence (refer to page 33 for additional information) and offer to share these findings with our tenants, with our most recent
+portfolio-wide climate risk assessment completed in 2022. Our key performance metric to date is the percentage of our portfolio for
+which we are able to assess climate change risk and obtain property-level sustainability and utility usage information. We continue to
+evaluate the monitoring and reporting of additional key performance indicators, such as climate and sustainability-focused capital
+expenditures by our tenants in maintaining and improving our leased properties, as well as total capital we provide to our tenants
+through our potential role as a financing source for climate and sustainability-oriented capital improvement projects (to the extent our
+tenants elect to utilize such opportunities).
+PROPERTY-LEVEL MITIGATION MEASURES
+OPERATIONAL PORTFOLIO Our climate risk mitigation efforts at our corporate headquarters and golf courses are
+described earlier in this ESG Report. In partnership with CDN Golf, we seek to implement
+climate risk mitigation measures at our golf courses to limit the potential impact of physical
+and transition-related climate risk. With respect to Cascata Golf Club and Rio Secco Golf
+Club in Nevada, CDN Golf continues to address responsive efforts into its operations and
+capital expenditure plans to address new state and local water use regulations following a
+third-party regulatory analysis completed in 2023 to assess the compliance requirements
+and expected impact on operations.
+TRIPLE-NET PORTFOLIO Due to our triple-net lease model and our tenants’ exclusive operational control of our leased
+assets, we are limited in our ability to directly implement climate risk mitigation measures at
+our leased properties. Subject to the terms of our leases, we rely on our tenants to maintain
+our leased properties in the course of their operations. Our tenants manage such risk in the
+course of operating their business and many have implemented various property-level risk
+mitigation measures (refer to page 45 for additional information).
+GHG EMISSIONS / REDUCTION TARGETS
+OPERATIONAL PORTFOLIO With respect to greenhouse gas emissions, we report estimated Scope 1 and Scope 2 GHG
+emissions based on available utility data as provided by a leading third-party sustainability
+platform. As we continue to progress our climate risk mitigation efforts, we expect to perform a
+full GHG emissions inventory pursuant to the GHG Protocol in accordance with any applicable
+disclosure or reporting requirements (including the pending climate change disclosure rule
+published by the SEC in April 2024). In connection with our energy and emissions reduction
+initiatives, we continue to assess the feasibility of establishing Scope 1 and Scope 2 GHG
+emissions reduction targets with respect to our operational portfolio (comprised of our
+headquarters and golf courses).
+TRIPLE-NET PORTFOLIO Given our current portfolio and triple-net lease model, a large majority of our total GHG
+emissions are classified as Scope 3 emissions (for which available data is presented under
+“Triple-Net Portfolio Sustainability Dashboard” starting on page 44). We are generally reliant
+on our tenants to track and report such data and continue to work with our tenants to obtain
+available data regarding the direct emissions performance of our triple-net leased properties
+to the extent possible. As our tenants maintain exclusive control of their operations at our
+leased properties, we ultimately do not control GHG emissions at these properties and
+therefore have determined not to establish Scope 3 GHG emissions reduction targets.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+42
+ESG Tenant Engagement Programs
+As set forth in the “Tenant Engagement Philosophy and Touchpoints” on page 15, a key component of our engagement efforts
+relates to understanding their independent ESG goals, strategy, and current priorities. As our tenants retain exclusive operational
+control of the properties through the life of the leases, our recognition and encouragement of their independent sustainability
+efforts by identifying creative and mutually beneficial program opportunities is an essential path toward continuing to improve
+the sustainability performance and profile of our leased property portfolio.
+Tenant Data Collection
+Tenant
+A core component of our tenant engagement program relates to our ongoing effort to
+Participation
+expand and enhance the scope of data available with respect to our triple-net lease
+portfolio. We are proud of the results of our efforts to continuously improve our 100% of tenants provided a full or
+reported data, reporting on a majority of our portfolio for the first time in our partial response to our 2023 data
+2022-2023 ESG Report. In 2024, we launched an enhanced data collection survey collection survey distributed in
+that was shared with all of our tenants to further streamline and expand the data the first half of 2024.
+collection process, enabling increased analysis and informing our development of
+additional metrics and datapoints with respect to our triple-net portfolio.
+Financing Capital Expenditure and Capital Improvement Projects
+We continue to evaluate potential efforts through which we seek to recognize and encourage our tenants’ implementation of
+sustainability, energy efficiency, and climate change mitigation measures at our leased properties, including the incentivization of
+sustainability-related capital expenditure projects pursuant to the terms of our triple-net leases. In addition, certain of our triple-net
+leases generally provide for our right to finance larger scale capital improvement or capital expenditure projects. We are seeking to
+encourage and potentially finance sustainability-oriented capital improvement projects initiated by our tenants through our Partner
+Property Growth Fund (to the extent our tenants elect to utilize such financing), including through the evaluation of long-term impact to
+a given property’s operating efficiency or climate risk resiliency.
+Green Lease Initiative
+We incorporate limited green lease provisions into certain of GREEN LEASE COVERAGE
+our triple-net lease forms, although under this structure our
+tenants retain exclusive operational control of the leased Overall, approximately 61% of our existing leases include some
+property. Although subject to negotiation and adapted to form of green lease provision, covering approximately 70% of our
+each property and acquisition, we generally endeavor to leased properties.
+include green lease provisions that provide for:
+— The avoidance of waste in our tenants’ operations at our
+leased properties,
+28
+— Participation in initiatives to meter or otherwise measure
+utilities and services at our leased properties, including 1H 2024
+disclosure and reporting of available environmental
+performance, sustainability, or climate impact of the
+65
+leased property, and
+— Reasonable cooperation and participation in conservation,
+Green Lease Additional
+sustainability, recycling, energy efficiency, waste reduction,
+Covered Properties Properties
+and other programs that may be implemented.
+In certain leases, our tenants acknowledge the value we place on environmental sustainability initiatives and practices at the leased
+properties. With respect to the properties covered by leases without green lease provisions, our strong relationships and engagement
+efforts have facilitated our tenants’ sharing of available sustainability information. We also seek to incorporate similar provisions into
+our financing and strategic partnership agreements.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+43
+Triple-Net Portfolio Sustainability Dashboard
+Through our tenant engagement efforts and utilization of our green lease provisions, we seek to continuously expand the scope
+and capability of sustainability reporting with respect to our triple-net portfolio. As we continue to grow and diversify across
+properties and tenants, we acknowledge the importance of keeping pace with developments in environmentally sustainable
+practices and encourage our tenants to improve their operational efficiency and environmental performance. The dashboard
+below represents available data based on overall square footage as reported by our tenants, which was collected pursuant to our
+enhanced tenant survey distributed in the first half of 2024:
+2022 1 2023 1
+UTILITY UNIT OF ABSOLUTE2 DATA INTENSITY ABSOLUTE2 DATA INTENSITY
+MEASUREMENT COVERAGE 3 (SQ FT) 4 COVERAGE 3 (SQ FT) 4
+3,874,474 0.052 4,799,762 0.049
+WATER kGals
+89% 92%
+1,278,168 0.017 1,595,127 0.016
+ELECTRICITY MWh
+91% 92%
+NATURAL 3,081,319 0.041 3,754,838 0.038
+MMBtu
+GAS
+91% 92%
+DISTRICT
+34,759 0.009 77,787 0.021
+MWh
+ENERGY 5
+91% 92%
+SCOPE 1 6 185,847 0.002 263,054 0.003
+MTCO2e
+91% 92%
+SCOPE 2 -
+500,123 0.007 622,922 0.006
+LOCATION- MTCO2e
+BASED 6 91% 92%
+WASTE 104,255 33.7% 144,193 38.5%
+Tonnage
+GENERATED 5
+89% Waste Diverted 5,7 85% Waste Diverted 5,7
+1. The asset mix underlying reported triple-net sustainability data differs between 2022 and 2023 due to acquisitions and shifts in data availability.
+2. Absolute usage is pro-rated by the relative percentage of the year that each asset was owned.
+3. Represents data coverage based on portfolio square footage as reported by tenants, which is pro-rated by the relative percentage of the year that each asset was owned.
+4. Usage and associated square footages leveraged in use intensity metrics are pro-rated by the relative percentage of the year that each asset was owned.
+5. Represents available data, excluding certain assets or periods for which property-level data was not available.
+6. Represents our tenants’ reported Scope 1 and Scope 2 (location-based) emissions, as applicable. Tenant Scope 1 and Scope 2 emissions represent a portion of VICI’s
+overall Scope 3 emissions in light of our triple-net lease model and the lack of operational control over our tenants’ operations at our leased properties. VICI calculated
+emissions for a subset of assets where tenants provided full year energy data without calculated emissions data. Tenants were able to provide whole building energy
+consumption where available, and no estimations were leveraged to fill in gaps in coverage. VICI has not independently verified this information or performed a
+complete emissions assessment in accordance with the GHG Protocol.
+7. Represents the percentage of total waste generated that is diverted from landfills.
+The information included herein with respect to our tenants' operations has been provided by our tenants. We believe this information to be reliable but have not
+independently verified such data.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+44
+Sustainability Measures Across Triple-Net Leased Portfolio
+PERCENTAGE OF TENANTS TRACKING
+UTILITY DATA (BY SQUARE FOOTAGE) Implemented Measures
+5% 5% Among our triple-net lease portfolio, our operators have
+fully or partially implemented the following efficiency
+measures (by square footage):
+ENERGY WATER
+ENERGY
+95% 95%
+8%
+13%
+12% 28%
+15%
+HIGH- AUTOMATED ON-SITE
+EFFICIENCY ENERGY RENEWABLE
+GREENHOUSE
+WASTE LIGHTING MANAGEMENT ENERGY
+GAS
+92%
+87% 72%
+85% 88%
+Fully or Partially Not Implemented
+Tracking Not Tracking/Unknown
+Implemented
+WATER
+PERCENTAGE OF TENANTS THAT CONDUCTED
+AUDITS AND IMPLEMENTED EFFICIENCY
+32%
+MEASURES (BY SQUARE FOOTAGE)
+43%
+40%
+DRIP/SMART LOW-FLOW
+AUDITS XERISCAPING
+IRRIGATION FAUCETS
+ENERGY
+60%
+WATER 68% 57%
+ENV/SOCIAL RISK
+Fully or Partially Not Implemented
+CLIMATE RISK Implemented
+0% 20% 40% 60% 80% 100% WASTE
+IMPLEMENTED MEASURES
+13%
+ENERGY 27%
+Fully or Partially
+WATER Implemented
+RECYCLING COMPOSTING
+WASTE PROGRAM PROGRAM
+Not
+0% 20% 40% 60% 80% 100%
+Implemented
+73%
+87%
+Assessed/Implemented Not Assessed/Implemented
+PERCENTAGE OF TENANTS THAT OBTAINED A BUILDING CERTIFICATION
+(BY SQUARE FOOTAGE)
+BUILDING CERTIFICATIONS Building Certifications
+Four of our properties (representing ~6.5% of total portfolio square footage) are
+BUILDING OPERATIONS LEED Certified:
+— MGM Springfield, LEED 2009-NC - Platinum (2020)
+NEW CONSTRUCTION
+— MGM National Harbor, LEED 2009-NC, Gold (2017)
+0% 20% 40% 60% 80% 100% — The Venetian Expo & Convention Center, LEED v4.1 Recertification - Gold (2022)
+Certified Not Certified — The Octavius Tower at Caesars Palace Las Vegas, LEED-NC 2.2 - Silver (2012)
+The information included herein with respect to our tenants' operations has been provided by our tenants. We believe this information to be reliable but have not
+independently verified such data.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+45
+Select Tenant ESG Highlights
+Our tenants are independent operators of their businesses at our leased properties and we are proud of their efforts to address
+sustainability and climate change, improve operational efficiencies across their businesses, and expand the scope of
+information disclosed to their respective stakeholders.
+Select highlights of our tenants’ initiatives to pursue environmental sustainability and social responsibility across many facets of
+their business and operations, including at our leased properties, are included below. Certain of our tenants also participate in
+various third-party ESG disclosure and scoring frameworks, such as TCFD, GRI, and CDP. We encourage you to review our tenants’
+ESG, corporate social responsibility, and similar reports regarding these efforts through their websites and other public disclosures
+(the contents of which are not incorporated herein by reference, refer to page 56 for additional information).
+CAESARS ENTERTAINMENT
+LEASED PROPERTIES: 18
+1 PROPERTY WITH LEED CERTIFICATION
+Caesars’ “PEOPLE PLANET PLAY” framework reflects their commitments to
+supporting the wellbeing of their team members, guests, and local
+communities, taking care of the world they call home, and creating
+memorable experiences for their guests and leading the industry as a
+responsible business. Within their Planet strategy, Caesars continues to
+progress environmental sustainability initiatives across its operations,
+including at our leased properties, through initiatives such as their
+CodeGreen employee environmental program, science-based GHG
+emissions reduction targets, supply chain engagement, green building
+practices, and renewable energy investments across their operations.
+For more information, please visit Caesars' Corporate Social
+Responsibility website.
+FRAMEWORK ALIGNMENT HIGHLIGHTS
+— GRI — UN SDGs — GHG Emissions Reporting — Net Zero Commitment
+— SASB — CDP Participant — 1.5 Degree Scenario Aligned — Water Conservation, Renewable
+Emissions Reduction Goals Energy, and Waste Reduction Goals
+— TCFD
+MGM RESORTS INTERNATIONAL
+LEASED PROPERTIES: 13
+2 PROPERTIES WITH LEED CERTIFICATION
+MGM Resorts has embraced a leadership role in environmental sustainability
+through its “Focused on What Matters: Embracing Humanity & Protecting the
+Planet” platform. Through their “Protecting the Planet” strategic pillar, MGM
+Resorts’ core belief is that a greener business is a better business and
+environmental leadership is critical to 21st century corporate leadership.
+MGM Resorts’ strategic priorities include a public commitment toward key
+sustainability goals and science-based climate targets, including energy,
+emissions, water, and waste reduction goals, renewable energy sourcing, and
+implementing initiatives to pursue achievement of those goals. MGM Resorts
+also contributes to the communities in which it operates, with philanthropic
+strategies that aim to reflect, sustain, and build on the best of a
+community—creating good jobs, strong wages, resilient skills, and workforce
+development opportunities.
+For more information, please visit MGM Resorts' Social Impact &
+Sustainability website.
+FRAMEWORK ALIGNMENT HIGHLIGHTS
+— GRI — UN SDGs — GHG Emissions Reporting — Water and Renewable Energy Goals
+— SASB — CDP A List — SBTi Approved Emissions
+Reduction Goals
+— TCFD
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+46
+CENTURY CASINOS
+LEASED PROPERTIES: 8
+Century Casinos is investing in their communities, team members, and planet
+through the Century Cares program, created to show their dedication to the
+well-being of their communities now and well into the future. Century Casinos
+remains committed to being good stewards of the environment, considering
+it their responsibility to protect global ecosystems and minimize their
+consumption of resources. Over the past years, Century Casinos has
+prioritized the implementation of on-property green teams, new
+energy-efficiency projects, and is assessing measures for reduction of water
+consumption, waste management, and sourcing renewable energy. These
+dedicated efforts play a crucial role in addressing climate change and
+fostering a sustainable environment for future generations.
+For more information, please visit Century Casinos' ESG Reports &
+Disclosures website.
+FRAMEWORK ALIGNMENT HIGHLIGHTS
+— SASB — UN SDGs — GHG Emissions Reporting — Water, Energy, and Waste Reporting
+PENN ENTERTAINMENT
+LEASED PROPERTIES: 2
+PENN Entertainment is committed to safeguarding natural resources and
+helping to protect the environment, fostering a culture of environmental
+excellence throughout their organization by meeting or exceeding
+environmental regulations; implementing environmentally sound policies; and
+engaging with customers, suppliers, and communities on environmental
+impacts and opportunities for improvement. Across their properties, including
+at our leased properties, they continue to implement enhancements to
+increase energy efficiency, expand their emissions reporting capability, reduce
+waste generation and increase recycling, and emphasize sustainable
+procurement and food sourcing.
+For more information, please visit PENN Entertainment's ESG Resources website.
+FRAMEWORK ALIGNMENT HIGHLIGHTS
+— SASB — CDP Participant — GHG Emissions Reporting — Diversity, Equity, and Inclusion
+— TCFD — Carbon Abatement Targets — Community Investment
+HARD ROCK
+LEASED PROPERTIES: 2
+Through Hard Rock’s “Save the Planet” program, Hard Rock International
+and Seminole Gaming are growing efforts to sustainably address waste,
+energy, and water, by driving operational improvements, engaging non-profit
+partners, and pursuing best practice collaborations with vendors. Hard
+Rock-managed casino-hotel properties, including our leased properties,
+have implemented energy reduction and efficiency plans, improved waste
+practices and systems, as well as a digital Practice Library that allows teams
+to share best practices globally.
+For more information, please see Hard Rock's Corporate Social
+Responsibility Report.
+FRAMEWORK ALIGNMENT HIGHLIGHTS
+— UN SDGs — Environmental Sustainability — Corporate Citizenship and
+Reporting Community Engagement
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+47
+THE VENETIAN RESORT
+LEASED PROPERTIES: SINGLE
+LEED CERTIFIED
+The Venetian Resort’s commitment to corporate responsibility is demonstrated
+through a leadership role in the hospitality industry in its movement to actively
+minimize the environmental impact of their operations on our planet. Using a
+science-based approach, they have developed and refined their sustainability
+strategy around the four pillars of environmentally responsible operations,
+green meetings and events, green buildings, and stakeholder engagement, by
+identifying areas with the greatest environmental impact and opportunity.
+Their environmentally responsible operations target ways to eliminate waste,
+reuse, replace, and recycle to limit their impact through natural resource
+conservation, waste management, and supply-chain sustainability, and their
+Green Meetings program reflects their commitment to sustainable programs
+and practices that directly benefit their meeting clients. The Venetian Resort's
+impact is also present in their strong commitment to the community. Through
+charitable and in-kind donations, volunteerism, and event sponsorship, The
+Venetian Resort actively contributes to community organizations that support
+education, homelessness and hunger, and veterans causes in the local
+Southern Nevada community.
+For more information, please see The Venetian Resort's Corporate
+Responsibility Commitment.
+CHELSEA PIERS
+LEASED PROPERTIES: SINGLE
+Chelsea Piers proudly serves and supports the New York City community,
+including through its Green Initiative pledges to reduce water consumption,
+reduce energy usage, and recycle with care, and related initiatives to install
+on-site renewable energy and EV charging stations and reduce single-use
+plastic. Chelsea Piers engages the community through events, partnerships
+and improvements and is a significant contributor to Hudson River Park,
+including the implementation of public access improvements along the
+Hudson River. The Chelsea Piers Foundation also supports young people and
+their families by engaging them in sports programs and life experiences,
+empowering them to develop a lifetime habit of health and wellness, and
+partnering with local like-minded non-profits.
+We engage with all of our tenants periodically to discuss their environmental sustainability and social responsibility goals and
+initiatives. All of our tenants at the time participated in our initial stakeholder materiality assessment performed in 2022, and all of our
+tenants provided full or partial responses on our asset-level tenant data survey in the first half of 2024. We respect each of our tenants
+as operators of their businesses and support them in their strategic goals, acknowledging the different priorities and stakeholder
+groups to which they are subject.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+48
+0 5
+APPENDIX
+PALAZZO TOWER AT THE VENETIAN RESORT
+SASB: Real Estate Standard
+TOPIC CODE ACCOUNTING METRIC RESPONSE REFERENCES (PAGE)
+TNEMEGANAM
+YGRENE
+Sustainability Accounting Standards Board
+SASB Standards guide the disclosure of financially material sustainability information by companies to their investors. Available for 77
+industries, the Standards identify the subset of environmental, social, and governance (ESG) issues most relevant to financial
+performance in each industry.
+Corporate and golf operations (2023): 100%
+Triple-net leased portfolio (2023): 92%. Due to the challenges in Energy and
+Energy consumption data
+obtaining complete utility data across our triple-net leases, we were Emissions (37),
+coverage as a percentage
+IF-RE130a.1 unable to collect complete data from our portfolio. Represents data Triple-Net Portfolio
+of total floor area, by
+coverage based on portfolio square footage as reported by tenants, Sustainability
+property sector
+which is pro-rated by the relative percentage of the year that each Dashboard (44-45)
+asset was owned.
+Corporate and golf operations (2023):
+(1) Electricity usage: 5,731.7 MWh; fuel usage: 2,325.5 MWh;
+Combined energy usage: 8,057 MWh
+(2) 71.14% Energy and
+(1) Total energy consumed by (3) 0.2%
+Emissions (37),
+portfolio area with data
+Triple-net leased portfolio (2023): Operational Portfolio
+coverage, (2) percentage
+IF-RE130a.2 (1) Electricity usage: 1,595,127 MWh; natural gas usage: 3,754,838 Sustainability Data
+grid electricity, and (3)
+MMBtu; district energy usage: 77,787 MWh; Combined energy usage: (39), Triple-Net
+percentage renewable, by
+2,773,348 MWh Portfolio Sustainability
+property sector
+(2) 57.52% Dashboard (44-45)
+(3) Not disclosed
+For the purpose of these calculations, we used a conversion factor of
+1 MWh = 3.412142 MMBtu.
+Like-for-like percentage
+Operational Portfolio
+change in energy
+Sustainability Data
+consumption for the Corporate and golf operations (2023): 1.6%
+IF-RE130a.3 (39), Triple-Net
+portfolio area with Triple-net leased portfolio (2023): 0.77%
+Portfolio Sustainability
+data coverage, by
+Dashboard (44-45)
+property sector
+Percentage of eligible
+(1) Not currently available.
+portfolio that (1) has an
+(2) Not applicable. Given our triple-net leased portfolio consists
+IF-RE130a.4 energy rating and (2) is
+primarily of casinos and bowling alleys, our properties are not
+certified to ENERGY STAR,
+eligible to receive ENERGY STAR ratings nor certifications.
+by property sector
+Corporate and golf operations: VICI and its external golf course
+manager, CDN Golf, have integrated energy management
+Description of how building considerations into the operational strategy at the golf courses,
+energy management including sustainability initiatives and resource-conserving Energy and Emissions
+considerations are capital improvements, such as infrastructure upgrades and (37), Triple-Net
+IF-RE130a.5
+integrated into property operational improvements. Portfolio Sustainability
+investment analysis and Triple-net leased portfolio: Under the triple-net lease model, VICI Dashboard (44-45)
+operational strategy does not retain operational control of its leased properties. VICI’s
+tenants have implemented various building energy management
+measures into their operations.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+50
+TOPIC CODE ACCOUNTING METRIC RESPONSE REFERENCES (PAGE)
+TNEMEGANAM
+RETAW
+Corporate and golf operations (2023):
+Water withdrawal data (1) 100% Water (36),
+coverage as a percentage
+(2) Not disclosed Operational Portfolio
+of (1) total floor area and (2)
+Triple-net leased portfolio (2023): Sustainability Data
+IF-RE140a.1 floor area in regions with
+(1) 92%. Represents data coverage based on portfolio square (39), Triple-Net
+High or Extremely High
+footage as reported by tenants, which is pro-rated by the relative Portfolio Sustainability
+Baseline Water Stress, by
+percentage of the year that each asset was owned. Dashboard (44-45)
+property sector
+(2) 3%
+Corporate and golf operations (2023):
+(1) Total water withdrawn by (1) 1,581,350 m3
+Water (36),
+portfolio area with data (2) Not disclosed
+Operational Portfolio
+coverage and (2)
+Triple-net leased portfolio (2023): Sustainability Data
+IF-RE140a.2 percentage in regions with
+(1) 18,167,099 m3 (39), Triple-Net
+High or Extremely High
+(2) 4% Portfolio Sustainability
+Baseline Water Stress, by
+Dashboard (44-45)
+property sector For the purpose of these calculations, we used a conversion factor of
+1 kGal = 3.785 m3.
+Like-for-like percentage Operational Portfolio
+change in water withdrawn Sustainability Data (39),
+Corporate and golf operations (2023): -11.4%
+IF-RE140a.3 for portfolio area with Triple-Net Portfolio
+Triple-net leased portfolio (2023): 1.7%
+data coverage, by property Sustainability
+sector Dashboard (44-45)
+Corporate and golf operations: VICI and CDN Golf have integrated
+water management risks and considerations into the operational
+Description of water strategy at the golf courses, including sustainability initiatives,
+Water (36),
+management risks and xeriscaping, landscaping and infrastructure upgrades, and
+Triple-Net Portfolio
+IF-RE140a.4 discussion of strategies and operational improvements at its golf courses.
+Sustainability
+practices to mitigate those Triple-net leased portfolio: Under the triple-net lease model, VICI
+Dashboard (44-45)
+risks does not retain operational control of its leased properties. VICI’s
+tenants have implemented various water conservation and risk
+management measures into their operations.
+STCAPMI
+YTILIBANIATSUS
+TNANET
+FO
+TNEMEGANAM
+SASB: Real Estate Standard (Continued)
+(1) Percentage of new leases (1) Not currently available. While VICI does not disclose the
+that contain a cost recovery percentage of leases that contain a cost recovery clause for
+ESG Tenant
+clause for resource resource efficiency-related capital improvements, VICI sees an
+Engagement
+IF-RE410a.1 efficiency-related capital opportunity in incentivizing sustainability and efficiency-related
+Programs, Green
+improvements and (2) capital improvements and funding larger-scale investments that
+Lease Initiative (43)
+associated leased floor could improve efficiency at its leased properties.
+area, by property sector (2) Not disclosed
+Percentage of tenants that
+are separately metered or VICI is a triple-net lease REIT, thus, all of VICI’s tenants are
+Introduction to
+submetered for (1) grid separately metered.
+IF-RE410a.2 Triple-Net Lease
+electricity consumption and (1) 100%
+Model (8)
+(2) water withdrawals, by (2) 100%
+property sector
+Due to VICI’s triple-net lease structure, VICI’s tenants maintain sole
+operational control over their properties, including the authority to
+develop and improve the environmental sustainability of properties.
+As such, VICI focuses on tenant engagement initiatives to gain a
+better understanding of tenants’ sustainability programs, goals,
+strategies, and performance, inclusive of gathering environmental
+Introduction to
+Discussion of approach to sustainability data to monitor VICI’s leased properties. Certain of
+Triple-Net Lease
+measuring, incentivizing, VICI’s tenants have reported on key environmental sustainability
+IF-RE410a.3 Model (8), ESG Tenant
+and improving sustainability data voluntarily or pursuant to existing “green lease” provisions,
+Engagement
+impacts of tenants including utility usage and significant projects. VICI has negotiated
+Programs (43)
+green lease provisions in recent new leases and amendments to
+existing leases and expects to continue to advocate for the inclusion
+of green lease provisions as opportunities arise. Lastly, VICI sees an
+opportunity through tenant engagement projects to partner with
+tenants to fund larger-scale investments that could improve
+property sustainability efficiencies and performance.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+51
+TOPIC CODE ACCOUNTING METRIC RESPONSE REFERENCES (PAGE)
+NOITATPADA
+EGNAHC
+ETAMILC
+Area of properties located
+Corporate and golf operations: Not disclosed Climate Change Risk
+IF-RE450a.1 in 100-year flood zones, by
+Triple-net leased portfolio: 2,068,962.96 m2 (22,270,132 sq ft) Management (41)
+property sector
+In 2022, VICI engaged a third-party environmental due diligence
+provider and consultant to perform a portfolio-level climate risk
+analysis based upon asset-level data obtained from individual
+property-level climate change risk assessments and climate analysis
+reports. VICI pursued this risk analysis to provide more insight into
+climate risk across the company’s portfolio. VICI currently employs
+stressor-specific scenario-based analysis to assess the physical risk
+exposure of their portfolio for physical stressors. These scenarios
+include RCP 8.5 emission scenarios in the time periods of 2010-2039
+and 2070-2099 for heat stress. To address the physical risks, VICI
+Description of climate
+engaged GIS professionals and civil engineers to assess climate risk
+change risk exposure
+of individual properties and VICI’s overall portfolio as it relates to
+analysis, degree of Climate Change Risk
+IF-RE450a.2 flooding, heat stress, water stress, drought, extreme winds, wildfires,
+systematic portfolio Management (41)
+and seismic events. To manage transition risks, VICI performed an
+exposure, and strategies for
+internal evaluation and engaged a third-party energy and
+mitigating risks
+sustainability consultant to perform a regulatory compliance risk
+assessment to gain a better understanding of the regulatory
+requirements to which VICI’s properties are subject. In addition,
+VICI’s tenants are subject to insurance requirements under their
+lease agreements with respect to the leased properties, as VICI’s
+expectation is that insurance coverage will be the primary
+protection if tenants are not able to comply with lease requirements
+regarding tenants’ financial responsibility for the casualty,
+condemnation, and remediation from climate event-related damage
+to VICI’s real estate assets.
+SCIRTEM
+YTIVITCA
+SASB: Real Estate Standard (Continued)
+Number of assets, by 54 casino gaming, hospitality, and leisure-related properties, 39 Our Property
+IF-RE000.A
+property sector other experiential properties, 4 golf courses Portfolio (7)
+Leasable floor area, by Our Property
+IF-RE000.B ~127 million sq ft of net lease real estate
+property sector Portfolio (7)
+Percentage of indirectly Introduction to
+100% indirectly managed assets due to the triple-net lease
+IF-RE000.C managed assets, by Triple-Net Lease
+business model
+property sector Model (8)
+Average occupancy rate, by Our Property
+IF-RE000.D 100%
+property sector Portfolio (7)
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+52
+PILLAR TOPIC RESPONSE REFERENCES (PAGE)
+ECNANREVOG
+Management and the ESG Committee report on a quarterly basis with respect to
+environmental sustainability initiatives (including climate change) to the Nominating
+and Governance Committee, which is responsible for overseeing the Company’s ESG
+policies, goals, and initiatives, and making recommendations based on such review. Climate Change
+Board oversight of
+Management (with the input of the Board of Directors) completes an enterprise risk Governance (40),
+climate-related risks
+assessment (which addresses environmental and climate-related risk) on an annual ESG Oversight and
+and opportunities
+basis and updates such assessment each quarter, reporting to the Audit Committee Governance (18)
+and the Board of Directors with respect to the Company’s risk assessment and
+management. The Board of Directors oversees and assigns responsibility for specific
+areas to each of its committees.
+Our ESG Committee consists of employees across functional areas and from various
+professional levels, including our Chief Financial Officer and General Counsel. The
+Climate Change
+ESG Committee leads our internal assessment and management of climate change
+Governance (40),
+Management’s role in risks and opportunities and reports directly to executive leadership and the Board of
+ESG Oversight and
+assessing and Directors and its committees, as appropriate. Members of the ESG Committee work
+Governance (18),
+managing with third-party consultants and service providers in connection with the evaluation of
+Tenant Engagement
+climate-related risks the Company's climate-related risk for potential transactions and its existing portfolio.
+Philosophy and
+Members of the ESG Committee also direct our tenant engagement efforts, including
+Touchpoint (15)
+with respect to the sharing of climate-related risk findings and discussions regarding
+tenant risk mitigation efforts across the triple-net leased portfolio.
+YGETARTS
+Task Force on Climate-Related Financial
+Disclosures (TCFD)
+The Financial Stability Board created the Task Force on Climate-related Financial Disclosures (TCFD) to improve and increase reporting
+of climate-related financial information. The work of TCFD provides recommendations for more effective climate-related disclosures
+that promotes more informed investment, credit, and insurance underwriting decisions.
+The short-, medium- and long-term time frames were selected based on factors
+including the long-term nature of our triple-net leases, including additional renewal
+options, and corresponding weighted average lease term remaining, as well as the
+size, scale and longevity of the majority of our assets.
+SHORT-TERM — Next 10 years: time period through which climate change risk may
+impact our property portfolio as we engage with our current tenants during their initial
+lease terms.
+Short, medium, and
+Climate Change
+long-term MEDIUM-TERM — 10-30 years: time period through which climate change risk may
+Strategy (40)
+climate-related risks impact our property portfolio through existing lease terms (including renewals).
+LONG-TERM — 30+ years: time period after our tenants’ existing lease terms (including
+renewal options) and the greatest likelihood of climate change risk impacting
+our property portfolio.
+On the next page are the climate-related risks and opportunities analyzed based on
+the physical and transitional challenges they pose in the short-, medium-, and
+long-term:
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+53
+PILLAR TOPIC RESPONSE REFERENCES (PAGE)
+YGETARTS
+TCFD (Continued)
+Risks Opportunities
+— Share climate change risk
+findings with tenants to
+— Potential physical damage to
+encourage efforts to improve
+structures, parking areas,
+property resiliency
+and amenities
+— Evaluate our GHG emissions
+Short- — Increased frequency and
+profile in accordance with
+term intensity of storm surge from
+GHG Protocol
+(next 10 tropical storms and flash floods
+years) — Work with our tenants to
+— Increased energy and
+encourage measuring and
+water demand
+monitoring their GHG emissions
+— Active energy use
+— Engage our tenants on potential
+benchmarking requirements at
+improvement of sustainability
+our tenants’ properties
+performance through low and no
+cost efficiency measures
+Short, medium, and — The potential for rising sea levels — Work with our tenants to
+long-term to flood properties encourage adoption of Climate Change Risk
+climate-related risks Management (41)
+— Prolonged drought conditions mitigation plans to reduce
+(continued) Medium-
+anticipated to increasingly the impact of climate
+term
+affect the properties change stressors
+(10-30
+— Emerging energy use, water use, — Work with our tenants to
+years)
+and GHG emissions regulations understand the compliance and
+— Changing consumer demand at strategy for anticipated
+our tenants’ businesses transition risk
+— Potential for climate event
+impacts resulting in significant
+physical damages (e.g., flooding, — Ongoing analysis of climate
+drought, extreme weather) change risks and developments
+Long-
+— Tenants’ ability to operate at our properties
+term (30+
+their businesses and — Increased climate risk
+years)
+generate revenue resiliency and mitigation in
+— Potential for tenants to elect not future acquisitions
+to renew lease agreements or
+request modifications
+Under our triple-net leases, the realization of climate-related risks and opportunities at
+our leased properties, such as damages from climate change or decreased operating
+costs as a result of energy efficiency improvements, primarily impact the business,
+strategy, and financial performance of our tenants and do not affect their rent and
+other obligations under our leases.
+Our tenants are responsible for obtaining and maintaining adequate insurance
+coverage with respect to our leased properties, including climate-related risk
+exposure, consistent with the particular provisions of each lease. In the event of a
+Impact on business casualty or condemnation, our tenants are generally responsible for addressing any Climate Change
+strategy and planning covered losses, as well as restoring the property to its previous condition. As a result of Strategy (40)
+this triple-net structure, our tenants are responsible for the management of
+immediate climate-related risk and would be expected to bear the costs of both
+short- and long-term climate-related impacts through the applicable lease term.
+Climate-related risks and opportunities impact us in limited circumstances, including
+when climate considerations impact our ability to lease properties (including
+negatively impacting the asset value and viability of our tenants’ operations at such
+properties) or if a property were to incur damages that limit our tenants’ operations or
+diminish the asset value.
+We employed stressor-specific scenario-based analysis to assess the physical risk
+Resilience of strategy
+exposure of our portfolio for certain physical stressors (flooding, heat stress, drought, Climate Change
+using 2-degree or
+water stress, wind, wildfire, seismic) in 2022. These include RCP 8.5 emission scenarios Strategy (40)
+lower scenarios
+in the time periods of 2010-2039 and 2070-2099 for heat stress.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+54
+PILLAR TOPIC RESPONSE REFERENCES (PAGE)
+TNEMEGANAM
+KSIR
+In connection with potential acquisitions, we perform customary environmental due
+diligence, including climate change risk assessments, to identify and address any
+underlying risks and liabilities and inform our investment decision. We have also
+performed climate change risk assessments with respect to our golf courses and our
+leased property portfolio, most recently in 2022, to provide us with a better
+Process to identify ESG Due Diligence (33),
+understanding of such risks across our portfolio. As a result of our triple-net lease
+and assess Climate Change
+business model, our tenants maintain sole operational control of operations at our
+climate-related risks Strategy (40)
+leased properties, including the implementation of climate risk mitigation measures.
+Accordingly, our risk assessments also provided insight into available strategies, which
+we offer to share with our tenants, in order to take steps to mitigate identified risks.
+Pursuant to the terms of our triple-net leases, we monitor material developments at our
+leased properties, including those relating to the potential impact of climate change.
+Our property-level environmental assessment reports allowed us in certain
+circumstances to evaluate current and future climate risks, along with current
+Process to manage sustainability performance, of our leased properties. As our tenants manage these Climate Change Risk
+climate-related risks identified risks under the triple-net lease model, we have and will continue to engage Management (41)
+with our tenants on the substantive findings from these reports, including
+recommendations for improving property climate resiliency.
+Environmental and climate change risk has been incorporated into our existing
+enterprise risk management framework. However, under our triple-net lease model, our
+tenants are generally responsible for obtaining and maintaining adequate insurance
+Integration of risk coverage, including climate-related risk exposure, and are generally responsible for Climate Change Risk
+process into overall addressing any covered losses in the event of a casualty or condemnation and Management (41),
+risk management restoring the property. As a result, our tenants are responsible for the management of Risk Oversight (21)
+climate-related risk at our leased properties and would be expected to bear the costs
+of both short- and long-term climate-related impacts through the applicable lease
+term.
+STEGRAT
+DNA
+SCIRTEM
+TCFD (Continued)
+We track certain sustainability data relating to our owned and operated golf courses
+based on available sources, including water, electricity, and fuel. With respect to our
+triple-net leased portfolio, we conduct customary environmental due diligence,
+including obtaining climate risk reports, in connection with our transactional due Climate Goals,
+Metrics used to assess
+diligence. Following an acquisition, we are largely reliant on our tenants to provide Metrics, and
+climate-related risks
+updated information regarding their climate-related risk evaluations and the Targets (42)
+implementation of climate mitigation measures. Due to our triple-net model, we cannot
+make alterations or improvements to our triple-net leased properties to mitigate and
+manage climate-related risk.
+Scope 1 (2023): 523.9 MTCOe, estimated based on utility data through third-party
+2
+sustainability platform
+Scope 2 (2023): 2,104 MTCOe, estimated based on utility data through third-party
+2
+sustainability platform
+Scope 3: As a triple-net lessor, we understand from an initial evaluation that substantially Energy and
+Scope 1 and 2 all of our overall Scope 3 emissions come from our tenants’ independent operation of our Emissions (37),
+emissions leased assets. We have reported our available Scope 3 emissions data comprising Operational Portfolio
+certain of our leased properties’ reported Scope 1 and Scope 2 emissions as provided by Sustainability Data (39)
+our tenants and intend to expand upon our efforts in the future to better estimate our
+Scope 3 emissions and to enhance our data reporting capabilities. Following the
+effectiveness of the Securities and Exchange Commission’s climate-related disclosure
+rule published in April 2024, we expect to implement processes and additional
+disclosures to ensure compliance with the rule requirements.
+In connection with our energy and emissions reduction initiatives, we continue to
+assess the feasibility of establishing Scope 1 and Scope 2 GHG emissions reduction
+targets with respect to our operational portfolio (comprised of our headquarters and
+golf courses).
+With respect to our triple-net lease portfolio, due to the triple-net lease model and the
+highly regulated nature of the gaming industry, we are unable to make alterations or
+improvements to our properties to mitigate and manage physical and transitional risk
+as a result of climate change. Notwithstanding this, we have independently performed Climate Goals, Metrics,
+Describe targets used
+climate risk assessments (in connection with transactional due diligence and our and Targets (42)
+portfolio-level climate risk assessment performed in 2022) and have offered to provide
+our tenants with findings from our risk reports to enable them to make well-advised
+decisions with respect to climate change risk in the course of operating our leased
+properties pursuant to our leases. Given our lack of operational control of our leased
+property portfolio and inability to implement, monitor, and track sustainability efforts
+directly, we ultimately do not control GHG emissions at these properties and therefore
+have determined not to establish Scope 3 emissions reduction targets.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+55
+Disclaimers
+VICI makes no representation as to the accuracy or completeness of the information regarding any of its tenants, including Bowlero
+Corp., Caesars Entertainment, Inc., Century Casinos, Inc., Chelsea Piers, Cherokee Nation Businesses, L.L.C., Eastern Band of Cherokee
+Indians, Foundation Gaming & Entertainment, LLC, JACK Entertainment, MGM Resorts International, PENN Entertainment, Inc., PURE
+Canadian Gaming, Corp., Seminole Hard Rock International, and The Venetian Resort, and any other companies included in this
+report. Certain financial and other information for these companies included in this report have been provided by them or derived from
+their respective filings, if and as applicable, and other publicly available presentations and press releases. While we believe this
+information to be reliable, we have not independently investigated or verified such data.
+The brands, trademarks, service marks, and logos ("Trademarks") operated at our properties are Trademarks of their respective owners.
+Their use in this presentation does not imply a relationship or endorsement by the Trademark owners, nor does it suggest any affiliation
+with or sponsorship by VICI. Any such Trademarks are used only to identify the products and services of their respective owners, and no
+sponsorship or endorsement on the part of VICI should be inferred from the use of the marks. None of these owners nor any of their
+respective officers, directors, agents, or employees have approved any disclosure contained in this presentation or are responsible or
+liable for the content of this presentation.
+Cautionary Note Regarding Forward-Looking Statements
+Certain statements in this report, including statements such as based on reasonable assumptions, our actual results,
+“anticipate,” “believe,” “estimate,” “expect,” “intend,” “plan,” performance, and achievements could differ materially from
+“project,” “target,” “can,” “could,” “may,” “should,” “will,” “would,” those set forth in the forward-looking statements and may be
+or similar expressions, constitute “forward-looking statements” affected by a variety of risks and other factors, including those
+within the meaning of the federal securities law. Forward-looking discussed herein and listed from time to time in the Sections titled
+statements are based on our current plans, expectations, and "Risk Factors" and "Cautionary Note Regarding Forward-Looking
+projections about future events. We therefore caution you Statements" in our filings with the SEC, including without
+against relying on any of these forward-looking statements. They limitation, in our Annual Report on Form 10-K, Quarterly Reports
+give our expectations about the future and are not guarantees. on Form 10-Q, and Current Reports on Form 8-K.
+These statements involve known and unknown risks,
+Any of the assumptions underlying forward-looking statements
+uncertainties, and other factors that may cause our actual
+could be inaccurate. You are cautioned not to place undue
+results, performance, and achievements to materially differ from
+reliance on any forward-looking statements. All forward-looking
+any future results, performance, and achievements expressed in
+statements are made as of the date of this report and the risk
+or implied by such forward-looking statements.
+that actual results, performance, and achievements will differ
+The forward-looking statements included herein are based upon materially from the expectations expressed herein will increase
+our current expectations, plans, estimates, assumptions, and with the passage of time. Except as otherwise required by the
+beliefs that involve numerous risks and uncertainties. Federal securities laws, we undertake no obligation to publicly
+Assumptions relating to the foregoing involve judgments with update or revise any forward-looking statements, whether as a
+respect to, among other things, future economic, competitive, result of new information, future events, changed circumstances,
+and market conditions and future business decisions, all of which or any other reason. In light of the significant uncertainties
+are difficult or impossible to predict accurately and many of inherent in forward-looking statements, the inclusion of such
+which are beyond our control. Although we believe that the forward-looking statements should not be regarded as a
+expectations reflected in such forward-looking statements are representation by us.
+STHGILHGIH
+DNA
+ICIV
+OT
+NOITCUDORTNI
+ECNANREVOG
+ETAROPROC
+YTILIBISNOPSER
+LAICOS
+YTILIBANIATSUS
+LATNEMNORIVNE
+XIDNEPPA
+56
+CONTACT US
+ESG TEAM
+ESG@viciproperties.com
+INVESTOR RELATIONS TEAM
+IR@viciproperties.com

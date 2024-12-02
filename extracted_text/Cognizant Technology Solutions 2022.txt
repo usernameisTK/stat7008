@@ -1,0 +1,3688 @@
+cognizant®
+intuition engineered
+ESG Report
+2022
+Message from our
+Chief Executive Officer
+Dear Stakeholders,
+I had the privilege of joining Cognizant as CEO in careers. Our efforts include offering sustainability
+January 2023. In the months since becoming part of and climate training to our associates to gain the
+the Cognizant team, I have been excited to see both important skills needed to help enable a
+the progress the company has already made on its lower-c͏ arbon economy.
+journey towards becoming a more sustainable
+We also consider how to build an effective pipeline
+enterprise and, more importantly, our ongoing efforts
+from which we will draw tomorrow’s talent. That
+to achieve even better outcomes. We are
+means facilitating volunteer opportunities for our
+continuously expanding our thinking, uncovering more
+associates to provide in-demand tech skills training
+opportunities to improve the way we operate and
+and digital services in those underserved communities
+finding more connections between what we do and
+where our clients and we do business, increasing
+the larger world, all of which help us fulfill our
+inclusion in technology careers, which can open
+responsibility of creating value for all our stakeholders.
+pathways to prosperity. This circle of activity helps
+This holistic view is expressed in Cognizant’s purpose: enable us to attract top talent and help our people
+we engineer modern businesses to improve everyday reach their full potential while resonating with global
+life. I believe in this purpose. Together with my more clients who we believe expect our workforce to mirror
+than 355,000 colleagues around the world, I’m the diversity of their workforces and customers.
+committed to Cognizant’s role in creating positive
+The ESG journey is one we approach with humility.
+change – economically, environmentally, socially
+While we’ve made progress in improving Cognizant’s
+and technologically.
+diversity, we believe there is more to do. Accordingly,
+In recent years, we’ve seen even more clearly how we’ve developed programs and initiatives to help
+ESG (environmental, social, governance) drive progress, such as including a metric within
+considerations are interwoven with our business and Executive Committee compensation that’s focused on
+how deeply they affect our associates, clients, gender diversity globally and on developing and
+investors, communities and other stakeholders. That’s retaining talent.
+why I’m excited to guide our company as it continues
+In keeping with our purpose, we believe a modern
+its sustainability journey, with a sharp focus on the
+business is a sustainable one that understands the
+ESG issues we anticipate having the greatest
+wellbeing of its associates and operates with a value
+relevance to our business model and outcomes.
+chain connected to sustainably healthy ecosystems.
+We emphasize a systems approach to our business. In keeping with our systems approach to
+For example, in managing talent, we think about how sustainability, our focus is on managing our climate
+best to attract, retain and engage talent, which we risks and opportunities in the larger context of our
+believe means fostering a diverse and inclusive associates, our network of suppliers and other
+workplace, providing opportunities for people to partners and the communities in which we operate.
+expand their knowledge and develop rewarding
+2 Cognizant ESG Report 2022
+In 2022, we achieved significant progress in several
+areas, such as:
+• Setting public, measurable goals for reducing
+greenhouse gas emissions and committing to net
+zero emissions
+• Enhancing our professional development programs,
+leading to 25 million hours of learning completed by
+our associates
+• Doubling the number of internships provided in our
+India operations, with plans to double this number
+again in 2023
+I firmly believe talent is universally distributed across
+countries and communities. In 2023, I announced that
+Cognizant is simplifying our business operations,
+including rationalizing our workspaces. Part of this
+shift includes realigning our physical workplace to a
+post-pandemic era of hybrid and redistributed work.
+My hope is that this new rationalization and hybrid
+model will allow more talent to work from a wider
+range of locations and help Cognizant multiply the
+places where our associates can engage in
+meaningful work.
+Our company continues to evolve to cater to the
+needs of our diverse stakeholders and adapt to our
+changing world. I am deeply grateful for your support
+and trust in Cognizant, and I invite you to join us on
+our journey.
+Best regards,
+Ravi Kumar
+Chief Executive Officer
+3
+Table of contents
+Forward-looking statements 6
+Introduction 8 Governance 62
+Commitments and actions 10 Our ESG governance strategy 64
+Strategy: Creating sustainable value 14 ESG oversight and governance 65
+Approach: Organize around our stakeholders 66
+Social 16 Enterprise Risk Management 68
+Ethics and compliance 68
+Being Cognizant: Our people strategy 18
+Associate health and safety 70
+Arriving at Cognizant: From recruitment 19
+through retention Supply chain 71
+Data security 72
+Working at Cognizant: Supporting our people 23
+Data privacy 75
+Beyond Cognizant: Community engagement 32
+and philanthropy Public policy and political activity 76
+Next: Skilling associates with 37
+sustainability training
+Appendix 78
+About this Report 78
+Environment 3 8
+GRI index 80
+Cognizant in the context of climate change 40
+SASB index 90
+Climate risk and opportunity 41
+TCFD index 94
+Net zero goal: Metrics and targets 52
+GHG methodologies and verification 96
+Water stewardship 58
+Circularity: Upcycling and reducing waste 59
+Biodiversity and nature 59
+Client Sustainability Solutions 60
+4 Cognizant ESG Report 2022
+
+Forward-looking statements
+This report includes statements which may constitute recent Annual Report on Form 10-K, as updated by our
+forward-looking statements made pursuant to the most recent Quarterly Report on Form 10-Q and other
+safe harbor provisions of the Private Securities filings with the US Securities and Exchange
+Litigation Reform Act of 1995, the accuracy of which Commission (“SEC”). Further, these statements may
+are necessarily subject to risks, uncertainties and be based on standards for measuring progress that
+assumptions as to future events that may not prove to are still developing and on assumptions that are
+be accurate. The forward-looking statements in this subject to change in the future. Forward-looking
+report and the materials or websites cross-referenced statements are also aspirational and not guarantees
+include, but are not limited to, express or implied or promises that goals or targets will be met.
+forward-looking statements relating to our Cognizant undertakes no obligation to update or
+expectations regarding our vision, strategy, goals, revise any forward-looking statements, whether as a
+initiatives, commitments, risks and opportunities, result of new information, future events, or otherwise,
+including with respect to our governance, except as may be required under applicable securities
+sustainability, environmental impact, procurement, law. The information included in, and any issues
+philanthropy, data privacy and cybersecurity, the identified as material for purposes of, this document
+impact of our ESG targets and climate efforts and may not be considered material for SEC reporting
+offerings on our business, our future financial results, purposes. In the context of this Report, the term
+our clients, our associates and our communities. “material” is distinct from, and should not be confused
+These statements are neither promises nor with, such term as defined for SEC reporting purposes.
+guarantees, but are subject to a variety of risks and Website references and hyperlinks throughout this
+uncertainties, many of which are beyond our control, report are provided for convenience only, and the
+which could cause actual results to differ materially content on the referenced websites is not
+from those contemplated in these forward-looking incorporated by reference into this Report, nor does it
+statements. Existing and prospective investors are constitute a part of this Report.
+cautioned not to place undue reliance on these
+Basis of presentation
+forward-looking statements, which are based on the
+current and reasonable expectations of our Numerical figures included in this report have been
+management, but are inherently subject to subject to rounding adjustments. Accordingly,
+uncertainties and changes in circumstances and their numerical figures shown as totals in various tables
+potential effects and speak only as of the date hereof. may not be arithmetic aggregations of the figures
+Factors that could cause actual results to differ that precede them. In addition, we round certain
+materially from those expressed or implied include percentages presented in this Report to the nearest
+general economic conditions, changes in the whole number. As a result, figures expressed as
+regulatory environment, including with respect to percentages in the text may not total 100% or, as
+climate matters, immigration and taxes, legal, applicable, when aggregated may not be the
+reputational and financial risks resulting from arithmetic aggregation of the percentages that
+cyberattacks, the effectiveness of business continuity precede them. Unless specified otherwise, (i) amounts
+plans, energy prices, lack of technological in this Report are presented in United States dollars
+innovations, climate-related conditions and weather and (ii) figures are provided as of December 31, 2022.
+events, and the other factors discussed in our most
+6 Cognizant ESG Report 2022
+About our business
+We engineer modern businesses to improve everyday life.
+2022 Company snapshot
+Our global footprint
+$19.4 355,300
+B
+Revenue1
+Employees
+UK
+Continental Europe
+North $1.8 Rest of world
+B
+America $1.8
+Revenue B $1.4 B
+$14.4 B Revenue
+9,200 Revenue
+Revenue 18,200 India
+Employees 28,300
+41,100 Employees 258,500
+Employees
+Employees Employees
+Our business segments
+Financial Health Products Communications,
+services sciences and resources media and technology
+31% 29% 24% 16%
+Revenue Revenue Revenue Revenue
+1 Revenues attributed to geographic regions based upon client location, which is the client’s billing address.
+7
+Introduction
+Our year-round focus is on meeting client, investor and talent
+expectations by creating meaningful change at scale.
+Sophia Mendelsohn
+Global Head of ESG
+and Chief Sustainability Officer
+8 Cognizant ESG Report 2022
+9
+Introduction Social Environment Governance Appendix
+Commitments and actions Strategy: Creating sustainable value
+Commitments and actions
+2021 Commitments 2022 Actions
+Diversity Progress: Implemented an Executive Committee
+Continue our commitment to compensation metric focused on gender diversity
+increasing associate diversity globally (See Recruiting diverse talent for more
+through inclusive hiring practices details)
+Social and a welcoming environment
+In 2022, our gender diversity rate at the senior
+Continue the use of a goal for manager and above level grew to 17.2%
+directors and above to hire and
+Progress: As of December 31, 2022, women accounted
+retain women at the senior
+for 38.3% of our workforce globally and 39.3% within
+management level and above, as
+India; the number of women working at Cognizant
+set in 2020
+grew by more than 11,000
+Progress: Expanded domestic partner coverage, life
+insurance, mental health support, access to
+telehealth and support for gender transition for
+associates
+Talent management Progress: Trained approximately 150,000 associates
+Continue to address the skills gap (over 25 million learning hours) across a variety of
+between what people can do digital skills
+today versus expectations for the
+Progress: Invested over $23.5M globally in
+jobs of tomorrow through both
+organizations advancing digital skills, local
+internal associate training as well
+community support and disaster response around the
+as facilitating volunteer
+world
+opportunities for our associates to
+provide technology skills training Progress: 47,000 associates put their knowledge to
+to others in underrepresented work outside of Cognizant in 150,000 volunteer hours
+communities
+10 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Commitments and actions Strategy: Creating sustainable value
+2021 Commitments 2022 Actions
+Emissions reduction: Reduce Progress: By greening our IT, we have reduced
+absolute emissions by 50% from emissions associated with our IT infrastructure by
+the company’s global operations 60% since 2019
+and supply chain by 2030 and
+Environmental 90% by 2040 with plans to negate
+remaining emissions for both 2030
+and 2040 goals using carbon
+offsets
+Renewable energy: Source 100% Progress: 44% of electricity consumption in offices
+of electricity needs for offices and and facilities in India, covering the majority of our
+facilities from renewable global energy consumption, came from renewable
+electricity sources, like solar and sources in 2022
+wind, by the end of 2026
+Supplier climate engagement: Progress: 18% of our top 150 suppliers had set an
+Engage top 150 suppliers emissions reduction target by the end of 2022
+(covering nearly 60% of spend) to
+help them set net zero emissions Target: At least 90% of our top 150 suppliers will
+reduction targets2 set an emissions reduction target by 2026
+Progress: Offered net zero training to our top 150
+suppliers. In 2023, we plan to include emissions
+reduction requirements in new supplier contracts
+Circularity: Save 80,000 Progress: Kept over 62,000 computers out of landfills,
+computers from landfills by the we remain focused on meeting our goal in 2023
+end of 2022
+Stakeholder expectations: Strive Progress: Annually disclose ESG-related information
+to meet our clients’ expectations through several platforms including client-preferred
+on major ESG rankings and ones like CDP (formerly Carbon Disclosure Project)
+ratings and Ecovadis and regularly engage with clients on our
+scores
+2 By spend as of December 31, 2022. Suppliers are their own entities and data are accurate as of report publication.
+11
+Introduction Social Environment Governance Appendix
+Commitments and actions Strategy: Creating sustainable value
+2021 Commitments 2022 Actions
+Ethics and Compliance Progress: Updated Global Trade Compliance Policy
+Continuously update governance- and Environmental Health and Safety Policy
+related policies based on
+Recognition: Received recognition from Gartner in
+consideration of best practices
+2022 for risk assessment framework and use of
+Governance analytics
+Supply chain: Environment Progress: Formalized risk-based assessment criteria to
+Expand tools and outreach to identify suppliers most at risk and subject to modern
+engage more suppliers in setting slavery due diligence process
+ESG standards and best practices
+Progress: Organized emissions reduction workshops
+for top 150 suppliers
+Progress: Worked with our top 150 suppliers to set
+science-based emissions reduction targets and
+submit annual climate data to CDP
+Supply chain: Supplier diversity Progress: Added a requirement that every
+In 2021, we launched our formal competitive sourcing event in the US that exceeds
+Supplier Diversity Program in the $150,000 include a diverse supplier
+United States to increase the
+Progress: 18% increase in total domestic spend in the
+diversity of our suppliers through
+US with diverse suppliers
+engagement and spend targets
+Target: Aspire to reach $1 billion of annual spend
+in the US with diverse suppliers
+Target: Each procurement category lead to
+aspire to add two African American–owned and one
+veteran–owned supplier each quarter from Q4 2022
+through the end of 2023
+Data security and Data privacy Progress: Began preparations for compliance with the
+Continuously improve policies and ISO 27011:2022 standard
+practices to stay current with
+regulations, trends and best
+practices
+12 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Commitments and actions Strategy: Creating sustainable value
+2022 ESG-related awards
+Brandon Hall Accelerating a diverse
+leadership pipeline
+India Workplace Equality Index
+Gold employer
+Best Place to Work for
+LGBTQ+ Equality
+Human Rights Campaign
+Corporate Governance
+Professional of the Year
+Innovation Excellence
+ESG Metrics & Reporting
+Sustainability Magazine’s
+Top 100 Leaders of 2022
+Tech for Good
+Top 25 Sustainability Leaders in
+Consulting of 2022
+Women in IT 2022 Award for
+Social Mobility Project
+Smart Nation Ambassador
+Digital for Life
+Champions for impact
+in supporting inclusion in tech
+Microsoft Partner Awards
+CTS Won Award for Microsoft’s “APAC
+Region Social Impact - Inclusion
+Changemaker”
+Champions of Good 2022
+13
+Introduction Social Environment Governance Appendix
+Commitments and actions Strategy: Creating sustainable value
+Strategy: Creating sustainable value
+Where we focus and why
+A business lens A wider lens
+In 2021, we worked with a third party to gauge which Companies operate within a larger context than their
+ESG issues various stakeholders thought were most immediate operations. As a global company and
+relevant to our business. In 2022, we built on this work Participant of the United Nations Global Compact
+internally by reviewing client questions and requests in (UNGC), our approach to ESG supports a number of
+order to continue focusing on the topics that we the United Nations Sustainable Development Goals
+believe are most impactful and relevant to our (UN SDGs), as shown below. We believe that, because
+business: of our size, we have the ability to create positive
+economic impact through our business model.
+• Environment with an emphasis on reducing
+greenhouse gas (GHG) emissions through
+technology, our culture and internal change-
+management
+• Social with an emphasis on engaging, training and
+hiring diverse talent in our workforce from our
+communities
+• Governance with an emphasis on ESG oversight
+and transparency, including supply chain
+management, health and safety, ethics, data
+privacy and security
+14 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Commitments and actions Strategy: Creating sustainable value
+UN Sustainable
+Development Goal Cognizant alignment
+Proliferating STEM education and filling the technology skills gap by
+investing in training for talented individuals from underserved and
+underrepresented communities.
+Our diversity and inclusion efforts extend from our associates to our
+suppliers, including better understanding how we can support the various
+needs of our associates.
+Our climate platform seeks to reduce our emissions and help our clients
+reduce theirs through lower-carbon technology and skilling.
+Our strategic technology partnerships make social impact.
+For example, with AWS we work to equip youth with cloud skills and
+mentor them in building solutions to help their communities.
+We employ 355,000 people around the globe and seek to
+improve everyday life through our and our clients’
+businesses.
+15
+Social
+We believe our workforce of more than 355,000 talented associates enables us to be
+a global force for skilling, training and long-term workforce development. We focus on
+doing this at scale, including for underrepresented talent and communities.
+We consider diversity and inclusion throughout our work. In this section, learn about:
+Being Cognizant: u Arriving at u Working at Cognizant: u Beyond Cognizant: u Next: Preparing for
+Our people strategy Cognizant: From Supporting our Community the skills of the future
+with sustainability
+recruitment through associates engagement and training
+retention philanthropy
+From years of experience, I have seen how diversity improves business
+decisions. As Chair of the Board of Directors, I am engaging with
+management on improving the gender diversity of the leaders at the
+company. I see our efforts around gender diversity as an important part of
+Cognizant’s ongoing transformation.
+Steve Rohleder
+Chair of the Board of Directors, Cognizant
+16 Cognizant ESG Report 2022
+
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Being Cognizant:
+Our people strategy
+Our strategy focuses on attracting, retaining and fully For the first time, in 2022, our Executive Committee
+engaging talent to benefit our associate wellbeing compensation included a metric focused on gender
+and client outcomes. To do so, we have embedded diversity globally and on developing and retaining
+diversity and inclusion in our employee value talent. In addition, every leader at the level of director
+proposition. We put our approach into action across and above has a goal relative to their business area
+pre-employment training, recruiting, professional for hiring and retaining women at the senior manager
+development and future leadership mentoring. level and above. In 2022, our gender diversity rate at
+the senior manager level and above grew to 17.2%.
+Our Diversity and Inclusion (D&I) program –
+“Completely Cognizant” – aligns with our In line with our Equal Employment Opportunity Policy
+commitment to creating a diverse and inclusive in the US, we are committed to providing a work
+workforce with a culture of belonging and environment free from discrimination, harassment
+engagement. and retaliation. All of our associates are entitled to fair
+wages and hours and reasonable accommodations
+For us, diversity includes gender, generation, race,
+consistent with applicable laws and regulations.
+geography, ability, belief, religion, sexual orientation
+and veteran status. We strengthen our business,
+culture and ability to serve our clients and At Cognizant, central to our values and culture is
+communities by bringing together unique fostering an environment for everyone to thrive.
+perspectives, experiences and understanding.
+To achieve this, our programs address inclusion,
+We build a culture of inclusion through: wellbeing and the diverse needs of our
+associates to feel a sense of belonging.
+• Leadership tone at the top
+• Recruiting diverse talent
+• Supporting associate needs with wellbeing efforts, Shameka Young
+training and professional development, as well as Global Head of Diversity
+engagement opportunities and Inclusion
+Through our people programs, we seek to:
+• Recruit diverse talent
+• Create an inclusive environment through a welcoming corporate culture, benefits and rewards,
+education and engagement opportunities
+• Support associate needs, improving retention and fostering career growth
+• Grow our diverse talent pipeline long-term by providing in-demand tech skills training and digital services
+to underrepresented communities and organizations through volunteering and philanthropy
+In 2022, Cognizant hired over 132,000 people, including over 50,000 women.3
+3 Please see our 2022 Form 10-K for information about hiring and attrition.
+18 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Arriving at Cognizant:
+From recruitment through retention
+Our more than 355,000 associates come from many walks of life and parts of the globe. Their diverse
+perspectives and creativity inform our ability to meet our clients’ needs.
+Global gender diversity4 Generational demographics
+Number of women5 Number of women grew by
+134,158 11,000+
+1.0% Baby Boomers
+10.3% Gen X
+Gender split6 58.2% Gen Y
+30.5% Gen Z
+New female hires
+38.3% Women
+37.8%
+61.7% Men
+US associates racial / ethnic group representation7
+Gender representation of associates
+58.1% Asian
+Senior Vice President+ Senior Manager+ 28.5% White
+11.1% Women 17.2% Women 6.7% Black
+88.9% Men 82.8% Men 4.3% Hispanic
+2.1% Two or more races
+0.17% Native American
+0.07% Pacific Islander
+We have detailed our efforts to improve the diversity of our associate body. We are proud of all our talented
+associates and seek to continue to give opportunities to talented individuals from underrepresented groups.
+4 Gender diversity metrics are as of December 31, 2022 and calculated on the basis of those employees who responded as female or male.
+5 Our Workforce Insights team tracks the hiring, development and retention of women. Data on the progress is then shared with Cognizant’s
+Board as part of quarterly and annual reporting on talent.
+6 We disclose binary gender information to provide the most complete data available at time of publication. In 2022, we began offering
+associates the option to self-identify as non-binary. For Cognizant’s larger efforts to support the LGBTQ+ community, see p. 29-31.
+7 Outside the US, our ability to collect racial and ethnic information is limited by local laws and regulations.
+19
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Recruiting diverse talent
+Recruiting Board directors
+Our diversity-oriented hiring practices start at the top
+We are focused on recruiting diverse talent to
+with our director recruitment efforts. Our Board of
+innovate for our clients and meet many of their stated
+Directors (the Board) has committed to include
+expectations. The Diverse Candidate Pipeline initiative
+women and persons with ethnically or racially diverse
+promotes diversity in candidates, interviewers and
+backgrounds in each pool of candidates from which
+perspectives. We apply our Diverse Candidate
+we select new director nominees. Our Board
+Pipeline initiative at every seniority level.
+membership increased from one woman in 2019 to
+Our Diverse Candidate Pipeline has three pillars: four women in 2022.
+1. Training - Training for hiring managers focused on
+The Board evaluates the effectiveness of its director
+understanding unconscious bias
+diversity efforts through its annual self-evaluation
+2. Representation - Enabling diversity within our process and on an ongoing basis through its director
+interview hiring panels candidate search processes.
+3. Removing bias - Writing gender-neutral job
+descriptions
+Board diversity matrix (as of April 21, 2023)
+Total Number of Directors: 14
+Part 1: Gender Identity8 Female Male
+Directors 59 9
+Part 2: Demographic Background8 Female Male
+African American or Black - 1
+Alaskan Native or American Indian - -
+Asian (including South Asian) 2 1
+Hispanic or Latinx - -
+Native Hawaiian or Pacific Islander - -
+White 3 6
+Two or More Races or Ethnicities - 18
+Did Not Disclose Demographic Background - -
+LGBTQ+ - -
+Military Veterans - 1
+8 Information was voluntarily provided by directors and reflects self-identified attributes. The director who self-identified as two or more races
+or ethnicities did not disclose the specific races or ethnicities.
+9 Includes Maureen Breakiron-Evans who is retiring from the Board and not standing for reelection at our 2023 Annual Meeting of Shareholders.
+20 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Recruiting college talent in India In the United Kingdom (UK), we joined the Business
+Disability Forum, a not-for-profit membership
+Attracting, engaging and hiring the best college talent
+organization that exists to transform the life chances
+requires sourcing and upskilling ambitious young
+of disabled people by working through and with
+professionals early in their career journeys. Our
+business to create a disability-smart world.
+comprehensive campus hiring program in India, our
+Membership benefits include access to expert advice
+largest campus hiring effort globally, focuses on:
+and support, a knowledge hub as well as events and
+• Professional behavior development webinars focused on disability inclusion.
+• Technical skills Recruiting Black, Indigenous and People
+• Assessing alignment of professional of Color (BIPOC)
+aspirations with personal interests
+To diversify our talent pipeline and associate body,
+Internal and external facilitators support the learning we’ve implemented BIPOC programs in our hiring
+journey of these associates, and mentors from each initiatives, and deepened our partnerships with
+business unit connect with cohorts throughout their organizations like the National Black MBA Association.
+first year to help them start on a strong and (See our D&I section p. 29-31 for more information
+successful path at Cognizant. Our interns work about engagement with BIPOC.)
+alongside experienced associates on complex and
+Recruiting returners
+emerging technology solutions for our clients.
+In 2021, we launched the Cognizant Returnship
+Program for technology professionals looking to
+Intern hiring highlights restart their careers. Participants with at least five
+years of relevant experience who have taken an
+77% extended career break of at least two years are
+supported as they transition back into the technology
+of those who completed an internship accepted
+workforce. This 12-week paid experience includes real
+and joined Cognizant full-time in 2022
+project work with immersive training, mentorship,
+coaching and a community to support their success.
+Doubled the number of intern offers (compared to
+At the conclusion of the program, participants are
+2021)
+considered for full-time positions at Cognizant. Our
+Nearly 21,000 interns joined Cognizant full-time placement rate is 95%. We see this model as a
+following offers in 2022 template and hope to expand it in the future.
+Recruiting veterans
+Recruiting people with disabilities
+We offer career advancement opportunities,
+To continue to improve our hiring efforts of persons technology advancement boot camps and mentoring
+with disabilities, in 2022 we launched awareness and scholarships for veterans as part of our skilling
+campaigns and accessibility norms across our programs. We focus on creating a pathway for
+facilities in India. In addition, we continued our transferable skills from military to civilian careers. (See
+engagement with the National Association of our D&I section p. 29-31 and our Global philanthropy
+Software and Services Companies and National section p. 32 for more information about engagement
+Human Resource Development, India’s largest with veterans.)
+network for HR professionals, with respect to diversity
+and inclusion.
+21
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Recruiting women
+Since 2020, every leader at the director and above
+level has had a target, relative to their business area,
+for hiring and retaining women at and above the
+senior manager level. (See our D&I section p. 29-31 for
+more information about engagement with women.)
+As of December 31, 2022, women accounted for 38.3%
+of our workforce globally and 39.3% within India; 37.8%
+of all new hires globally were female.
+We’ve continued our sponsorship of MAKERS, an
+organization focused on improving gender equality
+within the industry. In 2022, nearly 200 women
+completed Propel, our leadership program for women.
+More than 1,200 women have completed Propel since
+the program first started in 2018.
+Pre-employment training
+and apprenticeship
+To further tackle the technology skills gap, we provide
+pre-employment training and apprenticeship
+opportunities for untapped talent pools. These
+programs focus on high-demand skills that could lead
+to job opportunities with Cognizant. In the last four
+years, we have recruited more than 2,000 people
+through these programs, with more than 600 hires in
+2022. We further expanded our pre-employment
+training program outside the US with pilot training
+cohorts in Latin America and Canada. We are
+planning similar programs in the UK.
+In 2022, we launched Cognizant Skills Accelerator, a
+new train-to-hire initiative for people seeking to
+kick-s͏ tart a technology career in the US. In the fast
+growing, rapidly changing technology industry, this
+program aims to increase the pool of diverse, high
+potential candidates. In 2022, we sponsored training
+for over 2,000 individuals from underrepresented
+talent pools.
+22 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Working at Cognizant:
+Supporting our people
+Our goal is to help our associates bring their best
+selves to work. Once recruits become associates, we 2022 people-related awards
+provide technical resources and people support to
+help retain them as colleagues. We focus on all
+India Workplace Equality Index
+aspects of their Cognizant experience:
+recognized Cognizant with its Gold
+• Ongoing development: Learning that advances award for LGBT+ inclusion
+careers in line with our business strategy
+Financial Times recognizes
+• Associate wellbeing: Benefits and rewards that
+Cognizant as a Diversity Leader
+foster wellbeing
+• Employee engagement: Opportunities for associates
+Healthcare (Small) Category of the
+to be heard and feel supported
+8th CSR Impact Awards
+Talent management
+Investing in our current associates and future talent pipeline is critical to career growth and our overall business
+growth. Through our talent programs, we hire new talent; develop and retain top talent through training and
+career progression; and expand access to a skilled, global workforce through associate engagement in
+mentoring and volunteering.
+Talent management highlights
+Hiring Development Career and rewards Engagement
+• Diverse candidate • Technical upskilling • Performance processes • Global affinity groups
+pipeline for all levels
+• Leadership • Outreach program
+• Internship program development • Internal Job Moves (See p. 32)
+program
+• Pre-employment training • Mentorship programs
+and apprenticeships • Performance-based
+• D&I training
+rewards
+• Cognizant Returnship
+• Partner learning
+program • Global mobility program
+programs
+• GenC graduate program
+Accordingly, we focus on the two main pillars of talent development to optimize our efforts:
+• Investing in people and technical skills
+• Investing outside of our current associates to grow our talent pipeline
+23
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Investing in people and technical skills • Leading: Ongoing and regular process of
+assessment and development for future leaders
+Our skilling ecosystem offers growth for our
+workforce at all levels. We provide a continuum of In 2022, we created our milestone programs, which
+professional development by role to foster are structured learning paths for development of
+advancement: talent from one career stage to the next.
+• Entry-level: Specific skills and general training for
+non-leadership roles
+• Ongoing: Tools, platforms and learning
+environments for associates
+Milestone programs overview
+As we accelerate to deliver on our priorities, supercharging our talent continues to be our key priority. These
+milestone programs enable our leadership transitions as we elevate roles - upwards, sidewards or
+diagonally.
+These programs offer experience, exposure and education through assessments, customized e-learning
+modules, practical scenarios, simulations and reference tools.
+Program focus area
+24 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Other development interventions for associates and future leaders included:
+Associate development Leadership development
+150,000+ 19,300+
+associates trained across digital skills programmer to senior director level leaders participated
+in leadership milestone programs to help them
+transition from one career stage to the next
+25 million learning hours 300+
+logged by our associates via our leaders from senior manager to senior director levels
+on-demand learning platforms, the participated in our accelerated development program,
+equivalent of nearly 3,000 years LEAD@Cognizant, that was developed in partnership
+with Harvard Business School
+420+
+assistant vice president level+ were offered targeted
+development opportunities on key development needs
+25
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Partners
+We partner with world-class vendors and institutions to offer unparalleled development experiences for
+our associates.
+We partner with Harvard Business School (HBS) for the design and roll out of our flagship
+programs like LEAD and Propel. We also invite speakers from HBS to facilitate webinars/
+Harvard Business case study discussions as part of our quarterly senior manager+ offerings.
+School
+We collaborate with Emeritus to invite industry and subject matter experts for programs
+launched as part of our senior manager+ calendar offerings and also involve them to curate
+Emeritus custom solutions for our business units.
+Recognitions
+Brandon Hall Group Human Association of Talent
+Capital Management Awards Development Awards
+25 8 9 5
+gold medals silver medals bronze medals Excellence in Practice Awards
+The awards showcase various learning and leadership We were rewarded for several career development,
+programs Cognizant has designed for associates to hiring and talent management programs
+grow their skills and careers
+26 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Mentorship program
+We are particularly proud of our mentorship program for the role it plays in associates’ lives. The program helps
+associates develop their skills, capabilities and network across the organization. In 2022, 150,000 associates
+participated in the mentorship program. In 2023, we plan to expand the program to include not only full-time
+associates from the US and India, but all full-time associates globally. Associates up to and including senior
+directors may participate.
+Associate wellbeing
+We believe associates do their best work when they feel motivated, healthy and that they are part of an
+organization that cares for their wellbeing. This understanding informs our people wellbeing strategy—Be
+Cognizant, Be Well.
+Our Be Cognizant, Be Well program offers a portfolio of benefits and rewards across physical, mental and
+financial wellbeing, as well as life-work balance.
+Physical Financial
+• Expanded domestic partner coverage in select • Extended life insurance to all associates
+countries (where permitted by and in accordance
+• Partnered with banks to provide discounted and
+with local law)
+improved rates and financial education
+• Increased access to care in select Asia Pacific
+• Developed voluntary programs with more flexibility
+(APAC) geographies through telehealth
+to provide greater choice in benefits to meet
+• Launched support for gender transition services in varying associate needs
+select geographies including US, UK & Ireland and
+India
+• Held regional health and fitness “challenges” in
+which 27,000 associates and 2,500+ family
+members participated
+Mental health Life & work
+• Extended access to mental health support to all • Expanded work flexibility options, including
+associates, including 24/7 on-demand behavior introducing Work Flex in the UK and formalizing
+health coaching, therapy, psychiatry and self-care Flex Friday in the US. Other geographies benefit
+resources accessible from the privacy of a from our formal Global Remote Work policy that
+smartphone supports work flexibility
+• Expanded support resources for subjects • Launched global wellbeing champions network
+stigmatized in multiple cultural contexts like with representation in all regions. With this
+menopause, mental health and suicide prevention network, we facilitate engagement and awareness
+• Provided access to online mindfulness classes and • Launched manager training on leadership’s role in
+support to reduce stress and boost overall cultivating and building a culture of wellbeing
+wellbeing
+27
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Employee engagement
+We believe high levels of employee engagement help
+us retain talent by fostering loyalty. When employees
+feel heard and supported, their work performance
+improves. As a result, so too does our organizational
+performance.
+Employee engagement is also a critical component of
+how we enact our diversity and inclusion principles,
+including how we maintain our inclusive and
+welcoming corporate culture. (See Arriving at
+Cognizant: Our people strategy.)
+We engage our associates through:
+• Reviewing their feedback via an annual survey
+• Providing year-round D&I support via internal
+training, affinity groups and outside partnerships
+and sponsorships
+• Community, volunteer and mentoring engagement
+programs
+In 2022, top leadership continued to host small group
+listening sessions to connect with associates, get
+feedback and address questions.
+People Engagement Survey
+We measure engagement through our yearly
+Cognizant People Engagement Survey and
+communicate the results to all associates.
+People Engagement Survey highlights
+210,000+
+associate responses (2022)
+We take associate comments seriously.
+9,000
+people managers with access to survey results
+to consider and recommend actions
+We saw meaningful increases in our employee
+engagement results, including scores above
+benchmark across multiple categories
+28 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Diversity and inclusion (D&I)
+Our D&I Program—“Completely Cognizant”—helps us build a diverse and inclusive workforce and promote a
+culture of belonging. Through the program we engage our associates in understanding and then helping us
+enact our D&I principles via training, affinity groups, events and outside partnerships.
+Celebrating diversity all year round
+Q1 Q2 Q3 Q4
+2022 2022 2022 2022
+Black Women’s World Autism IDAHOBIT Hispanic Heritage Month Native Veteran’s Day (US)
+History Month History Month Awareness American
+Day Pride Month Heritage International Disability
+Awareness Day
+Month
+Internal diversity training This mandatory training is supplemented with
+inclusive leadership training focused on topics such as
+We offer a range of courses designed to help our
+allyship, psychological safety, inter-cultural
+associates build intercultural competencies, identify
+communication and intelligence, and
+unconscious bias and lead with conscious inclusion.
+microaggressions.
+Our associates complete several mandatory annual
+training modules, including: In 2022, 13,000 associates completed voluntary
+inclusive leadership training.
+• Cognizant’s Code of Ethics Training, which includes
+a module on diversity and preventing discrimination
+and harassment
+• Preventing Harassment and Discrimination
+Training, which associates in the US, India and Latin
+America must complete each year
+29
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Affinity groups
+Our dedicated affinity groups promote a sense of I’m a firm believer that diversity of thought and
+belonging by attracting and welcoming diverse diversity of cultural and professional experiences
+candidates when they join Cognizant, and engaging accelerates innovation. We want to celebrate
+with associates as their careers grow. The groups also
+the diversity of ideas, the diversity of
+organize events, conversations and training
+backgrounds, the diversity of experiences, for a
+opportunities throughout the year, often partnering
+better business outcome.
+with clients and strategic partners. Each affinity group
+is open to all associates. Membership in affinity
+groups has more than doubled from 2021 to 2022
+year-end. Jan Siegmund
+Chief Financial Officer and Executive
+• Black, Latinx, and Indigenous Group (BLING)
+Sponsor of Embrace Affinity Group
+• Embrace (LGBTQ+)
+• Pan-Asian Group
+• Race Equality Network (enables local countries to
+support their ethnic minority groups)
+• Unite (people with disabilities and caregivers)
+• Veterans Network
+• Women Empowered
+• Working Families
+Each affinity group has an Executive Committee
+sponsor who champions its work. They participate in
+conversations and represent affinity groups to
+leadership.
+30 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Resources and Partnership Support for Our Diverse Associates
+Resources Partnerships
+Black, Latinx and • BLING affinity group • National Black MBA Association
+indigenous
+• Race Equality Network • Steven Skinner Scholarship Award
+(chapters in the United
+• Hispanic Technology Executive Council
+Kingdom, Ireland and Brazil)
+Diverse Abilities • Accessibility Concierge • Business Disability Forum
+Services in India, an exclusive
+• National Association of Software and Services
+phone line and live chat with
+Companies
+trained responders for
+• National Human Resources Development, India
+associates with disabilities
+• National Organization on Disability
+• Unite affinity group
+• Valuable 500
+LGBTQ+ Embrace affinity group Cycle for the Cause
+Pan-Asian Group Pan-Asian Group affinity group Stop Asian Hate Campaign
+Veterans Veterans Network affinity group Corporate Gray
+Women • Propel, our global leadership • Forté
+development program
+• Ladies Professional Golf Association, including the
+designed to help women thrive
+women’s Cognizant Founders Cup
+in the digital age
+• MAKERS
+• Women Empowered affinity
+• Women in Technology Network
+group
+31
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Beyond Cognizant: Community
+engagement and philanthropy
+Digital expertise is vital across a growing spectrum of support historically disadvantaged groups through
+jobs. While companies have spent heavily on digital technological training and other resources, we believe
+skilling, the talent gap remains in many communities we can help mitigate the evolving IT skills gap. At the
+and geographies – impacting our talent pipeline. At same time, we strive to lift communities through
+the same time, many of the non-governmental access to education and skilled work.
+organizations (NGOs) designed to address the issues
+We know these programs also deliver business
+of underserved communities lack access to digital
+benefits. Between 2018 and 2022, the average annual
+services and technical skills.
+attrition rate of our full-time associates who engaged
+Skilling and upskilling are key to both addressing our in Outreach activities was 13% lower than the average
+business needs and unleashing prosperity in annual attrition rate of non-Outreach full-time
+underserved communities where Cognizant and our associates. And our outreach and philanthropy have
+clients do business. We believe Cognizant has an also provided additional sources for potential
+opportunity to lead in this space – especially in associates in certain hiring initiatives. (See At
+partnership with clients – through our Outreach Cognizant: From recruitment through retention.)
+program and philanthropy.
+Outreach: Meaningful and
+Our associate volunteering, mentorship and
+philanthropy are often through projects with NGOs on thematic community
+the ground. By leveraging our reach to
+engagement
+Cognizant is committed to our people. We Cognizant’s Outreach program focuses on two major
+engage with policymakers, Corporate Social themes: increasing inclusion in technology and using
+Responsibility partners, our clients and the technology for good.
+broader business community to invest in and
+Increasing inclusion in tech
+advocate for responsible policies that contribute
+We increase inclusion in the technology industry by
+to growing our skilled workforce, supporting
+helping provide underrepresented populations with
+sustainability in the communities we serve and
+the skills and knowledge needed for technology
+promoting economic growth for all.
+careers. Our trained associates volunteer their
+expertise to teach business, software and technology
+skills. Overall, 47,000 volunteers devoted over 150,000
+Tobi Young hours to this type of volunteering in 2022.
+SVP, Legal, Regulatory and
+For example, in 2022 we continued our collaboration
+Corporate Affairs
+set in 2021 with Microsoft, Salesforce and Amazon
+Web Services (AWS) to support inclusion and
+community impact goals:
+32 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Microsoft
+• Equipped over 7,500 associates with digital I was invited to Cognizant to learn coding. I was
+accessibility skills through multiple training
+coached by wonderful volunteers from
+programs in partnership with Microsoft
+Cognizant and also a US bank who helped me to
+• Provided almost 20 participants with improved learn and showed me how to keep improving
+awareness and understanding of Microsoft
+further. I am confident of continuing my learning
+customer relationship management (CRM) for non-
+even after I return home.
+profits
+• Continued our partnership with NetHope to Female high school student from
+enhance the data and analytics skills of staff from a Chennai public school
+NetHope member organizations. Through 1:1 clinics
+and advanced excel and Microsoft Power BI
+trainings, Cognizant trained almost 1,000 staff (with
+In 2022, in support of the International Day for Persons
+the majority trained in 2022) from nearly 30
+with Disabilities, nearly 900 volunteers from 16
+NetHope member organizations. Additionally, we
+countries analyzed eye images of children to enable
+conducted trainings to improve productivity and
+AI-driven early detection and prevention of childhood
+work efficiency for the staff of nearly 140 charities
+blindness.
+across a dozen countries
+• Collaborated with Microsoft to improve the
+adoption of Microsoft Power BI in the public sector
+by training over 60 public officers
+We are proud of our partnership on the Microsoft
+AWS
+APAC Enabler program with Cognizant, who
+• Worked with AWS to skill hundreds of students and
+have shared our commitment to improve
+senior citizens in Singapore and Australia on AWS
+workplace disability inclusion by developing
+Cloud computing
+accessible solutions and building an inclusive
+Salesforce
+culture through record levels of voluntary
+• Partnered with Salesforce to improve awareness of trainings, volunteering and mentorships.
+CRM for over 30 of our charity partners
+Pratima Amonkar
+I love volunteering through Cognizant Outreach Head Strategy, Microsoft
+because it gives me a strong sense of purpose
+and helps me connect deeper with the
+communities that we ultimately serve through
+our clients. I take great pride in volunteering with
+my employer.
+Cognizant Outreach volunteer
+33
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Using technology for good
+NGOs and other charitable organizations improve It was a sheer delight to see my mentee’s
+communities yet are frequently under-resourced, continued progress. This program has also
+especially digitally. Our volunteers provide these helped me hone my mentoring and guiding skills,
+organizations with technology skills and software
+which is making me a better and more
+solutions to enhance their operations, amplifying their
+empathetic manager.
+work.
+Asia Pacific Volunteer for Singapore 1:1
+Digital Skills Mentoring program
+Cognizant Outreach Philippines
+engaged nearly 30% of our associates in
+volunteer work that supported students
+and youth with education and skills.
+The 1:1 nature of the mentoring program helps
+Similarly, Cognizant Outreach
+effectively address participating women’s unique
+Singapore worked with the National
+skills and needs. We loved seeing women’s
+Youth Council to provide 185 youth with
+confidence navigating technology.
+real life work experience that provided
+12 social service agencies with digital
+transformation services.
+Brendan Seah
+Partnerships & Operations Manager,
+Daughters of Tomorrow
+Africa
+In partnership with one of our key Life
+Sciences clients, GSK, Cognizant
+Outreach collaborated with Africa’s
+leading health charity AMREF Health
+Africa to develop an application that
+Volunteering in 2022
+helps users connect patients with health
+professionals. Cognizant Outreach delivers tech-centric,
+impactful volunteering programs implemented
+in a nuanced local context
+It was wonderful to partner with Cognizant to
+Value
+improve cloud skills in local community colleges.
+This program not only supported our SDG goals 47,000 150,000
+to improve quality education and promote
+volunteers devoted hours to volunteering
+decent economic growth, but importantly also
+resulted in nurturing trust and collaboration
+Training
+within our project teams as they came together
+over a larger shared purpose. nearly 7,500
+associates took voluntary training on creating
+Client, Financial Services accessible design
+34 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Global philanthropy
+We work alongside employers, educators, nonprofits Cognizant’s support to the BIT Academy, which
+and thought leaders to unlock economic opportunity
+delivers industry-relevant technical skills training
+and support investments in sustainable skilling to help
+and credentialing to blind and visually impaired
+improve the lives of people around the world,
+job seekers, was critical to expanding training to
+particularly in the US, UK, Canada, Australia,
+a Salesforce Platform App Builder Class and
+Germany and India.
+Salesforce Advanced Administrator Class.
+Since 2018, within North America, Australia and
+Europe alone, we have awarded approximately $65
+Mike Hess
+million to support numerous organizations working to
+Founder and CEO, Blind Institute
+inspire, educate and prepare people of all ages to
+of Technology
+succeed in the workforce of today and tomorrow.
+Cognizant also continued its commitment to
+advancing opportunity in the field of trust and safety
+and developing a pipeline of scholars by encouraging
+students to pursue academic programs and research
+in this field.
+In 2022, we awarded over $23.5 million in grants and gifts to 115 organizations around the world, furthering our
+mission to improve economic mobility and community resilience through strategic programmatic giving, local
+community support and disaster response.
+Examples of the grants given in 2022 include:
+Support industry relevant technical skills training and credentialing to blind and visually
+impaired job seekers who want to increase their wage potential and find meaningful careers
+Blind Institute of
+Technology in tech-related roles.
+Support the research, publication and dissemination efforts for Code.org’s annual State of
+Computer Science report and policy briefs to increase access to and participation in K-12
+computer science.
+Code.org
+Support capacity building of the TechVets program by improving its reach, tracking and
+The Forces engagement into training and employment, to more effectively support the military
+Employment
+community to find work in information technology.
+Charity
+Support the expansion of the digital marketing programs in London and Manchester and
+launch the Get Started Program in London to enable digital skills training and wraparound
+support.
+The Prince’s Trust
+Support the Raspberry Pi Computing Education Research Centre (in partnership with
+Cambridge University) to clearly identify how to teach computer science to primary and
+Raspberry Pi secondary school students along with practical resources for educators. Further support the
+Foundation
+expansion of Code Club and CoderDojo programs in the UK.
+35
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Cognizant In 2022, Cognizant Foundation India supported nearly
+90 projects with over 30 not-for-profit organizations
+Foundation India reaching hundreds of thousands of individual
+beneficiaries. Examples of philanthropy in 2022
+Since 2005, the Cognizant Foundation India has include:
+partnered with non-profit organizations across the
+• Partnering with local organizations to train persons
+subcontinent. In 2022, the Foundation strengthened
+with disabilities, and women, through our flagship
+its portfolio —historically focused on healthcare,
+skilling program, Tech4All. Tech4All was launched
+education and livelihood— and sharpened its focus
+in 2021 to train persons with disabilities, and
+areas along two thematic areas:
+women, for careers in technology and tech-enabled
+1. Improving access to quality healthcare services. The Foundation has lined up projects that
+will seek to train hundreds of persons with
+2. Building an equitable society through education
+disabilities and thousands of women in basic and
+and skilling
+advanced IT skills to place them in tech-related jobs
+Our projects are now increasingly focused on
+• Collaborating with Vision Empower Trust to launch
+inclusion and technology and include scholarships
+a pilot for inclusive education in math and
+and opportunities for digital learning, STEM and
+computation. The pilot was implemented in a dozen
+vocational training and promoting health
+schools in Tamil Nadu, India that cater to visually
+interventions for women, children and those at risk for
+impaired students, and nearly 400 students were
+blindness.
+trained
+Our programs
+Our focus
+Empowering persons with Holistic child development Gender equality
+disabilities
+Programs
+Leveraging technology and collaboration for greater impact
+Program theme Program theme
+Improving access to Building an equitable society
+quality healthcare through education and skilling
+• Preventing avoidable blindness • Accelerating access to higher education
+• Promoting women and child health • Skilling for employability and vocational
+education
+• Interventions for persons with disabilities
+• Promoting digital, STEM and inclusive education
+36 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Being Cognizant: Our people strategy Arriving at Cognizant: From recruitment through retention Working at Cognizant: Supporting our people
+Beyond Cognizant: Community engagement and philanthropy Next: Skilling associates with sustainability training
+Next: Skilling associates
+with sustainability training
+Cognizant deals in knowledge. Our clients increasingly expect us to incorporate sustainability knowledge into
+traditional industry-specific technology outcomes. Our clients’ interest is matched by that of our associates, who
+have and are taking sustainability training at scale with us.
+Goal for 2024 100,000 associates participating in voluntary sustainability and climate training to gain the
+skills to help deliver the future lower-carbon economy
+Sustainability By the end of 2022, 35,000 associates had taken voluntary zero waste training
+Training in 2022
+15,000 associates from 44 countries pledged and developed their own emissions-reduction
+goals, beating our internal goal of 10,000
+Clients Associates
+Our clients have made significant financial Of growing interest, especially among the junior talent
+commitments to transition to a lower-carbon Cognizant seeks to attract and retain, are the
+economy. They expect Cognizant to have an subjects of climate and sustainability. In addition to
+informed view on how digital tools can meet their tens of thousands of associates participating in
+sustainability goals. Throughout 2022 and into 2023, sustainability training, 15,000+ associates participated
+Cognizant provided various sustainability trainings to through an application associated with the United
+associates. Such training helps pair client digital Nations. Through this application, associates can
+transformation needs with an industry-specific access video lectures about a variety of topics,
+sustainability platform. including the basics of climate change, the water
+cycle and the global food system.
+37
+Environment
+We believe a modern business is a sustainable one—one that understands the health
+of its communities and the health of its value chain is connected to sustainable,
+healthy ecosystems. Technology can be a tool that supports sustainability efforts, and
+we think that makes it a business opportunity.
+As an active member of the international community, we know that climate change is a
+global concern and presents an urgent call for business leadership where a company has
+its most impact and opportunity. As a result, we are focused on reducing greenhouse gas
+(GHG) emissions and putting our technology and talent to work helping our clients meet
+their own resource reduction goals.
+In this section, learn about:
+Climate Risk and Reducing our Biodiversity and Water: Why Circularity: Next: Preparing for
+Opportunity: What greenhouse gas nature: The role we are working How we seek to understanding our
+our climate risks and emissions: How we can play in towards upcycle and nature-related risks
+opportunities may be we strive to lower nurturing healthy managing our manage waste and opportunities
+and how we consider our emissions ecosystems water footprint
+them
+38 Cognizant ESG Report 2022
+39
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Cognizant in the context
+of climate change
+More extreme weather events and resource scarcity To execute our climate strategy, we have
+can impact communities and clients around the four main pillars:
+world. Our focus is on managing our climate risks and
+opportunities in the context of our associates, our 1 Mitigate: our climate risks by identifying
+network of suppliers and other partners and the high-risk areas (page 41)
+communities in which we operate.
+Our climate strategy is designed to transition 2 Reduce: our emissions with a net zero goal
+Cognizant to a lower-carbon, sustainable company (page 52)
+by considering how climate impacts our value chain.
+Our climate strategy starts with and centers on our
+3 Expand: integrate our climate initiatives with
+most important assets— people and their knowledge
+those in water (page 58), circularity (page 59)
+— leveraged through the IT services we sell. We are
+and biodiversity (page 59) for a larger
+giving special focus to how climate may impact our
+associates where they live and work. We also assess positive impact
+the possible impacts of climate change on our
+vendors and clients.
+4 Solve: support our clients in their climate-
+related engagements (page 60)
+Please see our 2022 Form 10-K for information about
+Cognizant carefully assesses data on
+the risk factors that affect or may affect our business.
+our business landscape, determines the
+environmental risks and looks to seize the
+opportunities to use our scale and our
+technology expertise to help mitigate
+climate change.
+Dr. Stuart Poore
+Global Environmental Lead
+40 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Climate risk and opportunity
+In line with the recommendations of the Task Force on program, part of how we respond to extreme
+Climate-related Financial Disclosures (TCFD), we weather, including weather events made more
+share climate-related details on: likely by climate change
+Governance by management
+Governance
+Cognizant has dedicated resources to governance at
+Scenario analysis10
+the leadership and operational levels. At the executive
+Risk framework and management11 level, our CEO has overall responsibility for addressing
+climate risk and facilitating climate-related
+Opportunity opportunity. Day-to-day responsibility sits with our
+Chief Sustainability Officer (CSO), who works closely
+Metrics and targets
+with the CEO and reports to the General Counsel and
+Chief Corporate Affairs Officer. The CSO and ESG
+Governance
+team are responsible for embedding climate
+considerations throughout Cognizant’s business,
+Cognizant seeks to govern our exposure to climate including orchestrating the execution of our ambitious
+change through multiple forms and bodies. emissions reduction targets. To accomplish this
+objective, the CSO works cross-functionally with many
+Governance by Board of Directors
+leaders including the Chief Audit Executive (Internal
+The Board considers how climate change may impact Audit) and Enterprise Risk Management (ERM), the
+our business. Through its committees, our Board Chief Security Officer and the Chief
+discharges its oversight responsibilities as follows: Administrative Officer.
+• Governance and Sustainability Committee: At the operational level, dedicated leaders oversee
+Responsible for overseeing Cognizant’s approach Cognizant’s approach to managing environmental
+to broad ESG matters. In 2022, members of the risks and opportunities and strengthening client
+Governance and Sustainability Committee met to engagement and raising Cognizant’s ESG
+review ESG strategy and performance, including performance and transparency.
+our net zero goal, physical climate risk and ESG
+reporting. The Governance and Sustainability
+Committee also occasionally engages in related
+Board education Our commitment to ESG performance is realized
+by strengthening our company’s institutional
+• Audit Committee: Responsible for overseeing the
+capability and pairing that with rigorous and
+company’s enterprise risk assessment and
+management framework, including the company’s relevant transparency.
+processes for identifying, assessing, monitoring and
+mitigating key business risks, including ESG risk. In
+addition, the Audit Committee monitors M. Aya Kiy-Morrocco, Esq.
+Cognizant’s Global Business Resiliency (GBR) Head of ESG Governance
+and Reporting
+10 TCFD refers to scenario analysis as Strategy.
+11 TCFD refers to this as Risk Management and includes both risks and opportunities.
+41
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Enterprise Risk Management (ERM) GBR work in tandem. Country risk dashboards,
+developed by ERM, help us understand and illustrate
+We believe climate risk is not a standalone
+the risk exposure of doing business in countries with
+environmental risk but has a potential multiplier effect
+higher risk exposure to natural disasters and climate
+across other existing business risks. As such, our
+related regulatory regime changes, among
+governance of this risk is incorporated into
+other insights.
+Cognizant’s larger global ERM program. ERM enables
+the periodic measurement, monitoring, reporting and GBR also manages our incident response planning,
+oversight of the organization’s most significant which is designed to increase confidence in and the
+risk areas. resiliency of infrastructure. GBR’s controls are
+designed to predict and prepare the business for
+Our ERM process includes:
+acute and chronic physical shocks, including:
+• Identifying and prioritizing the top risk focus areas
+for the organization on a periodic basis hurricanes heatwaves
+• Assessing (measuring and monitoring) risk levels of
+the top risk focus areas
+floods drought
+• Facilitating risk mitigation actions, by working with
+business and functional risk owners GBR’s tools ideally enable us to assess specific
+• Reporting top risks to management and the Audit regional risks, such as unusual monsoons, which is
+Committee of the Board valuable to our regional leads in locations such
+as India.
+In addition to physical risk, our ERM program also
+strives to monitor possible legal, monetary, market
+and other transition risks associated with climate We follow ISO standard 22301, globally
+recognized as a tool to aid business
+change. For example, we seek to monitor our third
+continuity management during
+party ESG indices to track the organization’s external
+unexpected disasters.
+perception with respect to ESG. We consider
+appropriate responses and program adjustments to
+We have achieved certification for our India, North
+address any perception-related issues and actively
+America (US & Canada), Latin America, European
+engage with clients and investors who may
+Union and Asia-Pacific regions covering our Global /
+have questions.
+Regional Delivery Center operations.
+Global Business Resilience (GBR)
+Our risk prioritization and
+GBR’s primary objective is protecting continuous scenario planning
+operations while keeping our people safe. On a
+location-based level, our GBR department monitors One of our overarching goals is to determine how
+many risks, including physical climate risk. GBR reports climate change will affect our associates and our
+to our Chief Security Officer. GBR runs a global risk clients, including through the lens of our property and
+assessment process that identifies, assesses and supply chain. We also seek to understand the impact
+prioritizes physical risks. As we deepen and expand physical climate risk will have on the availability of
+our footprint across existing and new geographies, we talent across our locations and the support that our
+become exposed to multiple country-specific climate associates will need in the event of extreme
+risks. Our system is designed to help ESG, ERM and weather events.
+42 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+In 2021 and 2022, we conducted a scenario analysis of For each time frame, we considered possible impacts
+potential climate-related risks and opportunities that to Cognizant under varying degrees of heating and
+might occur between 2021 and 2050. In this analysis, the global responses to the impacts of that heating.
+we considered the significance of identified climate
+• Orderly transition to net zero 2050 (1.5°C): a high
+risks and opportunities and prioritized them based on
+degree of policy ambition and implementation of
+risk likelihood, impact and velocity. This allowed us to
+the Paris Agreement
+put structure to a range of possible future states
+under various degrees of climate disruption, with the • Disorderly and delayed transition (1.8°C): rapid,
+objective of integrating these considerations into the disruptive transition over a short time horizon
+realm of potential risks we consider and analyze. • Hothouse World’ (3°C): limited or no action taken to
+transition, thereby presenting the greatest stress
+In this Cognizant-specific scenario analysis, we
+test of physical climate risks
+catalogued risk and opportunity time frames:
+We then identified potential areas of high climate risk
+• Short term (up to 5 years)
+that were critical to our business at the regional,
+• Medium term (6-15 years)
+country or geographic level.
+• Long term (16-30 years)
+43
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Scenario analysis of potential climate-related risks and opportunities
+1 Identify and prioritize risk through extensive internal workshops and external research.
+Identification Prioritization
+Research and consultation to identify risk Prioritize using Enterprise Risk
+Management framework
+2 Employ ERM framework to identify our most significant physical and transition climate risks to take
+through scenario planning.
+Physical Risks
+Acute Extreme weather events causing damage to property that render it unusable
+Acute/Chronic Extreme weather events and trends affecting delivery capability
+Chronic Rising sea levels leading to disruption in operations
+Transition Risks
+Technology Power outages leading to disruption in operations
+Increased costs of transitioning to lower-emission technology
+Market Changing client behavior demanding greater commitment to climate strategy
+Increasing energy costs
+Reputation Poor sustainability reputation leading to inability to attract/retain talent
+Failure to meet climate commitments leading to negative media coverage and reputational damage
+Opportunities
+Services New and increasing client demand for climate solutions
+Use of new climate technologies
+Resource Efficiency More efficient facilities
+3 Assess how these risks will change over time based on increased heating.
+To allow Cognizant to consider the evolution of risk over time, we bucketed how likely and how severe a risk
+might be:
+Short term Medium term Long term
+0-5 years 6-15 years 16-30 years
+with current levels of heating with increasing heating with more heating
+Please see our 2022 Form 10-K for information about the risk factors that affect or may affect our business.
+44 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+In 2022, we furthered our prior climate scenario Property
+analysis by considering risk at a city-level and in the
+As climate change could affect our buildings and
+context of the size of our associate population by city.
+data centers, and therefore our business, we seek to
+We leveraged proprietary data sets from engineering
+understand the physical climate risk profile of
+companies and climate risk software to explore
+our properties.
+possible risks at a city level. Around the world, the
+cities where we have the most associates living are Based on this understanding, we then consider
+most prone to: targeted actions to address the specific risks
+identified, including seeking to keep properties dry
+1. Flooding generated by extreme rainfall and
+and adequately supplied with power.
+storm surges
+2. Prolonged and combined heat and humidity Monitoring
+India has already been impacted by climate change. To integrate climate risk into property management
+In 2022, India experienced extreme weather like heavy decisions and investments, we use site-specific
+rains and heat. We documented and recorded no climate data in our Facility Risk Assessment Profiling
+material financial losses from these individual events. (FRAP), which scores the risk profile of each individual
+Cognizant facility. We have designed warnings and
+Other risks explored but found to be less immediately
+processes to respond to weather events at facilities. In
+relevant due to smaller concentrations of associates
+2022, we included data on seven physical climate risk
+were drought, wildfire and hurricanes. (See the
+factors in our FRAP scoring (see below). We used this
+Governance Management section for more
+to identify appropriate resilience plans, which are
+information about our ERM process and
+reviewed annually.
+GBR program.)
+Risk framework
+and management
+In 2022, we looked across the Cognizant value chain
+and organized our thinking about how physical and
+transitional climate risks might manifest through the
+business. We focused on these risks and the
+geographies in which our associates live and work,
+with particular attention on the following major areas:
+Property
+Procurement
+People
+45
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Three-part Facility Risk Assessment Profiling (FRAP)
+Potential operational risk Business criticality Chronic climate trends
+8 threats considered: Sensitivity to delivery: Trend line 7 physical risks:
+1. Natural calamities 1. Projects with high headcount 1. Temperature extremes
+2. Accidents 2. Single location projects 2. Coastal flooding
+3. Engineering 3. Projects with return to 3. Drought
+operation <= 24 hours
+4. Infrastructure 4. Wildfire
+5. Network 5. Tropical cyclones
+6. Cyber 6. Water stress
+7. Continuity ability 7. River flooding
+8. Geo-political
+46 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Case study
+Eventuated (2020-2022) Actions
+In September 2021, a lake flooded our Bangalore In 2022, the property owner completed flood wall
+office after heavy rains. 700 associates were sent and drainage, the effectiveness of which we are
+from office to home and impact was limited due to monitoring through our FRAP.
+high remote work and leased nature of building.
+Chennai properties experienced heavy flooding in An office in Chennai to be connected with an
+2015. Since then we have consistently prioritized external storm water drain in 2023.
+the improvement of storm water drainage.
+Stress from weather-related events exacerbates • Water storage capacity more than doubled
+existing infrastructure challenges: in Chennai
+• In 2019, Chennai ran out of water and the city • As of July 2022, diesel storage in Chennai
+and Cognizant had to purchase and truck secured for long-running outages (including
+in water for data centers)
+• Inadequate diesel storage given increased
+likelihood of outages from floods
+Impact:
+• Through robust business continuity planning, Cognizant has maintained service delivery even during
+extreme weather events.
+• Cognizant plans to use climate data, among other data points, to shape decision-making around its real
+estate and consider the concentration of teams in certain locations to minimize impacts on delivery.
+47
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Mitigation
+In addition to FRAP-driven actions, over the last five years, we have implemented a series of mitigation measures
+at certain offices and data centers in India to attempt to combat the effects and risks of increasing frequency
+and intensity of extreme weather to our business operations.
+Flooding, drought Extreme temperatures Power outages
+• Locating equipment on high • Air conditioning for suitable • Installing diesel-powered
+floors internal environment back-up generators
+• Regularly checking and • Installing tinted windows to • Increasing diesel storage
+cleaning extensive drainage minimize heat from sunlight capacity at site for power
+systems generators
+• Connecting offices to external
+storm water drains
+• De-watering pumps to
+discharge excessive rainfall
+during a storm
+Alongside these measures, we have incident-response plans in place that undergo annual resiliency testing.
+Please see the Emissions Reduction section for more information on emissions from our data centers.
+Cognizant Data Center in Chennai, India
+48 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Procurement
+Our suppliers’ climate readiness may impact the resilience and continuity of their services and our ability to meet
+our own net zero goal. We recognize that our suppliers possess varying levels of understanding and preparedness
+in relation to climate risk. Our supplier dialogue is designed to help us learn from those with mature risk-
+management strategies and support those that are less advanced.
+Please see the Emissions Reduction section for more information on emissions from suppliers.
+Supplier engagement
+Commission support from:
+buildings resilience experts
+Level of climate change Learn from:
+Climate risk criticality
+preparedness climate action leaders
+Educate & support: suppliers new to
+considering climate
+Procurement: We are asking our most critical suppliers to prepare themselves for climate risk.
+Need Process Outcome
+• Attempt to insulate Cognizant Focus on limited key suppliers • Moves us toward goal to
+from climate risk by asking our rather than the full supply chain address physical climate risk
+most critical suppliers to know
+• Moves us on from asking
+their climate risks and work to 1 Identify business critical
+suppliers for carbon data to
+suppliers
+mitigate them
+also asking them about the
+• Engage top suppliers to 2 Send suppliers our climate more immediate risk of flooding
+ascertain level of risk assessment etc., as our own clients do
+understanding and
+3 Engage with suppliers that
+preparedness
+lack proper mitigation
+49
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Monitoring and mitigation Monitoring
+In 2023, we plan to engage suppliers we identified as The COVID-19 pandemic proved that we could
+high risk. These engagements will produce a supplier continue to produce high-quality work from home.
+profile and plan that will include: When dealing with climate change, however, sending
+people home is not a long-term solution to avoiding
+• Risk profile: Type and scale of risks that could
+the impacts of physical climate risk at our properties.
+impact Cognizant and adequacy of current plan
+An associate’s ability to work outside of a Cognizant
+• Prioritization: Most critical physical climate risks property is also dependent on their access to dry work
+requiring mitigation with timelines for delivery and locations with alternate power supplies when needed.
+KPIs for monitoring progress
+In 2023, we began assessing whether any associates
+• Resolution: Agreement based on level of risk
+were moving to new homes because of climate
+change. We also began exploring what they might
+need in order to work from home during floods and
+power disruptions.
+We expect our suppliers to be proactively
+Mitigation
+addressing and adapting to climate change.
+We believe part of helping people deal with climate
+Collective effort is needed to build resilience that
+change is helping them understand it. We want our
+we can all benefit from.
+people to feel grounded, personally and
+professionally, in the topic. We made available to all
+associates the use of an application that includes
+Melanie Temkin
+actions people can take to lower their carbon
+AVP, Procurement Sourcing
+footprint. Over 15,000 associates are using this
+application.
+People
+When considering risk, we consider our ability to serve
+clients and also realize how important the impacts of
+climate change on associate communities are to that
+ability.
+Thus, our ongoing objective is to understand how
+climate may affect where associates want to live and
+how employer expectations may differ in a hotter and
+wetter environment. This requires combining available
+predictions about heat and flooding with an
+understanding of how associates will respond to
+climate change.
+50 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Opportunity
+We believe addressing questions of sustainability can
+improve a traditional business model.
+Clients appreciate when we take a leadership role in
+addressing sustainability, including transparent
+reporting and regular direct communication. As client
+interest in our sustainability and ESG work has
+increased, we have also increased our one-on-one
+engagement with clients on the topic through our ESG
+team, to clearly communicate our relevant programs
+and progress, which can help create further client
+engagement opportunities.
+We don’t stop the conversation there, though. By
+using our capacity to transform businesses with data
+and technology strategies, we believe we can help our
+clients work toward sustainable business models.
+Climate opportunities available to Cognizant include:
+• Reducing our emissions: Meeting client
+expectations by cutting our own carbon footprint
+including through energy-efficient practices and
+the use of renewable energy sources (See
+information on our Green IT.)
+• Reducing client emissions: Helping clients reduce
+their own carbon footprints through the
+implementation of technology solutions such as
+cloud computing and virtualization (See
+information on our Carbon Calculator Tool.)
+• Offering sustainable services: Incorporating
+sustainability into the development and
+deployment of new products and services (See
+information on our Sustainability Solutions.)
+• Continually engaging on sustainability: Proactively
+communicating with clients about Cognizant’s
+commitment to sustainability and the steps we are
+taking to address it
+51
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Net zero goal: Metrics and targets
+We are working to ensure practical and Cognizant’s clients and investors have repeatedly
+steady progress: expressed strong interest in a net zero goal from us.
+Because we are part of the value chain that
+2020
+generates their emissions, they rely on us to create
+sustained, long-term emissions reductions in view of
+Publicly commit to making a net zero goal
+their supply chain footprint.
+2021 In 2021, we made a commitment to reduce emissions
+from our global operations and supply chain by 50%
+Establish a public, time-bound net zero goal by 2030, and by 90% by 2040, in each case compared
+commitment and ambition along with a six lever plan to
+to our 2019 emissions baseline. Where absolute
+achieve it
+emissions reductions are not physically or financially
+viable, we plan to use carbon offsets. We call this our
+2022 ‘net zero goal.’ We chose 2019 as our baseline year
+because it was the last year before the COVID-19
+• Validate near-term science-based emissions pandemic that altered our operations and therefore
+reduction target for our planned action through 2030 best represents the expected annual pace of our
+by the Science-Based Targets Initiative (SBTi) emissions.
+• Create emissions footprint and commission an
+external third party to perform attestation
+procedures
+• Design and deliver a roadmap to reach goals
+• Build robust process for automation with strong data
+controls
+2023 and beyond
+• Validate long-term science-based emissions
+reduction target for our planned action through 2040
+by the SBTi
+• Regularly review and report progress on delivery of
+our net zero goal
+52 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Science Based Targets Key elements of our net zero goal
+initiative (SBTi) validation • Focuses on absolute emissions reductions through
+operational efficiencies and renewable energy use,
+before the use of carbon offsets
+We are proud of the rigor and analysis we strive to put
+behind our net zero goal, which will result in emissions • Measures reductions from a recent, pre-COVID-19
+reductions for ourselves and our clients. Our goal has emissions baseline (2019)
+been validated by the SBTi, a global partnership • Includes a near-term renewable electricity target
+working with institutions on robust emissions reduction
+• Includes often-hidden emissions, from travel to supply
+efforts. SBTi has validated our net zero goal in two
+chain to associate commuting, in Scope 3
+phases: near term and long term.
+• Aligns with the need to keep global average
+In 2022, the SBTi released updated guidance on temperature increases to 1.5 degrees Celsius
+setting corporate net zero standards. Our science-
+based target for achieving a 90% reduction in total
+emissions by 2040 is aligned with this standard. We plan to achieve our net zero goal
+through six main levers:
+2026
+1
+100% Green IT
+renewable electricity goal 2 Energy
+At least 3 Supply chain
+90%
+4
+Travel reduction
+of our top 150 suppliers by emissions
+have set a science-based target to
+5
+Use of offsets
+reduce emissions
+2030 6 Training
+Reduce absolute emissions by
+50%
+in our global operations and supply
+chain, offsetting the rest
+2040
+Reduce absolute emissions by
+90%
+in our global operations and supply
+chain, offsetting the remaining,
+unavoidable emissions
+53
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Green IT Energy
+We seek to optimize energy consumption across our Renewable energy and energy efficiency create
+IT infrastructure globally, implementing smart and absolute emissions reductions in our operations. By
+efficient strategies to manage our energy demands obtaining renewable energy, including electricity
+and lower emissions from our operations. Significant from renewable sources directly and indirectly, we
+improvements have been made since 2019 in: seek to create new demand and stimulate green
+market growth.
+• Data centers: We have reduced the total footprint
+of our data centers by 17% over the course of 2021 Renewable electricity
+and 2022 and improved our Power Usage Efficiency
+by 9%. We have also accelerated our hyper
+In April 2022, we announced our objective to
+convergence of servers while optimizing physical by
+source 100% of our electricity needs for our offices and
+13% and virtual by 20%. Cloud migration is a priority:
+facilities from renewable sources, like solar and wind,
+80% of our software applications now reside in
+by the end of 2026.
+the cloud
+• Collaboration: By focusing on the use and benefit
+of online collaboration tools we reduced the need We increased our global sourcing of renewable
+for associate travel. We estimate that our electricity to 30% - a 3% increase from 2021.
+associates have devoted nearly 400 hours per
+We are working with renewable energy developers to
+associate to virtual conversations since mid-2019.
+continue or enter into group captive power purchase
+Our focus has been on consolidating our meeting
+agreements (PPAs) for solar and wind projects for our
+platforms, and we have reduced the use of Internet
+electricity needs in India. We plan to use renewable
+Protocol phones by 37%
+energy certificates where our electricity demand is
+• End user computing: Energy consumed through insufficient to warrant use of a PPA. As the scope of
+office IT equipment represents a significant source our real estate holdings evolve, Cognizant will
+of emissions. Our initiatives to reduce our footprint leverage both direct and indirect renewable electricity
+include i) reducing sleep time for associate laptops; purchasing. For example, in 2023 Cognizant
+ii) upgrading operating systems remotely instead encouraged a sustained hybrid and redistributed
+of using on-premise infrastructure; iii) scaling work model. This model may not reach sufficient
+down office printers; and iv) switching associates concentrated energy demand required for PPAs.
+from desktops to laptops, thereby achieving an Instead, we may focus more on IT energy usage and
+80% reduction in power needed for renewable energy certificates. See below.
+associates’ computing
+Energy efficiency program
+• Network: We have significantly improved the
+Energy efficiency is a also a priority. We focus most of
+energy efficiency of our network with new
+our energy efficiency work in our owned buildings in
+hardware such as routers using 30% less power
+India. These buildings are the largest source of our
+than existing equipment
+energy use and we have the most flexibility and ability
+to determine and influence demand.
+By greening our IT, we have
+reduced emissions associated Equipment upgrades: We upgrade aging HVAC
+equipment in our owned buildings, using modular
+with our IT infrastructure by 60%
+uninterruptible power supply (UPS) systems in place of
+since 2019. conventional units and adopting LED lighting in our
+facilities to enhance our energy efficiency.
+54 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+• Consolidating UPS systems and re-engineering dependence on carbon offsets. We engage with our
+chilled water distribution: both of these efforts suppliers and request that they:
+reduce energy consumption and lower energy costs
+• Gather and report (to us) GHG emissions data
+• LED retrofit: replace existing compact fluorescent
+• Set their own net zero targets
+lights with LED and optimize lighting requirements
+Please see the Supplier net zero goal section for more
+We estimate that these projects have an energy
+information.
+saving potential of up to 4.7 million kWh. In 2023, we
+will continue to replace or upgrade HVAC equipment Our most significant development is the introduction
+and UPS units in our owned buildings to improve of a new target that addresses the Scope 3 emissions
+operational efficiency. relating to our suppliers.
+Looking ahead, we are setting up a centralized Percentage of Cognizant suppliers with a
+enterprise building management system platform in documented goal to reduce their greenhouse gas
+India to integrate all facilities and organize energy use emissions to net zero over time12
+data from multiple sites into a single, easily accessible
+2022
+online repository. Real-time information access will
+10 - 15%
+improve data analysis and facilitate data-driven
+decision-making. Additionally, it can provide a flexible
+and reliable database that can help us to interface
+2023
+with analytical tools on cloud spaces for fine-tuning,
+global benchmarking and making positive changes 15 - 20%
+throughout our built environment.
+We offer similar services for our clients to help End of 2026
+them use data, automation and IOT to improve the
+At least 90%
+energy efficiency of their buildings. See Client
+Sustainability Services.
+Supply chain
+At the 23rd Energy Excellence Summit organized
+by the Confederation of Indian Industry (CII)
+10 of our facilities In 2022, Cognizant set a bold goal
+were recognized for contributions toward that at least 90% of our top 150
+energy optimization.
+suppliers by spend will have set their
+own emissions reduction targets by
+We are helping our suppliers reduce their emissions as
+the end of 2026.
+they represent 63% of our overall carbon footprint. We
+believe addressing emissions from our suppliers is
+critical to reducing our Scope 3 emissions and future Please see our Supply chain section under our
+Governance pillar for more information.
+12 Suppliers are their own entities and data are accurate as of report publication.
+55
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Travel reduction Culture and training
+Our travel philosophy is based on ensuring efficient Reaching our net zero goal will take commitment and
+movement to support business goals. Our travel a cultural shift from within. Large companies like ours
+emissions have been reduced by 72% since 2019, the have the power to help mobilize and educate
+baseline of our net zero goal. The COVID-19 pandemic hundreds of thousands of associates to contribute to
+is responsible for most of that reduction, but we also our net zero goal actions. This is one of the reasons
+work to maintain this trend by: we are prioritizing the provision of climate training.
+• Setting limits on travel expenses and therefore In addition, business solutions to climate change
+emissions require digital transformation; as digital
+transformation experts, Cognizant will lead our clients
+• Requiring pre-travel approval and delivering
+in this space. To do so, we are taking steps towards
+information to associates on the carbon footprint
+developing a climate-competent workforce, a part of
+of travel
+meeting climate goals.
+• Building on reports from the airlines we use to
+identify wasteful trends For more information on how we engage clients, see
+the Sustainability Solutions section of this Report.
+• Improving the insights we provide associates on the
+emissions impact of air travel through the company Our actions:
+travel booking system
+• We began our education efforts in 2021 when we
+Use of carbon offsets trained 28,000+ associates on zero waste efforts
+• In 2022, we gave associates access to an
+We strive to prioritize absolute emissions reductions
+application which is a platform for individual action
+before the purchase of carbon offsets. As much as we
+on climate change and sustainability. More than
+desire and strive for absolute reductions, we also
+15,000 associates took more than 1 million actions
+recognize the physical and economic barriers to a
+near-term zero-carbon economy. • In 2023, we launched a robust climate education
+program and set a goal to provide 100,000
+Our goal is rapid decarbonization that allows for the
+associates with climate training by the end of 2024
+continued growth and prosperity of our associates,
+communities and clients. To achieve this, we believe For more information, see our section on Skilling
+quality offsets have a place in the global transition to associates with sustainability training.
+a lower-carbon economy, and we plan to use them
+where absolute emissions reductions are not
+physically or financially viable.
+3 By spend as of December 31, 2022.
+56 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Based on our current processes, we have calculated our emissions as follows:
+Carbon dioxide equivalent (metric tons) reporting year 2022
+Scope 1
+Scope 1 9,999 13
+Scope 2
+Location-based 101,402 13
+Market-based 66,624 13
+Scope 2 (referencing market-based) 66,624 13
+Scope 3
+Purchased goods and services 666,279 13
+Capital goods 141,113 13
+Fuel and energy related activities (FERA) 40,498 13
+Business travel 83,807 13
+Employee commuting 14,635 13
+Upstream leased assets 24,491 13
+Upstream transportation and distribution 806 13
+Waste generated in operations 232 13
+Investments 1,068 13
+Scope 1, 2 (referencing market-based) and 3 1,049,552
+Outside of scopes (R22 refrigerant) 1,045
+Energy consumption in gigajoules (for Scope 1 and 2 activities) 623,351 13
+% electricity from renewable sources (India) 44% 13
+13 We commissioned an external third party to perform attestation procedures with respect to this metric for the year ended
+December 31, 2022. Full details and data methodology are available in the Report of Independent Accountants.
+57
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Water stewardship
+We aim to consume water responsibly. Our long-term contributed to a reduction in water consumption. In
+water stewardship plan is aimed at reusing and 2022, we harvested 16,838 kiloliters (4.4 million gallons)
+recycling water. of rainwater through groundwater harvesting pumps,
+meeting around 9% of total water consumption needs
+In 2022, we added risk prioritization to our global
+in owned facilities. Additionally, recovering
+water risk management efforts, which sets the stage
+condensate from air handling units added another 1%
+for engagement plans in high-risk areas. Through our
+to total water recovery for a total of 2,674 kiloliters
+FRAP, we identify overall environmental risks, including
+(706,396 gallons).
+those focused on water like inundation and scarcity.
+These risks are tracked and tackled at the facility Reusing treated water for horticulture, toilets and
+level. cooling towers in certain facilities reduces freshwater
+usage and enables us to lower water costs.
+Our efforts in rainwater harvesting and condensate
+recovery in our owned buildings in India have
+58 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Circularity:
+Upcycling and reducing waste
+We use the principles of circularity as a guide for our scraps into manure, which were used as a natural
+waste management efforts. fertilizer for landscaping.
+In 2022, Cognizant associates in the Philippines
+Our focus for e-waste management is to maximize volunteered and collected nearly 240 pounds of
+the reuse of our computers. In 2021, we committed to waste such as plastics, rubber and trash bottles. The
+keeping 80,000 computers out of landfill. By the end Department of Environment and Natural Resources
+of 2022, we kept over 62,000 computers out of recognized our efforts toward the conservation and
+landfills and remain focused on meeting this rehabilitation of natural resources and the promotion
+commitment in 2023. of environmental protection and sustainability.
+Our facility operations in India recycled 76 metric tons
+of paper and packaging materials from our facility
+operations. Organic waste converters converted food
+Biodiversity and nature
+Clients are increasingly interested in the role we play
+in managing biodiversity and nurturing healthy In 2022, a number of Cognizant Outreach projects
+ecosystems in their value chain. This is because there continued their work in support of protecting
+is an increasing recognition in the business biodiversity. Since 2022, Cognizant Outreach in the
+community we serve that companies may need to Philippines has supported mangrove and tree
+look beyond climate to waste, water and biodiversity plantations on a large scale. Our team periodically
+to understand the interwoven nature of their value visits the mangroves to maintain them. Volunteers in
+chain and the environment. Manila and Cebu planted over 2,000 mangrove
+saplings and hundreds of Narra tree saplings.
+We acknowledge the positive role we could play over
+time through client and community support, supplier
+partnerships and associate volunteering to support
+nature restoration, conservation, regenerative
+agriculture and invasive species removal. See the
+Client Sustainability Solutions section for more
+information.
+59
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Client Sustainability Solutions
+Seizing the sustainability opportunity requires new Examples of our work with clients in 2022 include:
+operating models, supported by new data flows and
+• Helping a client efficiently collect, register and
+information systems that make it possible to
+analyze data from 36,000 suppliers, allowing the
+accelerate meaningful change. To help our clients
+client to set appropriate Scope 3 GHG emissions
+expand their sustainability efforts, in 2022 we
+performance indicators
+launched our new Solving for Sustainability Services.
+• Creating a suite of hardware, software and cloud
+We have five core offerings:
+solutions that allowed a large retail chain to better
+predict and monitor refrigeration system controls,
+1
+Net zero pathways preventing food waste
+• Building a Geographic Information Systems early
+2 Sustainability and ESG reporting warning and emergency action system that
+collates various types of agricultural data (like crop
+diseases, adverse weather, ground conditions and
+3
+Sustainable products and circular economy more) to provide warnings to local farmer
+communities in locations like Malaysia and Sub-
+Saharan Africa, helping them become more
+4
+Sustainable manufacturing and operations
+resilient in the face of climate change
+• Helping an equipment manufacturer redesign its
+5 Sustainable supply chains HVAC controller products used in the building
+automation industry, resulting in a 10-15% reduction
+in power consumption, a 5-10% reduction in product
+cost and cost of ownership, a reduction in
+components thrown away due to a modular design
+and a reduction in components involving
+hazardous substances
+60 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Cognizant in the context of climate change Climate risk and opportunity Net zero goal: metrics and targets Water stewardship
+Circularity: Upcycling and reducing waste Biodiversity and Nature Client Sustainability Solutions
+Project-level carbon footprint
+Clients are increasingly interested in
+calculator14
+understanding the energy needs of our work
+Developed in-house, our proprietary carbon with them. To address this demand, we have
+footprint calculator provides an estimate of the incorporated a proprietary carbon calculator
+GHG emissions generated by Cognizant into our Delivery Center of Excellence.
+operations when delivering projects and services
+to our clients. Estimated emissions can then be
+tracked through the actual engagement lifecycle Nisha Deshpande
+of a project to understand estimate accuracy and Delivery - Carbon Footprint,
+derive actions to control, improve and/or sustain Center of Excellence
+emissions. We hope that sharing the emissions
+estimate with the client allows them to access the
+GHG impact of the project in their own GHG
+emissions inventory. We plan to review our
+methodology annually.
+14 A project includes the activities necessary to deliver a combination of professional services and/or information, communication, data and
+computing technology to a client. Project delivery activities also include Cognizant’s organizational resources and supporting services that
+make project activity possible. The calculator seeks to include both emissions from resources directly involved in a specific project delivery as
+well as from supporting services provided through Cognizant’s corporate structure.
+61
+Governance
+We believe good governance includes strong oversight from our Board and its
+committees, combined with robust ethics and compliance policies and programs.
+We govern ESG issues identified by our priority assessments, stakeholder engagement
+and enterprise risk management processes.
+In this section, learn about:
+Our ESG Enterprise Risk Ethics and Associate Supply chain Data security Data privacy Public policy
+governance Management compliance health and and political
+strategy safety activity
+62 Cognizant ESG Report 2022
+63
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Our ESG governance strategy
+Our ESG governance strategy focuses on • Considering scientific research and using
+transparency and accountability. We practice these stakeholder feedback and industry best practices
+principles by: to identify our most important ESG focus areas and
+connect them to our business purpose. This helps us
+• Performing regular internal audits of the controls
+calibrate in a fast-changing world
+functions we use to validate ESG-related data
+• Having strong Board oversight of our ESG strategy
+and reporting
+2021 Commitments 2022 Actions
+Supply chain: Expand tools and outreach to engage Organized emissions reduction workshops for top 150
+more suppliers in setting and meeting ESG standards suppliers and worked with the top 20 of this group to
+and best practices help them understand their impact on our Scope 3
+emissions
+Worked with remaining top 130 suppliers to focus on
+their use of science-based targets and their annual
+submission of information to CDP
+Formalized risk-based assessment criteria to identify
+suppliers most at risk and subject to modern slavery
+due diligence process
+Supply chain: Continue to engage with diverse Target: Aspire to reach $1 billion of annual spend in
+suppliers in our supply chain the US with diverse suppliers
+Target: Each Category Sourcing Head on our
+Procurement team will have specific spending goals
+Target: Aspire to add two African American–owned
+and one veteran–owned supplier each quarter from Q4
+2022 through the end of 2023
+Ethics and compliance: Update governance-related Updated Global Trade Compliance Policy and
+policies to align with best practices Environmental Health and Safety Policy
+Every Executive Leadership Team member’s 2022
+performance profile included a metric on conveying
+tone at the top messaging
+Risk management: Put data to work improving risk Received recognition from Gartner for risk assessment
+management around ESG topics framework and use of analytics
+64 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+ESG oversight and governance
+Our Chief Sustainability Officer leads the Cognizant ESG program, which is reviewed by the Board through its
+committees.
+Board of Directors
+Audit Compensation and Human Governance and
+Committee Capital Committee Sustainability Committee
+Oversight of Enterprise Risk Oversight of human capital Oversight of ESG program
+Management program management issues, including
+diversity and inclusion; general
+talent management; retention;
+and development and training
+CEO and Executive Committee
+Head of Diversity and Inclusion Chief Sustainability Officer
+Executive and Senior Leadership Teams integral to related change management
+Our stakeholders
+Associates Clients Investors Suppliers Communities
+65
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Approach: Organize around
+our stakeholders
+Integrating ESG considerations into our business strategy helps us meet client, investor and other stakeholder
+expectations and achieve our stated purpose—to engineer modern businesses to improve everyday life.
+Responsible operations and transparency around environmental and social efforts are increasingly important to
+our stakeholders. This is why our ESG program is designed to support the expectations of our stakeholders,
+surface new value and identify and mitigate risk. (See Strategy: Create sustainable value to see how input from
+our stakeholders informed our prioritization of ESG issues and their integration into our business strategy.)
+Stakeholder Our approach Engagement in 2022
+We strive to enable our clients to create more sustainable See Client Sustainability
+business outcomes and help them meet their own ESG Solutions
+commitments
+Clients
+Our associate commitments and social impact programs See Employee engagement
+aim to engage associates, contribute to our company See Next: Preparing for the skills
+culture and help associates amplify their personal impact of the future with sustainability
+in the world training
+Associates
+We seek to actively demonstrate how ESG can be Ongoing investor ESG
+integrated to support our business and will seek to engagement
+address their expectations, for example with diversity
+progress and time-bound climate commitments
+Investors
+We partner with suppliers to set ESG expectations and See Supply chain: Supplier
+encourage progress across our supply chain diversity program in the US and
+Human rights
+See Supply chain: net zero goal
+Suppliers
+We aspire to leverage our technology expertise and local See Beyond Cognizant:
+partnership programs to help strengthen the Community engagement and
+communities in which we operate philanthropy
+Communities
+66 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Cognizant governance policies
+Anti-Corruption Policy
+Code of Ethics
+Environmental Health & Safety
+Human Rights Policy
+Modern Slavery Statement for Supply chain
+Public Policy Engagement
+Supplier Diversity Policy
+Supplier Standards of Conduct
+Whistleblower and Non-Retaliation Policy
+67
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Enterprise Risk Management
+Our ERM program seeks to ensure that our company In 2022, our cross-functional steering committee
+is prioritizing on key risks, by: continued to address our third party risk management
+process. ERM continued reporting risk deep dives to
+Identifying the Audit Committee.
+Assessing
+Our ERM program received recognition in the
+Facilitating form of a case-study from Gartner in 2022 for the
+use of a structured risk framework for data
+This includes facilitating the management of our most analytics adoption.
+significant risks, including ESG-related risks such as:
+climate change and business resiliency, ethics and
+compliance, data and cybersecurity and data
+privacy. See our section on TCFD for how we manage
+our climate risks and opportunities.
+Ethics and compliance
+We seek to distinguish ourselves in the market by Tone at the top
+maintaining the highest standards of integrity.
+Cognizant’s Board, CEO, Executive Committee and
+Governance
+Executive Leadership Team (ELT) support a culture of
+ethics and compliance by setting the tone at the top.
+Our Chief Ethics and Compliance Officer, responsible
+An ethical tone at the top requires us to provide
+for the operation of the Ethics and Compliance
+associates with clear statements of our values,
+organization, reports to our General Counsel, and is
+policies and processes. The ELT promulgates the tone
+under the direct oversight of our Audit Committee.
+at the top by sharing required ethics and compliance
+Our Global Compliance and Ethics Committee works
+messaging with their respective teams.
+across operating segments to support the compliance
+program. Cognizant leaders are responsible for
+driving ethical behavior and we expect our associates Every executive leader’s performance
+to uphold high standards of ethical conduct. measurement included a metric around tone
+at the top in 2022.
+68 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Ethics and compliance encouraged to follow our “Cognizant Agenda,” which
+articulates a set of values that promote a culture of
+(E&C) risk management integrity, collaboration and inclusion and reinforce
+relevant expectations and standards.
+model
+Cognizant’s Code of Ethics training course, which
+must be completed annually by all associates,
+The E&C team uses policies and processes designed
+includes a module on diversity and preventing
+to require and support ethical behavior throughout
+discrimination and harassment. This training is
+our business. (See E&C risk management model.)
+supplemented with other diversity-focused training
+and leadership-development initiatives, such as
+7 pillars: E&C risk management model
+country-specific training, inclusive leadership training,
+Prevent mentoring and sponsorship programs. Additionally,
+Cognizant associates in the US, India and Latin
+Standards & Procedures
+America must complete our Preventing Harassment
+and Discrimination Training each year. This training
+Training & Education
+covers protected categories, gender identity and
+Oversight & Governance expression, accommodations and other significant
+topics related to harassment and discrimination. Our
+Detect goal is 100% timely completion of mandatory ethics
+and compliance training for all associates. In addition
+Monitoring & Auditing
+to tenured associates, all new associates are required
+to complete our Code of Ethics course within 30 days
+Reporting
+of joining.
+Respond
+To further our culture of integrity, in 2022 we
+Internal Enforcement & Discipline developed and piloted a scenario-based workshop
+designed to enhance ethical leadership and
+Remediation, Response and Prevention awareness among associates in middle management
+roles through discussion, case studies based on
+Code of ethics investigation activity and common situations, and
+communication of trends, observations and
+developments in the regulatory environment. This
+Our Code of Ethics sets forth our guiding principles
+program will be a focal point of our ongoing initiative
+and values that establish a standard of conduct
+to supplement tone at the top with tone from culture
+everyone in our organization is expected to uphold.
+setters in the middle of the organization.
+The Code integrates Q&A scenarios and includes an
+interactive format aligned with Cognizant’s focus on
+digital. Our corporate policies, refreshed on a triennial
+Working for a company with strong ethics is an
+basis with an emphasis on continuous simplification
+integral part of our value proposition to our
+and learning from observations from the preceding
+associates, our clients and partners, and the
+three years, reinforce that standard. Among the
+policies refreshed in 2022 was our Global Trade Policy, communities in which we operate.
+with updates reflecting changes in the global
+sanctions landscape and risk environment. In addition
+to our Code and policies, all associates are Marc Levin
+Chief Ethics and
+Compliance Officer
+69
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Anti-corruption Cognizant has publicly available methods for
+associates to report concerns or ask questions about
+our ethics and policies. Among them is our
+Our zero-tolerance approach to bribery and
+Compliance Helpline, available to all of our
+corruption in all of its forms is outlined in our Anti-
+associates, vendors, clients and others, to
+Corruption Policy. The policy is accessible on our
+anonymously report suspected violations of the law,
+corporate website and available in eight languages.
+our Code of Ethics or other policies. The Helpline is
+The document details our commitment to operating
+accessible via telephone, our intranet and online.
+ethically and in compliance with relevant anti-
+Reports of suspected improper or unethical activity
+corruption laws in the areas in which we operate.
+are investigated and treated with confidentiality in
+Whistleblower compliance with local laws.
+For the third consecutive year, the ethics and
+and non-retaliation
+compliance driver scored best in our annual
+Engagement Survey, increasing to its highest level yet
+In line with our mission to cultivate a culture in which it
+– a reflection of our associates feeling comfortable
+is safe to speak up, our Whistleblower and Non-
+speaking up and their confidence in the ethical
+Retaliation Policy encourages associates to report
+behavior of management.
+concerns or questions, without fear of retaliation,
+whenever they observe potential instances of
+unethical behavior in our operations.
+Associate health and safety
+We integrate the principles and practices of our As of 2022, 92% of our workspace was covered by ISO
+environmental, health and safety (EHS) management 45001:2018 Occupational Health and Safety
+system across our organization to ensure a healthy Management System and 90% was covered by ISO
+and safe working environment for everyone, including 14001:2015 Environmental Management System. We
+associates, contractors, business associates, vendors now track and report this metric based on workspace
+and the community at large. (e.g., offices) rather than associate count in a
+workspace. This allows us to accommodate the
+We revised our global EHS Policy in 2022 and
+realities of hybrid work.
+expanded facilities covered by our EHS management
+system. New EHS e-learning courses were rolled out
+Workspace coverage 2022
+on our EHS intranet page, and we implemented a
+Hazard and Aspect Identification and Assessment of
+ISO 45001:2018 Occupational Health
+Risk and Opportunity program. 92%
+and Safety Management System
+ISO 14001:2015 Environmental
+90%
+Management System
+70 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Supply chain
+We extend our ESG focus across our supply chain In 2023, we aim to continue incremental increases in
+ecosystem. Suppliers must abide by our Supplier our spend in the US with diverse suppliers by
+Standards of Conduct, Code of Ethics and Anti- increasing the participation of African American,
+Corruption Policy. We collaborate with our suppliers Native American and veteran-owned suppliers in our
+on due diligence, transparency and continuous program. In addition, we strive to achieve following
+improvement. Our suppliers can then in turn extend goals during 2023:
+these principles to their own suppliers.
+• Modify our Request for Tender templates to
+Supplier diversity specifically address diversity questions for suppliers
+• Aspire to add an additional Native American-owned
+In 2021, we launched a Supplier Diversity Program in supplier by the end of 2023
+the US, and in 2022 we made significant progress. We
+• Implement a Tier- 2 supplier diversity program by
+increased our annual spend with diverse suppliers by
+the end of 2023
+18%, year-over-year. In addition, we:
+• Expand our supplier diversity program outside of
+• Established a Steering Committee of Procurement, the US, starting with the UK and Canada
+Diversity and Inclusion, Delivery Operations, Human
+Resources, Training and Development and
+Environmental, Social and Governance experts
+• Convened a working group of Supplier Diversity
+Champions throughout the company to help us
+design and implement growth strategies We continue to develop relationships with
+diverse suppliers and set targets to increase our
+• Mandated the inclusion of diverse suppliers in all
+large sourcing engagements spend with them. We believe this will enhance
+our ability to meet the needs of our clients.
+• Began to provide diverse spend targets to our
+Procurement Category Heads
+Spend targets 2021 2022
+Michael Krinick
+AVP, Procurement Services
+% of domestic spend on
+32% 36%
+diverse suppliers
+Increase in annual run
++33% +18%
+rate of spend with diverse
+suppliers
+71
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Human rights During 2022, we began a process of proactively
+reassessing our high-risk suppliers.
+There is no place in our supply chain for human
+Supplier net zero goals
+trafficking in any form. We do not make use of child
+labor or forced labor, and we seek to never work with
+We engaged with our suppliers to help them reduce
+third parties that engage in such practices.
+their emissions as part of our net zero goals.
+We have implemented new risk-based Modern
+In 2022:
+Slavery assessment criteria to ensure that our
+partners share our values and standards. These • We organized workshops for our top 150 suppliers
+criteria help us identify which suppliers present the that contribute the most to our emissions
+highest levels of risk of exposing Cognizant and our • In this group of 150 we worked with the top 20 to
+supply chain to slavery-related practices and help them understand their impact on our Scope 3
+therefore will be subject to our modern slavery due emissions. We specifically focused on the
+diligence process. Suppliers can specify which importance of committing to science-based targets
+international human rights standards they follow and and annual submission of data and information to
+provide information on relevant topics such as health help track progress
+and safety, freedom of association and collective
+bargaining, child labor and modern slavery, and
+standards for vulnerable populations.
+Data security
+Our Corporate Security team is committed to
+delivering world-class security and risk-management
+With an ever-changing threat landscape and
+capabilities to protect and enable our trusted global
+increased sophistication of cyber threats, we
+business while creating client value and competitive
+strive for operational excellence in our core
+differentiation.
+cyber capabilities while continuing to mature
+5 elements of data security management and enhance our systems. Continuous vigilance,
+improvement and learning is the mantra I
+Identification challenge our Corporate Security organization
+to live by.
+Prevention
+Detection
+Anil Cheriyan
+Response EVP, Strategy and Technology
+Recovery
+72 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Our approach adheres to third party standards, Culture and training
+including the National Institute of Standards and
+Training is part of creating a security aware culture.
+Technology’s (NIST) Cybersecurity Framework and
+Mandatory security training for all associates is
+other applicable regulatory and client control
+conducted annually, and new hires must complete
+standards requirements. In 2022, we began
+the training within 30 days of hire. Our Business
+preparations for compliance with the ISO 27011:2022
+Information Security team also works with clients to
+standard. We have maintained our certificates for
+conduct security training.
+information security management systems such as
+ISO27001 certification since 2002 and are currently
+Our 2022 training highlights include:
+ISO27001:2013 certified through 2024.
+Governance of Created a Secure Software Development
+Lifecycle Center of Excellence to manage
+data security mandatory training for our software
+developers
+Our Corporate Security team reports to the Board
+with security presentations and cyber metrics. In
+Incorporated insider threat training into
+addition, quarterly updates are presented to the Audit
+all mandatory training
+Committee on risk remediation, modernization
+programs and metrics.
+The Security and Technology Risk Committee (S&T) is
+composed of management and meets regularly and Expanded awareness and phishing
+includes S&T senior executives as well as relevant training to certain role-based populations
+partners from ERM, Internal Audit, Legal, Privacy and and are now initiating supplementary
+Procurement. The S&T’s focus areas include cyber role-based training for higher-risk
+threat trends, insider threat concerns, security control populations, including software
+testing results and key modernization activities. developers, privileged administrators,
+senior executives and third party
+Security policies and procedures
+vendor sponsors
+Our Global Security and Acceptable Use Policies set
+out the responsibility of our associates to follow
+security controls and requirements. These policies and
+standards are reviewed and updated as required but
+at a minimum on an annual cadence.
+We continue to refine our risk assessment and
+management processes to support our ongoing
+security modernization and maturity enhancement
+efforts across the enterprise under the governance of
+our Security Integrated Risk Management group.
+73
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+2022 data security highlights and 2023 focus areas
+2023 Focus areas
+Our task is never done and our focus for 2023 is to continue to build on our 2022 achievements and security
+maturity journey to date. Key focus areas include:
+2022 Achievements 2023 Focus areas
+Conducted an external NIST CSF maturity Continued enhancement of our governance and risk
+assessment across Corporate Security and IT and management capabilities and reviewing strategy to
+working to close observed high priority gaps align our NIST processes to the MITRE ATT&CK
+and opportunities framework
+Expanded ongoing data collection and metric Continued enhancement and expansion of program
+generation processes to track alignment of our operational excellence via automation and improved
+activities with key performance indicators operational metrics
+Reduced identified vulnerabilities and security gaps Ongoing modernization of our cybersecurity and
+while continuing to modernize our infrastructure and operations (e.g., firewall modernization and Identity
+processes across all our security domains and Access Management) and initiation of our Zero
+Trust journey
+Enhanced security maturity in: Further enhancement of our security culture through
+expanded security training of our general and higher-
+• Asset management
+risk populations including software developers and
+• Endpoint protection functional high-risk areas such as accounts payable
+• Vulnerability management and sensitive general counsel activities
+• Global cyber intelligence and operations
+• Disaster recovery and business continuity
+Increased our investment in deterring insider threat Accelerated integration of our acquired entities into our
+cyber-counterintelligence and counterespionage via interim essential controls and transitioning to our
+the establishment of an Insider Threat Office standard Cognizant security model
+74 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Data privacy
+At Cognizant, we seek to handle personal information ethically and lawfully. Our Global Privacy leadership
+periodically reports to our Board, CEO, Executive Committee and Executive Leadership Team on risk mitigation
+and progress.
+to participate in industry groups such as the
+Information Technology Industry Council, the
+Jurisdictions around the world have data privacy
+Information Accountability Foundation and the Data
+regulations. Our robust program is designed to
+Security Council of India.
+protect our clients, associates and key
+To effectively manage our privacy obligations, we
+stakeholders, and enables us to support our
+deliver continuous training, including on critical topics
+clients globally in an evolving regulatory
+like Privacy By Design and Privacy Impact
+landscape.
+Assessments. We also continued to build out our
+support of our company-wide Privacy Champion
+Network by hosting Privacy Champion Summits and
+Stephanie Higgins
+Privacy Office hours.
+Chief Privacy & Data Ethics Officer
+In 2022, we enhanced corporate compliance
+processes through automation, including processes
+for managing new regulatory requirements. In
+Working with partners across the business, our Global response to new requirements around data transfers
+Privacy Team assesses risks, defines standards, following the European Court of Justice ‘Schrems II’
+supports the implementation of privacy policies and decision, we have continued to evaluate the relevant
+compliance programs, and provides guidance across European Union legislation, alongside our internal
+the company. Further, our Internal Audit team policies and controls, to ensure we are able to meet
+supports compliance and risk management through our contractual obligations.
+regular assessments of our privacy program.
+In 2023, we will continue to review internal controls
+National privacy policies and regulations impact our and security measures to help address privacy
+and our clients’ business. It can be critical for us to requirements and enhance company-wide privacy
+understand the political landscape in which they awareness by further integrating privacy modules into
+are made, and to know how to navigate these existing training programs.
+requirements. Therefore, in 2022 we have continued
+75
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+Public policy and political activity
+At Cognizant, we understand that the biggest issues
+Skilled immigration for a diverse and global
+facing our world require collaboration between state
+talent pipeline
+and federal policymakers, industries, organizations
+and individuals. Cognizant believes that by working Studies show that creating jobs for high-skilled
+alongside these stakeholders, we can find policy foreign workers increases employment
+solutions that benefit our communities, our associates opportunities and wages for US workers, in
+and our clients. addition to harnessing innovation and
+entrepreneurship for the country. Building a
+Cognizant, like others in our industry, actively engages
+diverse, global talent pipeline allows us to
+in public policy advocacy on issues that are important
+continue to innovate and drive growth for our
+to our business operations, customers and
+clients and shareholders. This is especially a
+communities. These issues include skilled immigration,
+priority at a time when immigration to the US
+privacy, trade, tax and research and development.
+has fallen, exacerbating current workforce
+In the US, Cognizant’s Political Action Committee shortages15. Therefore, we maintain and rely on
+strives to donate equally to major political parties.
+fair immigration to continue addressing the skills
+gap and meeting the needs of our clients.
+We are determined to recruit and develop a
+global workforce that fills skill gaps in the US
+and beyond.
+15US Chamber of Commerce. (February 28, 2023). “America Works Data Center.”
+76 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+Our ESG governance strategy ESG Oversight and Governance Approach: Organize around our stakeholders
+Enterprise Risk Management (ERM) Ethics and compliance Associate health and safety Supply chain Data security Data privacy
+Public policy and political activity
+77
+Appendix
+About this Report
+The information in this Report covers Cognizant’s Fiscal Year 2022 (January 1 through December 31, 2022) unless
+stated otherwise. It also covers our facilities and associates globally unless stated otherwise.
+We have reported the information cited in this Report and GRI content index for the period of our Fiscal Year 2022
+with reference to the 2021 GRI Standards. In addition, we have used the Sustainability Accounting Standards
+Board (SASB) Software and IT Services standard and followed the recommendations of the Task Force on
+Climate-Related Financial Disclosures (TCFD).
+To hold our ESG reporting to high standards, we:
+• Commission an external third party to perform attestation procedures over our GHG emissions
+• Leverage the COSO16 Framework to support our goal of transparent, accurate and complete reporting
+Topics addressed and terms used in this Report may be different from those terms as used in the context of filings
+with the US Securities and Exchange Commission (SEC). Issues deemed relevant for the purpose of this Report or
+our ESG stakeholder assessment may not be deemed material for SEC filings.
+16The COSO Framework is a globally recognized system businesses use to establish internal controls to promote data accuracy and
+completeness. (COSO, as it is most commonly known, or the Committee of Sponsoring Organizations, was developed to help companies
+ensure accurate public financial reporting.)
+78 Cognizant ESG Report 2022
+79
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI index
+Statement of use Cognizant has reported the information cited in this GRI content index for the period
+January 1 through December 31, 2022 with reference to the GRI Standards.
+GRI 1 used GRI 1: Foundation 2021
+GRI Standard Disclosure Location
+2-1 Organizational details Name of the organization: Cognizant Technology
+Solutions Corporation
+Ownership and legal form: 2022 Form 10-K
+Location of headquarters: Teaneck, New Jersey,
+United States
+Location of operations:
+About our business, page 7
+2022 Form 10-K, page 24
+2023 Proxy Statement, page 5
+2-2 Entities included in the About our business, page 7
+organization’s sustainability
+2022 Form 10-K, pages 5-7
+reporting
+2-3 Reporting period, frequency and Reporting period: Fiscal Year 2022 (January 1 through
+contact point December 31, 2022)
+Reporting cycle: Annual
+GRI 2: General Publication date: June 5, 2023
+Disclosures 2021
+Contact: sustainability@cognizant.com
+2-4 Restatements of information The following were restated to confirm our ongoing
+commitment:
+• Sustainable Development Goals, page 15
+• Affinity groups, page 30
+• Climate-related risks and opportunities, pages
+43-44
+• Science-based targets, page 53
+• Levers, pages 53-56
+2-5 External assurance Commissioned an external third party to perform
+attestation procedures over our GHG emissions (see
+Report of Independent Accountants).
+2-6 Activities, value chain and other 2022 ESG Report, page 7; page 55; pages 71-72
+business relationships
+2022 Form 10-K, pages 5-8
+2023 Proxy Statement, page 5
+80 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI Standard Disclosure Location
+2-7 Employees Total number of employees: 355,300 as of December
+31, 2022
+2022 ESG Report, page 7
+2022 Form 10-K, pages 9 - 11
+We do not track gender in all regions by law
+Methodologies and assumptions: Applies to all
+Cognizant directors, officers, and employees
+worldwide as well as all Cognizant business units,
+subsidiaries, and joint ventures over which Cognizant
+has operational control (collectively “associates”).
+Significant fluctuations in the number of employees:
+High attrition in industry
+2-9 Governance structure and 2022 ESG Report, page 65
+composition
+2023 Proxy Statement, pages 7-8, 15-16, 17-33
+2-10 Nomination and selection of the 2023 Proxy Statement, page 14
+highest governance body
+2-11 Chair of the highest Mr. Stephen J. Rohleder has served as independent
+governance body Chairman of the Board since January 12, 2023.
+2-12 Role of the highest governance 2022 ESG Report, page 65
+body in overseeing the management
+GRI 2: General 2023 Proxy Statement, pages 32-33
+of impacts
+Disclosures 2021
+2-13 Delegation of responsibility for 2022 ESG Report, page 41
+managing impacts
+2023 Proxy Statement, pages 35-38
+2-14 Role of the highest governance Our Governance and Sustainability Committee
+body in sustainability reporting formally reviews and approves our sustainability
+report.
+2-15 Conflicts of interest Board of Director qualification standards
+2023 Proxy Statement, page 40
+2-16 Communication of 2023 Proxy Statement, page 98
+critical concerns
+2-17 Collective knowledge of the 2023 Proxy Statement, pages 15-16
+highest governance body
+Corporate Governance Guidelines, page 8
+2-18 Evaluation of the performance 2023 Proxy Statement, pages 14, 44
+of the highest governance body
+Corporate Governance Guidelines, page 7-8; page 10
+2-20 Process to 2023 Proxy Statement, pages 44-47
+determine remuneration
+Corporate Governance Guidelines, pages 7-8
+2-21 Annual total 2023 Proxy Statement, pages 14, 44
+compensation ratio
+Corporate Governance Guidelines, page 7-8; page
+10
+81
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI Standard Disclosure Location
+2-22 Statement on sustainable 2022 ESG Report, pages 2-3
+development strategy
+2-23 Policy commitments 2022 ESG Report, pages 68-72
+2023 Proxy Statement, page 37
+Code of Ethics
+Supplier Standards of Conduct
+Human Rights Policy
+Anti-Corruption Policy
+Environmental, Health and Safety Policy
+Equal Employment Opportunity Policy Statement
+Global Diversity and Inclusion Policy
+Global Harassment, Discrimination & Workplace
+Bullying Prevention Policy
+Political Activity Policy
+GRI 2: General Whistleblower and Non-Retaliation Policy
+Disclosures 2021 2-24 Embedding policy 2022 ESG Report, pages 68-72
+commitments
+2023 Proxy Statement, page 37
+Code of Ethics
+Global Diversity and Inclusion Policy
+Equal Employment Opportunity Policy Statement
+Political Activity Policy
+2-25 Processes to remediate 2022 ESG Report, pages 40-59; pages 68-70
+negative impacts
+Reports of suspected improper or unethical activity
+are investigated and treated with confidentiality in
+compliance with local laws.
+2-26 Mechanisms for seeking advice 2022 ESG Report, page 70
+and raising concerns
+Code of Ethics
+Supplier Standards of Conduct
+Whistleblower and Non-Retaliation Policy
+Cognizant’s Ethic & Compliance Helpline
+82 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI Standard Disclosure Location
+2-27 Compliance with laws 2022 Form 10-K, page 22
+and regulations
+We commit significant financial and managerial
+resources to comply with our internal control over
+financial reporting requirements, but we have in the
+past identified and may in the future identify material
+weaknesses or significant deficiencies in our internal
+control over financial reporting that cause us to incur
+GRI 2: General incremental remediation costs in order to maintain
+Disclosures 2021 adequate controls.
+2-28 Membership associations United Nations Global Compact (UNGC)
+2-29 Approach to 2022 ESG Report, pages 28, 66
+stakeholder engagement
+2-30 Collective We are not party to any significant collective
+bargaining agreements bargaining agreements.
+2022 Form 10-K, page 9
+3-1 Process to determine 2022 ESG Report, page 14
+material topics
+In 2021, we worked with a third party to gauge which
+ESG issues various stakeholders thought were most
+relevant to our business. In 2022 we built on this work
+internally by reviewing client questions and requests
+in order to continue focusing on the topics that we
+believe are most impactful and relevant to our
+business.
+3-2 List of material topics 2022 ESG Report, page 14
+GRI 3: Material
+1. Social with an emphasis on engaging, training and
+Topics 2021
+hiring diverse talent in our workforce from our
+communities
+2. Environment with an emphasis on reducing GHG
+emissions through technology, our culture and
+internal change-management
+3. Governance with an emphasis on ESG oversight
+and transparency, including supply chain
+management, health and safety, ethics, data privacy
+and security
+83
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI Standard Disclosure Location
+3-3 Management of material topics 2022 ESG Report
+• Social, pages 16-37
+• Environment, pages 38- 61
+• Governance, pages 62-76
+2023 Proxy Statement, pages 35-38
+2022 Form 10-K, pages 10-12
+In 2022, we looked across the Cognizant value chain
+and organized our thinking about how physical and
+transitional climate risks might manifest through the
+business. We focused on these risks and the
+geographies in which our associates live and work,
+with particular attention on the following major
+areas: property procurement and people.
+GRI 3: Material
+We believe addressing questions of sustainability
+Topics 2021
+can improve a traditional business model. Climate
+opportunities available to Cognizant include:
+reducing our emissions, reducing client emissions,
+offering sustainable services and continually
+engaging on sustainability.
+Other policies and reports such as:
+Code of Ethics
+Supplier Standards of Conduct
+Whistleblower and Non-Retaliation Policy
+Environmental, Health and Safety Policy
+Global Diversity and Inclusion Policy
+Global Harassment, Discrimination & Workplace
+Bullying Prevention Policy
+201-1 Direct economic value Revenues: $19.4B
+generated and distributed
+2022 ESG Report, page 7
+2023 Proxy Statement, page 5
+201-2 Financial implications and 2022 ESG Report, pages 42-51
+other risks and opportunities due to
+2022 Form 10-K, pages 15-21
+GRI 201: Economic climate change
+Performance 2016
+201-3 Defined benefit plan 2022 Form 10-K, page F-36
+obligations and other
+Under the plans, employees contribute up to 12.0% of
+retirement plans
+their eligible compensation, which is matched by an
+equal contribution by the Company 2023.
+201-4 Financial assistance received 2022 Form 10-K, pages F-25 to F-28
+from government
+84 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI Standard Disclosure Location
+203-1 Infrastructure investments and 2022 ESG Report, pages 32-36
+services supported
+In 2022, we awarded over $23.5 million in grants and
+gifts to 115 organizations around the world, furthering
+our mission to improve economic mobility and
+community resilience through strategic
+programmatic giving, local community support and
+GRI 203: Indirect
+disaster response.
+Economic Impacts 2016
+Grants and gifts through philanthropy as well as pro
+bono engagement through our Outreach volunteer
+program.
+203-2 Significant indirect economic 2022 ESG Report, pages 32-36
+impacts
+2023 Proxy Statement, page 38
+206-1 Legal actions for anti- We comply with antitrust and competition laws of
+GRI 206: Anti-competitive
+competitive behavior, anti-trust, and every country where we do business.
+Behavior 2016
+monopoly practices
+302-1 Energy consumption within the 2022 ESG Report, page 57
+organization
+2021 ESG Report, page 90
+GRI 302: Energy 2016 UK Government GHG Conversion factors for
+Company Reporting (2021)
+Energy consumption disclosures, page 98
+303-1 Interactions with water as a 2022 ESG Report, page 58
+shared resource
+303-2 Management of water 2022 ESG Report, page 58
+discharge-related impacts
+In 2022, we added risk prioritization to our global
+water risk management efforts, which sets the stage
+for engagement plans in high-risk areas.
+GRI 303: Water and 303-3 Water withdrawal 2022 ESG Report, page 58
+Effluents 2018 In 2022, we harvested 16,838 kiloliters (4.4 million
+gallons) of rainwater through groundwater
+harvesting pumps, meeting around 9% of total water
+consumption needs in owned facilities.
+303-5 Water consumption 2022 ESG Report, page 58
+In 2022, water storage capacity more than doubled
+in Chennai, India.
+305-1 Direct (Scope 1) GHG emissions 2022 ESG Report, page 57
+GHG emissions disclosures, pages 96-100
+305-2 Energy indirect (Scope 2) GHG 2022 ESG Report, page 57
+emissions
+GHG emissions disclosures, pages 96-100
+GRI 305: Emissions
+305-3 Other indirect (Scope 3) GHG 2022 ESG Report, page 57
+2016
+emissions
+GHG emissions disclosures, pages 96-100
+305-4 GHG emissions intensity We do not directly disclose our intensity ratio.
+305-5 Reduction of GHG emissions We do not directly disclose our year-over-year
+reductions.
+85
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI Standard Disclosure Location
+306-1 Waste generation and 2022 ESG Report, page 59
+significant waste-related impacts
+Our focus for e-waste management is to maximize
+the reuse of our computers. In 2021, we committed to
+keeping 80,000 computers out of landfill. By the end
+of 2022, we kept over 62,000 computers out of
+landfills and remain focused on meeting this
+commitment in 2023.
+GRI 306: Waste
+Our efforts apply to our own e-waste.
+2020
+306-2 Management of significant 2022 ESG Report, page 59
+waste-related impacts
+306-3 Waste generated Cognizant is a services provider with a knowledge-
+based supply chain. We are not a large consumer of
+raw materials, nor do we produce a product or any
+related packaging.
+306-4 Waste diverted from disposal 2022 ESG Report, page 59
+401-1 New employee hires and 2022 ESG Report, page 19
+employee turnover
+2022 Form 10-K, page 10
+For the three months ended December 31, 2022 and
+2021, our annualized attrition rate, including both
+voluntary and involuntary, was 25.3% and 34.6%,
+GRI 401: respectively. Our attrition rate for the years ended
+Employment 2016 December 31, 2022 and 2021, including both
+voluntary and involuntary, was 31.7% and 30.8%,
+respectively.
+401-2 Benefits provided to full-time 2022 ESG Report, page 27
+employees that are not provided to
+2022 Form 10-K, page 12
+temporary or part-time employees
+2023 Proxy Statement, page 35
+403-1 Occupational health and 2022 ESG Report, page 70
+safety management system
+Environmental, Health and Safety Policy
+403-2 Hazard identification, risk Environmental, Health and Safety Policy
+assessment, and incident
+Meet all applicable environmental, health and safety
+GRI 403: investigation
+laws and regulation requirements. The Global EHS
+Occupational
+Center of Excellence team will evaluate EHS
+Health and Safety
+performance by monitoring ongoing performance
+2018
+results outlined in EHS objectives and targets
+framework documents and through periodic
+management reviews with key business leadership,
+including the CEO, CFO and CAO
+403-3 Occupational health services 2022 ESG Report, page 70
+86 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI Standard Disclosure Location
+403-4 Worker participation, 2022 ESG Report, page 70
+consultation, and communication on
+Communicate environmental, health and safety
+occupational health and safety
+programs to Cognizant Associates and encourage
+them to report any environmental, health or safety
+GRI 403: concerns.
+Occupational
+403-5 Worker training on New EHS e-learning courses were rolled out on our
+Health and Safety
+occupational health and safety EHS intranet page, and we implemented a Hazard
+2018
+and Aspect Identification and Assessment of Risk
+and Opportunity program.
+403-6 Promotion of worker health 2022 ESG Report, page 27
+2023 Proxy Statement, page 35
+403-8 Workers covered by an 2022 ESG Report, page 70
+occupational health and safety
+As of 2022, 92% of our workspace was covered by
+management system
+ISO 45001:2018 Occupational Health and Safety
+Management System and 90% was covered by ISO
+GRI 403:
+14001:2015 Environmental Management System.
+Occupational
+We now track and report this metric based on
+Health and Safety
+workspace (e.g., offices) rather than associate count
+2018
+in a workspace. This allows us to accommodate the
+realities of hybrid work.
+403-9 Work-related injuries We do not disclose this information.
+403-10 Work-related ill health We do not disclose this information.
+404-1 Average hours of training per 25 M learning hours / 355,300 associates = average
+year per employee of >70hrs/FTE
+404-2 Programs for upgrading In 2021, we launched the Cognizant Returnship
+employee skills and transition Program for technology professionals looking to
+assistance programs restart their careers. Participants with at least five
+years of relevant experience who have taken an
+extended career break of at least two years are
+supported as they transition back into the
+GRI 404: Training technology workforce.
+and Education
+2022 ESG Report, pages 21, 24-27, 37, 56
+2016
+2022 Form 10-K, page 11
+2023 Proxy Statement, page 35
+404-3 Percentage of employees Periodic talent processes such as talent reviews aim
+receiving regular performance and to help individuals develop in role and prepare for the
+career development reviews future, while strengthening our leadership pipeline
+overall.
+2022 Form 10-K, page 11
+405-1 Diversity of governance bodies 2022 ESG Report, page 19-20
+GRI 405: Diversity
+and employees
+and Equal 2023 Proxy Statement, pages 7-8; page 36
+Opportunity 2016
+2022 Form 10-K, page 10
+87
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GRI Standard Disclosure Location
+GRI 408: Child Labor 2016 408-1 Operations and suppliers at Our Company does not make use of child labor (i.e.,
+significant risk for incidents of child a person under the minimum age provisions of
+labor applicable laws and regulations) or forced labor (i.e.,
+prison labor, indentured labor, bonded labor, military
+labor, slave labor), does not condone any form of
+human trafficking, and will not work with third parties
+who engage in such practices.
+GRI 409: Forced or 409-1 Operations and suppliers at Our Company does not make use of child labor (i.e.,
+Compulsory Labor 2016 significant risk for incidents of forced a person under the minimum age provisions of
+or compulsory labor applicable laws and regulations) or forced labor (i.e.,
+prison labor, indentured labor, bonded labor, military
+labor, slave labor), does not condone any form of
+human trafficking, and will not work with third parties
+who engage in such practices.
+Following a risk assessment we undertook across all
+aspects of our business and supply chain, we have
+updated our process to include targeted modern
+slavery due diligence within our global supply chain.
+Cognizant’s main focus has been ensuring that its
+standards and expectations are clearly
+communicated to existing and prospective suppliers.
+High risk suppliers are required to provide details of
+their own practices and their supply chain in relation
+to modern slavery. These suppliers are required to
+provide evidence that they have implemented
+modern slavery prevention mechanisms. See Modern
+Slavery Statement
+414-1 New suppliers that were 2022 ESG Report, page 71-72
+screened using social criteria
+We have implemented new risk-based Modern
+Slavery assessment criteria to ensure that our
+partners share our values and standards. These
+criteria help us identify which suppliers present the
+highest levels of risk of exposing Cognizant and our
+supply chain to slavery-related practices and
+GRI 414: Supplier Social therefore will be subject to our modern slavery due
+Assessment 2016 diligence process. Suppliers can specify which
+international human rights standards they follow and
+provide information on relevant topics such as health
+and safety, freedom of association and collective
+bargaining, child labor and modern slavery, and
+standards for vulnerable populations. During 2022,
+we began a process of proactively reassessing our
+high-risk suppliers.
+GRI 415: Public Policy 415-1 Political contributions 2022 Annual Political Spend Report
+2016
+GRI 418: Customer 418-1 Substantiated complaints We do not disclose this information.
+Privacy 2016 concerning breaches of customer
+privacy and losses of customer data
+88 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+SASB index
+Industry: Software and IT Services
+Table 1. Sustainability Disclosure Topics & Accounting Metrics
+Unit of
+Topic Accounting Metric Category Measure Code Response Location
+(1) Total energy Quantitative Gigajoules (GJ), TC-SI- (1) Total energy 2022 ESG Report,
+consumed, Percentage (%) 130a.1 consumption (for page 57
+(2) percentage grid Scope 1 and 2
+electricity, activities): 622,378
+(3) percentage
+(3) Percentage
+renewable
+renewable (India geo-
+only): 44%
+(1) Total water Quantitative Thousand cubic TC-SI- In 2022, we harvested 2022 ESG Report,
+withdrawn, (2) total meters (m³), 130a.2 16,838 kiloliters (4.4 page 58
+water consumed, Percentage (%) million gallons) of
+percentage of each rainwater through
+in regions with High groundwater
+or Extremely High harvesting pumps,
+Baseline Water meeting around 9% of
+Stress total water
+Environmental
+consumption needs in
+Footprint of
+Hardware owned facilities.
+Infrastructure Additionally,
+recovering
+condensate from air
+handling units added
+another 1% to total
+water recovery for a
+total of 2,674 kiloliters
+(706,396 gallons).
+Discussion of the Discussion n/a TC-SI- Integration of 2022 ESG Report,
+integration of and Analysis 130a.3 environmental pages 42-57
+environmental considerations into
+considerations into strategic planning for
+strategic planning data center needs is
+for data center discussed in the
+needs “Environment”
+section.
+89
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+Table 1. Sustainability Disclosure Topics & Accounting Metrics
+Description of Discussion n/a TC-SI- Description of policies 2022 ESG Report,
+policies and and Analysis 220a.1 and practices page 75
+practices relating to relating to behavioral
+behavioral advertising and user
+advertising and user privacy is discussed
+privacy under “Data privacy”
+on page 75.
+Number of users Quantitative Number TC-SI- We do not disclose
+whose information is 220a.2 this information.
+used for secondary
+purposes
+Total amount of Quantitative Reporting TC-SI- We do not disclose
+monetary losses as currency 220a.3 this information.
+a result of legal
+proceedings
+associated with user
+privacy
+Data Privacy
+& Freedom of (1) Number of law Quantitative Number, TC-SI- We do not disclose
+Expression enforcement Percentage (%) 220a.4 this information.
+requests for user
+information,
+(2) number of users
+whose information
+was requested,
+(3) percentage
+resulting in
+disclosure
+List of countries Discussion n/a TC-SI- We do not disclose
+where core and Analysis 220a.5 this information.
+products or services
+are subject to
+government-
+required monitoring,
+blocking, content
+filtering, or
+censoring
+90 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+Table 1. Sustainability Disclosure Topics & Accounting Metrics
+(1) Number of data Quantitative Number, TC-SI- We do not disclose
+breaches, Percentage (%) 220a.5 this information.
+(2) percentage
+involving personally
+identifiable
+information (PII),
+(3) number of users
+affected
+Data Security Description of Discussion n/a TC-SI- Disclosures can be 2022 ESG Report,
+approach to and Analysis 230a.2 found under “Data pages 72-74
+identifying and security” on pages
+addressing data 72-74 of the ESG
+security risks, report.
+including use of
+third-party
+cybersecurity
+standards
+Percentage of Quantitative Percentage (%) TC-SI- We do not disclose 2022 Form 10-K,
+employees that are 330a.1 this information. page 9
+(1) foreign nationals
+and (2) located
+offshore
+Employee Quantitative Percentage (%) TC-SI- Our 2022 Cognizant 2022 ESG Report,
+engagement as a 330a.2 People Engagement page 28
+Recruiting & percentage Survey, conducted
+Managing a via third party
+Global, platform, had a
+Diverse & nearly 60%
+Skilled participation rate.
+Workforce
+Percentage of Quantitative Percentage (%) TC-SI- 2022 ESG Report,
+gender and racial/ 330a.3 page 19
+ethnic group
+representation for
+(1) management, (2)
+technical staff, and
+(3) all other
+employees
+91
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+Table 1. Sustainability Disclosure Topics & Accounting Metrics
+Intellectual Total amount of Quantitative Reporting TC-SI- We do not disclose
+Property monetary losses as currency 520a.1 this information.
+Protection & a result of legal
+Competitive proceedings
+Behavior associated with
+anticompetitive
+behavior regulations
+Number of (1) Quantitative Number, Days TC-SI- We do not disclose
+performance issues 550a.1 this information.
+and (2) service
+Managing
+disruptions; (3) total
+Systemic Risks
+customer downtime
+from
+Description of Discussion n/a TC-SI- Different risks are 2022 ESG Report,
+Technology
+business continuity and Analysis 550a.2 discussed in the pages 42-51
+Disruptions
+risks related to “Environment” section
+2022 Form 10-K,
+disruptions of of the ESG report and
+pages 15-21
+operations in the Form 10-K.
+Table 2. Activity Metrics
+Unit of
+Activity Metric Category Measure Code Response Location
+(1) Number of licenses or Quantitative Number, TC-SI-000.A We do not disclose
+subscriptions, Percentage this information.
+(2) percentage cloud-based (%)
+(1) Data processing capacity, Quantitative See note TC-SI-000.B We do not disclose
+(2) percentage outsourced this information.
+(1) Amount of data storage, Quantitative Petabytes, TC-SI-000.C We do not disclose
+(2) percentage outsourced Percentage this information.
+(%)
+92 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+TCFD index
+Topic Recommended Disclosure Response or location
+Governance: Disclose the a. Describe the board’s oversight of 2022 ESG Report: Environment, page 41
+organization’s climate-related risks and
+governance around opportunities.
+climate-related risks and b. Describe management’s role in 2022 ESG Report: Environment, page 41
+opportunities. assessing and managing climate-
+related risks and opportunities.
+Strategy: Disclose the a. Describe the climate-related risks 2022 ESG Report, pages 42-51
+actual and potential and opportunities the organization
+impacts of climate- has identified over the short,
+related risks and medium, and long term.
+opportunities on the
+b. Describe the impact of climate- 2022 ESG Report, pages 42-51
+organization’s
+related risks and opportunities on
+businesses, strategy, and 2022 Form 10-K, pages 15-21
+the organization’s businesses,
+financial planning where
+strategy, and financial planning.
+such information is
+c. Describe the resilience of the 2022 ESG Report: Environment, page 42-45
+material.
+organization’s strategy, taking into
+In 2021 and 2022, we conducted a scenario analysis
+consideration different climate-
+of potential climate-related risks and opportunities
+related scenarios, including a 2°C or
+that might occur between 2021 and 2050. In this
+lower scenario.
+analysis, we considered the significance of identified
+climate risks and opportunities and prioritized them
+based on risk likelihood, impact and velocity. This
+allowed us to put structure to a range of possible
+future states under various degrees of climate
+disruption, with the objective of integrating these
+considerations into the realm of potential risks we
+consider and analyze.
+In this Cognizant-specific scenario analysis, we
+cataloged risk and opportunity time frames: short
+term (up to 5 years), medium term (6-15 years) and
+long term (16-30 years).
+For each time frame, we considered possible impacts
+to Cognizant under varying degrees of heating and
+the global responses to the impacts of that heating,
+including and up to a “Hothouse World” at 3°C.
+93
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+Topic Recommended Disclosure Response or location
+Risk Management: a. Describe the organization’s 2022 ESG Report: Environment, pages 42-45
+Disclose how the processes for identifying and
+organization identifies, assessing climate-related risks.
+assesses, and manages b. Describe the organization’s 2022 ESG Report: Environment, pages 42-50
+climate-related risks. processes for managing climate-
+related risks.
+c. Describe how processes for 2022 ESG Report: Environment, pages 42-45
+identifying, assessing, and
+managing climate-related risks are
+integrated into the organization’s
+overall risk management.
+Metrics and Targets: a. Disclose the metrics used by the 2022 ESG Report, pages 52-57
+Disclose the metrics and organization to assess climate-
+targets used to assess related risks and opportunities in line
+and manage relevant with its strategy and risk
+climate-related risks and management process.
+opportunities where such
+b. Disclose Scope 1, Scope 2 and, if 2022 ESG Report, page 57
+information is material.
+appropriate, Scope 3 greenhouse
+gas (GHG) emissions, and the
+related risks.
+c. Describe the targets used by the 2022 ESG Report, pages 52-57
+organization to manage climate-
+2022 Form 10-K, page 12
+related risks and opportunities and
+performance against targets. 2023 Proxy Statement, page 37
+94 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+GHG methodologies and verification
+GHG emissions disclosures emissions. Environmental and energy use data used
+in GHG emissions calculations are subject to inherent
+1. Cognizant considers the principles and guidance of
+limitations, given the nature and the methods used
+the World Resources Institute (WRI) and the World
+for measuring such data. The selection by
+Business Council for Sustainable Development’s
+management of different but acceptable
+(WBCSD) The Greenhouse Gas Protocol: A Corporate
+measurement techniques could have resulted in
+Accounting and Reporting Standard, Revised and the
+materially different amounts or metrics being
+Corporate Value Chain (Scope 3) Accounting and
+reported.
+Reporting Standard (together the “GHG Protocol”), to
+guide the criteria to assess, calculate and report GHG 6. MTCO e = Metric tons of carbon dioxide equivalent,
+2
+emissions, including energy consumption. GJ = Gigajoules.
+2. Organizational boundary relates to Cognizant’s sites 7. Related to Scope 1 GHG emissions:
+over which it had operational control during the
+• Scope 1 stationary fuels include diesel fuel used for
+reporting year.
+backup generators, liquid petroleum gas, and
+3. Emissions associated with the following sites are not natural gas used by Cognizant sites.
+included: those under construction, not operational,
+– Diesel powered backup generators are in use at
+on short-term leases, co-working sites, or non-
+certain sites in Brazil, France, Hungary, India,
+integrated companies (those in process of being or
+Ireland, Lithuania, the Philippines, Poland, and
+recently acquired).
+the United States (U.S.). Diesel consumption
+4. Carbon dioxide equivalents (CO e) emissions are (volume) was obtained from third-party invoices
+2
+inclusive of carbon dioxide (CO ), nitrous oxide (N O), or property owners’ reports. Stationary diesel is
+2 2
+methane (CH ), and industrial gasses, which include adjusted for stockpiling for sites in India. Where
+4
+hydrofluorocarbons (HFCs). The other GHGs of sulfur diesel consumption was not available,
+hexafluoride (SF ), perfluorocarbons (PFCs) and Cognizant estimated diesel consumption using
+6
+nitrogen trifluoride (NF ) are not emitted by the intensity method (liters/square foot) based
+3
+Cognizant’s sites. Emissions data by individual gas is on comparable Cognizant sites for facilities that
+not disclosed as a majority of CO e relates to CO . did not report actual data in 2022, but had diesel
+2 2
+These CO e emissions utilize Global Warming generator(s) in service in 2021.
+2
+Potentials (GWPs) defined by the Intergovernmental
+– Food vendors on-site at fully leased or owned
+Panel on Climate Change’s (IPCC) Fourth Assessment
+sites in India consume liquid petroleum gas.
+Report (AR4 - 100 year), unless a different Assessment
+Actual consumption data was obtained from
+Report is already embedded in the emission factor
+third-party invoices or vendors’ reports. No
+source. CO e emissions are calculated by multiplying
+2 estimates were made.
+actual or estimated energy, fuel and refrigerant
+usage by relevant emission factors and GWP. All – U.S. and Canadian sites, and certain European
+emission factors are updated annually where sites consume natural gas. Natural gas
+applicable. consumption was obtained from third-party
+invoices or property owners’ reports. For sites
+5. GHG emissions quantification is subject to significant
+where consumption data was not available for
+inherent measurement uncertainty because of such
+certain months, an average monthly
+things as GHG emissions factors that are used in
+consumption was calculated based on the
+mathematical models to calculate GHG emissions,
+invoices received for that site. For sites where
+and the inability of these models, due to incomplete
+consumption data was available for less than six
+scientific knowledge and other factors, to accurately
+months of the year, Cognizant estimated natural
+measure under all circumstances the relationship
+gas consumption for the missing period using
+between various inputs and the resultant GHG
+the 2018 Commercial Buildings Energy
+95
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+Consumption Survey (CBECS) intensity factors – Cognizant captured actual electricity usage
+for United States offices for sites in the U.S. or from the grid, including renewable power, from
+Canada, or based on comparable sites for third-party invoices or property owners’ reports.
+locations outside of the U.S. or Canada. For sites where consumption data was not
+available for certain months, an average
+• Scope 1 mobile fuels include diesel or gasoline fuels
+monthly consumption was calculated based on
+used for the Cognizant vehicle fleet in Belgium,
+the invoices received for that site. For all other
+Brazil, Germany, Hungary, India, Portugal, and the
+sites (except the U.S. and Canada) where
+Netherlands.
+electricity consumption was not available,
+– Cognizant used third-party invoices or vendors’ Cognizant estimated electricity usage using the
+reports where available to measure mobile fuel intensity method (kWh/square foot) based on
+consumption. For vehicle fleets where mobile comparable Cognizant sites. For sites in the U.S.
+fuel consumption data was not available for and Canada, Cognizant used the 2018 CBECs
+certain months, an average consumption was intensity factors for U.S. offices.
+calculated based on the invoices received for
+– Electricity purchased from a property owner and
+that vehicle fleet.
+generated through captive diesel generators in
+– Where invoice data was not available, India is based on invoice data and categorized
+Cognizant estimated mobile fuel consumption under Scope 2 as purchased electricity.
+using the intensity method which was based on
+– In certain countries, Cognizant has sites that
+the annual average liters from other Cognizant
+house on-site data centers or Cognizant
+vehicles.
+operated (infra-managed) data centers.
+• Scope 1 emissions from refrigerants apply to Kyoto Electricity used by these data centers is included
+Protocol refrigerants used in the operation of sites in Scope 2. Consumption was obtained from
+in India and the Philippines. All other refrigerant third-party invoices or vendors’ reports. When
+emissions are outside of Cognizant’s operational consumption data was not available, Cognizant
+control and are excluded from reporting. calculated its data center electricity use based
+Refrigerant top ups were obtained from third-party on contracted power, the share of power
+invoices. utilization provided by the partner data centers
+and operating hours per year. Data centers
+• Energy associated with on-site solar panels (not
+operate 24 hours per day, 7 days per week, 365
+connected to a third-party grid) is generated and
+days per year. Where information was not
+consumed on-site at sites in India. Cognizant
+available, previous year consumption data was
+categorized emissions from on-site solar panels
+used as a proxy.
+within its Scope 1 GHG emissions with zero
+emissions. • Scope 2 district heating and cooling is used for one
+site in Hungary. Consumption was obtained from
+• Emission factors:
+third-party invoices or for months where data was
+– United Kingdom (UK) Government GHG not available, an average monthly consumption
+Conversion factors for Company Reporting was calculated based on the invoices received for
+(2022). that site.
+• Estimated emissions from the sources above • Scope 2 electricity consumption by electric vehicles
+account for approximately 14% of the reported charged off site for Cognizant’s vehicle fleet in
+Scope 1 GHG emissions. Belgium and the Netherlands. Consumption data
+was obtained from third-party invoices or vendors’
+8. Related to Scope 2 GHG emissions:
+reports. No estimates were made.
+• Scope 2 purchased electricity applies to electricity
+• Emission factors: Location-based:
+used at Cognizant sites and purchased a) from the
+grid, or b) from the property-owner for Cognizant's – Grid electricity and electric vehicles charged off-
+direct use on-site. site:
+96 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+• India: Government of India Ministry of Power goods, and category 4: upstream transportation and
+Central Electricity Authority CO baseline distribution:
+2
+database for the Indian Power Sector (2022).
+• Calculated based on annual spend data obtained
+• U.S.: U.S. Environmental Protection Agency from Cognizant’s Enterprise Resource Planning
+(EPA) Emissions & Generated Resource (ERP) system.
+Integrated Database (eGrid) 2021 factors by
+• Emission factors:
+sub-region (2023).
+– For forty-three (43) of Cognizant’s top suppliers
+• All other countries: International Energy
+by emissions in 2022 (calculated using 2016
+Agency (IEA) CO equivalent emissions – total
+2 Quantis emission factors), Cognizant used
+for electricity and heat (2022).
+publicly available data as most recently reported
+– Electricity purchased from property owners: to CDP Climate Change (as of May 2023) or
+sustainability (or equivalent) and corresponding
+• UK Government GHG Conversion factors for
+Annual Report, to create supplier-specific
+Company Reporting (2022) for 100% mineral
+emission factors.
+diesel.
+– For all other suppliers and spend categories,
+– District heating and cooling: UK Government
+Cognizant applied the 2016 Quantis emission
+GHG Conversion factors for Company Reporting
+factors available from the GHG Protocol Scope 3
+(2022).
+evaluator tool (cited May 2023).
+• Emission factors: Market-based:
+10. Related to GHG emissions from Scope 3, category 3:
+– Grid electricity: fuel- and energy-related activities:
+• Solar and wind energy purchased through • Calculated based on activity data (diesel, district
+power purchase agreements (PPAs) or energy heating and cooling, electricity, electric vehicles
+contracts or through the property owner: charged off site, gasoline, LPG, and natural gas
+Treated as zero emissions. consumption) from Scope 1 and 2 emissions.
+• After application of solar and wind energy • Emission factors:
+purchases:
+– WTT for diesel, district heating and cooling,
+– European sites: Association of Issuing gasoline, liquid petroleum gas, and natural gas:
+Bodies (AIB) European Residual Mix 2021 v1.0 UK Government GHG Conversion factors for
+(last updated 2022). Company Reporting (2022).
+– All other countries: Same as location-based – WTT for electricity:
+factors.
+• UK: UK Government GHG Conversion factors
+– Electricity purchased from property owners, for Company Reporting (2022).
+district heating and cooling, and electric vehicles
+• All other countries: The UK government
+charged offsite:
+stopped publishing WTT electricity emission
+• Same as location-based factors. factors for geographies outside of the UK in
+2021. Using UK Government GHG Conversion
+• Estimated emissions from the sources above
+factors for Company Reporting (2021) as a
+account for approximately 3% of reported
+proxy.
+Scope 2 GHG emissions (location-based) and
+approximately 5% of reported Scope 2 GHG • T&D losses for electricity: IEA T&D Losses
+emissions (market-based and referencing market- Emission Factors 2022.
+based).
+11. Related to GHG emissions from Scope 3, category 5:
+9. Related to GHG emissions from Scope 3, category 1: waste generated in operations:
+purchased goods and services, category 2: capital
+• Calculated using an average intensity factor
+estimated based on publicly available data as
+97
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+reported in their most recent sustainability (or consumption of all other data center sites where
+equivalent) report (as of May 2023), for Infosys and this information was available.
+WiPro, as peer benchmarks and the number of
+• Common areas: Actual common area share of
+employees obtained from the HR system as of
+electricity and captive diesel generators usage
+December 31, 2022.
+obtained from landlords for certain sites in India.
+12. Related to GHG emissions from Scope 3, category 6: Cognizant used the India data to develop an
+business travel: average intensity benchmark for the common
+areas for all other sites, which was then multiplied
+• Air and rail travel: The data used in the calculation
+by the site’s floor area.
+is obtained from reports provided by a third-party
+commercial travel manager, which includes total • Emission factors:
+distance per trip for business travel booked:
+– Electricity:
+– Air travel covers domestic and international
+• India: Government of India Ministry of Power
+travel by Cognizant employees globally.
+Central Electricity Authority CO baseline
+2
+– Rail travel covers commuter train, national rail database for the Indian Power (2022).
+and international by Cognizant employees
+• U.S.: U.S. EPA eGrid 2021 factors by sub-region
+globally.
+(2023).
+• Other business travel categories: Calculated based
+• All other countries: IEA CO equivalent
+on annual spend data (accommodation, car lease, 2
+emissions – total for electricity and heat
+relocation services, transportation, travel
+(2022).
+management, and visa & immigration services)
+obtained from Cognizant’s ERP system. – T&D losses for electricity: IEA Emission Factors
+2022.
+• Emission factors:
+– WTT for electricity:
+– UK Government GHG Conversion factors for
+Company Reporting (2022). • UK: UK Government GHG Conversion factors
+for Company Reporting (2022).
+13. Related to GHG emissions from Scope 3, category 7:
+employee commuting: • All other countries: The UK government
+stopped publishing WTT electricity emission
+• Calculated using an average intensity factor
+factors for geographies outside of the UK in
+estimated based on publicly available data as
+2021. Using UK Government GHG Conversion
+reported in their most recent sustainability (or
+factors for Company Reporting (2021) as a
+equivalent) report (as of May 2023), for IBM, Infosys,
+proxy.
+WiPro, as peer benchmarks and the number of
+employees obtained from the HR system as of 15. Related to GHG emissions from Scope 3, category 15:
+December 31, 2022. investments:
+14. Related to GHG emissions from Scope 3, category 8: • Includes all minority investments where Cognizant
+upstream leased assets: has (1) less than 50% of ownership, and (2) either
+have voting rights or a seat on the board (that is
+• Third party data centers: Consumption was
+not merely an observer position), but (3) does not
+obtained from third-party invoices or vendors’
+have operational control of the entity.
+reports. When consumption data was not
+available, calculated energy use based on • As investment portfolios are dynamic and change
+contracted power, its share of power utilization frequently throughout the reporting year,
+provided by the partner data centers and Cognizant uses December 31 as the fixed point in
+operating hours per year. Data centers operate 24 the reporting year to determine which investments
+hours per day, 7 days per week, 365 days per year. to include in its emissions for the reporting year (i.e.,
+For data centers where information was not minority investments owned as of December 31 are
+available, usage was estimated using the average included in reporting). In the event that an
+98 Cognizant ESG Report 2022
+Introduction Social Environment Governance Appendix
+About This Report GRI index SASB index TCFD index GHG methodologies and verification
+investment was acquired or divested during the 19. Estimated energy consumption from the sources
+year, a pro rata share for the year has been above account for approximately 10% of the reported
+applied. energy consumption for Scope 1 and 2 activities.
+• Subsequent to the end of the year and during Q1
+2023 on February 13, 2023, Cognizant divested
+from an investment representing approximately
+94% of the GHG emissions from investments.
+• Calculated using a GHG emissions factor by dollar
+estimated based on peer benchmarks, the revenue
+of the minority investment, and Cognizant’s
+percentage ownership as of December 31, 2022.
+• Emission factors:
+– Dollar invested intensity emission factor
+calculated from an average emissions per dollar
+of revenue for IT & software development
+companies most recently reported to CDP
+Climate Change (as of May 2023). Cognizant
+collected the 2022 Scope 1, 2 (market-based,
+where available) and 3 emissions for twenty-
+three (23) companies in the IT & software
+services industry, divided by the 2022 revenue
+for these companies to form the average
+emissions factor per dollar of revenue.
+Energy consumption disclosures
+16. Direct and indirect energy include gigajoules of direct
+on-site renewable energy consumption, direct energy
+purchased, which is comprised of diesel, gasoline,
+liquid petroleum gas, and natural gas, and indirect
+energy purchased which is comprised of purchased
+electricity, district heating and cooling generated
+offsite, as well as electricity consumption by electric
+vehicles charged off site, as applicable.
+17. The preparation of the energy consumption metric
+requires management to establish the criteria, make
+determinations as to the relevancy of information to
+be included, and make assumptions that affect
+reported information. The selection by management
+of different but acceptable measurement techniques
+could have resulted in a materially different amount
+or metric being reported.
+18. Renewable electricity includes solar and wind
+purchases made by Cognizant for use at sites in
+India.
+99
+

@@ -1,0 +1,2582 @@
+SUSTAINABILITY
+REPORT 2023
+Table of Contents
+PAGE PAGE
+03 31
+CEO Letter Pillar 2: Climate Risk Management
+Risk Assessment & Modeling..............................................................33
+Climate Change
+PAGE Risks & Opportunities ...............................................................................36
+04
+Climate Change Risk
+About W. R. Berkley Corporation Management & Mitigation ..................................................................43
+PAGE PAGE
+11 48
+Our Sustainability Strategy Pillar 3: Responsibility & Transparency
+Environmental, Social, & Governance (“ESG”) Ethics & Compliance ...............................................................................49
+Framework & Three-Pillar Approach ..............................................12
+Cybersecurity................................................................................................53
+Governance & How We Operate .......................................................13
+Responsible Investing .............................................................................57
+PAGE PAGE
+14 62
+Pillar 1: Human Capital & Community Appendices
+Human Capital Management TCFD Index .......................................................................................................63
+& Governance ...............................................................................................15
+SASB Metrics ..................................................................................................64
+Diversity, Inclusion,
+UN SDG Priority Mapping .......................................................................65
+& Belonging .....................................................................................................16
+Employee Well-Being ...............................................................................19
+Community Impact ..................................................................................25
+Berkley 2023 Sustainability Report 2
+CEO Letter
+of our specialty Businesses and our decentralized
+structure to manage the risks and opportunities climate
+change presents to our Company. The global imperative
+to address climate change has taken center stage in
+the public discourse and regulatory initiatives as natural
+catastrophes have continued to become both more
+frequent and more severe. We believe that cooperation
+between the public and private sectors is critical to
+facilitating an orderly and well-managed transition to
+cleaner, more sustainable energy, and that the property
+and casualty insurance industry has a vital role to play
+W. Robert Berkley, Jr.
+by supporting policyholders.
+President &
+Beyond climate risk, we focus on the Human Capital
+Chief Executive Officer
+and Community pillar of our ESG framework as we
+W. R. Berkley Corporation has created value for its further invest in talent management and development,
+shareholders by focusing on long-term risk-adjusted enhance our culture of inclusivity, and continue to give
+return for over 55 years. Since its founding, our back to the communities we serve. In 2022, we launched
+enterprise has embraced the principle of doing the a comprehensive curriculum of structured learning
+right thing. We recognize the inherent link between programs that provide current and future leaders
+serving the needs of our shareholders, employees, with the skills they will likely need to drive innovative
+customers, distribution partners, and communities business strategy and inspire their teams to exceed
+and creating shareholder value. Adhering to this expectations. Our Diversity, Inclusion, and Belonging
+principle engenders trust and confidence, enabling (“DIB”) efforts focused on “inclusion” as a theme, through
+us to grow our business while delivering the best understanding from our employees what “inclusion”
+insurance solutions possible. means to them and educating our teams on how to
+create a more inclusive workplace. We continued our
+In recent years, we have formalized our environmental, long-standing tradition of community involvement,
+social, and governance (”ESG”) framework with focusing time and resources on supporting the next
+identifiable pillars and governance structures that generation, combating food insecurity, and protecting
+highlight the underpinnings of our operations that the environment.
+have been important components of our success since
+the beginning. In 2022, we focused on implementing In support of the third pillar of our ESG framework,
+our ESG framework while maintaining the alignment of Responsibility & Transparency, we maintain our strong
+our ESG reporting with guidelines promulgated by the emphasis on ethics and compliance, data privacy
+Task Force for Climate-Related Financial Disclosures and cybersecurity, and responsible investing. We
+(”TCFD”) and the Sustainability Accounting Standards continued to invest in our sustainable bond portfolio
+Board (”SASB”). in 2022, while exploring ways to further consider ESG
+matters in analyzing our existing portfolio as well as
+Our focus on the Climate Risk Management pillar new investments. As reporting requirements in various
+of our ESG framework included performing a regulatory jurisdictions evolve, we are focusing on
+qualitative climate change risk assessment focused preparedness and remain optimistic that regulators will
+on underwriting, investments, operational risk, be mindful of balancing resources between compliance
+and developing regulation. We also introduced a and more impactful activities.
+pilot methodology for a quantitative underwriting
+climate change scenario analysis to gain a better We work hard every year to make our business stronger,
+understanding of how certain underwriting risks more agile, and more resilient as we manage our day-
+identified in the qualitative risk assessment may to-day business and plan for the future. Creating value
+manifest and affect the business under various for our shareholders and delivering strong long-term
+climate change scenarios. We continue to evaluate risk-adjusted returns remain our top priorities. We hope
+the applicability of this pilot methodology, and to you enjoy learning more about what makes W. R. Berkley
+consider whether it is fit for our purposes. Corporation a trusted partner.
+As we assist our clients in confronting the physical
+impacts of climate change through our products
+and services, we continue to leverage the expertise
+Berkley 2023 Sustainability Report 3
+ABOUT W. R. BERKLEY
+CORPORATION
+Berkley 2023 Sustainability Report 4
+ABOUT W. R. BERKLEY CORPORATION
+Insurance
+Our Insurance Businesses underwrite
+predominantly commercial insurance,
+including excess and surplus lines,
+admitted lines, and specialty personal lines
+in the United States, the United Kingdom,
+Continental Europe, South America, Canada,
+Mexico, Scandinavia, Asia, and Australia.
+Reinsurance & Monoline Excess
+Our Reinsurance Businesses provide
+facultative and treaty reinsurance,
+primarily in the United States, the United
+Kingdom, Continental Europe, Australia,
+the Asia-Pacific Region, and South
+W. R. Berkley Corporation (the “Company”) is an
+Africa. Monoline Excess businesses
+insurance holding company founded as a small
+retain risk solely on an excess basis.
+investment management firm by its Executive Chairman
+William R. Berkley in 1967. It is among the largest
+commercial lines writers in the United States and
+operates worldwide through more than 55 insurance
+Businesses (collectively, “Businesses,” and individually,
+Percentage (%) of 2022 net premiums
+“Business”), each focusing on a niche market that
+requires specialized knowledge about specific products, written by each business segment:
+industries, or territories. Throughout this report, “Berkley,”
+“we,” “us,” and “our” are used to refer collectively to 12.2%
+the Company and its Businesses. With more than 8,100
+employees, we operate in two segments of the property
+and casualty insurance business: 1) Insurance and 2)
+Reinsurance & Monoline Excess.
+Our specialized knowledge and customer-centric focus
+set us apart from others in our industry. Our culture
+promotes integrity, embraces our commitment to “always
+do right,” fosters entrepreneurship and innovation, and
+places a high value on making thoughtful decisions with
+a long-term view. For more information about Berkley,
+please visit berkley.com.
+87.8%
+Insurance Reinsurance &
+Monoline Excess
+Berkley 2023 Sustainability Report 5
+ABOUT W. R. BERKLEY CORPORATION
+Helping Clients with Risk Management
+As a property and casualty insurance provider, we focus
+on helping clients manage risk. Our risk management and
+assessment processes may include considerations of
+environmental, social, and governance (“ESG”) risks along
+with other traditional and emerging risks. We draw on our
+risk management expertise to support our Businesses,
+employees, and clients through the following actions:
+• Informing our underwriting, investment, and
+operational decisions
+• Using established internal policies and practices to
+support our employees
+• Helping policyholders address risk through our
+products and services
+• Helping policyholders reduce their losses from events
+related to climate change through education about
+prevention measures
+Elements of Corporate Culture
+Our corporate culture drives our success. W. R. Berkley Corporation’s Board of Directors (“Board”) has recognized five
+elements of our corporate culture that are essential to our long-term success:
+These elements unify our
+employees around the world
+and position us to continually
+Risk-Adjusted Accountability People-Oriented
+innovate and evolve in a way that
+Returns Strategies
+will best serve our diverse clients.
+There is no one “Berkley way,”
+yet each of our Businesses has a
+distinctive culture that embodies
+our shared values.
+Responsible Financial Transparency
+Practices
+Berkley 2023 Sustainability Report 6
+ABOUT W. R. BERKLEY CORPORATION
+Resilient & Accountable Structure
+and incentives to local management and enables us to
+attract and retain professionals of the highest caliber.
+Our decentralized operating structure is part of our long-
+term strategy to enable our Businesses to identify and Berkley Businesses
+respond quickly and effectively to changing market
+Berkley has more than 55 Businesses, each with deep
+conditions and local customer needs. This structure also
+expertise in specific products, industries, or territories. For
+allows us to focus on issues particular to one Business
+questions about our Businesses and their product offerings,
+without affecting the larger enterprise. In addition, our
+please email us at findyourberkley@wrberkley.com.
+decentralized structure provides financial accountability
+Segment Key
+Industry Specialty: Provides coverages to customers within Regional United States: Provides standard insurance products
+a particular industry that are best served by underwriters and services focused on meeting the specific needs of a
+and claims professionals with specialized knowledge of geographically differentiated customer base
+that industry
+Reinsurance: Provides other insurance companies and self-
+Product Specialty: Provides specific lines of insurance insureds with assistance in managing their net risk through
+coverage reinsurance, either on a portfolio basis through treaty reinsurance or
+on an individual basis through facultative reinsurance
+Excess & Surplus (“E&S”): Offers coverages to businesses
+with complex risk or unique exposures that typically International: Provides products and services tailored to each
+fall outside the underwriting guidelines of the standard regional customer base through teams of professionals with
+insurance market expertise in local markets and knowledge of regional environments
+Learn more about each Berkley Business by clicking on the logos in the table below:
+Berkley Agribusiness
+Berkley Life Sciences
+Risk Specialists
+Berkley Alliance
+Berkley Luxury Group
+Managers
+Berkley Asset Berkley Offshore
+Protection Underwriting Managers
+Berkley Construction
+Berkley Oil & Gas
+Solutions
+Berkley Entertainment Berkley One
+Berkley Program
+Berkley Environmental
+Specialists
+Berkley Financial
+Berkley Public Entity
+Specialists
+Berkley Healthcare Berkley Risk
+Berkley Human Berkley Small
+Services Business Solutions
+Berkley 2023 Sustainability Report 7
+ABOUT W. R. BERKLEY CORPORATION
+Segment Key
+Industry Specialty Excess & Surplus (“E&S”) Reinsurance
+Product Specialty Regional United States International
+Berkley Technology Midwest Employers
+Underwriters Casualty
+Preferred Employers
+Carolina Casualty
+Insurance
+Gemini Transportation Acadia Insurance
+Berkley Mid-Atlantic
+Intrepid Direct
+Insurance Group
+Berkley Accident & Health Berkley North Pacific
+Berkley Cyber
+Berkley Southeast
+Risk Solutions
+Berkley Enterprise
+Continental Western Group
+Risk Solutions
+Berkley Fire & Marine
+Union Standard
+Underwriters
+Berkley Industrial Comp Admiral Insurance
+Berkley Management
+Berkley Aspire
+Protection
+Berkley Net
+Berkley Custom Insurance
+Underwriters
+Berkley Product
+Berkley E&S Solutions
+Protection
+Berkley Professional
+Berkley Specialty Excess
+Liability
+Berkley Select Nautilus Insurance Group
+Berkley Surety Vela Insurance Services
+Key Risk Verus Specialty Insurance
+Berkley 2023 Sustainability Report 8
+ABOUT W. R. BERKLEY CORPORATION
+Segment Key
+Industry Specialty Excess & Surplus (“E&S”) Reinsurance
+Product Specialty Regional United States International
+Berkley Re America Berkley Europe
+Berkley Re Asia Pacific Berkley Insurance Asia
+Berkley Re Solutions Berkley Insurance Australia
+Berkley Re EMEA Berkley Latinoamérica
+Berkley Canada W/R/B Underwriting
+Berkley 2023 Sustainability Report 9
+ABOUT W. R. BERKLEY CORPORATION
+Sustainability at Berkley Berkley Company Values
+Doing the right thing for our people, our communities,
+and the environment earns the trust of our policyholders, Berkley is a company of people who serve people.
+distribution partners, employees, and shareholders, Our decentralized structure empowers individuals to
+enabling us to grow our business profitably and meet the make unique contributions to our long-term success
+diverse needs of our stakeholders. The simple concept of while uniting them through a common set of values:
+“doing the right thing” embodies the principles that guide
+the way we do business. It is embedded in our culture and
+exemplified by our employees each and every day.
+Our four guiding principles—“Everything Counts,
+Everyone Matters®,” “Always Do Right,” “Act Responsibly,”
+Integrity Responsibility
+and “Embrace Innovation”—serve as the cornerstone
+of our success and our Company values. Every day,
+our Businesses are guided by these principles and
+values in the way they conduct their work, engage with
+team members, and give back to their communities.
+They add sustainability and resilience to our Company
+while also contributing to the broader society. Whether
+Strategic Mindset Knowledge
+employing individuals with diverse backgrounds and
+demographics, giving back to the communities in
+which we live and work, or managing our impact on the
+environment and working with our policyholders to help
+them manage their environmental impact, our principles
+have been embedded in our culture from the founding
+of our Company.
+Trust Caring
+Recognition
+MSCI ESG Ratings Sustainalytics Fortune 500 Ward’s 50
+1.4 C Aligned ESG Rating: Medium
+20% by 2020 Forbes Global 2000: FTSE4Good Index Series S&P 500 ESG Index
+Women on Boards World’s Largest Public
+Companies
+Berkley 2023 Sustainability Report 10
+OUR SUSTAINABILITY
+STRATEGY
+Berkley 2023 Sustainability Report 11
+OUR SUSTAINABILITY STRATEGY
+Environmental, Social, & Governance (“ESG”) Framework & Three-Pillar Approach
+Our ESG framework delivers trust to our stakeholders1 by investing in human capital and communities, incorporating
+climate risk into our business decisions, and holding ourselves accountable through responsible management and
+transparent practices.
+Human Capital & Climate Risk Responsibility &
+Community Management Transparency
+Invest in our employees, Integrate the risks of Maintain trust with
+customers, and communities climate change into stakeholders through strong
+to drive the long-term business decisions ethics and accountability
+sustainability of our business
+Human Capital Development Investments & Underwriting Ethics & Compliance
+Community Impact Operations Cybersecurity
+Responsible Investing
+Operating Model
+Governance
+Berkley has engaged in practices that support ESG since invest in our employees to support their professional
+its founding. Our ESG framework, built on these practices, growth and to meet the needs of our customers with
+incorporates guidance from the Sustainability Accounting world-class expertise and service. We endeavor to
+Standards Board (“SASB”) and the Task Force on Climate- have a positive impact on our communities, which
+related Financial Disclosures (“TCFD”), as well as our supports the long-term sustainability of our business.
+assessment of ESG best practices within the property and
+casualty insurance industry. In evaluating these resources, • Climate Risk Management: Climate change and the
+we believe that the most meaningful ESG issues for environmental issues it encompasses are significant
+Berkley involve our people and how we interact with the drivers of industry and global change. This pillar focuses
+community; the environment and the impact of climate on our efforts to integrate the risks of climate change
+risk on our business; and our desire to uphold trust with into business decisions, including our investments,
+our stakeholders through transparency and responsible underwriting, product offerings, and operations.
+business practices. This analysis helped us to identify the
+• Responsibility & Transparency: Key factors in our
+three pillars of our ESG program, which are supported by
+success include our consideration of the interests of
+our operating model and governance structure:
+our stakeholders—an ongoing focus throughout our
+• Human Capital & Community: Berkley’s greatest history—and our intention to maintain trust with our
+asset is our people. Through this pillar, we undertake to stakeholders through our ethics and accountability.
+1 The term “stakeholder” is amorphous, meaning different things to different people with its meaning further adapting to the context in which it is used.
+As used in this report, the term “stakeholder” broadly refers to any party with an interest in our operations, provided, however, such use of the term
+stakeholder does not imply and does not create any legal, equitable, contractual or fiduciary right vis-à-vis any such interested party, which right does
+not already independently exist.
+Berkley 2023 Sustainability Report 12
+OUR SUSTAINABILITY STRATEGY
+are responsible for examining existing and potential
+risks as they arise in their various operational areas.
+The Berkley Model
+Senior officers share this information among themselves
+and with our Enterprise Risk Management (“ERM”)
+Our decentralized structure is
+department. Our Company’s Senior Vice President -
+fundamental to our operating
+Enterprise Risk Management reports on areas of material
+strategy. Each Business operates
+risk to Berkley, including those related to climate
+within a niche market based on
+change. These reports are regularly provided to our ERM
+product, industry, or territory, and is
+management committee, our Companyʼs President and
+empowered to explore what makes
+CEO, and the Board.
+sense for its specialized market and employees
+within our framework. This flexibility allows us
+to maximize our ability to respond to changing
+markets and meet employee and customer needs. How It Works
+Managing ESG within our organization necessitates cross- Berkley
+functional support and coordination. Internal leaders and Business
+internal stakeholders collaborated in establishing this
+framework to ensure voices were heard and important
+i is ns 2u 0e 2s
+2
+w ae nr de cc oo nn ts ii nd ue ere
+s
+d to. O bu er rE eS fiG
+n
+efr da m wie thw eo vrk
+o
+lw via ns
+g
+f o inr dm ua stli rz ye d BB ue sr ik nl ee sy
+s
+W.
+R.
+Berkley Corporati
+o
+n
+practices and emerging issues.
+ESG Reporting &
+Enterprise-Level Disclosure
+Governance & How We Operate
+ESG Team
+ESG Operating Model Berkley
+Business
+Our ESG framework supports our efforts to remain Collaboration of Business-level
+strategy and program environmental, social,
+flexible in the face of shifting global markets and risks. It implementation and governance data
+leverages the decentralized organizational structure that
+is key to our success, enabling us to both universalize Berkley
+Business
+initiatives and tailor programs to our various Businesses.
+In 2022, we began developing the framework into an ESG
+operating model in which a multidisciplinary ESG team
+leads, manages, coordinates, and supports ESG efforts
+from an enterprise level, as overseen by the Board.
+Board Oversight of ESG
+This team specifically leads strategy, program
+The Board believes that oversight of risk, including
+implementation, and ESG reporting and disclosure. As
+ESG risks, is one of its key responsibilities. Our Board
+we have many distinct Businesses around the world,
+and its committees receive periodic updates from
+the ESG team also provides support for the diverse
+management on risks, including those related to climate
+Businesses collecting and reporting data and empowers
+change, cybersecurity, human capital management
+them to understand and act on the insights gained from
+(“HCM”), and overall ESG matters. Our ESG Management
+our ESG program architecture and reporting function.
+Committee is composed of Berkley’s President and CEO
+The flexibility of our Businesses remains an integral
+and other senior executives. The Committee meets at
+component of our operating philosophy, and this model
+least quarterly and shares information with the Board
+allows our initiatives to follow a common framework that
+regarding ESG practices and stakeholder interests. The
+can be implemented at a local level.
+Board, through the ESG Management Committee, guides
+our ESG disclosures, including the production of both our
+Moreover, we believe the continued evaluation and
+Sustainability Report and the ESG summary included in
+consideration of enterprise risk includes the examination
+our annual proxy statement.
+of ESG-related risks and opportunities. Our senior officers
+Berkley 2023 Sustainability Report 13
+PILLAR 1
+HUMAN CAPITAL
+& COMMUNITY
+PILLAR-SPECIFIC SUSTAINABLE DEVELOPMENT GOALS (“SDGS”):1
+1 The Sustainable Development Goals, or Global Goals, are a collection of 17 interlinked objectives designed to serve as a “shared blueprint for peace and
+prosperity for people and the planet, now and into the future” formulated by the United Nations General Assembly.
+Berkley 2023 Sustainability Report 14
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+People—including our employees, customers, and community members—are a key part of our Company’s success. As
+described in this section, we support employee development through bespoke Diversity, Inclusion, & Belonging (“DIB”)
+initiatives, comprehensive benefits, and wide-ranging learning and career development opportunities. We also offer
+products and services that support businesses on the forefront of several important ESG issues, and we continue our
+long-standing tradition of community involvement to support people in the communities where we live and work. We
+trademarked the phrase “Everything Counts, Everyone Matters®” more than 15 years ago, and we exemplify this belief in our
+everyday practices. Our decentralized operations allow each Business to develop its own specific culture that incorporates
+our core values.
+Human Capital Management
+compensation for our most senior executive officers
+& Governance
+through the long-term value creation component of our
+incentive compensation program.
+Berkley’s corporate culture is our most important
+intangible driver of long-term value creation. HCM, The Board periodically engages with our senior
+which includes recruiting, managing, and developing leadership team, including the Senior Vice President –
+our employees, is therefore a priority in our efforts to Human Resources, on HCM issues such as succession
+pursue long-term, risk-adjusted returns and growth in planning and development, compensation, benefits,
+shareholder value. HCM and culture are considered in talent recruiting and retention, engagement, employee
+feedback, and DIB.
+Berkley 2023 Sustainability Report 15
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Diversity, Inclusion, & Belonging
+DIB is a priority at Berkley. It is important to In 2022, Berkley celebrated several identity and
+us that diverse voices are represented in heritage months. These efforts included the following:
+both decision-making and implementation; that our
+• Creating and releasing a flipbook during Pride
+community is welcoming to all individuals regardless of
+Month to amplify the voices of Berkley people who
+identity; and that our employees feel accepted, valued,
+identify as part of the LGBTQ+ community
+and safe. We continue to strengthen our DIB efforts and
+build upon the work being done by our Businesses in
+• Hosting a webinar focused on Black artists as
+this area through our corporate DIB Committee. The
+part of an art community webinar series for Black
+Committee helps drive continued participation at all
+History Month
+levels within our Company and provides a framework
+that each Berkley Business can adapt to support this • During Hispanic History Month, broadcasting
+focus area. an interview on LinkedIn with a Berkley Business
+leader in the community
+• Creating and releasing a Women’s History Month
+Berkley DIB Framework flipbook with interviews describing the career
+paths of many women leaders across Berkley
+DIVERSITY at Berkley means that each
+individual is unique and valued.
+of learning resources on this topic and giving a voice
+to our employees, we aim to create a more aware
+and empowered workforce with a greater focus on
+INCLUSION at Berkley means we all work
+improving our performance, increasing our sensitivity,
+together to create a safe and supportive
+and strengthening our culture. We remain focused on
+environment where all individuals are
+the importance of diversity in our Businesses and look
+treated fairly and respectfully, are
+to all employees to support our culture of inclusivity and
+encouraged to share ideas and opinions,
+belonging.
+and feel comfortable doing so.
+Because Berkley comprises more than 55 Businesses in
+addition to our corporate and other service groups, many
+BELONGING at Berkley is how
+of our initiatives are based on a common framework that
+individuals feel when they are included,
+may also be implemented at a local level.
+valued, and recognized.
+Depending on regulations applicable to the geographical
+locations of each of our Businesses, we collect and
+analyze demographic data where employees provide
+We actively engage and solicit employee feedback to it voluntarily. In the U.S., our racial diversity is consistent
+improve our DIB efforts. In 2022, Berkley focused internal with the Insurance Carriers and Related Activities industry
+DIB efforts around “inclusion” as a theme, understanding statistics provided by the U.S. Bureau of Labor Statistics.2
+from our employees what “inclusion” means to them Through various recruiting strategies, we continue to be
+and educating our teams on how to create a more mindful of our diversity. In 2022, we grew our workforce
+inclusive workplace. Past employee engagement by 6.6% as revenue advanced by 16.9%. During the year,
+surveys revealed high marks for our existing DIB policies, Berkley employed people in 18 countries outside of
+culture, and activities. These programs include diversity the U.S., including Asia, Australia, Canada, Continental
+training, educational materials in our online learning Europe, Mexico, South America, and the United Kingdom.
+system, a forum to share information, and live events to Berkley also continues to explore opportunities to expand
+discuss DIB topics in depth. By increasing the availability the collection of employee diversity data across our
+Businesses all over the world.
+2 “Labor Force Statistics from the Current Population Survey,” U.S. Bureau of Labor Statistics, updated January 25, 2023, https://www.bls.gov/cps/
+cpsaat18.htm.
+Berkley 2023 Sustainability Report 16
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+2022 Global (Re)Insurance Employee 2022 Global (Re)Insurance Employee
+Age Group Breakout Gender Breakout
+0.2%
+12.2% 13.6%
+22.1% 48.5% 51.3%
+26.7%
+25.4%
+30 & Under Female
+31 - 40 Male
+41 - 50 Not Declared
+51 - 60
+Grand Total:
+61 & Over
+7,055 Employees
+Grand Total:
+7,055 Employees
+2022 Race/Ethnicity Breakout 2022 Board Gender & Ethnicity Breakout
+(U.S. Only)
+30%
+20%
+23.3%
+20%
+76.7%
+Total Diversity
+Racial & Ethnic Diversity
+White Gender Diversity
+People of Color
+Grand Total:
+5,919 Employees
+Berkley 2023 Sustainability Report 1177
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Crucial Conversations
+As a people-focused company, Berkley understands
+that challenging conversations are an inevitable
+part of both work and home life. To help build
+strong working relationships and drive successful
+business outcomes, Berkley developed the
+Crucial Conversations training program as part
+Empowering Berkley Businesses to Promote of a consistent, sustainable model for building
+& Support DIB manager capability to conduct these challenging
+conversations. This program is carried out with the
+Berkley Businesses are unified in their appreciation for intention of encouraging empathy, listening, and
+diversity and in the understanding that diversity makes understanding in difficult situations, taking care to
+Berkley stronger and more resilient. Our Businesses treat each other with respect and work together
+seek to regularly communicate with employees and the intentionally to a positive outcome.
+communities in which they operate on issues related
+to race and ethnic heritage empowerment, as well as Crucial Conversations is built from award-winning
+the empowerment of and appreciation for all genders, learning content based on more than 10,000 hours
+sexual identities, and persons with varying abilities. of research and used by the majority of Fortune 500
+companies. Employees form cohorts of 24 and learn
+Berkley has held virtual events for employees to together both in person and virtually from a certified
+discuss various DIB issues and to share their own life instructor through multimodal interactive learning,
+experiences. For example, Berkley’s DIB Committee which includes video, skills practice, feedback, and
+shared a virtual conversation on enhancing company coaching.
+culture through DIB with leaders of Admiral Insurance
+Group. The event focused on key topics such as progress To expand this program in 2022, Berkley conducted
+made toward improving DIB and how diversity can a “train the trainer” session through which many HR
+have a positive impact on both individuals and the professionals across the Company became Certified
+organization. Trainers of Crucial Conversations.
+Berkley 2023 Sustainability Report 18
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Employee Well-Being Employee Benefits
+We value the continued growth and experience of Berkley currently offers employees
+every single employee and seek to maintain strong a comprehensive benefits package,
+employee retention. Many team members stay with our including health and wellness options and financial,
+Company until their retirement. Berkley’s U.S. turnover educational, and life management benefits. Benefits
+rates over the past three years have consistently been are geographically tailored based on customs and
+below the annual total separation rates for the finance regulations in the countries where our employees are
+and insurance industry, as provided by the U.S. Bureau located. For example, in the United States:
+of Labor Statistics.3 We achieve this in part through
+our multifaceted approach to employee well-being.
+Additionally, our structure helps us attract and retain Berkley’s Paid Parental Leave Program
+professionals of the highest caliber who are drawn to our provides six weeks of fully paid leave for
+prized “entrepreneurial” environment. childbirth recovery and an additional
+six weeks of bonding care and family
+Financial Well-Being & Empowerment
+adjustment time for the primary caretaker
+Each Berkley Business seeks to compensate parent, whether that be the mother or
+employees competitively for its marketplace at another parent, including adoptive parents.
+all levels, commensurate with performance and
+consistent with independent salary surveys. Financial Employee and dependent care flexible
+incentives for employees are designed to be aligned spending accounts (“FSAs”) are available
+with our risk and performance framework. This approach for eligible employees.
+provides employees an opportunity to share in our overall
+growth and success.
+The Employee Assistance Program offers
+Berkley has established a profit-sharing plan for the each employee three free mental health
+benefit of all full-time U.S. employees. Each year, Berkley support sessions per year, providing 24/7
+makes an employer profit-sharing contribution to the access to assistance for mental health
+plan. The current minimum employer contribution for and well-being, substance abuse, daily
+each plan year is 5% of a participant’s eligible base stress, parenting, work situations, troubled
+compensation for the period of the calendar year that the relationships, and other issues. Additional
+employee was a participant, up to the maximum amount mental health treatment is covered
+permitted by law. through the healthcare plan offered to
+U.S.-based employees.
+Medical Care Benefits Participation1
+In addition to emotional and work-life
+counseling, the Employee Assistance
+Number of U.S. employees Number of U.S. employees Program offers financial information and
+eligible for health plan: covered by our dental insurance:
+resources, legal support and resources,
+5,826 5,016
+and health and benefit services.
+Number of U.S. employees Number of U.S. employees Our Wellness Program offers rewards
+covered by our health insurance: covered by our vision insurance: and discounts for completing wellness
+4,934 4,519 activities, such as getting an annual
+physical. Employees are not required
+to be enrolled in our medical plan to
+1 The difference between eligible employees and covered employees participate in the Wellness Program.
+is due to an employee being covered by another medical plan (i.e., a
+partner’s or a spouse’s).
+3 Sum of annual monthly separations rates for finance and insurance industry, not seasonally adjusted, from "One-Screen Data Search: Job Openings
+and Labor Turnover Survey," U.S. Bureau of Labor Statistics, https://data.bls.gov/PDQWeb/jt.
+Berkley 2023 Sustainability Report 19
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Training & Education
+Types of employee training include the following:
+Technical Insurance
+Training Licensing
+Training
+Professional Management
+Continuing Development
+Education
+Employee Development
+To provide challenging career paths for our employees,
+we have a robust set of formal and informal programs
+to help employees build specialized skills and pursue
+Leadership Training DIB Training
+leadership opportunities.
+Berkley uses a company-wide learning
+management system to increase individual
+development throughout our enterprise.
+Employees can access these opportunities via
+the content library in Berkley Learning University. Our
+Businesses leverage this platform to view and track
+employee assignments and their progress toward Innovation Training
+development goals.
+Berkley 2023 Sustainability Report 20
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+With more than 11,700 learning programs available,
+Berkley Businesses can leverage e-learning, video, Berkley Leadership Insights
+e-books and articles, and virtual classroom events to
+create bespoke offerings suited to each employee’s
+In 2022, Berkley introduced a speaker series featuring
+specific development journey as well as structured
+some of our most successful leaders. Every employee
+certification paths for consistent learning of key technical
+has the opportunity to attend virtual speaking events
+and professional skills required at each career stage.
+to hear the selected speaker of the quarter share
+experiences and lessons to help each of us become
+Through Berkley Learning University, managers and
+better leaders in our daily work.
+individual employees can navigate content to establish
+longer-term development plans or identify just-in-time
+Our first speaker in the series was John Goldwater,
+learning for immediate impact. In addition, they have a
+Executive Vice President of W. R. Berkley Corporation.
+one-stop location to access Berkley’s Innovation Learning
+The former President of Berkley Net Underwriters,
+Center (“I-Lab”), an online curriculum and resource library
+John created one of the first commercial insurance
+that launched in 2020.
+internet applications. He has been at the forefront
+of our Businesses’ use of new insurance internet
+technologies. In his presentation, John shared
+challenging situations he faced early in his journey
+2022 Learning Metrics that shaped the trajectory of his career.
+Total number of learning actions:1
+147,570
+Average number of learning actions per employee:
+22.8
+Average learning time per employee:
+11 20
+hours minutes
+1 A learning action is when an employee watches or reads a piece of
+Berkley Learning University content.
+Berkley 2023 Sustainability Report 21
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Innovation
+Since the program’s launch, we have worked to advance
+Today, companies face external challenges our progress along the innovation spectrum from
+that can take the form of shifting customer incremental to game-changing ideas, and to increase
+preferences and emerging risks, as well as internal the integration of our innovation activities with the
+challenges such as the effects of technology on operations of our Businesses.
+traditional employee roles. Berkley is rising to meet
+In 2022, the Innovation team created The Edge, a podcast
+these challenges through its culture of innovation and
+series featuring Berkley leaders sharing their thoughts
+by seeking to simultaneously serve the evolving needs
+on topics such as innovation in the life sciences industry,
+of our customers and prepare our employees for the
+digital innovation’s effects on society, and how to build a
+future. Berkley maintains an enterprise-wide Innovation
+business from the ground up. The series also featured the
+Through People program to nurture our entrepreneurial
+story of how W. R. Berkley Corporation was started.
+cultural foundations for continual growth and evolution.
+Pillars of the Innovation Through People Program
+1 2
+Promoting Innovation Behaviors: Building a Culture of Innovation
+The program introduces key & Entrepreneurism: Berkley has
+foundational behaviors that we integrated the foundational
+expect will serve employees at behaviors within our enterprise
+work and in their personal lives. culture so that employees have
+a foundation for creativity,
+experimentation, fast failure,
+learning, and resilience.
+3 4
+Creating Structures for Innovation: Capturing & Measuring Outcomes:
+Berkley uses custom tools such as In 2020, Berkley built SPARK! as
+I-Lab and SPARK! to ensure the a dedicated tool to allow us to
+program’s sustainability. follow ideas throughout their life
+cycle, measure their impact on our
+Business, and drive enterprise-wide
+idea engagement.
+I-Lab and Podcast Metrics
+Podcast listeners in 2022: I-Lab unique views: I-Lab site visits:
+13,000+ 5,500+ 106,000+
+Berkley 2023 Sustainability Report 22
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Interaction with SPARK! in 2022
+Interaction with SPARK! in 2022
+Ideas by Category 3% Visits to SPARK!
+5%
+8,000+
+6%
+31%
+7%
+Comments
+10,000+
+10%
+Number of Active Creators
+1,354
+15%
+23%
+Underwriting All Others New Ideas
+Impact to Multiple Human Resources
+Departments Operations 2,973
+Claims Information Services
+Sales & Marketing
+Business Challenges Business Challenges
+Created: Completed: Number of Votes
+129 81 32,000+
+Engagement
+In 2022, Berkley unveiled The Berkley Green, an enterprise-wide intranet site based on an idea
+from the 2022 IdeaFest Innovation competition. An intranet might not seem particularly innovative,
+but Berkley is a diverse group of independent Businesses spread across the globe, making communication
+exponentially more difficult. Each Berkley Business has its own intranet, but these sites were not linked together in the
+past. The Berkley Green allows the Company to share information from across the enterprise with all Businesses and
+to highlight what is happening in the organization. Employees can find benefits information on the HR page; the latest
+updates on Innovation and Diversity, Inclusion, & Belonging efforts; news from across Businesses; available resources;
+and links to both internal and external Berkley websites.
+Berkley 2023 Sustainability Report 23
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Mentorship
+“The opportunity to work one-on-
+In 2022-23, Berkley launched a comprehensive curriculum
+one with an executive mentor on
+of structured learning programs that provide current and
+future leaders with the skills they need to drive innovative
+my specific career goals really
+business strategy and inspire their people to exceed
+performance expectations. Berkley offers both in-person accelerated the learning I gained
+and remote learning and development opportunities to
+from the classroom and our
+ensure access to training across our Businesses.
+innovation project. My confidence
+More than 400 top-performing managers will participate
+in selective programs in 2023, taking part in opportunities
+in taking on new challenges
+such as:
+has grown tremendously. The
+• New Manager Program – This yearlong program
+provides just-in-time learning for employees who are experience has been a pivot point
+navigating their first year managing a team.
+in my career.”
+• Leadership Development Circle – This blended-
+learning program for future executives features Chris S., Director of Software Development with
+seminars with senior leaders, strength coaching, Berkley Regional Shared Services and 2022
+executive mentorship, and team projects. graduate of the Leadership Development
+Circle. Chris, a mentee in 2022, is acting as a
+• Leadership Oculus – A six-month virtual training
+mentor in 2023.
+program, Leadership Oculus provides a deeper dive
+into the skills required for leading business innovation,
+linked to a real-world innovation experiment design.
+• Innovation Teaching Series – In this virtual series,
+In 2022, employees from 50 Berkley Businesses
+professors from top U.S. business schools provide
+graduated from the program after participating in
+educational videos that tackle various subjects.
+live seminars, conversations with Berkley leaders,
+e-learning modules, and group video projects. In addition, thousands of Berkley employees and leaders
+from across the enterprise take advantage of Berkley
+• Management One – Now in its fourth decade, Berkley’s
+Leadership Insights, a quarterly speaker series in which
+live seminar in Greenwich, Connecticut, brings
+senior executives share personal stories about the
+potential C-Level leaders together with corporate
+moments that defined leadership for them, and Crucial
+leadership and external experts for classroom lectures,
+Conversations, a live training program designed to help
+case studies, and business simulations.
+individuals convey challenging messages successfully.
+A cornerstone of Berkley’s leadership-development
+agenda continues to be mentorship, with the number
+“We want Berkley managers at every
+of executives matched with mid-career employees for
+yearlong engagements expanding by almost 70% from
+level to be able to elevate employee
+2022 to 2023. By selecting mentorship pairs based on
+performance to drive our business identified mentor strengths and mentee needs, as well
+as providing world-class training and support resources,
+strategy. A direct investment in each
+Berkley ensures a meaningful and powerful experience for
+participants on both sides.
+leader reflects our commitment to the
+development of all our employees.” By creating channels for leadership development, Berkley
+empowers employees to grow their networks, build their
+careers, and contribute to the Company’s success.
+Carol L., W. R. Berkley Corporation’s Senior Vice
+President – Human Resources
+Berkley 2023 Sustainability Report 24
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Community Impact
+Berkley prides itself on its long tradition of community involvement in areas where it does business. This section
+highlights our products and services that support the community and incentivize responsible behavior. It also
+summarizes our customer retention and complaint metrics, as well as our philanthropic and volunteer efforts.
+Customers
+Ultimately, the results of our customer experience efforts
+Property and casualty insurance is critical to the are reflected in our strong retention rates.
+functioning of modern society and the overall economy.
+Berkley provides a wide range of predominantly
+Berkley plays a pivotal role by helping our customers
+commercial lines insurance products through our
+manage risk, which allows them to deliver products and
+insurance subsidiaries. Our U.S. insurance subsidiaries
+services to their customers. At Berkley, we strive for our
+are subject to insurance regulation in the various
+products and services to not only manage risk but also to
+states and jurisdictions where they transact business.
+promote responsible behavior and well-being.
+Most state insurance departments provide consumer
+Various Berkley Businesses support organizations in complaint data to the National Association of Insurance
+industries that aim to help others or assist in making Commissioners (“NAIC”).
+insurance accessible to small businesses. Our Businesses
+The NAIC runs the Consumer Insurance Search (“CIS”)
+also encourage healthy, safe, and environmentally
+website, which receives complaint information from state
+responsible actions and behaviors through product
+insurance departments. The NAIC data does not provide
+features, underwriting initiatives, and practices.
+a single metric for all of Berkley’s insurance companies
+From underwriting to claim servicing, we strive to provide combined. Neither the NAIC nor Berkley calculates a
+great experiences for our customers. To achieve this, we complaints-to-claims ratio.
+focus on maintaining excellent customer communication
+In 2022, the total amount of monetary losses resulting
+at every stage of the relationship. Our Businesses use a
+from legal proceedings associated with the marketing
+range of tools to communicate with our customers, such
+and communication of insurance product-related
+as product-specific web pages, customer and/or broker
+information to new and returning customers, if any, were
+portals, resources on loss prevention and safety, webinars
+not material to us.
+and conference educational sessions, videos, print or
+online brochures and product overviews, educational
+newsletters, and information about managing climate
+and other types of risk. Many of our Businesses also use
+LinkedIn, Facebook, and other social media platforms
+to reach their policyholders and distribution networks.
+Premium Retention Rates1
+2020 2021 2022
+79% 82% 82%
+1 Note on methodology: Berkley tracks premium retention rate as the ratio
+of premiums renewed versus premiums set to expire in the reporting year.
+Berkley 2023 Sustainability Report 25
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Responsible Product Offerings
+The following are highlights of our responsible product offerings. For a discussion of our climate-related service
+offerings, see Climate Change Opportunities.
+Resilience Health & Safety Industries Small Businesses
+• The Berkley Renewable Energy • Through our product- and • Berkley has six regional
+division of Berkley Oil & Gas specialty-focused Businesses, Businesses in the U.S. that offer
+targets clients in the alternative- Berkley is one of the largest broad portfolios of products
+energy industry such as wind providers of workers’ and excess to small and medium-sized
+farms, biomass conversion plants, workers’ compensation in the U.S., businesses in their defined
+battery farms, hydro facilities, with a reported $1.4 billion of net territories.
+and similar renewable-energy premiums written in these lines of
+initiatives. business (“LOB”) in 2022. • Berkley Aspire and Nautilus
+Insurance Group provide
+• Berkley Environmental underwrites • Berkley Healthcare offers a wide commercial excess and surplus
+environmental-liability products range of medical professional lines coverage to small and
+for customers with environmental and financial lines coverages to medium-sized businesses
+exposures, including contractors, the full spectrum of healthcare throughout the country.
+consultants, property owners, and providers.
+facilities operators. • Berkley Surety offers
+• Berkley Accident & Health offers environmental and secured
+• Berkley Insurance Australia writes a portfolio of accident and health credit surety bonds for small
+professional risk exposures for products and services to a range contractors.
+environmental consultants. of clients, from small employers
+to healthcare organizations and • Intrepid Direct provides
+• Berkley Surety issues surety membership groups of Fortune specialized business coverage
+bonds related to environmental 500 companies. solutions through a direct
+construction cleanup work. distribution model with a focus on
+franchise businesses.
+• Berkley Small Business Solutions
+offers commercial insurance
+products to small businesses
+through a modern technology
+platform that leverages data and
+analytics to deliver a superior
+customer experience.
+Public Service Industries
+• Berkley Human Services provides • Berkley Public Entity offers
+insurance to nonprofit and for- coverage to governmental entities,
+profit social service organizations, municipalities, and public schools.
+such as day cares, group homes,
+and senior citizen centers.
+Berkley 2023 Sustainability Report 26
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Community Involvement
+Berkley has a long-standing tradition of community
+involvement and intends to continue to support the
+people where we live and work.
+We provide community support at a local level and
+through our funding of the W. R. Berkley Corporation
+Charitable Foundation (“Foundation”). The purpose
+of the Foundation is to enhance employee generosity
+that originates at Berkley and our Businesses. Berkley
+Businesses submit requests to the Foundation, which then
+evaluates potential donations.
+Through these efforts, Berkley, directly through our
+Businesses and indirectly through the Foundation,
+provided more than $1,280,000 of financial support to our
+communities in 2022. Berkley and our employees have
+focused time and resources on making an impact in the
+following three areas: supporting the next generation,
+food insecurity, and the environment.
+A Berkley Tradition: The Gingerbread
+House Auction
+The Gingerbread House Auction is an annual holiday
+event for employees at our corporate headquarters
+that generates substantial donations to local charitable
+organizations. Each year, employees design and build
+elaborate structures made entirely of edible materials
+and auction them off to their colleagues. Last year,
+displays included replicas of our headquarters in
+Greenwich, Connecticut, and London’s Tower Bridge;
+depictions of fairy-tale worlds from the Wizard of Oz
+and Candyland; and a replica of a home damaged
+by severe weather. The funds raised are matched
+by Berkley* and donated to a charity of the creator’s
+choice. Charities chosen in 2022 included Near & Far Aid
+Association; Hall Neighborhood House, Inc.; Neighbor
+to Neighbor; Cancer Research Institute (CRI); Dana-
+Farber Cancer Institute; Green Chimneys; and JDRF
+International. The gingerbread houses are then brought
+to local hospitals and community organizations to
+spread holiday cheer.
+*Donations are contributed through the W. R. Berkley Corporation
+Charitable Foundation.
+Berkley 2023 Sustainability Report 27
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Supporting the Next Generation Food Insecurity
+We understand the importance of contributing to the Berkley employees are dedicated to combating
+development of the next generation of innovative food insecurity and increasing nutritional access
+insurance professionals. We currently support in their local communities. Many of our Businesses
+our employees’ participation in educational and exemplified this dedication in 2022.
+professional development programs that provide
+designations in the insurance industry, including For example, employees of Union Standard, Acadia
+Chartered Property Casualty Underwriter (“CPCU”), Insurance, Berkley Industrial Comp, Berkley Life Sciences,
+Associate in Reinsurance (“ARe”), Associate in Risk Nautilus, Continental Western Group, and Berkley
+Management (“ARM”), Registered Professional Liability Agribusiness supported efforts to reduce food insecurity
+Underwriter (“RPLU”), and Fellow of the Casualty Actuarial by volunteering at food banks, preparing meals, holding
+Society (“FCAS”) credentials. Berkley has supported food drives, and partnering with local organizations.
+professional development and networking opportunities
+Environment
+through industry trade groups such as the American
+Property Casualty Insurance Association (“APCIA”), the Berkley also engages with our communities on issues
+Independent Insurance Agents & Brokers of America, Inc. related to environmental protection. For example, in
+(“Big ‘I’”), and the Wholesale and Specialty Insurance December 2022, Berkley Management Protection and
+Association (“WSIA”). Through annual donations and its agency partners donated to One Tree Planted, which
+Board participation, Berkley has also supported the St. funded the planting of 3,000 trees in support of the local
+John’s University Maurice R. Greenberg School of Risk environment. Once fully grown, these trees will:
+Management, Insurance and Actuarial Science.
+• Produce enough oxygen annually to supply nearly 500
+Berkley endeavors to help children gain access to people with a year’s worth of oxygen
+education. For example, in 2022, we donated $150,000
+• Absorb the same amount of carbon dioxide in just one
+to Step Up for Students, an organization that provides
+year as a car would produce driving almost 60,000
+Florida students with personalized preK-12 scholarships.
+miles
+Additionally, the Company and several of our Businesses
+have contributed to Kids’ Chance of America, Inc., and its
+• Depending on the species, filter up to 1.5 million
+local chapters for many years. Kids’ Chance of America,
+gallons of water, which can reduce pollution such as
+Inc., supports children affected by a parent’s work-
+pesticides, solvents, and oils
+related injury or death by helping to remove financial
+obstacles to pursuing their educational goals. In 2022, we Tree planting helps restore and maintain the diverse
+donated $62,900 to Kids’ Chance of America, Inc., and our natural ecosystem, strengthening resilience in the face of
+Businesses raised additional money for the organization climate change by providing a stronger habitat in which
+through fundraising activities such as 5K runs and Kids’ people, plants, animals, and other organisms can adapt
+Chance Awareness Week. Berkley employees also serve to warmer temperatures and extreme weather.
+on the boards of directors at local chapters and the
+national Kids’ Chance organization.
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Berkley 2023 Sustainability Report 28
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+We engage with the communities where we live and work. In certain circumstances, we also:
+Provide charitable Conduct disaster Match employee Compensate employees
+donations and relief efforts donations for their time when they
+sponsorships volunteer at local
+nonprofit organizations
+during work hours
+Berkley 2023 Sustainability Report 29
+PILLAR 1: HUMAN CAPITAL & COMMUNITY
+Berkley Businesses Get Involved
+Berkley is proud to empower our Businesses to choose how they want to make a difference in their
+communities. At a local level, we encourage our Businesses to be involved in charitable organizations that
+make an impact in their communities. Many of our Businesses have created internal support structures, such as
+philanthropy committees, to organize community involvement and collect employee donations. To encourage
+additional support, many Businesses use their social media and marketing teams to promote local organizations
+and educate their networks about priority issues in their communities.
+The highlights below provide a snapshot of how Berkley Businesses got involved with local organizations and made
+contributions to meet the needs of their communities in 2022.
+Berkley Technology Underwriters, Berkley Berkley Offshore –
+Risk, and Berkley Human Services – HandsOn London
+Acts of Kindness
+Underwriting managers from Berkley Offshore
+Volunteers from Berkley Technology Underwriters, Berkley spearheaded an effort to support HandsOn London, an
+Risk, and Berkley Human Services joined together in organization that promotes volunteering and community
+Minneapolis to participate in 3,000 Acts of Kindness, service in London. Berkley Offshore and other London-
+an annual charity event that aims to bring hope and based Berkley Businesses collected and donated warm
+dignity to 3,000 homeless individuals in the Twin Cities by coats for those in need as part of the organization’s
+providing access to necessities and services. Our teams WrapUp London campaign, which has collected and
+helped collect coats, hats, gloves, scarves, sleeping bags, distributed more than 197,000 coats since 2011.
+boots, warm meals, and other necessities for unhoused
+individuals and families in need.
+Berkley Entertainment – W/R/B Underwriting –
+The Family Place Anthony Nolan and JustGiving
+The mission of The Family Place is to empower survivors To honor the memory of a dear colleague, team members
+of family violence by providing safe housing, offering from W/R/B Underwriting ran the Royal Parks Half Marathon
+counseling, and building skills that create independence for the colleague’s chosen charity, Anthony Nolan, which
+while advocating for social change. Berkley aims to save the lives of people with blood cancer. The
+Entertainment employees held a company fundraiser team raised nearly £3,000 in October for the charity
+for The Family Place, and Berkley matched donations through the JustGiving online fundraising platform, putting
+through the Foundation. it among the top 5% of fundraisers for that month.
+Berkley Technology Services – Berkley Insurance Australia –
+Sock Drive Dementia Australia
+The Urbandale team of Berkley Technology Services In 2022, Berkley Insurance Australia pledged to donate
+hosted a sock drive for Central Iowa Shelter & Services, $1 for every policy bound to Dementia Australia, an
+which provides about 300 pairs of socks to community organization that shines a light on dementia awareness.
+members in need every day throughout the winter. Our A trusted source of information, education, research,
+team members volunteered their time and effort to and services related to dementia, Dementia Australia
+collect socks and give back to our community before the advocates for the estimated half a million Australians
+winter season. living with dementia and the more than 1.5 million
+individuals involved in their care.
+Berkley 2023 Sustainability Report 30
+PILLAR 2
+CLIMATE RISK
+MANAGEMENT
+PILLAR-SPECIFIC SDGS:
+Berkley 2023 Sustainability Report 31
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Climate risk presents a number of challenges to all companies through physical and transition risks. Key potential risks
+of climate change to Berkley, as a property and casualty insurance provider, include changes in the frequency and/or
+severity of natural perils such as hurricanes, coastal floods, and wildfires, and regional variability in peril change. Any of
+these may affect our operations, our exposures, our investments, and our policyholders.
+Managing risks, including those posed by climate and environmental change, is central to our ability to thrive now
+and for generations into the future. The uncertainties posed by climate change also afford numerous opportunities for
+our Businesses to support policyholders in navigating a world of climate change–influenced weather events and the
+transition to a low-carbon economy.
+Throughout this chapter, we discuss three areas of municipal bonds in areas that we expect to be most
+Berkley’s exposure to climate risk: subject to catastrophic loss.
+1. Underwriting Risk: We seek to carefully manage and 3. Operational Risks: These risks lie primarily with our
+control underwriting risk. Our decentralized structure buildings and other physical asset investments that
+gives us a high degree of flexibility and nimbleness in could be affected by hurricanes, flooding, wildfires,
+navigating risk among our Businesses. Our insurance and other environmental events.
+risk is diversified, and our policies generally have one-
+year terms, so we can quickly modify pricing, terms, and We recognize the increasing importance of managing
+conditions to seek to achieve targeted risk-adjusted exposure to climate risk for all members of society. We
+returns or enter and exit lines of business, if necessary, model and analyze catastrophe risks and share the
+as the risk landscape changes. Exposure to catastrophe results with our ERM Committee. We also track certain
+loss is modeled and managed. Loss control has always trends in perils such as wildfires and severe convective
+been important, and we are focused on supporting storms, analyzing the difference between actual losses
+our policyholders’ efforts to avoid damages related to arising from natural catastrophes and those that are
+the changes in frequency and severity of catastrophe anticipated. Berkley also tracks changes in our exposures
+events due to climate change. to the most significant greenhouse gas (“GHG”)
+producers. Climate-related risks, including catastrophe
+2. Investment Risk: Berkley also monitors investment exposures, are incorporated in our investment analysis.
+risk related to climate change. The majority of our
+investments are in fixed-maturity securities with Berkley responds annually to the NAIC Climate Risk
+an average duration of less than 2.5 years and Disclosure Survey and publishes these responses on our
+an average AA- credit quality, which reduces the website. We have written this report in consideration of
+potential financial impact of long-term economic the TCFD disclosure recommendations and have included
+changes, including those arising from climate change. a TCFD index in the appendices to this report.
+In addition, Berkley seeks to limit our investments in
+Berkley 2023 Sustainability Report 32
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Risk Assessment & Modeling
+Finally, we considered operational risk at the enterprise level.
+To better manage our Businesses’ exposures to the Risk Assessment: Underwriting
+physical and transition risks of climate change, we
+performed a qualitative climate change risk assessment
+in 2022 and began a proof of concept for a quantitative
+climate change scenario analysis to assess the risks
+that are most likely to have a significant impact on our
+Businesses. Details of these processes and the results of
+the exercises are summarized below. Reserve Risk
+Qualitative Risk Assessment
+The qualitative risk assessment focused on three ERM risk
+categories: underwriting, investments, and operational
+risk from developing regulation.
+Our underwriting risk assessment considered the potential
+impacts of physical and transition climate risk on pricing Risk Selection and Assessment Ranking of Our
+and risk selection, reserving, and strategy for individual Pricing Risk Businesses
+LOBs. Each of these aspects of underwriting risk was con- by Perceived
+sidered through the lens of the most relevant time horizon Vulnerability to
+for that aspect of risk based on the following definitions: Climate Risk
+• Short: 0-5 years
+• Medium: 5-20 years Strategic Risk
+• Long: 20+ years
+These LOB assessments were then modified to reflect
+the characteristics of the portfolios written by individual Risk Assessment: Investments
+Businesses to provide an overall risk perspective for the
+Businesses’ underwriting risk from climate change. The
+result was a ranking of our Businesses by exposure to
+climate risk.
+Our insurance companies in various jurisdictions were
+also assessed for their ability to satisfy climate change
+Risk Assessment Targeted Risk Overall Risk
+regulatory reporting requirements. Factors such as date of
+of Specific Assessment of Rating for
+compliance, actions to comply, and associated penalties
+Industries Our Individual Various Portfolio
+for noncompliance were considered. A preliminary risk
+Holdings Components
+rating was assigned for each insurance company. These
+regulated entities were then mapped to all associated
+Businesses and a weighted assessment was determined.
+We similarly assessed our investments, which are
+managed by Berkley’s internal investment manager.
+First, we conducted a broad assessment of the risk
+associated with specific industries. We then conducted
+a second assessment to incorporate specific aspects
+of our individual holdings, such as industry subgroup,
+asset class, investment duration, investment grade, and
+more. The result was an overall risk rating for the various
+components of our investment portfolio.
+Finally, we considered operational risk at the enterprise level.
+Berkley 2023 Sustainability Report 33
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Quantitative Scenario Analysis Proof
+refine the methodology for future use and have not yet
+of Concept
+explicitly influenced any major business or underwriting
+decisions.
+Climate risks and opportunities are generally expected
+to manifest over long time horizons with high uncertainty Catastrophe Risk Management & Modeling
+regarding how climate trends, government policy, and
+socioeconomic factors will emerge in the future. To gain Catastrophe risk is a key consideration in the strategic
+a better understanding of how some of the underwriting management of our Company, and we consider this
+risks identified in the qualitative risk assessment may type of risk in an analytical manner. Berkley establishes a
+manifest and affect the business under potential risk appetite as a percentage of total capital exposed to
+climate futures, we developed a proof of concept for a events at various probabilities of occurrence for our key
+quantitative underwriting climate scenario analysis and catastrophe risks: earthquake, hurricane, and on a multi-
+tested it on select Businesses. Our pilot methodology peril basis. The risk appetite indicates the size of loss we
+attempted to quantify the impact of a changing climate believe our Company could sustain without materially
+on individual economic sectors (such as the fossil fuel, affecting the ongoing business. Percentages are used in
+renewable energy, and transportation subsectors). place of dollar thresholds to scale up or down with our
+The methodology is intended to be used as a stress Company’s capital resources. Risk utilization is regularly
+test of premium volume in the sectors and geographic monitored and reported to the ERM Committee. Risks
+locations where each Business may have a reliance on approaching risk appetite must be specifically addressed,
+policyholders in those markets under short-, medium-, and any overutilization must be approved by Berkley’s
+and long-term future time horizons and climate President and CEO. Our philosophy is that we should avoid
+scenarios. (We continue to evaluate the results of this risks that might prevent us from doing business tomorrow
+pilot methodology, its applicability to stress tests on other in substantially the same way that we do today.
+metrics, and whether this methodology is fit for purpose.)
+As part of this process, our ERM team seeks to monitor key
+In developing our proof of concept, we used the climate catastrophe exposures for Berkley overall and for each of
+scenarios developed by the Network for Greening the our individual Businesses, and to identify locations and
+Financial System (“NGFS”), which are largely considered policies that are most likely to give rise to a substantial
+the industry standard for climate scenario analysis within loss from catastrophic events such as hurricanes.
+the financial sector. Using the underlying NGFS data and
+To understand the effects of climate change on
+assumptions across those scenarios, we tested the pilot
+catastrophe risks in our business, our ERM team studies
+exercise across select Businesses. While not implemented
+scientific reports on the potential impacts of climate
+enterprise-wide, the modeling methodology and detailed
+change, specifically focusing on current climatic
+framework were designed to be customized to allow for
+conditions, and conducts analysis that helps us evaluate
+potential future implementation across any Business. As
+the possible effects of climate change on potential
+such, the results of this exercise were only used to help
+insured losses.
+Berkley 2023 Sustainability Report 34
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Climate Risk in Catastrophe Modeling Berkley, which facilitates the monitoring and modeling
+of catastrophes. This mapping software can help each
+Berkley uses computer models developed specifically
+Business to identify its exposed limits by LOB, type of
+to assess the risk from weather-related catastrophe
+exposure (buildings, contents, business interruption, etc.),
+events—including, but not limited to, tornadoes, hurricanes,
+the number of locations, and the actual policies that are
+and hailstorms—and outsources additional modeling to
+exposed in a particular location.
+vendors to provide a second perspective on the frequency
+and severity of weather-related catastrophe events.
+Each Business includes the catastrophe-exposed limits
+it anticipates for the next year by region and county tier
+To make our modeling more robust, our ERM team
+in its business plan, and the Berkley ERM team monitors
+attempts to assess the possibility of “model miss” within
+each Business against its planned aggregate over the
+vendor catastrophe models; this includes a comparison
+course of each year.
+of modeled industry losses against revalued historical
+losses, an assessment of individual subcomponents
+Actual catastrophe losses, excluding pandemic-related
+within the model, and stress-testing model frequency
+losses, averaged 2.0 loss ratio points over the five-year
+and severity assumptions. Models may not be available
+period of 2018 to 2022.
+for all types of risks. In addition to this probabilistic view
+of natural catastrophe risk, our Company also monitors Finally, our ERM team continues to evaluate emerging
+estimated losses to multiple natural catastrophe realistic risks and developing risk assessment tools. For example,
+disaster scenarios. our ERM team has investigated the potential impact
+of sea-level changes on the storm surge that could
+Overall, Berkley identifies and models our hurricane
+occur in conjunction with a hurricane. In several
+risks in 23 states that we believe are most likely to be
+locations where we operate, the effect is compounded
+affected by these perils. On an annual basis, we also have
+by land subsidence—for example, the subsidence due
+exposures modeled in an alternative vendor model with
+to postglacial rebound in New York and groundwater
+a broader set of states. Our ERM Committee discusses
+extraction in New Orleans. We also continue to investigate
+these computer modeling results regularly.
+available computer models for riverine and surface-
+water floods.
+Berkley also provides each insurance Business with data
+on its exposures and with mapping software licensed by
+Building a Better Model for Wildfire Risk
+Although personal property has traditionally
+accounted for the greatest proportion of industry-
+wide insured losses from wildfire, the share of
+commercial property losses from wildfires in the
+U.S. has been increasing. For the past several years,
+our risk analysis has pointed to a possible increase
+in the frequency of wildfires in the U.S., as well as a
+larger average area burned in a single wildfire. We
+have developed an accumulation model for wildfire
+risk in California for use by our Lloyd’s syndicate.
+Data is updated to reflect recent wildfire activity and
+the number of acres burned. The model is used in
+monitoring risk accumulations for both primary and
+reinsurance Businesses.
+Berkley 2023 Sustainability Report 35
+PPIILLLLAARR 22:: CCLLIIMMAATTEE RRIISSKK MMAANNAAGGEEMMEENNTT
+Climate Change Risks & Opportunities
+Underwriting Risks
+Our Company is exposed to risks from climate change due to our underwriting activities. These risks differ by LOB and
+product and could manifest through changes in premium volume, changes in future loss experience, or changes in the
+runoff of loss reserves. Berkley has identified several risks to the performance of the LOBs:
+The agriculture industry has a significant High-carbon-emitting sectors such as oil
+exposure to physical risks for various and gas are expected to see widespread
+coverages because large warehouses and regulation and litigation designed to reduce
+crop fields are vulnerable to damages from the use of fossil fuels and encourage
+physical events. More broadly, policyholders may not be increased use of renewable energy. Coverages Berkley
+able to relocate away from physical risks because certain writes may experience a significant impact from social
+crops must be grown in certain geographical locations inflation, which could expose policyholders to new and
+where climate and land conditions are favorable. more extreme forms of litigation.
+Environmental products, such as pollution The transportation industry is a high-
+liability coverage, are expected to see emitting sector that is expected to see
+heightened transition and physical risks due more-stringent climate-related policies
+to the hazardous nature of the businesses for personal and commercial vehicles. Insuring
+covered and because of changes in the frequency and commercial vehicles also poses a physical risk because
+severity of weather events. entire fleets are exposed to weather events such as
+hurricanes and tornadoes.
+The level of risk will differ by Business based on the premium volume and the uncertain impact of climate change
+on the loss costs in the LOBs they write, as well as the specifics of the business written. Factors that affect the risk to
+individual Businesses include the industries insured, the geographic concentration of the business, the specific terms
+and conditions in the insurance policies, and the ability to charge appropriate rates that reflect the current risk profile.
+As detailed in this section, our analysis allows us to consider modifying underwriting activities to better manage these
+risks to a reasonable level on an ongoing basis.
+Evolving Sustainability in the Lloyd’s
+Marketplace
+In October 2021, Corporation of Lloyd’s issued market-
+wide guidance for establishing an ESG framework. In
+2022, as part of the Lloyd’s business planning process
+for 2023, W/R/B Underwriting, like all other market
+participants, was asked to submit its ESG strategy.
+Lloyd’s has asserted that this process, and these
+new requirements, provide the market with a holistic
+view of the plans and the progress being made by all
+market participants to support a more sustainable,
+resilient, and inclusive marketplace.
+Berkley 2023 Sustainability Report 36
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Investment Risks
+Berkley is also exposed to climate change risk through
+Berkley considers the level of climate risk across the
+our investments. Risks manifest through both the
+investment portfolio as part of our risk management
+underlying industries that Berkley invests in and
+process. Climate-related investment risks, such as
+the characteristics of specific asset types. Berkley’s
+transition risks, are mitigated by the nature of our
+qualitative analysis identified several risks to the
+investments, as the majority of our investments are
+investment portfolio:
+in fixed-maturity securities with an average duration
+of less than 2.5 years and an average rating of AA-.
+• Oil, gas, and pipeline investments face the highest
+High-quality short-term investments incur lower risk
+risk overall from climate change. These investments
+in the face of potential long-term economic impacts
+are exposed to high physical risk due to significant
+caused by climate change.
+offshore and coastal operations, as well as to high
+transition risk due to regulatory changes and evolving
+societal perceptions.
+• Investments in municipal bonds could be at risk from • Investments in electric utilities are exposed to
+climate change because of the risk to underlying significant physical risk due to the large and complex
+municipal assets from the impacts of climate change, infrastructure and equipment used in the industry.
+thus potentially increasing the likelihood of default. Transition risks also exist due to the potential for the
+imposition of carbon pricing in various jurisdictions.
+Berkley 2023 Sustainability Report 37
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Operational Risks
+Berkley Office Locations
+We seek to avoid the risk of functional obsolescence of
+our office locations, and we consider climate risks in that
+analysis. We assess each individual property location for
+catastrophe risk, with particular focus on those nearest to
+a coast, river, or estuary.
+When considering real estate purchases and leases,
+Berkley’s investment and lease administration teams
+consider the exposure to catastrophes at that location.
+When there is a risk of natural catastrophe, our
+investment and lease-administration teams assess the
+current risk and review flood risk maps and elevation
+to consider the possibility of increased risk over future
+years, if sea levels rise. These factors are taken into
+consideration when determining whether to proceed with
+the purchase or lease.
+Because the built environment accounts for almost 40%
+of global energy-related carbon emissions,4 we embrace
+sustainable-building standards wherever possible.
+As part of our efforts to mitigate the impact of our
+operations on the environment, including leased assets,
+Berkley works to procure office space at buildings that are
+Berkley-Occupied Buildings with
+certified by BREEAM, LEED, or ENERGY STAR where practical.
+LEED-certified buildings consume 25% less energy,5 Environmental Certifications
+according to a study conducted by the U.S. Department
+Building City Certification
+of Energy and the General Services Administration
+that reviewed 22 LEED-certified buildings, which leads
+Urban Towers Irving, Texas LEED Gold
+to estimated emissions savings of 34%. The U.S. Green
+Building Council indicates that employees working at
+725 South Figueroa Los Angeles,
+LEED-certified buildings feel more content, healthier, and LEED Platinum
+Street California
+more productive.6 Our Metro Center office in Stamford,
+Connecticut, is part of a carbon-neutral community of ENERGY STAR®
+Stamford,
+buildings. Located within the Metro Center complex, this Metro Center Well Health
+Connecticut
+building has been ENERGY STAR certified—a certification
+Safety Rating
+which the U.S. Environmental Protection Agency (“EPA”)
+awards to buildings that meet strict energy performance New York City, LEED Silver
+standards—for four years.7 The property manager also 757 Third Ave
+New York ENERGY STAR®
+implemented multiple sustainability initiatives at the
+Metro Center office in partnership with Berkley.8
+The Scalpel London, England BREEAM
+4 “Why the Built Environment?,” Architecture 2030, accessed May 22, 2023, https://architecture2030.org/why-the-building-sector/.
+5 Kim Fowler et al., Re-Assessing Green Building Performance: A Post Occupancy Evaluation of 22 GSA Buildings, Pacific Northwest National Laboratory,
+September 2011, https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-19369.pdf.
+6 “Health in LEED,” U.S. Green Building Council, June 2022, https://www.usgbc.org/sites/default/files/2022-07/Health-in-LEED_June2022.pdf.
+7 For more information regarding ENERGY STAR building certifications, see https://www.energystar.gov/buildings/building_recognition/building_
+certification.
+8 “Metro Center,” Empire State Realty Trust, May 2019, https://www.esrtreit.com/wp-content/uploads/pdf/ESRTFactsFigures_Metro_Center_
+Suburban-May-19.pdf.
+Berkley 2023 Sustainability Report 38
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Sustainability at Metro Center
+In May 2022, Empire State Realty Trust (“ESRT”), the
+owner of Metro Center in Stamford, Connecticut,
+where several of our Businesses are tenants, was
+named a 2022 Platinum Green Lease Leader. The
+U.S. Department of Energy’s Better Buildings Alliance
+and the Institute for Market Transformation award
+this designation to landlords and tenants who show
+improvements on energy efficiency, cost savings, air
+quality, and sustainability in buildings. ESRT reduced
+greenhouse gas (“GHG”) emissions intensity by 7.5%
+across its entire commercial portfolio between 2021
+and 2022. The company also reduced commercial
+GHG total emissions by 8% despite a 4% increase
+in commercial energy consumption compared
+with 2021. The improvements made at Metro Center
+contributed to these reductions.1
+1 2022 Sustainability Report, Empire State Realty Trust, https://online.
+flippingbook.com/link/859359/.
+Metro Center, Stamford, Connecticut
+GHG Emissions
+As part of our ESG operating model, Berkley 2022 Emissions
+has been building on efforts to increase the
+portfolio coverage of our Scope 1 and Scope 2 emissions
+disclosure. This is Berkley’s second year calculating
+a global footprint, and we are using an estimation
+Total Scope 1: Total Scope 2:
+methodology consistent with the GHG Protocol. To obtain
+the data needed for this exercise, we collaborated 7,435 16,190
+with our lease-administration and facilities teams. We
+continue to refine our GHG reporting process. MT of COe MT of COe
+2 2
+Total Scope 1 and Scope 2 GHG emissions:
+23,625
+MT of COe
+2
+Note: We use an estimation methodology consistent with The
+Greenhouse Gas Protocol: A Corporate Accounting and Reporting
+Standard (Revised Edition) to calculate our Scope 1 and 2 GHG
+emissions.
+Berkley 2023 Sustainability Report 39
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Business Continuity Planning
+We have developed what we believe to be a
+Business Continuity
+comprehensive business continuity plan for operational
+The processes initiated to resume business
+risks—our ability to provide uninterrupted and
+operations to a level consistent with business
+uncompromised services. Floods, wildfires, and other
+requirements can include:
+natural disasters could affect one or more of Berkley’s
+office locations. To help prevent business interruptions,
+we have developed business continuity plans at each of Business impact Manual
+our Businesses to maintain functionality during significant analysis workarounds
+disruptions. Each Business is responsible for remote-
+access testing to ensure employees can work from home,
+Scenario testing
+if required. Additionally, we follow policies for business Call trees
+exercises
+continuity set by insurance industry regulators and review
+and consider those recommended by insurance industry
+trade associations.
+Remote-access
+Alternate sites
+Recent hurricanes have provided live “use cases” for training
+our business continuity planning, as has the COVID-19
+pandemic. During recent hurricanes, several of our U.S.
+office locations were closed but successfully continued
+Outsourcing
+with business as usual. Our business continuity plans
+also worked extremely well in 2020, when almost 100% of
+employees worked from home for an extended period
+of time in response to the COVID-19 pandemic, without
+disruption to our operations.
+Other Climate-Related Risks
+Crisis Management & Emergency Response
+Legal Risk: As industry practices and economic, legal,
+A series of actions can be taken to gain control of
+judicial, social, and other environmental conditions
+a crisis event quickly to minimize the effects of a
+change, unexpected and unintended issues related to
+disruption, prepare for and oversee recovery, and
+claims and coverage may emerge. These issues may
+manage communications throughout, such as:
+adversely affect our Businesses by either extending
+coverage beyond our underwriting intent or by increasing
+the number or size of claims. Emerging claims and
+Evacuation
+coverage issues include, but are not limited to, potentially Hotlines
+plans
+changing climate conditions. We continue to monitor
+industry practices and developments related to standard
+climate change exclusions on policies. Emergency
+Crisis teams
+communications
+Transition Risk: In addition to monitoring physical risk
+and liability risk, we also continue to monitor potential
+changes in areas such as legislation, regulation, or
+Response IT command
+reporting requirements relating to the transition to a
+templates centers
+lower-carbon economy for possible impacts on the
+Company and our customers. Among other actions,
+we may refine our underwriting or risk appetite, make Escalation
+Exercises
+changes to our investment portfolio, establish new or criteria
+additional procedures and processes, or adjust staffing
+levels or use of contracted services to help us address
+such changes.
+Berkley 2023 Sustainability Report 40
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Climate Change Opportunities
+Berkley has identified opportunities to benefit our Businesses amid the uncertainties around climate
+change. In 2022, we underwrote approximately $47 million of net premiums related to certain energy
+efficiency and low-carbon technology risks. These opportunities include the following:
+Insuring Alternative Energy Supporting Businesses with
+Companies ESG Disclosure Requirements
+Several of our Businesses insure One Berkley Business provides
+companies in the renewable-energy management liability coverages to U.S.
+sector, which supports the growth of renewable publicly traded and large privately held companies,
+energy in the U.S. By insuring these operations, our which are by nature complex, sophisticated
+Company makes a positive contribution to the growth operations heavily focused on risk management,
+of operations that produce energy from non-fossil fuel including climate change initiatives. The disclosure
+sources, which may help to reduce GHG emissions. requirements of U.S. public companies on ESG topics,
+including climate change, generally arise out of
+U.S. Securities and Exchange Commission (“SEC”)
+regulations, accounting standards, the Sarbanes-
+Oxley Act of 2002, and state regulations. Additionally,
+those policyholders often adhere to protocols that
+Supporting the Transition to
+have emerged for the voluntary reporting of ESG
+Electric Vehicles matters established by nongovernmental entities,
+including the disclosure of information regarding
+One Berkley Business insures companies the environment, sustainability, corporate social
+engaged in development and responsibility, and, more recently, climate change
+maintenance work for electric vehicle and GHG emissions.
+manufacturing.
+Another insures multi-passenger public transportation
+in support of lowering emissions and is exploring
+electric vehicle alternatives with policyholders.
+In addition, we continued to transition our U.S. fleet of
+cars to hybrid sedans and SUVs in 2022.
+Preserving Wetlands
+One of our Businesses has
+an insurance product for
+companies engaged in the restoration,
+Supporting Sustainable
+construction, enhancement, and preservation of
+Design & Construction
+wetlands and streams (i.e., aquatic resources) with
+the goal of offsetting the loss of resources from
+One Berkley Business provides liability other projects authorized by the U.S. Army Corps of
+insurance to architects, engineers, Engineers. This product provides the customer with
+and contractors, insuring a number of firms that are confidence that the construction of these aquatic
+involved in LEED building design and construction. resources can be completed.
+In doing so, the Business supports the work of these
+firms in building environmentally friendly structures
+that have explicit standards for carbon outputs.
+Berkley 2023 Sustainability Report 41
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Assisting Clients with Certified Green Dwellings
+Emergency Evacuation
+As a provider of insurance to high-
+Procedures
+net-worth individuals, Berkley One has
+the opportunity to underwrite certified
+Another Berkley Business assists clients with the
+green homes. The Business accepts certifications
+development of emergency evacuation procedures
+from the U.S. Green Building Council (LEED rating
+for tornadoes, hurricanes, ice or snowstorms, and
+system for homes) and the National Association
+other weather-related events. It also provides training
+of Home Builders, both of which can certify homes
+materials to teach employees how to manage heat
+that meet the applicable standards. For example,
+stress and hurricane cleanup safely.
+the National Association of Home Builders certifies
+for high performance in six areas—lot design and
+development, resource efficiency, water efficiency,
+energy efficiency, indoor environmental quality, and
+building operation and maintenance. It bestows four
+levels of certification: Bronze, Silver, Gold, and Emerald.
+Berkley 2023 Sustainability Report 42
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Climate Change Risk Management
+and take into consideration the messages provided
+& Mitigation
+by environmental and climate special interest groups.
+However, these issues have many dimensions that we
+Berkley seeks to support the transition to a low-carbon seek to weigh and assess, and we remain conscious of
+economy through our policies and practices. We believe the views of various stakeholders. We endeavor to strike
+that withdrawing all underwriting for specific sectors is a balance between long-term objectives and short-term
+not an appropriate or responsible approach to these impacts by considering the risks inherent in each client’s
+efforts and will continue to consider underwriting business during the underwriting process, including
+insurance for companies engaged in legal businesses. environmental and social risks, and their potential impact
+We recognize the issues and challenges that come with on the financial condition of the business.
+certain exposures, such as those in fossil fuel industries,
+Underwriting
+We incorporate catastrophe exposure in the underwriting and pricing processes implemented at each of our
+Businesses, where applicable. ESG factors are considered in underwriting where prescribed by local regulation. This
+gives each Business the flexibility to deal with localized jurisdictional factors and information related to each client.
+Berkley reviews its overall risk on a portfolio basis, rather than assessing the impact of specific industries or activities
+on an individual basis.
+Berkley 2023 Sustainability Report 43
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Addressing Identified Climate Risk
+In response to the ERM team’s catastrophe and climate Our approach to risk is designed to allow us to better
+change analyses and reports, we have taken several mitigate excessive costs. We exercise particular
+actions to manage our exposure, including the following: caution in three areas:
+the use of peril-specific deductibles or sublimits, the
+nonrenewal of specific policies, the re-underwriting of Where flood coverage is provided
+particular segments of the portfolio, and the purchase of in Federal Emergency Management
+additional reinsurance protection. Agency (“FEMA”) flood zones, generally a
+modest limit is provided.
+We consider catastrophe modeling and management,
+along with other risks and stress testing, in the evaluation We do not currently write personal lines
+of our risk capital needs. This evaluation also takes into homeowners insurance in California,
+account regulatory requirements, financial strength, and where the vast majority of wildfire losses
+credit rating considerations, among other factors. take place. To the extent permitted
+by insurance regulation applicable to
+Aggregate catastrophe losses for the period are
+each state, we are using a wildfire risk
+reported in quarterly earnings releases and SEC filings
+score as part of our risk selection and
+for each reporting segment and in the aggregate for
+underwriting process for homeowners
+our Company. The impact of catastrophe losses on our
+insurance. To help mitigate the risk of
+earnings has been below the industry average for many
+wildfire damage, we employ a range of
+years because of our careful risk management and
+services for individual homeowners.
+commitment to building long-term shareholder value
+through superior risk-adjusted returns. We do not offer crop insurance (i.e., crop
+multi-peril business), which could be
+As industry practices and economic, legal, judicial, social,
+significantly affected by drought or flood.
+and other environmental conditions change, unexpected
+and unintended issues related to claims and coverage
+may emerge.
+• Environmental risk and impact management
+We continue to monitor industry practices and
+developments related to standard climate change
+• Resource efficiency
+exclusions on policies.
+• Pollution prevention and management
+Additional Environmental Factors Affecting
+Risk Appetite for Our Businesses • Ecosystems and biodiversity
+• Low-carbon technology (including renewable energy
+Climate change is just one of the environmental factors
+insurance, energy savings warranties, and carbon
+affecting our Businesses’ risk appetite and selection.
+capture and storage insurance)
+Other factors include:
+Berkley 2023 Sustainability Report 44
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Loss Control
+The following loss control services and related education
+As part of our climate change risk management and efforts are currently available and have been offered to
+The following loss control services and related
+mitigation strategy, our Businesses may use risk surveys certain policyholders:
+education efforts are currently available and have
+and inspections to determine roof integrity, erosion and
+• Dbaetean o onf fpeoretedn ttoia cl elorstasin policyholders:
+landslide risk, wildfire precautions, excess snow loading
+on roofs, and exposure to hailstorms, and to provide • M• eaDsautraes o nne peodteedn ttioa lp lorostsect property
+customers with ways to proactively mitigate their
+risk of loss. Some of these inspections are conducted • E•v alMuaetaiosnu roefs l onseseedse wd itthoi np rao treecgti opnroapl aerretya that is prone
+virtually, using point-to-point technology for virtual to certain types of losses
+• Evaluation of losses within a regional area that is
+risk assessment and hazard identifications, which also
+reduces our carbon footprint. • Advpicreo noen troe scileiertnacine tayrpoeusn dof n loastuserasl perils
+Many of our Businesses also offer regularly updated loss • T•r ainAidnvgi cwee obnin raerssil iteon acses aisrto inu nedd uncaatutiroanl paenrdil sloss
+control services, advising policyholders on ways to reduce mitigation
+• Training webinars to assist in education and loss
+the risk of losses, including those caused by various
+• Greemni tcigoavetiroange endorsements for property, inland
+climate-influenced risks.
+marine, and equipment breakdown to encourage
+• Green coverage endorsements for property, inland
+Loss Control Education & Services policyholders to “think sustainably”
+marine, and equipment breakdown to encourage
+We work to help our policyholders reduce their • Webpsoitleicsy choonldtaerins itnog “ ttihpisn ko nsu as tbarionaadb lrya”nge of risk
+losses from climate change through education mitigation measures such as disaster planning,
+• Websites containing tips on a broad range of risk
+and prevention measures. One of our Businesses offers construction, and “green construction,” as well
+mitigation measures such as disaster planning,
+webinars and consulting services through the Nonprofit as influences of weather and safety, that provide
+construction, and “green construction,” as well
+Risk Management Center to help policyholders reduce policyholders with practical tools and online training
+as influences of weather and safety, that provide
+losses caused by events related to climate change.
+Some Businesses also alert policyholders to upcoming • Mitigpaotliiocynh aodldveicres wonit hb apcrakuctpic paol wtoeorl sg eannedr aotniolinne
+weather conditions through weather alert postings on systtermains iangnd suppliers available to policyholders
+their websites or state department of insurance bulletins
+• T•ip sM ointi ggaretieonn caodnvsictreu octnio bna, ceknueprg pyo ewffiecr igeenncey,r ation
+communicated directly to policyholders or through
+influseynscteems osf a wneda stuhperp alienrds oatvhaeirla rbellea tteod p toolpicicyhs oolnd ers
+producers. Many Businesses inform policyholders of
+social media pages to provide practical tools for
+environmental changes through a variety of loss control • Tips on green construction, energy efficiency,
+policyholders to handle potential climate hazards and
+options, including “tips” brochures, webinars, training influences of weather and other related topics on
+mitigate the size and severity of the potential loss
+opportunities, newsletters, and disaster planning material. social media pages to provide practical tools for
+• Guidpaonlicceyh oonld merasn taog hinagn dulpec poomteinngti ahlu crlriimcaantee hseaazasordnss
+Various Businesses engage with insurance industry trade
+thata tnydp imcaitlliyg aptoein tthse r esiazed earnsd to swevaerdri tay cohf ethcek lpisot tferonmtia l
+organizations on overall industry and loss control issues,
+the Nloastsional Hurricane Survival Initiative and FEMA’s
+such as changes to FEMA, to encourage actuarially
+business toolkits
+sound rates, building codes, and safety and storm • Guidance on managing upcoming hurricane
+preparedness. Specifically, one Business is an active • Trainseinags omnast tehraiatl sty tphircoaulglyh p ao itnhtisrd re-paadretrys r tisokw ard a
+participant in the Inland Marine Underwriters Association mancahgeecmkliestn ftr ovemn dthoer aNbaotiuotn rael dHuucrirnicga enme Sisusriovinvsa; l
+(“IMUA”) and sits on panels at industry events promoting the vIneitniadtoivr ep raonvdid FeEsM oAp’se rbautsioinneasl sim toporlokivtesment
+loss control as it pertains to weather-related events.
+or technological solutions including operational
+• Training materials through a third-party risk
+efficiency, fuel efficiency, loss prevention, and spill
+management vendor about reducing emissions;
+mitigation
+the vendor provides operational improvement
+• Trainoirn tge cohnn hoolowg ticoa pl rseosleuntito snas fien-cdluridviinngg ompeeeratintigons atol
+empelfofiyceieensc rye,l afutienlg e ftfioc hieignhc yw, ilnodsss parnedv ecnhtaionng, inagn dro sapdil l
+condmitiitoignast, isounch as winter driving
+• Training on how to present safe-driving meetings
+to employees relating to high winds and changing
+road conditions, such as winter driving
+Berkley 2023 Sustainability Report 45
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Business Highlight: Personal Lines
+This Business continues to offer discounts to policyholders
+for loss mitigation and has seen increased use of
+Berkley One provides a customizable suite of personal
+additional coverage that reimburses post-loss purchases
+lines insurance solutions including home, condo/
+of loss-mitigation devices. Several homeowners have
+co-op, auto, liability, and collectibles to high-net-
+taken advantage of that coverage by installing loss-
+worth individuals and families with sophisticated risk
+mitigation devices such as water shut-off devices,
+management needs. Berkley One has established a
+generators, backup power for sump pumps, and alarm
+number of risk management and mitigation tools based
+systems. Berkley One continues to provide resources for
+on the philosophy that a home saved from a complete
+customers seeking to take proactive steps to mitigate
+loss not only saves our clients heartache but saves
+loss, such as the purchase of storm shutters, through its
+valuable natural resources, too. In areas of the country
+network of service providers. This Business also continues
+exposed to wildfire, Berkley One engages the services of
+to provide a variety of other services, including blog
+a private wildland fire monitoring and response provider
+posts and fact sheets that provide timely advice on loss
+that may take pre-suppression activities to lessen the
+control; green-coverage endorsements that cover loss
+threat to properties in certain instances.
+to alternative-power-generating equipment and water
+systems, and that provide coverage to upgrade to more
+Berkley One’s risk management service uses aerial
+sustainable materials in the event of a covered loss; and
+imagery to view residential roofs to help determine
+premium credits for greenhouses and storm-protective
+their integrity for withstanding hail and other
+building materials.
+weather-related risks.
+Berkley 2023 Sustainability Report 46
+PILLAR 2: CLIMATE RISK MANAGEMENT
+Investments
+proprietary algorithm that tracks historical liquidity
+We consider climate change in our investment strategy trends. Each security is assigned to one of the five liquidity
+in an effort to reduce the likelihood of climate risks tiers, which Berkley can then actively manage to seek an
+negatively affecting the investment portfolio. Examples of optimal balance. These reports are run quarterly or more
+actions taken within the investment strategy to manage frequently if necessary.
+the risks from climate change include:
+We believe the combination of operating cash flows
+• Carrying out qualitative risk assessments and and cash, cash equivalents, and short-term securities,
+quantitative analysis exercises on a periodic basis to as well as the laddered maturities of our high-quality
+support an understanding of the risks from climate fixed-maturity securities, should adequately address
+change in the current investment portfolio our liquidity needs. We also have the option to raise
+additional capital from public and private markets, if
+• Seeking to limit our investments in municipal bonds needed. Our outstanding long-term indebtedness does
+in areas that are most subject to catastrophic loss; not have any liquidity or rating agency covenants that
+our ERM and investment teams coordinate to monitor could cause it to be called early by investors. Furthermore,
+Berkley’s exposure to municipal bonds in locations our assumed reinsurance business, in general, does
+we expect are most likely to experience significant not have rating agency downgrade triggers that could
+catastrophes materially affect our liquidity position. Berkley also has
+a $20 million credit facility, allowing for the issuance of
+• Favoring utility investments in natural gas-fired
+standby letters of credit on behalf of our Company and
+facilities over investments in facilities that use coal
+its subsidiaries. Effective April 1, 2022, we entered into a
+senior unsecured revolving credit facility that provides
+For further details about our approach to managing
+for borrowing up to an aggregate of $300 million with a
+climate risk in our investment portfolio, please refer to the
+sublimit of $50 million for letters of credit.
+Responsible Investing section in Pillar 3 of this report.
+Liquidity Management
+Liquidity is also an important consideration, especially
+with respect to our ability to pay claims after a significant In order to accomplish our liquidity goals, Berkley:
+catastrophe event. Our investment policy states that
+portfolio holdings should be sufficiently liquid for the
+timely payments of all obligations without material Targets a minimum of 5% of our assets in
+impact on market values. cash, cash equivalents, and short-term
+securities
+Liquidity stress tests are performed with the assistance
+of our asset risk management system, which splits our
+fixed-maturity portfolio into various tiers based on its
+Maintains a portfolio of high-quality,
+fixed-maturity securities (with a current
+overall portfolio average rating of AA-)
+so that a significant portion matures
+each year
+Generates cash flow through investment
+income from the asset portfolio, as well as
+from operations
+Maintains significant liquidity at W. R. Berkley
+Corporation that can be contributed to the
+insurance subsidiaries, if necessary
+Berkley 2023 Sustainability Report 47
+PILLAR 3
+RESPONSIBILITY &
+TRANSPARENCY
+PILLAR-SPECIFIC SDGS:
+Berkley 2023 Sustainability Report 48
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Berkley’s success over more than five decades has been underpinned by its culture of responsibility and transparency.
+Strong policies underlie this culture, which has been instilled by its most senior executive officers since the Company’s
+founding and is manifested daily through leadership with integrity. This section details our corporate governance, ethics
+and compliance policies and practices, cybersecurity infrastructure, and responsible investing practices.
+Ethics & Compliance
+Guidelines, the Board seeks to undertake appropriate
+succession planning for our CEO, including policies and
+Governance & Business
+principles for selection and performance review as well
+Ethics Policies
+as emergency succession. Succession and contingency
+plans are also in place for W. R. Berkley Corporation’s
+Throughout our history, Berkley has maintained strong
+Executive Chairman. Leadership reinforcement,
+corporate governance and a culture of ethics and
+mandated Company-wide training, clear policies,
+compliance. The W. R. Berkley Corporation Corporate
+available resources, ethics, and compliance continue to
+Governance Guidelines set out procedures and
+serve as key components of how Berkley operates.
+standards regarding functions of the Board, including
+the qualifications of directors and their responsibilities,
+Berkley is committed to conducting business with the
+compensation, continuing education, election
+highest ethical standards and in full compliance with
+procedures, performance evaluation, and management
+all applicable anti-corruption, anti-bribery, anti-money
+succession. Pursuant to our Corporate Governance
+laundering, and anti-slavery laws and regulations.
+Berkley 2023 Sustainability Report 49
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Berkley Ethics Infrastructure
+The Business Ethics Committee of the Board oversees
+our Code of Ethics and Business Conduct (“Code”),
+as well as our Company’s Statement of Business
+Ethics for the Board of Directors, and is responsible
+for reviewing related disclosures made by our
+employees and directors. In addition, we have
+established Complaint Procedures for Accounting
+and Other Corporate Governance Matters, which are
+available on our website.
+Berkley’s Internal Audit function reviews the Code and
+ethics process annually, performing the following
+Employee Ethics Resources
+procedures:
+While W. R. Berkley Corporation’s Chief Compliance Officer
+• Confirming all publicly available documents
+oversees our overall ethics and compliance program,
+related to ethics and compliance procedures are
+adherence to the Code is the shared responsibility of
+current, complete, and accurate
+employees at all levels and across all geographies. Each
+Business has established a Business Ethics Committee to
+• Ensuring employees have completed ethics
+advise on ethical questions. Our ethics and compliance
+training and annual Code certification
+program includes business ethics, compliance with
+applicable laws and regulations, and training with • Reviewing any accounting or legal allegations
+respect to anti-corruption and avoiding anti-competitive reported confidentially through a third-party
+behavior. We encourage our employees to speak up hotline or Berkley’s website
+about any ethical concerns they may have and to raise
+such concerns using our 24-hour ethics hotline. Ethics Refer to our Code for information regarding Berkley’s
+resources for our employees include a Business Ethics business practices around antitrust, fair competition,
+Committee at each of our Businesses, a “no retaliation” and insurance quoting practices.
+policy for those reporting unethical behavior, and an
+anonymous, independently operated, multilingual
+telephone hotline (“EthicsLine”). Instructions about how to
+access these resources via the internet or telephone are through the EthicsLine have been reviewed, investigated,
+included in the Code and communicated to employees and closed, including nine reports submitted in 2022.
+through a mandatory annual review of the Code. The If a report leads to a discovery of violations of law or
+EthicsLine is available 24 hours a day, seven days a Company policy, disciplinary and other appropriate
+week, on an anonymous basis for all Berkley employees, actions will be taken.
+contractors, customers, and suppliers worldwide to report
+Corporate Governance Complaint
+legal or ethical concerns.
+Procedure
+Reports to the EthicsLine are typically responded to
+within 24 hours of receipt. They are reviewed by We have established a procedure for complaints
+W. R. Berkley Corporation’s Chief Compliance Officer and regarding accounting and corporate governance
+are presented to the Board, as required, on a quarterly matters. The procedure outlines the process of submitting
+basis. The number of reports received by the EthicsLine is a complaint regarding allegations of legal or accounting
+reported to our external auditor on a quarterly basis, and improprieties or any retaliatory acts and details how any
+our external auditor has generally tested the EthicsLine complaint will be treated upon receipt by W. R. Berkley
+quarterly to ensure comprehensiveness, credibility, and Corporation’s General Counsel. Berkley’s Audit Committee
+compliance. Over the past three years, all reports made is regularly provided a summary of such complaints. The
+complaint procedure can be viewed here.
+Berkley 2023 Sustainability Report 50
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Compliance Training & Resources Tax Transparency
+The success of our ethics and compliance programming We actively promote tax transparency and adherence
+is demonstrated through our employees’ engagement with applicable law to ensure our compliance with the
+with annual training offerings. This training serves as a tax obligations that arise in all the jurisdictions in which
+reminder of our expectation that employees will conduct we conduct business. We embrace the view that value
+business in an ethical manner and that we will provide is created through commercial activity, which results
+resources to employees who witness a concerning ethical in the need to pay the appropriate amount of tax. As a
+matter. result, we do not engage in tax-motivated transactions
+that are devoid of business purpose or economic
+• We mandate ethics training for all new employees. substance to achieve a lower statutory rate. Moreover, to
+Covering the Code and related Berkley policies, this the extent that Berkley affiliates enter into intercompany
+training sets expectations for new employees with transactions, we require that the related pricing be
+respect to ethical conduct and outlines the procedures consistent with comparable arm’s-length transactions.
+to raise concerns of possible violations of law or
+Company policy. All employees who were onboarded Berkley complies with the SEC rules and regulations
+in 2022 successfully completed ethics training. regarding external audit partner rotation requirements.
+• Employees are required to complete an annual web-
+based certification process regarding conflicts of
+interest that is administered by a third-party training
+vendor. The certification includes a series of questions
+about the individual employee’s exposure to various
+types of conflicts of interest (i.e., family members’
+interests and outside business interests). All active and
+new employees successfully completed the annual
+conflict-of-interest process in 2022.
+• Part-time employees are also required to complete
+required training and annual certification.
+• Contractors, consultants, contingent workers, and
+other non-Berkley employees who have access to the
+Berkley network and/or a Berkley office are required
+to review and acknowledge the Acceptable Use
+Policy, which affirms that they are aware of specific
+standards of behavior that will apply to them when
+performing work for the Company. Areas covered
+by this policy include, but are not limited to, use and
+protection of Company information, workplace safety
+and sexual harassment, trade sanctions compliance,
+and privacy.
+Percentage of new employees Percentage of active employees
+who have completed ethics who have completed conflict-
+training: of-interest certification:
+100% 100%
+Berkley 2023 Sustainability Report 51
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Public Policy
+Political Action Committee (“PAC”)
+In the U.S., insurance is primarily regulated at the state
+Political Expenditures level, although certain federal regulations also apply.
+The W. R. Berkley Corporation PAC is a U.S. federal PAC
+The Business Ethics Committee of the W. R. Berkley
+overseen by W. R. Berkley Corporation’s Vice President
+Corporation Board of Directors oversees our Political
+and Treasurer, and the Senior Vice President and Chief
+Spending Policy and receives regular reports on the
+Compliance Officer, both of whom provide the Business
+Company’s political spending activity from our Senior
+Ethics Committee of the Board with periodic reports
+Vice President and Chief Compliance Officer. Federal
+on our political spending activity. Our PAC aggregates
+law prohibits us from making campaign contributions
+voluntary contributions from certain Berkley employees
+to federal candidates. Over the past five years, other
+and their families to donate to candidates for federal
+political contributions, if any, have been negligible.
+office. Information regarding donations to our PAC and its
+contributions and expenditures is filed quarterly with the
+Federal Elections Commission and is publicly available on
+Berkley’s political expenditures
+its website.
+over the past year totaled less than
+$1.4 million and approximately 0.02% of
+our total operating costs and expenses.
+On a quarterly basis, expenditures for federal, nonpartisan
+political activities are reported to W. R. Berkley
+Corporation’s Vice President – Federal Government
+Relations, who prepares and submits the required
+disclosure filings. These filings can be found on the U.S.
+Senate Lobbying Disclosure website.
+Federal Government Relations
+Our Vice President - Federal Government Relations is
+responsible for federal government affairs, including
+monitoring and reporting on legal and legislative
+developments that affect the property and casualty
+insurance sector, and liaising with and providing support
+to key industry trade associations or coalitions.
+Additionally, our Businesses communicate through their
+trade organizations to the NAIC, legislators, and regulators
+on relevant legislative and regulatory issues.
+Berkley 2023 Sustainability Report 52
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Cybersecurity
+Berkley prioritizes the protection of our information Strategic Goals
+technology, computer systems, corporate and customer
+data, e-commerce data, email communications, Our cybersecurity program has seven strategic-level
+applications software, and other elements of our goals:
+information and technology assets. Trust in our
+systems is essential to our business and our clients.
+Cultural Uplift – Promoting our belief
+Our cybersecurity program is designed to protect the
+that security is the responsibility of all
+confidentiality, integrity, availability, and privacy of our
+employees
+information systems and data. Our processes focus on
+the five steps of cybersecurity set by the U.S. National
+Institute of Standards and Technology (“NIST”): identify,
+protect, detect, respond, and recover.
+Key Leader Engagement – The act of
+reaching out to key leaders to establish
+Berkley’s cybersecurity program is focused on four
+trusted, two-way communications and
+essential components: people, processes, technology,
+understanding of operations
+and governance. By combining the expertise of our
+people, robust processes, advanced technology, and
+holistic governance, our Company seeks to respond
+quickly to identified risks. Additionally, the cybersecurity
+Secure by Design – The action of
+team is tasked with reducing risks as discussed below.
+establishing security best practices into the
+foundation of all aspects of business and
+technology efforts
+Security & Privacy Consulting
+Services – Supporting our Businesses
+with activities related to security and
+data privacy
+Program Reporting – The capability
+to provide accurate situational-
+and program-level insights into the
+cybersecurity program
+Network Security & Resiliency – The
+architecting and engineering of a
+secure and resilient Berkley enterprise
+network
+Continual Improvement – Implementing
+repeatable, automated, measurable,
+and practiced processes to mature the
+program and risk reduction throughout
+Berkley
+Berkley 2023 Sustainability Report 53
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Cybersecurity Management & Governance
+Our cybersecurity functions are managed through Cybersecurity Management System
+a top-down approach and overseen by senior-level
+management. The Board and its committees receive Our cybersecurity management system is modeled
+periodic updates on cybersecurity risks from members of on the global standard for risk assessment,
+senior management, including W. R. Berkley Corporation’s International Organization for Standardization (“ISO”)
+Executive Vice President – Enterprise Technology and the 27001, and incorporates relevant standards, laws,
+Senior Vice President – Enterprise Risk Management. As and guidance from ISO 27002, the NIST framework,
+part of the oversight of the cybersecurity program, the and the New York State Department of Financial
+Berkley Insurance Company Board of Directors receives Services Part 500 (“23 NYCRR 500”) cybersecurity
+an annual report from the Chief Information Security regulation, along with privacy regulations such as
+Officer (“CISO”), who provides attestation evidence for 23 the General Data Protection Regulation (“GDPR”) and
+NYCRR 500. the California Consumer Protection Act (“CCPA”).
+Additionally, we track and comply with regional
+Berkley’s international footprint requires global risk
+regulations in accordance with local regulatory and
+management under the cybersecurity program.
+legal requirements.
+Therefore, we have placed Regional Information Security
+Officers (“RISOs”) in strategic locations around the
+world. These RISOs are supported by core personnel in
+the cybersecurity program. Collectively, these leaders
+to manage security risk that could affect the Company
+and their teams implement and manage risk reduction
+or its clients, protect privacy, ensure availability of
+projects and tasks with a commitment to being a
+core business functions, and reduce the potential for
+business enabler. The cybersecurity program endeavors
+reputational harm.
+Our cybersecurity team includes both regional and domain-focused leadership under Berkley’s CISO.
+Functional areas include:
+Security Strategy & Security Architecture Security Operations, Insider Threat and
+Program Management & Engineering Incident Response, Data Protection
+& Data Protection
+Vulnerability Identity & Access IT Governance, Risk & Regional Information
+Management Management Compliance, & Third-Party Security Management
+Risk Management (United States, Asia-
+Pacific, Latin America,
+European Union, and the
+United Kingdom)
+Berkley 2023 Sustainability Report 54
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Cybersecurity Policies
+directives: data loss, availability, money movement,
+Our cybersecurity policies seek alignment with domestic regulatory, and reputation.
+and global standards. The policy suite covers the
+Our program is constantly evolving to reduce our
+management structure for our program and physical
+cybersecurity exposure. Processes such as security
+safeguards for data centers, data protection, breach
+architecture reviews, exceptions management processes,
+notification, commitment to collect and process user
+cloud security patterns, application penetration testing,
+data for limited stated purposes and other privacy
+and dynamic application testing are continually
+standards, security management, communications,
+reviewed and enhanced as needed, further improving
+third-party data compliance, and others as required
+cybersecurity awareness and reporting metrics that
+by regulation. We regularly review and upgrade our
+provide improved management transparency and
+cybersecurity policies and standards, which are generally
+program orchestration.
+revised in accordance with updated compliance and
+regulatory requirements and are informed by industry
+Our cybersecurity management system undergoes
+best practices. The policies apply to all employees and
+continuous control testing in line with our assessment
+contractors, and we have created training to help them
+of industry best practices as well as local and regional
+comply with these policies and practices.
+regulatory and legal requirements, including GDPR,
+Cybersecurity Defense and Risk Reduction LGPD, NIST, ISO, and CCPA. This is done largely using
+self-attestation and self-analysis to validate Businesses’
+In protecting our information and customer data, ability to comply with policies, procedures, standards, and
+we draw on several lines of defense: our employees, regulatory requirements. Additionally, in accordance with
+our cybersecurity program, and our internal audit regulations, we use external vendors to conduct periodic
+program. Holistically, these lines of defense work to penetration testing where appropriate.
+reduce cybersecurity risk around our core risk reduction
+Annual Required Enterprise-Wide Training
+Introduction to Spear Phishing Global Privacy and New Employee Protecting
+Phishing Threats Data Protection Our Information*
+*Completed at the start
+of employment only
+100% 100%
+completion rate for Protecting
+completion rate for
+Our Information during the
+annual training
+calendar year 2022
+Berkley 2023 Sustainability Report 55
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Monitoring & Responding to Data Breaches
+and due diligence activities. The program addresses
+We deploy tools and technologies to help detect, prevent, cybersecurity and data privacy risks, as well as
+and mitigate threats and cyberattacks. We continually compliance with the GDPR, 23 NYCRR 500, CCPA, Brazil’s
+improve these tools, technologies, and processes in Lei Geral de Proteção de Dados Pessoais (“LGPD”), and
+an effort to reduce risk, decrease response time, and other regulatory requirements. The team works closely
+improve the efficacy of actions and fidelity of threat data. with all Berkley businesses and in conjunction with
+procurement, legal, and compliance teams.
+We participate in information sharing networks, such as
+Data Privacy Program
+the Financial Services Information Sharing and Analysis
+Center (“FS-ISAC”), and subscribe to threat intelligence Berkley’s data privacy program has created a process
+services to monitor dark web activity and internet threats that our Businesses apply to several regulations that
+that could affect our data or sensitive information. require continuous control testing. The foundations of
+our privacy programs are based on the GDPR, CCPA,
+We also track industry and government intelligence
+the Gramm-Leach-Bliley Act (“GLBA”), and LGPD. Our
+sources for impact in the marketplace and deploy
+common framework is designed to create consistency
+updates as necessary. Additionally, we monitor new
+by leveraging the most effective practices. The GDPR,
+laws and regulations for potential impact to Berkley
+CCPA, and LGPD require companies to have a process
+operations, and we will continue to revise our controls
+through which individuals can request access to their
+as needed.
+personal data to understand what has been collected,
+Third-Party Risk Assessment how it is being used, and with whom it has been shared.
+Individuals can request that their personal data be
+Our Third-Party Risk Management program focuses on
+removed from our Company’s systems within a defined
+cybersecurity risk management associated with the use
+time frame and subject to certain exceptions.
+of third parties, including third-party risk assessment
+Berkley 2023 Sustainability Report 56
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Responsible Investing
+Responsible Investing Highlights
+W. R. Berkley Corporation’s Board of Directors and
+senior management believe investing responsibly can
+>99% $312M
+strengthen our Company while protecting shareholders
+and policyholders from elevated risk levels that are not
+aligned with our values.
+Investments in our Market value of
+We believe that integrating ESG considerations into our
+portfolio that satisfy our sustainable bond
+investment process can improve our long-term, risk-
+ESG criteria investments as of
+adjusted returns by helping us actively understand and
+December 31, 2022
+manage risks. Our investment group includes a team that
+focuses on responsible investing. This team is dedicated
+to continual education on ESG and climate initiatives.
+These skills are used to analyze our investments through
+During 2022, we grew our sustainable
+a sustainable lens.
+bond portfolio by more than 20% to
+This section discusses our investment policies, allocation
+of assets, and ESG sector investments, as well as risk $312 million. We expect to continue
+management processes.
+to look for opportunities to increase
+our sustainable investment portfolio.
+Management & Governance of Responsible Investing
+The Board engages with our senior leadership team, including W. R. Berkley Corporationʼs Executive Vice President –
+Investments, on a periodic basis regarding risks pertaining to investments. In addition, the Board for each statutory
+insurance company reviews all investment transactions on a quarterly basis.
+Our internal investment policy has three To fulfill these goals, we maintain
+primary objectives: two strategies:
+Maximizing long-term, risk-adjusted, after- A core fixed-maturity portfolio consisting of
+tax total returns for the investment portfolio, high-quality, liquid securities designed to
+while prioritizing preserving capital and satisfy the funding of insurance reserves
+keeping volatility low
+An opportunistic, non-fixed-maturity
+Avoiding investment exposures that might investment portfolio designed to provide
+impair our ability to expand our Business non-correlated and favorable long-term,
+risk-adjusted total returns
+Providing sufficient liquidity for the timely
+payment of insurance claims
+Berkley 2023 Sustainability Report 57
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Our investment policy provides parameters for credit short-term benefits for our investors, policyholders, and
+quality, requiring that 90% of our fixed-maturity other stakeholders.
+investments be rated as “investment grade” or higher by
+major credit rating agencies. Since the major third-party In addition, our investment personnel are responsible for
+rating agencies—such as Fitch, Moody’s, S&P, DBRS, and analyzing and reporting on ESG issues in our investment
+Kroll—screen for ESG issues, their ratings may help us portfolio. Our investment management team provides a
+avoid investing in companies that have been negatively quarterly risk report to the ERM Committee, which includes
+affected by ESG risk. We view ESG factors as additional the results of scenario analyses that consider ESG issues.
+attributes to better understand the risk profile of our
+Detecting & Excluding ESG Risks
+investments.
+We assess investment risk using both internal analysis
+Investment Decision-Making with ESG
+and external research. We use third-party risk
+management systems and platforms that contain
+Incorporating ESG attributes and performance criteria
+ESG analysis and tools to manage ESG risks. These
+into our investment analysis and decision-making
+various platforms and tools also provide white papers
+process makes economic sense by potentially reducing
+on ESG issues, such as climate risk, which contribute
+downside risks and improving overall risk-return profiles.
+to the ongoing education of our analysts and portfolio
+In 2022, more than 99% of our portfolio comprised
+managers. These ratings, tools, and reports, in
+investments that satisfy our ESG exclusionary criteria.
+conjunction with our independent research and analysis,
+Our strategies and practices for responsible investing are used to factor ESG issues into Berkley’s investment
+are constantly evolving as we consider, among other decisions. In addition, in one jurisdiction we are continuing
+things, ESG-related changes in the investment markets. to pilot a tool that provides estimates of environmental,
+Our internal investment manager is guided by Berkley’s social, governance, carbon emissions footprint, transition
+investment policy and subsidiaries’ individual investment risk, and physical risk management scores for a large
+policies, and considers ESG, along with many other number of companies, including small and medium-sized
+issues, in investment decisions. Specifically, 99% of our enterprises. This tool delivers globally comparable and
+assets under management are evaluated against our standardized scores based on company size, industry,
+ESG criteria. Such considerations may improve our and location, enabling a full portfolio risk assessment.
+performance over the long term, with some important These ESG-focused ratings, data, and analytics can then
+be integrated with traditional investment analytics.
+Berkley 2023 Sustainability Report 58
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Screening In 2022, we declined to invest in
+Screening is a well-established investigative measure
+certain utilities with a dependence
+to evaluate responsible investments. It can help us
+avoid or minimize investments in industries we view as on coal, even though they met
+having higher risk profiles, including the risk of becoming
+stranded assets due to changes in societal views in our other credit and yield criteria,
+sectors such as weapons, tobacco, oil, gas, and coal.
+because of concerns about
+If a screen detects ESG risk, the opportunity is assessed
+concentration in this energy source
+further and may be declined on ESG grounds or pursued
+subject to ESG risks being measured, managed, and and the potential for poor liquidity
+mitigated in a timely manner.
+and mark-to-market issues.
+We maintain an “exclusion list” that currently • Target certain investments in renewable energy
+addresses the following ESG criteria: infrastructure and sustainable bonds
+• Screen for investments in utility companies that
+Environmental: Companies that generate generate 30% or more of their revenues from the use
+more than 30% of their revenue from the
+of thermal coal
+use of thermal coal
+• Seek opportunities to expand on our property
+portfolio’s environmental- and sustainability-related
+certifications (e.g., LEED-certified buildings)
+Social: Companies associated with or
+producing banned weapons Our sustainable bond portfolio grew by more than 20%
+in 2022 after growing 67% in 2021, more than 70% in
+2020, and 100% in 2019. At year-end 2022, investments
+in utilities with greater than 30% exposure to thermal
+Governance: Countries identified by the coal represented approximately 0.5% of our cash and
+Office of Foreign Assets Control (“OFAC”) investments.
+of the U.S. Treasury Department
+Our investment policies are designed to comply with
+all applicable laws and regulations including, but not
+limited to, anti-corruption, anti-bribery, anti-money
+laundering, and anti-slavery.
+Focus on Low-Carbon Investing
+The transition to a lower-carbon
+economy is a good example of a
+situation in which we consider ESG risks. Preparing for
+this global shift is part of our strategy to avoid holding
+investments that may become stranded assets. As we
+seek to position our Company to thrive in a low-carbon
+economy, we have set three objectives to advance our
+shift to low-carbon investing:
+Berkley 2023 Sustainability Report 59
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Impact Investing
+Fixed-Maturity Investments At 12/31/2022
+In addition to achieving appropriate in Select Sustainable Sectors ($ in millions)
+long-term, risk-adjusted returns, our
+investments support many environmental and social Hospital $120
+improvements for society. For example, we invest in
+municipal bonds that support water and sewer, waste,
+Housing $203
+pollution, industrial development (“IDB”), pollution control
+revenue (“PCR”), and resource recovery projects, which
+help mitigate pollution, provide safe drinking water, Power $187
+promote conservation, and in many cases respond to
+changing climate conditions. Housing bonds provide
+School or University $333
+funding for multifamily or single-family housing projects,
+often for the low-income sector, while transportation
+bonds support our country’s infrastructure by improving Transportation $322
+toll roads, bridges, and tunnels. Additionally, our
+investments in secondary and higher education support
+Water & Sewer $87
+enterprises directly involved in improving communities
+and the lives of their students. We also maintain Waste, Pollution, IDB & PCR, or
+investments in low-income housing tax credits, which Resource Recovery $58
+support construction of affordable housing, as well as in
+other sustainable bonds.
+Berkley 2023 Sustainability Report 60
+PILLAR 3: RESPONSIBILITY & TRANSPARENCY
+Examples of our impact investing within certain asset
+classes include:
+Environmentally Certified Real Estate
+We invest in properties with environmentally responsible
+features and credentials. Investing in such buildings
+makes good business sense because LEED-certified
+buildings have lower vacancy rates than non-green
+properties and lease-up rates of up to 20% above
+average.
+Investing in Properties with
+Environmental Certifications
+2018, from $184 million to $149 million at year-end 2022.
+We made an investment in an energy company that
+uses steam-assisted gravity drainage (powered by
+natural gas), rather than in a similar company that uses
+Building City Certification
+mining for extraction because of the additional energy
+(and therefore cost) required for the mining venture. In
+the securities markets, we have made an investment in
+ENERGY STAR®
+Office Complex New York City securitized wind turbines in accordance with our belief
+rating: 87
+that they will generate sufficient revenue to service
+their debt with ample margins and to provide a level of
+diversification from other asset-backed investments.
+Mixed-Use
+Washington, D.C. LEED Platinum Housing for Low-Income Families
+Project
+We participate actively in a federal program
+that encourages private-equity investment in
+affordable rental housing for low-income households
+in inner-city and rural locations in the United States.
+Clean Utilities
+We have invested $93 million in low-income housing
+As part of aligning Berkley’s fixed-maturity investments securities and other state-level job retention and
+and overall investment portfolio with a low-carbon tax credit securities. Through these investments, we
+economy, we favor low-carbon utility investments over are helping reduce poverty and inequality, providing
+those that use coal. Our investment funds with exposure affordable housing, and supporting economic
+to the oil and gas industry have declined by 19% since development in underserved areas through job creation.
+Details of our investment portfolio by asset class are included in our quarterly financial statements.
+Other than with respect to the use of trading account securities, we do not make use of derivatives.
+As of December 31, 2022, the fair value of options contracts outstanding was negligible, and we had
+no securities lending collateral assets.
+Berkley 2023 Sustainability Report 61
+APPENDICES
+Berkley 2023 Sustainability Report 62
+APPENDICES
+Task Force on Climate-related Financial Disclosures (“TCFD”) Index
+Topic Description Item Corresponding Section
+Governance Discloses the a) Describes the Board’s oversight of Governance & How We
+organization’s climate-related risks and opportunities Operate, Page 13
+governance around
+b) Describes management’s role in Governance & How We
+climate- related risks
+assessing and managing climate-related Operate, Page 13
+and opportunities
+risks and opportunities
+Strategy Discloses the actual a) Describes the climate-related risks Climate Change Risks &
+and potential impacts and opportunities the organization has Opportunities, Pages 36-
+of climate-related identified over the short, medium, and long 42; Focus on Low-Carbon
+risks and opportunities term Investing, Page 59; Impact
+on the organization’s Investing, Pages 60-61
+Businesses, strategy,
+b) Describes the impact of climate- Page 32; Climate Change
+and financial planning
+related risks and opportunities on the Risks & Opportunities, Page 36
+organization’s Businesses, strategy, and
+financial planning
+c) Describes the resilience of the Does not currently appear
+organization’s strategy, taking into within the report
+consideration different climate-related
+scenarios, including a 2°C or lower
+scenario
+Risk Discloses how the a) Describes the organization’s processes Risk Assessment & Modeling,
+Management organization identifies, for identifying and assessing climate- Pages 33-35
+assesses, and related risks
+manages climate-
+b) Describes the organization’s processes Addressing Identified Climate
+related risks
+for managing climate-related risks Related Risk, Page 44
+c) Describes how processes for identifying, Governance & How We
+assessing, and managing climate-related Operate, Page 13; Page 32;
+risks are integrated into the organization’s Qualitative Risk Assessment,
+overall risk management Pages 32-33; Catastrophe
+Risk Management & Modeling,
+Pages 34-35
+Metrics & Discloses the metrics a) Disclose the metrics used by the Risk Assessment & Modeling,
+Targets and targets used to organization to assess climate-related Pages 33-35
+assess and manage risks and opportunities in line with its
+relevant climate- strategy and risk management process
+related risks and
+b) Disclose Scope 1, Scope 2, and, if GHG Emissions, Page 39
+opportunities
+appropriate, Scope 3 greenhouse gas
+(“GHG”) emissions and related risks
+c) Describes the targets used by the No targets set by Berkley at
+organization to manage climate-related this time
+risks and opportunities and performance
+against targets
+Berkley 2023 Sustainability Report 63
+APPENDICES
+Sustainability Accounting Standards Board (“SASB”) Metrics
+SASB
+Topic SASB Requested Metric(s) W. R. Berkley Response
+Code(s)
+Transparent FN-IN-270a.1 Total amount of monetary losses as a result of Customers, Page 25
+Information & legal proceedings associated with the marketing
+Fair Advice for and communication of insurance product-related
+Customers information to new and returning customers
+FN-IN-270a.2 Complaints-to-claims ratio Customers, Page 25
+FN-IN-270a.3 Customer retention rate Customers, Page 25
+FN-IN-270a.4 Description of approach to informing customers Customers, Page 25
+about products
+Incorporation FN-IN-410a.1 Total invested assets by industry and asset class Page 61
+of ESG Factors
+in Investment
+Management FN-IN-410a.2 Description of approach to incorporation of ESG Investment Decision-Making with
+factors in investment management processes ESG, Pages 58-59
+and strategies
+Policies FN-IN-410b.1 Net premiums written related to energy efficiency Climate Change Opportunities,
+Designed to and low-carbon technology Pages 41-42
+Incentivize
+Responsible FN-IN-410b.2 Discussion of products and/or product Responsible Product Offerings,
+Behavior features that incentivize health, safety, and/ Page 26; Climate Change
+or environmentally responsible actions and/or Opportunities, Pages 41-42;
+behaviors Loss Control and Loss Control &
+Education, Pages 45-46
+Environmental FN-IN-450a.1 Probable Maximum Loss (“PML”) of insured Not disclosed at this time
+Risk Exposure products from weather-related natural
+catastrophes
+FN-IN-450a.2 Total amount of monetary losses attributable Climate Risk in Catastrophe
+to insurance payouts from (1) modeled natural Modeling, Page 35
+catastrophes and (2) non-modeled natural
+catastrophes by type of event and geographic
+segment (net and gross of reinsurance)
+FN-IN-450a.3 Description of approach to incorporation of 1) Underwriting Risk,
+environmental risks into (1) the underwriting Page 32; Climate Change Risk
+process for individual contracts and (2) the Management & Mitigation, Pages
+management of firm-level risks and capital 43-44
+adequacy
+2) Catastrophe Risk Management
+& Modeling, Page 34
+Berkley 2023 Sustainability Report 64
+APPENDICES
+Sustainability Accounting Standards Board (“SASB”) Metrics (cont.)
+Topic SASB Code(s) SASB Requested Metric(s) W. R. Berkley Response
+Systemic Risk FN-IN-550a.1 Exposure to derivative instruments by category Page 61
+Management
+FN-IN-550a.2 Total fair value of securities lending collateral Page 61
+assets
+FN-IN-550a.3 Description of approach to managing capital and Liquidity Management,
+liquidity-related risks associated with systemic Page 47
+non-insurance activities
+Activity Metric Code Metric
+Number of policies FN-IN-000.A Approximately 1.4 million property and casualty policies in force as of
+in force, by segment: December 31, 2022
+(1) Property &
+Casualty, (2) Life,
+and (3) Assumed
+Reinsurance
+United Nations Sustainable Development Goals (“UN SDG”) Priority Mapping
+Our Strategic Priorities Key Focus Areas Sustainable Development Goals Alignment
+Pillar 1: Human Capital & Human Capital
+Community Management &
+Governance
+Diversity, Inclusion,
+& Belonging
+Employee
+Well-Being
+Community
+Impact
+Berkley 2023 Sustainability Report 65
+APPENDICES
+United Nations Sustainable Development Goals (“UN SDG”) Priority Mapping (cont.)
+Our Strategic Priorities Key Focus Areas Sustainable Development Goals Alignment
+Pillar 2: Climate Risk Risk Assessment
+Management Modeling
+Climate
+Change Risks &
+Opportunities
+Climate Change
+Risk Management
+& Mitigation
+Pillar 3: Responsibility & Ethics &
+Transparency Compliance
+Cybersecurity
+Responsible
+Investing
+Berkley 2023 Sustainability Report 66
+THANK YOU
+Berkley is pleased to voluntarily share this Sustainability Report describing its
+Environmental, Social, and Governance ("ESG") practices. This Sustainability
+Report is provided for informational purposes only, and Berkley disclaims any duty
+or obligation to update such information. Given the nature of the material and the
+methods used in gathering such material for this Sustainability Report, no warranty
+or representation is made as to its accuracy or completeness.
+© Copyright 2023 W. R. Berkley Corporation. All rights reserved.

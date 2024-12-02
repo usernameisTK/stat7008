@@ -1,0 +1,1788 @@
+Creating
+Meaningful
+Connections
+IMPACT REPORT | 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+CONTENTS
+Global presence. Revolutionary
+technology. Deeper connections.
+Welcome | 2 People | 13 Governance | 32
+Message from the CEO Diversity, equity, and inclusion Corporate governance
+Talent acquisition and retention Data security and privacy
+Employee development Machine learning and AI
+ESG Strategy | 5
+UN Sustainable
+Development Goals Community | 23 Read More | 41
+Community investment About this report
+Community engagement initiatives Awards
+Safety | 7
+Human rights Performance table
+Safety strategy
+Changing perceptions SASB report
+Safety pillars
+TCFD report
+Environment | 29
+Environmental impact
+2
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+MESSAGE FROM THE CEO
+Creating meaningful connections
+“We are committed to
+Match Group is on a mission to create meaningful connections for every single person worldwide, and we take pride in delivering
+enhancing user experiences
+responsible, sustainable growth across our portfolio of brands. The past year has been remarkable not only due to our accomplishments
+across our portfolio
+in trust and safety, technological innovation, and environmental stewardship, but also because of our impact in the communities we serve
+and making an impact
+and the lives of users who we help find connection in this increasingly disconnected world. Some of our recent achievements include:
+in the lives of people
+Harnessing Artificial Intelligence (AI) with Integrity The responsible use of AI to propel our innovation efforts has been a central
+around the world.”
+component of Match Group’s strategy for several years. Now, we’re harnessing recent advances in generative AI to continue enhancing
+user experiences – making connections more personal while also ensuring respect for privacy and ethical standards. By establishing our
+—Bernard Kim,
+Responsible AI Principles, we have set a new benchmark for reliability and trust with our users.
+Chief Executive Officer
+Safety and Security at the Forefront Building trust and prioritizing the safety of our users has always been a key focus and guides of Match Group
+our efforts to create a secure and welcoming space for our users. This year, we continued to elevate industry safety protocols, invest
+in cutting-edge technologies, and pioneer new standards to affirm our leadership position in online safety. Some standout examples
+include the expansion of our anti-harassment feature ‘Are You Sure?’ across several Match Group brands, and our first-ever global public
+awareness campaign to educate daters on ways they can better protect themselves against online financial fraud.
+A Commitment to Our People We remain dedicated to diversity, equity, and inclusion in our workplace and on our platforms, fostering a
+community where everyone feels valued and empowered. Our People strategy and related initiatives are designed to reflect the diverse
+groups we serve and are underscored by our solid employee engagement trends. We remain committed to delivering meaningful
+Full Year 2023 Performance:
+employee experiences, including comprehensive training and development to support our innovation efforts.
+Our Environmental Journey We are committed to set near-term and net-zero targets in line with the Science Based Targets initiative
+$3.4bn $1.3bn
+(SBTi), allowing us to track our impact on the planet against ambitious reduction targets. In addition, our community engagement
+programs, which are aimed at conservation and sustainability, enable us to build a culture of environmental consciousness within and
+beyond our organization.
+Revenue1 Adjusted Operating Income1
+We are steadfast in our drive to enhance user experiences across our portfolio and to make an even greater impact in the lives of people
+around the world. Through the collective efforts we highlight in this report, and our ambitious vision for the future, we look ahead to 15.6m 2,600+
+even more successful user outcomes in the years to come.
+Payers1,2 Employees worldwide1
+1 Metrics for the year-ended December 31, 2023. Adjusted Operating Income is a non-GAAP financial measure which is in addition to Operating Income, which is a financial measure presented in accordance with
+U.S. GAAP. Adjusted Operating Income is not a substitute for, or superior to, Operating Income. For a reconciliation of the non-GAAP measure for each period presented, see page 51.
+2 “Payers’’ are unique users at a brand level in a given month from whom we earned Direct Revenue. Direct Revenue is revenue that is received directly from end users of our services and includes both
+subscription and à la carte revenue. When presented as a quarter-to-date or year-to date value, Payers represents the average of the monthly values for the respective period presented. At a consolidated level,
+duplicate Payers may exist when we earn revenue from the same individual at multiple brands in a given month, as we are unable to identify unique individuals across brands in the Match Group portfolio.
+Note: Our brands are operated by subsidiary companies owned by Match Group.
+3
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+Celebrating real-life success stories
+OUR LARGEST BRANDS
+LIFE STAGE: GETTING A PUPPY
+TINDER MATCH BLK
+Nick & Sam ▪ Launched in 2012 ▪ Launched in 1995 ▪ Launched in 2017
+▪ World’s most popular app ▪ Created millions of love ▪ A leading dating and
+for meeting new people stories as a top destination lifestyle app for Black
+“Dating apps like Hinge are really working to for singles looking for a singles
+long-term relationship
+have an impact on the world where you get a
+HINGE
+more holistic view of somebody’s personality.”
+▪ Launched in 2011 PLENTY OF FISH THE LEAGUE
+▪ Designed to be Deleted®: ▪ Launched in 2015
+dating app for the ▪ Launched in 2003
+modern millennial, ▪ Offers a low-pressure ▪ Designed to serve
+ambitious, career-
+getting them off the app user experience, and live
+LIFE STAGE: MARRIED WITH A FAMILY oriented singles
+and out on great dates streaming, helping people
+to match and meet
+Heidi & Blake
+AZAR
+MEETIC ARCHER
+▪ Launched in 2014 ▪ Launched in 2001 ▪ Launched in 2023
+“You can find anything that you’re looking for ▪ A leading 1:1 live chat and ▪ A leader for dating services ▪ Social-first dating app
+on Tinder as a platform and dating site.” video app with user base in Europe, enabling its for gay, bisexual, and
+predominantly in Asia members to find meaningful queer men
+connections
+HAKUNA
+OKCUPID
+▪ Launched in 2019
+LIFE STAGE: DATING ▪ Launched in 2004
+▪ Interactive, social live
+streaming app enabling ▪ Uses daters’ responses to
+group video and audio iconic, in-depth questions to
+Ai & Jun broadcast match singles based on the
+things that matter to them
+“She was unique. She was honest. She told
+PAIRS CHISPA
+me her story from beginning to end and I
+knew she was different from the others.” ▪ Launched in 2012 ▪ Launched in 2017
+▪ A leading dating ▪ Largest dating app for U.S.
+app in Japan Hispanic and Latino singles
+4
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+ESG STRATEGY
+Empowering connection around the world
+OUR APPROACH
+OUR STRATEGIC FRAMEWORK ENVIRONMENT
+As global citizens of an interconnected world, Match Group is committed to making positive contributions Connecting to the world around us
+through our environmental, social, and governance (ESG) strategy and practices.
+Through an assessment of our sustainability impacts and opportunities, we identified several key topics to align
+our ESG initiatives and practices with the priorities of our business, our stakeholders, and our communities.
+• Safety
+Safety
+• Data security and privacy Creating a safer
+environment for all
+• Diversity, equity, and inclusion (DEI)
+• People development
+• Climate change
+• Corporate governance VISION
+Governance Creating People
+Meaningful
+Match Group’s 2024 Impact Report focuses primarily on these key material issues and is informed by the Cultivating a culture Building diverse
+of integrity Connections teams and
+Sustainability Accounting Standards Board (SASB) and the Task Force on Climate-Related Financial and reliability an inclusive
+Disclosures (TCFD) reporting frameworks. We also report on our alignment with the United Nations workplace
+Sustainable Development Goals (SDGs).
+In 2022, Match Group joined the United Nations Global Compact, a voluntary leadership platform for the
+development, implementation, and disclosure of responsible, ethical business practices. By becoming
+signatories, Match Group and our brands commit to uphold the Ten Principles of the UN Global Compact
+on human rights, labor, environment, and anti-corruption. In 2023, we continued our pursuit of sustainable Privacy
+development in line with the UNGC principles. Going forward, we will continue to review our priority issues in Providing data security
+and privacy
+line with our regular business planning and risk management processes.
+Throughout this report, we provide an update on our commitments and our progress in line with these
+reporting frameworks. COMMUNITY
+Generating impact through
+community connection
+5
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+UNITED NATIONS’ SUSTAINABLE DEVELOPMENT GOALS
+Making a positive impact through business strategy
+The United Nations’ Sustainable Match Group participated in the UN WE SUPPORT THE FOLLOWING SIX SDGS:
+Development Goals (SDGs) are a Global Compact’s SDG Innovation
+collaborative, global effort to achieve Accelerator for Young Professionals, a
+a better and more sustainable future nine-month program that empowers Goal 3: Good Health Goal 10: Reduced Inequalities
+for all. Represented by 17 global goals young Match Group employees and Well-being Reduce inequality within and
+and 169 targets, the SDGs address with the tools to collaborate and Ensure healthy lives and promote among countries.
+challenges of poverty, inequality, accelerate business innovation well-being for all at all ages.
+climate change, environmental towards the SDGs. Through this
+degradation, peace, and justice. program, participants engaged in
+learning opportunities while building
+We support this effort. Throughout
+a network of global peers invested
+Match Group, we consider
+in sustainable development. This Goal 4: Quality Education Goal 13: Climate Action
+opportunities to align our business
+activities and priority areas with the opportunity to nurture talent with Ensure inclusive and equitable Take urgent action to combat
+SDGs and have identified key areas the ambition to solve sustainability quality education and climate change and its impacts.
+where we have the greatest influence challenges also helped Match opportunities for all.
+Group foster a company culture that
+and impact through our business
+celebrates globally minded individuals
+strategy, platforms, and services. While
+who seek to better the world.
+we remain committed to responsibly
+managing our operations and To that end, Match Group will be
+Goal 5: Gender Equality Goal 16: Peace, Justice and
+supporting our communities in line participating in 2024’s UNGC USA’s
+Strong Institutions
+Achieve gender equality and
+with all SDGs, we have a direct, positive Business & Human Rights Accelerator
+empower all women and girls. Promote peaceful and inclusive
+contribution to six of the 17 SDGs. Program and hopes to continue to
+societies for sustainable
+educate employees and advance our
+development.
+programs.
+6
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SAFETY
+Building a community
+guided by safety
+Match Group strives to create safer environments where
+users feel comfortable being their authentic selves. We
+have implemented an organizational structure to build a
+foundation of authenticity, empathy, equity, care, and respect
+for our users and the communities our platforms touch.
+CONTENTS
+Safety strategy
+Safety pillars
+7
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+OUR APPROACH
+As an industry leader in safety, we are continuously investing in technology, setting new standards, and enhancing
+SAFETY existing safety features, as well as expanding features, like ‘Are You Sure?’ and Photo Verification with selfie video to
+additional brands. We have implemented a trauma-informed, survivor-centric support structure across our brands
+Providing a safer and are always seeking to improve the integrity of our platforms and create safer experiences. We also collaborate
+with experts to enhance our practices and policies. Our executive team receives monthly briefings on relevant safety
+matters and associated metrics. The Board’s Audit Committee receives quarterly updates, and the full Board of
+experience
+Directors is regularly briefed.
+SAFETY FRAMEWORK
+Our safety framework guides our brands in preventing and responding to potential harm both on and off our platforms.
+Our extensive network of safety professionals, along with representatives from the feature development and customer
+care teams, employs a variety of strategies to help our users lower their risk exposure when venturing into the world of
+STRENGTHENING OUR TRUST AND SAFETY TEAM technology-driven connections on and off the app. Those strategies target five key pillars:
+At the beginning of 2023, we made updates to our Trust and Safety
+Trust and Safety Policy, Operations, and Data
+teams to help create more efficiency and alignment across our
+Achieving operational excellence through cross-portfolio support in developing and operationalizing community
+portfolio. As a result, there is more cross-collaboration across brands
+guidelines and monitoring and measuring their efficacy.
+to help create more consistency in how we respond to user reports
+and have expanded safety features to additional platforms. This work
+S ocial Advocacy
+is continuing into 2024 and our team is well-positioned to remain
+Building partnerships—internally and externally—to advocate for communities disproportionately impacted by
+focused on building a safer experience for all users.
+social injustice, and to ensure that our policies, features, and programs are built to include and respect the unique
+safety concerns of our communities.
+Law Enforcement Operations and Outreach
+$125M+
+Building collaborative partnerships through proactive outreach and responsive engagement with law
+enforcement and safety experts to monitor trends and help keep our users safe—both on our platforms, and in
+the communities where they live.
+our investment in trust
+Platform Safety Services and Features
+and safety in 2023
+Driving a high standard of safety by providing technical safety services and feature development, support,
+and maintenance.
+Safety by Design
+Evaluating new services and features across the portfolio to keep user safety is a focal point of design.
+8
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SAFETY
+Global safety highlights
+MATCH GROUP EDUCATES USERS ON ROMANCE SCAMS
+Following the launch of Match Group’s first-ever global public awareness campaign to educate daters and consumers on how to date safer
+and help stay protected against the different forms of online fraud, this year, users across Tinder, Hinge, Match, Plenty of Fish, Meetic, OkCupid,
+MATCH GROUP ADVISORY COUNCIL and OurTime, in more than 15 different countries, received periodic messages alerting them to tips and common behaviors to watch out for to
+Celebrating its five-year anniversary in 2023, identify potential scams.
+the Match Group Advisory Council (MGAC) Match Group, along with victim advocates and cyber-crime investigators, developed several tips to help users identify, prevent, and report
+is comprised of leading safety advocates malicious actors - on dating apps or any online platform. For more information on how to avoid romance scams, see our safety tips.
+and crime prevention advisors. MGAC meets
+This consumer media campaign resulted in creating more user awareness of these types of crimes and common behaviors of scammers to
+regularly to review and assess the safety of
+better protect themselves on our platforms and any online platform.
+our platforms. The Council has completed
+a comprehensive review of Match Group’s Following this successful campaign, Match Group teamed up with Tinder to sponsor the inaugural “World Romance Scam Awareness Day” on
+sexual misconduct reporting, moderation, October 3. In collaboration with Mean Girls actor Jonathan Bennett we created a PSA to remind users how to avoid online financial scams and
+and response protocols across all Match spot toxic behaviors. And yes, we all wore pink.
+Group platforms. MGAC also consulted on
+features such as ‘Are You Sure?’, ‘Share My
+Date,’ a photo verification with selfie video,
+and global education campaigns, including
+our guides to healthy dating, romance scam
+awareness, and digital safety tips. The Council
+has connected us with over 40 regional
+gender-based violence safety organizations
+and NGOs around the world and co-hosted
+roundtables to gather feedback on safety
+challenges in the U.S., Brazil, the UK, Spain,
+and Australia.
+9
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SAFETY
+Our safety pillars
+TRUST AND SAFETY POLICY, • Issue areas encompassed LGBTQIA+ Cultural Healthy Dating Guides
+Match Group’s Social Advocacy team joined
+OPERATIONS AND DATA Literacy, Sexual Violence Prevention and Tinder’s teams in Australia and India developed
+the Social Impact team based on their joint
+Our overall safety approach has long focused Understanding Consent, Decision Fatigue and resources to promote dating safety and help
+partnerships with leading safety NGOs
+on continuous investments in new, innovative Cognitive Overload, Sex Trafficking Prevention, prevent sexual violence through safety guides
+and interconnected workstreams. We also
+technology that is rooted in detecting and Dating Safety Practices for women of color, and personal stories from sexual assault
+strengthened and added a number of key
+preventing potential harm, encouraging users and Disability Awareness and Accessibility on survivors. Additionally, the U.S. partnership
+partnerships with safety organizations. These
+to report bad actors, and proactively banning dating apps. with NO MORE expanded to deliver Healthy
+critical relationships allow us to leverage
+accounts that violate our Terms of Service. These their expertise to improve our safety and • We also further expanded our international Dating Guides to users in eight countries—
+tools encompass automatic scans of potentially social impact initiatives, make our platforms outreach, hosting NGO roundtable events Germany, Spain, Sweden, Norway, Denmark,
+harmful content and thorough manual reviews safer, and interpret community trends. We in several European countries to discuss Italy, France, and the Netherlands—in their
+of suspicious profiles. have collaborated with expert nonprofit and gender-based violence, bringing together 20+ native languages on Tinder, Hinge, Meetic,
+Match Group employs a team of Trust and Safety NGO partners globally to facilitate safety- organizations committed to fighting sexual and OurTime. The guides provide actionable
+professionals who are dedicated to creating a related training, consultation, campaigns, abuse and online violence. steps and considerations for every stage of the
+culture of safety. The Trust and Safety team relies and research across the portfolio. Among • dating journey from online to in real life (IRL)
+In partnership with Disability:IN, we co-
+on technical experts and oversight bodies to our partners were Crisis Text Line, Groupe and beyond. In Sweden, these guides were
+hosted a three-part series to educate our
+educate users globally about potential risks and SOS, the Human Rights Campaign, the distributed to health clinics throughout the
+employees on the fundamentals of inclusivity
+how to identify them. When issues are identified, MeToo movement, NO MORE, The Anti- country.
+and accessibility for people with disabilities.
+critical response teams are deployed to ensure Violence Project, A Call to Men, the Trauma We introduced the series with a “Dating & In France, Match Group partnered with
+unsafe situations are alleviated. Stewardship Institute, Ujima: The National Disability Panel,” a user-centric discussion Fédération Nationale Solidarité Femmes to
+SOCIAL ADVOCACY Center on Violence Against Women in the that focused on panelist experiences with provide a public resource guide on how to
+Black Community, Women’s Services Network online dating and recommendations for recognize violence and respond to victims.
+Our investment of cross-functional resources in
+(WESNET), and Disability:IN. Representatives improvement for people with diverse Tinder partnered with HandsAway and Consentis
+safety and advocacy helps apprise users of risks
+of many of these organizations spoke at our disabilities. We used learnings from the panel to launch an awareness campaign to inform
+in their communities and of our vigilant efforts to
+in-person Safety Summit and to our employee discussion along with tailored UX research users of the basics of consent and why it is
+make them feel safe and supported. We endorse
+base throughout the year. from our feature design and engineering essential in relationships.
+personal safety, human rights, mental health
+•
+We facilitated 15 safety and accessibility team to enhance accessibility capabilities of
+awareness, and suicide prevention organizations
+training sessions with expert safety partners, features and inform future marketing and
+around the world, and partner with globally-
+with a focus on Trust and Safety teams. development.
+recognized NGOs to inform our safety strategy,
+advocacy efforts, policies, and culture.
+10
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+LAW ENFORCEMENT how we can coordinate to combat learn from the intervention prompts
+OPERATIONS AND OUTREACH this scam. Since the event, we have and change their behavior. AYS? was
+Match Group proactively engages continued to work to share insights, designed using language reported
+with law enforcement agencies, trends, and education with our users. by members in the past and has
+NGOs, and other safety stakeholders continued to evolve and assimilate
+SAFETY FEATURES
+around the world to limit the risk to behaviors over time to flag new words
+Match Group is leveraging AI tools that
+our users. Our Trust and Safety team and phrases. It is now available in 18
+proactively detect language and data
+are experts with invaluable experience languages around the world.
+that could be considered harassment.
+and we engage with more than 100
+To support users when they are
+We saw notable success with our
+law enforcement officials globally to
+meeting IRL, Plenty of Fish launched
+anti-harassment features, like ‘Are
+identify opportunities to continue
+a new safety feature called ‘Share My
+You Sure?’ (AYS?), which asks users to
+enhancing online safety.
+Date.’ This tool encourages users to
+think twice before sending a message,
+We were invited to join and contribute share the who/when/where of their
+providing real-time warnings to users
+to two boards, Cybercrime Support dates with trusted friends and family.
+about their opening lines. The feature’s
+Network and the International Since its launch, over 75% of Plenty of
+automated tools detect potentially
+Association of Financial Crimes Fish members who used the feature
+harmful language and proactively
+Investigators. We also partnered said they believe it makes meeting in
+intervene to warn the sender that their
+with financial crimes investigators person safer.
+message may be offensive, asking
+to identify common behaviors of
+them to review and consider editing
+romance scammers and educate
+it before hitting send. The feature has
+users on how to protect themselves.
+been available since 2021 on Tinder,
+In collaboration with law enforcement, Plenty of Fish, and Meetic, and by the
+Match Group hosted a public-private end of 2023, was rolled out to users on
+partnership event to discuss “pig Match, Stir, OurTime, BLK, Chispa, and
+butchering” and its effects. This has Upward, with plans to introduce it on
+become a pervasive scam in which Hinge soon.
+perpetrators convince unsuspecting
+To date, users have either edited
+individuals across many different
+or deleted more than 500 million
+online platforms to invest money in
+messages after the feature flagged
+fraudulent cryptocurrency schemes
+potentially harassing or problematic
+through fake websites that are made
+language. There has also been an over
+to look like real trading platforms. The
+80% decrease in AYS? being triggered
+open forum enabled our public and
+on Plenty of Fish, indicating the
+private sector partners to examine
+feature is effectively guiding users to
+11
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SAFETY BY DESIGN sharing. These appraisals have also provided leadership
+The Safety by Design team plays a pivotal role in ensuring with insight into common challenges and strategic
+user safety is a critical consideration in the design of recommendations across our brand portfolio.
+features and services across our portfolio. The team’s
+The DTSP Safe Assessments revealed our brands are
+mission encompasses three key responsibilities:
+performing well in areas such as having clear ownership of
+LAW ENFORCEMENT PORTAL • Identify and Address Safety Risks: Setting safety Trust & Safety (T&S) work, offering a user-friendly reporting
+To rapidly address the most critical incidents, we have a standards, monitoring their implementation, and system, and engaging effective processes and systems for
+specialist team focusing on serious safety escalations. In adopting strategies for continuous improvement. managing user reports. The assessments also acknowledged
+2021, we launched a first-of-its-kind portal to enhance and • Monitor and Mitigate Emerging Safety Risks: Assess opportunities for improvement, like enhancing care for
+expedite the legal request process from law enforcement the well-being of T&S staff exposed to sensitive content,
+new and existing features for potential safety risks, apply
+agencies. Prior to the launch, no other company in our strengthening collaborations with third parties to drive
+industry best practices to minimize these risks, and
+industry had offered consolidated resources to help law more effective T&S outcomes, and developing visible in-app
+bring significant issues to the attention of leadership for
+enforcement officials access the information they need to indicators for enforcement actions.
+prompt resolution.
+safeguard communities. Through the portal, verified public • Foster Collaboration and Share Best Practices: Identify The Safety by Design team has actively facilitated various
+safety and law enforcement professionals can make general workshops aimed at disseminating industry knowledge
+common risks across the portfolio to create opportunities
+inquiries to check whether an individual has a profile on an and cross-brand best practices. These sessions have been
+for collaboration and knowledge sharing. This approach
+app and whether information is available; submit a legal instrumental in keeping feature designers updated on
+facilitates the development of cross-portfolio solutions,
+request for more detailed data supported by a warrant, evolving fraud trends, promoting a culture of collaboration
+leveraging shared expertise to enhance overall user safety.
+court order, subpoena, or similar legal document; and and innovation.
+issue an emergency request to assist in responding to an Match Group has become a member of the Digital Trust
+imminent safety threat. This tool serves a vital function & Safety Partnership (DTSP), a coalition of tech companies OUR FUTURE PRIORITIES
+in our safety operations and we continue to see a steady dedicated to fostering a safer and more trustworthy Match Group’s work with NGOs, safety experts, and law
+increase in portal use by law enforcement agencies. internet. Recognizing the necessity for standardized enforcement officials around the world helps us track
+consumer trust and safety protocol, DTSP has outlined 35 the latest trends, invest in technologies, and enhance our
+We also successfully expanded the law enforcement portal
+best practices to identify, prevent, and challenge harmful policies to help make dating safer for everyone.
+in Australia, the UK, Canada, Singapore, and New Zealand to
+global agencies and police forces. content and behavior. To align with these practices, Match We have maintained strong and productive relationships
+Group created the Safe Assessment Form, enabling a with NGO partners and have significantly expanded our
+We plan to continue rolling out the portal as we strengthen
+thorough evaluation of our brands’ compliance. collaboration with safety organizations across the globe. We
+our partnerships with global safety organizations and law
+The Safety by Design team has conducted DTSP Safe plan to continue participating in industry working groups,
+enforcement agencies.
+Assessments across each brand, analyzing results, enhance and expand our technology, deepen existing
+pinpointing improvement areas, documenting safety partnerships, and establish new ones. We engage with
+features for enhanced visibility among Match Group other corporate leaders to co-create and implement Trust
+stakeholders, and facilitating cross-brand knowledge and Safety best practices.
+12
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+PEOPLE
+Creating a sense of
+belonging for all
+Match Group is committed to creating a safe, equitable,
+and inclusive workplace where people can grow and thrive.
+Fostering a purpose-driven culture that sparks meaningful
+connections enables us to develop innovative platforms that
+are as diverse as the people who use them.
+CONTENTS
+Diversity, equity, and inclusion
+Talent acquisition and retention
+Employee development
+Match Group New York
+13
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+DIVERSITY, EQUITY, AND INCLUSION
+Creating inclusive spaces
+where diversity is valued
+OUR APPROACH
+Our DEI mission is to be a global leader in connecting diverse people in an inclusive workplace
+with the best resources on the most equitable platforms. We know that diverse teams produce
+more creative solutions, resulting in better, more innovative services and the attraction and
+retention of key talent. Our goal is to continue cultivating a culture through recruiting, retention,
+and people development where sought-after talent from all backgrounds can contribute, grow,
+and thrive.
+Our investment in learning, development, and career advancement opportunities is central to
+our strategy. Working closely with our brands, Match Group’s DEI team has concentrated on
+several internal workstreams to make DEI an integral part of our culture and priorities by:
+• Raising awareness through company-wide programming
+• Investing in strategic partnerships and policymaking around equity and inclusion
+• Embedding DEI into existing processes
+MISSION:
+• Incentivizing equity and inclusion in employee job performance
+Adapting our culture, structure, and representation in a thoughtful, respectful, and authentic
+way requires time and collaboration. Together, we have defined what DEI should look like across
+our brands and developed the policies and practices to support our strategy across three key
+pillars: Workforce, Workplace, and Marketplace.
+14
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+Ensuring Pay Equity Employee Resource Groups ERGs are also a great way to improve
+Measuring our compensation Through the growth of our Employee existing skills, develop new capabilities,
+practices annually is a key tool we Resource Groups (ERGs), we have build mentee-mentor relationships,
+HIGHLIGHTS OF MATCH GROUP ERGS:
+rely on to ensure equity across our found effective mechanisms to and explore opportunities to give back
+operations. We conducted our annual support and empower a diverse to the community. We currently have • Appointment of an executive sponsor for each ERG
+comprehensive pay equity audit workforce of forward-thinking and robust brand-level ERGs at Tinder and
+across Match Group with an outside globally-minded individuals. ERGs Hinge that actively host programming, • Recruitment and selection of leadership for each ERG
+partner, Syndio. The audit included are employee-driven and operate cultural events, and learning
+an analysis of pay equity among with an independent budget and the opportunities. While brand-level ERGs • A 2-day offsite conducted by Match Group’s DEI team with
+U.S.-based employees by gender and autonomy to plan their own programs. support the specific needs of their onboarding sessions to equip ERG leadership with tools,
+gender identity, as well as pay data employees, Match Group ERGs are partners, resources, and best practices
+We strive to be a global leader in
+insights for intersectionality, which portfolio-wide and allow employees to
+developing impactful and effective • Annual budgets for events and programming throughout the year
+reviews the race and sex of minority gather under one umbrella, regardless
+employee-led groups that help
+groups compared to majority groups. build an inclusive culture through of their brand. Match Group ERGs offer • To encourage authenticity in ERG voices and representation, ERG
+Any inconsistencies warranting a unified platform for community-
+diverse leadership and representative leaders were brought into the logo, charter, and annual planning
+remediation were swiftly rectified. building based on shared priorities
+organizational networks. Our ability process for their groups in 2023, with the goal to continue these
+Following the audit, we invited all and purpose, while respecting the
+to support and amplify diverse voices strategy discussion in 2024
+employees to attend one of three autonomy of brand-specific ERGs and
+helps us to create more thoughtful
+informational sessions to share the working collaboratively on common
+and inclusive platforms, which benefit
+methodology and high-level findings. goals and projects.
+all our stakeholders. Collaborating
+As in previous audits, we conducted a closely with the DEI team and
+manual analysis of small groups not leadership, Match Group’s ERGs have
+fully covered by the original study and been instrumental in supporting
+Match
+did further research based on those the company’s DEI goals by aligning Group:
+findings. In the future, we plan to group objectives and events
+expand our analysis to explore options around the four Cs: Careers, Culture,
+for analyzing additional equity grants, Community, and Commerce. Each
+such as new hire grants, throughout the ERG has a specific focus area and
+Tinder:
+year. We would also like to incorporate provides an inclusive space open to all
+sexual orientation analysis, which will employees. Allies are encouraged to
+only be possible if more employees join an ERG to learn from and support
+self-identify their sexual orientation in its members from all communities.
+countries where permitted. Hinge:
+15
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+DEI Leadership Training Corporate Equality Index
+Match Group initiated executive-level development opportunities Match Group is committed to implementing comprehensive
+to empower the leaders supporting our portfolio-wide ERGs. Seven policies and practices that deliver equity for LGBTQ+ workers and
+executives became sponsors for the ERGs. The initiatives focused their families. We participate in the Human Rights Campaign
+on deepening their cultural competence through an Intercultural (HRC) Foundation’s Corporate Equality Index (CEI)—a roadmap and
+Development Inventory assessment, creating actionable steps for benchmarking tool that measures LGBTQ+ equality in the workplace.
+amplifying ERG efforts through individual coaching sessions, and Match Group earned a score of 85 out of 100 in the latest HRC
+ongoing coaching for continued development. Corporate Equality Index.
+SUPPORTING AND GROWING The CEI’s rigorous criteria measure U.S. companies’ policies, benefits,
+Diverse Talent Sponsorship Pilot
+TINDER’S DIVERSE WORKFORCE
+and practices across four categories:
+The Match Group DEI team, in collaboration with Talent Management
+Tinder DEI programming focuses on & Learning, initiated a pilot program involving 30 U.S.-based • Providing workplace protections for sexual orientation and gender
+relationship-building and knowledge-
+underrepresented employees at Match Group Corporate, Evergreen identity and expression
+sharing. ERGs have supported this
+& Emerging, and Tinder. Designed to deepen leadership diversity, • Offering inclusive benefits for LGBTQ+ employees and their families
+strategy with roundtable discussions on
+enhance employee engagement, and create a more inclusive culture,
+how diversity can drive innovation, events • Maintaining a commitment to a diverse and inclusive culture
+the pilot paired executives (sponsors) with managers or senior
+that gave employees 1:1 time with senior managers (sponsees). Sponsors initially underwent onboarding to • Demonstrating corporate social responsibility through LGBTQ+-
+leaders, and heritage celebrations to
+build intercultural competencies, to help them support sponsees specific engagement
+highlight our diverse communities.
+through mentorship, coaching, and facilitating connections.
+For the full list of CEI criteria, visit the HRC Foundation’s website.
+In 2023, Tinder launched its first Inclusion Sponsees engaged in professional development workshops and
+Council comprised of nominated were given a tailored program guidebook to help navigate their
+representatives from each department relationships with sponsors.
+tasked with helping to advance DEI and
+Strategic DEI Partnerships
+embed inclusive principles into business
+Match Group has cultivated strategic partnerships to support
+workflows. This cross-functional structure
+historically underrepresented populations within the tech industry.
+enables more opportunities for members
+Through these partnerships, employees are able to benefit from
+to engage in DEI work and helps ERG
+trainings, learning opportunities, conferences, fellowships, and
+leaders translate their passion into
+avenues for growth and advancement. Our valued partners include
+strategic action by influencing policies
+Afrotech, Catalyst, Council for Urban Professionals, NCWIT, National
+and practices for the larger organization.
+Society of Black Engineers, HITEC, Lesbians Who Tech, and Out &
+Equal. Our proactive engagements resulted in sending employees
+to eight different conferences, giving them access to professional
+development opportunities, networking, and career advancement
+prospects.
+16
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+TALENT ACQUISITION AND RETENTION
+Building balanced, representative teams
+across brands and continents
+OUR APPROACH of continuous feedback and learning, we’re developing our
+Our remarkable team—spanning approximately 2,600 team’s capabilities to improve how we connect people to their
+colleagues across 22 countries—embodies Match Group’s values communities across the globe.
+and reflects the diversity of our extensive network. Our success
+At the corporate level, Match Group works closely with our
+relies on the ability to attract, support, and retain diverse,
+brands to centralize analytics, hiring insights, and candidate
+exceptional talent.
+search resources. We partner with external organizations to
+In 2023, we expanded our investments in employee development enrich the diversity in our pool of internship candidates for a
+and retention. Our People strategy is a comprehensive approach more robust talent pipeline.
+to the employee experience, encompassing recruitment,
+Encouraging an Ownership Culture
+employee engagement, and development. Our focus and intent
+We want our entire team to have a stake in our future growth
+is to convene the best of the best within the tech industry. We
+and success. Our Employee Stock Purchase Plan (ESPP) extends
+cast a wide net for talent from diverse backgrounds, recognizing
+the opportunity for ownership to eligible employees, enabling
+and engaging with our people, and prioritizing their mobility,
+them to acquire Match Group common stock at a discounted
+learning, and career advancement.
+purchase price through automatic payroll deductions. Regular
+We execute this strategy by identifying the unique needs
+employees working over 20 hours per week in the U.S., Canada,
+of employees worldwide and tailoring competitive benefits
+and France are eligible to participate. Currently, over one-third
+packages and initiatives to accommodate them, collaborating
+of eligible employees are enrolled in the ESPP.
+with brand-specific People teams to ensure best practices.
+Providing a Full Range of Competitive Benefits
+Attracting the Best Talent
+At Match Group, we extend our comprehensive and
+We leverage our footprint and portfolio to recruit the best
+competitive benefits package to regular employees and
+talent across Match Group. Our established presence in global
+temporary employees alike. We maintained our emphasis on
+markets gives us a pipeline of candidates who bring the
+the four pillars of employee health—physical, mental, social, and
+diversity of skills, passions, and perspectives we need to create
+well-being—by introducing additional services to address the
+sustainable value for our stakeholders. Through a culture
+full spectrum of wellness.
+17
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+PRIORITIZING HEALTH AND WELLNESS Compensation packages
+Our first global Total Wellness Challenge in 2023 motivated employees Pay Training Other benefits
+to monitor fitness progress by tracking physical activities and focusing – Competitive salary
+– Training and education – Employee stock purchase program
+on healthy living. Executives hosted a fireside chat to discuss personal – Retirement matching funds1
+allowance – Commuter subsidy
+experiences with mental health and the importance of supporting – Performance bonuses
+employees in their own well-being journeys.
+To better meet the needs of employees starting families, we offer paid leave of
+20 weeks for both birth and non-birth parents, up from 16 weeks in years prior
+for the birth parent and 12 weeks for the supporting parent. This policy applies Health and wellness benefits
+to all parents welcoming a new child, whether through birth, adoption, or Health benefits Well-being Family forming
+surrogacy. Our family planning policy likewise covers adoption, surrogacy, and
+– Medical insurance – Wellness program – Fertility, adoption, and surrogacy3
+IVF expenses, as well as a family-forming stipend for employees located in Asia-
+– Dental insurance – Mental health coaching – Milk Stork
+Pacific offices. Employees and their spouses or domestic partners are eligible
+to receive up to $10,000. For employees in Ireland, the UK, and Germany, we – Vision insurance and counseling Life and disability
+began offering fertility and adoption coverage through Carrot Fertility. Match – Concierge medical services – Meditation services
+– Life and accident insurance
+Group also provides meal gift cards to new parents and partners in the U.S. – Health Savings Account2
+– Disability insurance
+with Milk Stork to ship breast milk where it needs to go during business travel
+or relocation, and in cases of adoption or surrogacy.
+Employees can now download and explore Insight Timer—a meditation app
+Personal time off and leave
+designed to make meditation easy, convenient, and engaging, with thousands
+of additional wellness courses and offline listening—provided at no cost. Vacation Leave Community service
+U.S. employees enrolled in our self-insured medical plans now have lower – Paid vacation time – Parental leave4 – Dollar for Doers volunteer program5
+coinsurance rates for out-of-network healthcare costs. We additionally – Local holidays – Compassionate leave – Paid community service time
+enhanced our gender affirmation benefits to provide more comprehensive – Wellness days (including miscarriages) – Charitable matching program6
+coverage. Beyond physical well-being, a financial concierge offering is now – Paid Military leave
+available to any employee with questions regarding personal finances.
+1 401k retirement plan support that is matched 10% up to $10,000. Authenticity at work
+2 Employees who elect the high deductible plan will receive at least $500 per employee ($1,000 if more
+than one person is covered) deposited into a Health Savings Account on behalf of Match Group. DEI Other benefits
+3 Up to $10,000 per employee and their spouse/domestic partner to use towards fertility preservation
+– Employee Resource Groups – Discount programs
+treatment, adoption fees, surrogacy fees, and IVF treatments.
+4 Fully paid parental leave of 20 weeks for both the birth and non-birth parent. – DEI training – Flex work
+5 $10 per hour volunteered added to employee’s giving account, up to $1,000. – Company celebrations of heritage months – Come-as-you-are dress code
+6 Up to $15,000 per employee. – Access to numerous external partners – Pet discounts and insurance
+18
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+EMPLOYEE ENGAGEMENT AND DEVELOPMENT
+Empowering our people to reach their full potential
+OUR APPROACH Our Employee Engagement and Development Objectives
+Leveraging diverse experiences, skills, and perspectives, our employee development strategy prioritizes rich
+connections between employees, managers, and teams to promote collaborative learning. We empower team
+OBJECTIVE 1 | Expand and iterate strategic talent and skills
+leaders with the flexibility to choose the most effective engagement methods to strengthen these connections.
+development initiatives to empower employees to innovate and
+Through regular touchpoints and feedback mechanisms, we generate critical insights and create leadership
+deliver against business results
+opportunities throughout our portfolio.
+Our suite of development programs includes global mentorship initiatives, accessible to all. We also offer a
+learning and development budget called Be Your Best Self, which provides eligible U.S. employees with stipends
+to attend conferences, training seminars, professional certification workshops and courses, and other activities
+OBJECTIVE 2 | Enhance and amplify career and performance
+to support their continued growth. Our international brands provide comparable professional development
+opportunities to optimize individual and team effectiveness
+opportunities.
+Our training and development programs are designed to meet employee needs at all stages of their careers,
+ensuring scalability and the flexibility to accommodate diverse learning styles. We continually assess and refine
+our strategies for developing and retaining top talent. OBJECTIVE 3 | Improve employee performance and
+In 2023, we developed the following Employee Engagement and Development Objectives to streamline efforts engagement through strategic organizational development
+across Match Group and ensure that we can reach employees and assist in their development at every stage of and effectiveness
+their career. These objectives will guide our plans to expand program offerings in the future.
+19
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+OBJECTIVE 1
+Testimonials from participants
+Expand and iterate strategic talent and skills development initiatives to empower employees to innovate and
+deliver against business results
+“The MGLE program offers an invaluable
+toolkit and cultivates a collaborative learning
+Match Group Leadership Essentials (MGLE) Bravely
+atmosphere, promoting personal and team
+Match Group Leadership Essentials expanded its program to 75 Executives traditionally use professional coaching as a tool to foster
+growth for the overall betterment of the
+participants in North America, up from 40 during its pilot in 2022. personal, professional, and managerial development. At Match Group,
+organization.”
+This eight-week training includes independent work, live group however, we believe in democratizing this invaluable resource by
+—MGLE Graduate
+sessions, and on-demand coaching. In the future we intend to extending its accessibility to all employees. We leverage platforms
+expand program eligibility to any person serving in a management like Bravely, an on-demand one-on-one coaching service, to connect
+role for up to five years. Current participants must be in management professional coaches with participating employees. These confidential
+role for up to two years to be considered.. online coaching sessions typically last around 45 minutes.
+“Regardless of whether you are joining as a
+Post-program participant feedback and 180-degree manager In 2023, 300 employees across Match Group accessed Bravely,
+mentee or mentor, having a growth mindset
+effectiveness surveys indicate that 88% of surveyed MGLE graduates collectively participating in 852 coaching sessions. Reflecting the
+is really important and allows you to see
+would recommend the program to a colleague. The direct platform’s responsiveness to individual needs, employees using
+new perspectives. I’m thankful to work for a
+reports of graduates also saw improvements in their manager’s Bravely sought coaching on a range of topics, including:
+company that promotes the building of new
+leadership style. When comparing pre- (n=130) and post-program • Developing communication skills
+connections and MentorMatch is a great
+(n=139) manager effectiveness, the survey scores for leadership
+communication and people development improved by six and nine • Giving effective feedback example of this.”
+points, respectively. • Improving relationships with managers, colleagues, or direct reports —Former Mentor
+MentorMatch • Preparing for a performance review
+We continued to develop and grow our flagship MentorMatch • Managing a full workload
+program in 2023. Established in 2021, MentorMatch connects • Dealing with stress from transitioning to new roles “I’m very happy with my coach, the
+mentees with mentors from different brands, facilitating purposeful
+conversations about career development and cultivating • Approaching difficult conversations onboarding and the time/days flexibility to
+book sessions is amazing. Can’t wait to have
+meaningful connections across the organization. • Activating diversity, equity, and inclusion
+my second session (already booked).”
+In 2023, the registration of 233 MentorMatch participants • Leadership and management guidance
+—Bravely User
+represented 9% of Match Group’s total headcount, which
+is comparable to industry benchmarks, and exceeded our
+expectations. The program has facilitated 101 sustained connections
+between 202 participants across all brands.
+20
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+Performance Reviews
+We refined our performance review process by encouraging
+OBJECTIVE 2 managers to engage with their direct reports for informal
+Enhance and amplify career and performance opportunities to optimize individual and team effectiveness assessments and feedback conversations throughout the year,
+in addition to their formal mid-year and year-end performance
+and development reviews. Mid-year reviews are informal,
+open conversations between managers and direct reports to
+discuss what is effective and what needs improvement. These
+Learning Management System deepening the impact of learning experiences, fostering more
+are important touchpoints for employee development, laying
+In 2022, we launched a digital, portfolio-wide learning intimate learning environments that encourage collaboration
+the groundwork for more comprehensive year-end reviews.
+management system. This platform enables us to extend flexible, across brands and personal growth.
+Year-end reviews function as progress markers for established
+on-demand learning opportunities to both our employees and to
+Centralized Communications Objectives and Key Results (OKRs) and other performance
+agents embedded within select third-party vendors.
+Our employee intranet, Central, continues to serve as a key metrics outlined in the annual review process. These
+communication tool for benefits offerings, employee initiatives, conversations include overall performance and development,
+We created more than 140 on-demand and live and the latest news and announcements. True to its name, encompassing personal successes, lessons learned, and both
+training courses for users. In the last year, over 600 Central is our resource hub and remains instrumental in business and development goals. Business goals correspond
+learners participated in at least one of the 49 live keeping our employees well-informed and connected. directly to the employee’s role and daily responsibilities,
+and development goals relate to personal and professional
+training sessions on topics including mid-year and
+Udemy aspirations for the upcoming year.
+end-of-year reviews, member experience shadowing,
+Match Group’s online employee learning platform, Udemy for
+soft skills, and leadership development.
+Succession Planning
+Business, ensures our hybrid workforce maintains a strong virtual
+connection to our organizational culture. This platform is available We focused on creating and implementing succession planning
+Learning and Development to our full-time employees, providing personalized learning practices for organizational leaders. This strategic initiative
+Launched in 2023, our Summer of Learning program paths and courses for core areas of vocational interest, as well as allowed us not only to identify employees with leadership
+exemplifies our commitment to continuous employee personal interests such as gardening or playing the guitar. potential but also to build an internal promotion framework
+and sustainable pipeline for future leadership. Through this
+improvement. The global program empowered employees
+process, we crafted tailored development opportunities
+with soft skills training in areas including public speaking,
+centered around the strengths and needs of prospective Match
+development planning, and feedback skills, in addition
+Throughout 2023, 936 Match Group employees Group leaders.
+to DEI awareness around themes like sponsorship and
+engaged with Udemy with 68% investing their time
+microaggressions. We’re evolving the Summer of Learning Our approach to performance reviews and succession planning
+learning technology skills and 28% focusing on
+program to create more targeted, collaborative opportunities remains people-centric and tech-enabled. We digitized
+business skills. Notable program offerings include
+for skill development through cohort-based learning. This succession planning and goal setting by making modules
+The Complete SQL Bootcamp, ChatGPT Complete
+reflects our ongoing commitment to adapting and refining available on our talent management information system. We
+Guide, and Principles of Secure Coding.
+our learning initiatives to meet the changing needs and also provided resources, job aids, and trainings to share best
+preferences of our employee population. This shift will focus on practices and clarify expectations, ensuring a transparent and
+effective process for all involved.
+21
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+OBJECTIVE 3
+Improve employee performance and engagement through strategic organizational development and effectiveness
+Engaging Employees Centralized Learning and Development Catalog It will also serve as a valuable resource for future development
+At Match Group, we employ a number of engagement methods We are establishing a comprehensive learning and and employment opportunities within Match Group’s global
+to capture and respond to employee feedback. Our annual development catalog to promote career development at all portfolio of brands.
+company-wide engagement surveys have been a cornerstone for experience levels. This catalog will provide employees with a For a harmonized yet flexible approach to increased
+elevating valuable perspectives and insights. At the brand level, clear and efficient way to explore diverse learning opportunities organizational effectiveness, we intend to expand our
+we use pulse surveys to evaluate employee sentiment regarding aligned with team, business, and career development goals consultative strategic partner role in change management. This
+operational changes and the overarching brand culture. identified in their mid-year and year-end performance reviews. involves supporting leadership in navigating the complexities of
+To optimize our feedback strategy in 2023, Match Group Employees can navigate the interactive catalog to assess change and developing resources that support resilience across
+streamlined the number of survey questions to mitigate fatigue available offerings at a global level. They can then express their our global workforce. Through these initiatives and brand
+and to focus on the questions that have historically had the interest to enroll in the programs that best suit their aspirations, leadership collaborations, we aim to elevate a culture where
+largest impact on engagement year-over-year. This ensures driving their career development forward. adaptability becomes an inherent skill, driving continuous
+that survey efforts are directly aligned with initiatives aimed at OUR FUTURE PRIORITIES improvement and innovation across all brands.
+improving employee engagement practices. Notably, survey
+In 2024, we plan to implement transformative strategies to drive
+participation rates have improved since our 2020 baseline. Our
+excellence and reinforce our approach to nurture individual
+2023 engagement score was 62% with an 83% participation rate
+talent and organizational effectiveness.
+compared to a 64% engagement score and 82% participation
+In reimagining our performance management systems and
+rate in 2022.
+processes, we are creating a culture of continuous feedback
+The consistent levels of participation indicate that employees
+and goal setting for employees. A key priority in our strategic
+have confidence in the feedback process and take the
+vision is talent optimization, which we are addressing with a
+surveys seriously. We attribute this trust to the evolution of
+platform where employees create a career profile and express
+our organizational development practices and increased
+their career interests, identify skills gaps, and define areas of
+communication frequency from leadership. For example, our
+desired learning within the company. We believe this initiative
+ExecConnect program is an initiative inspired by survey feedback
+will enhance internal collaboration, fostering connections
+that invites employees to engage directly with leadership during
+across brands, and paving the way for cross-functional projects.
+their rotating fireside chats and open Q&A sessions.
+22
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+COMMUNITY
+Creating social impact
+through meaningful
+connection
+Match Group’s global reach empowers us to take action,
+make a positive impact, and to stand up for the betterment
+of our communities.
+CONTENTS
+Community investment
+Community engagement initiatives
+Human rights
+Changing perceptions
+23
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+OUR APPROACH Global Giving Day
+Supporting people and investing in initiatives that make In November, Match Group held its second annual
+a positive impact is embedded in our company culture. Global Giving Day. Spanning the company’s global
+Our employees are motivated to be good citizens, offices, hundreds of employees committed over 1,000
+COMMUNITY INVESTMENT applying their knowledge, skills, and passions to improve collective hours to a variety of charitable causes, resulting
+their communities. in more than $150,000 in direct and matching gifts to our
+local communities.
+Connecting Match Group facilitates and empowers employees
+to participate in direct action that sparks individual Teams hosted more than 15 unique volunteer
+interests and advances our mission to achieve an opportunities spanning nine different locations globally
+with and inclusive and equitable global economy. We provide and reaching more than 700 employees.
+employees with paid time off to volunteer with local
+This year we provided a Global Giving donation credit to
+nonprofits and charitable causes and donate $10
+active users on the Benevity platform across the company
+supporting per hour—up to $1,000—for every hour of employee
+with the goal of increasing our employee’s philanthropic
+volunteerism, including both corporate and individual
+engagement. Employees from 13 brands globally
+efforts, through our Dollar for Doers program. We also
+people around redeemed and donated their reward to 200 unique
+match employees’ charitable donations on a dollar-for-
+nonprofit organizations.
+dollar basis, up to $15,000 per person. We engage in a
+range of philanthropic activities, community activism
+the world.
+and engagement initiatives, and matching programs to
+amplify our collective impact.
+The efforts across our Employee Resource Groups,
+Trust and Safety, Human Resources, and Social Impact
+teams have benefited hundreds of partnerships and
+causes. Match Group employees and leadership endorse
+nonprofit and service-based organizations committed
+to addressing causes that include LGBTQ+ safety and
+equality, human rights, reproductive rights, internet safety,
+domestic violence, social isolation, and environmental
+justice. Combined donations from our employees and
+Match Group’s dollar matching supported more than 400
+beneficiaries, including the Human Rights Campaign, NO
+MORE, Polaris, and the Maui Food Bank and World Central
+Kitchen. In total, Match Group donated $2.8 million to
+charitable causes in 2023.
+24
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+COMMUNITY ENGAGEMENT INITIATIVES Supporting Powerful Women and the SDGs accelerate positive change in their home communities. Now
+Match Group is proud to promote community engagement in Match Group is proud to participate as a mentor company in its 18th year, the program includes 366 alumnae from 58
+support of social causes that matter. We do this company-wide for the Fortune-U.S. Department of State Global Women’s countries and territories.
+and through individual brands. Our partnerships with nonprofit Mentoring Partnership for the third consecutive year, The mentorship program aligns with Match Group’s mission
+groups and grassroots organizers, along with collaborations supporting our commitment to the United Nations’ to empower women and underrepresented communities by
+within our brands allow us to leverage our unique capabilities Sustainable Development Goals (SDGs). This public-private promoting equitable access to education and professional
+and expertise to address global social challenges. Key focus partnership between Fortune’s Most Powerful Women, the advancement. Match Group also continues to find ways to
+areas for 2023 included preventing social isolation, promoting U.S. Department of State, and Vital Voices Global Partnership support mentees from previous years:
+human rights, and supporting healthy conversations about aims to create economic opportunity and equity for women
+• Winnie Petit-Paul, our 2023 mentee, is the Co-founder
+masculinity and sexuality. worldwide. The program selects emerging women business
+of HaitiBrand, a branding and creative agency in Haiti
+leaders from across the globe and pairs them with Fortune’s
+Global Giving Series specializing in brand identity construction, website
+Most Powerful Women and their teams.
+As an extension of Global Giving Day, we spotlighted the work production, and online promotion. After such a positive
+of our current safety and social impact partners year-round Each mentee spends 10 days at their mentor company for a mentorship experience, with support from Match Group,
+while also providing ongoing opportunities for employees customized mentorship designed to address their professional Winnie was inspired to create her own mentorship program
+to get involved and make a positive impact in communities challenges and interests. Mentees meet with a community of in Haiti to make these opportunities available to talented
+through service or charitable contributions. mentors to enhance their business and leadership skills and women in the country, in collaboration with the private sector.
+We facilitated 12 Global Giving Sessions between our global
+employee base and our nonprofit and NGO partners, for a
+total of over 225 hours of engagement. These virtual sessions
+provided opportunities for our employees to learn more
+from our partners, promote future service opportunities, and
+encourage year-round charitable contributions. Match Group
+provided double-match donation opportunities for over 200
+featured organizations like the Cybercrime Support Network,
+the National Center for Victims of Crimes, the American
+Foundation for Suicide Prevention and the Dallas Holocaust
+and Human Rights Museum.
+Global Giving Spotlight
+In the lead-up to Global Giving Day, Match Group launched the
+first ever Global Giving Spotlight Series to inspire volunteering
+and giving, and make it more relatable, increase morale,
+and generate awareness of our employees’ philanthropic
+engagement.
+25
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+A Powerful Woman: Cheeky Chat Panel with the Transgender District
+For Women’s History Month, we hosted a Cheeky Chat panel with the Transgender District at
+Tinder’s LA office. This conversation featured a panel of Black transgender women who shared best
+practices on inclusive workplace policies and how others can show up for the LGBTQ+ community
+in both a social and professional environment. The panel also discussed perspectives on women’s
+empowerment and equity related to business, culture, dating, and social justice issues.
+Mental Health and Social Isolation
+Hinge introduced One More Hour, a new social impact initiative mobilizing Gen Z to increase
+in-person connection. The program launched with a $1 million fund dedicated to tackling the
+loneliness epidemic by providing grants to social groups and organizations helping Gen Z find
+opportunities for in-person belonging and community. Hinge is collaborating with DoSomething
+Strategic and the Foundation for Social Connection to develop benchmarks for the program and
+identify qualifying organizations. One More Hour works with a group of Gen Z judges to select the
+final recipients of the grants.
+This year, Hinge joined the Coalition to End Social Isolation & Loneliness, collaborating with other
+brands and organizations to advocate for policies and initiatives to reduce loneliness. Hinge also
+supports Crisis Text Line in expanding its resources on loneliness so that young adults can more
+easily access support. Additionally, the brand recently collaborated with the Foundation for Social
+Connection to create a Distraction-Free Dating Guide with expert-backed advice and worked
+closely with the U.S. Surgeon General to provide tips for combatting loneliness and adopting
+dating safety habits during COVID-19.
+26
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+HUMAN RIGHTS CHANGING PERCEPTIONS
+We believe in the inherent dignity and individual rights of every
+Partnership with A Call to Men
+human being. A commitment to respecting human rights is a
+Match Group partnered with A Call to Men—an organization
+priority for Match Group. As a global leader in internet safety,
+devoted to transforming society by promoting healthy,
+we endeavor to ensure our stakeholders - users, employees,
+respectful male behavior—to offer training and educational
+and business partners - uphold this commitment to protect
+resources for companies, government agencies, schools, and
+individuals and safeguard communities.
+community groups. Activations across brands provided users
+Our Commitment to Human Rights with tools and opportunities to understand the complex
+landscape of expressions of masculinity.
+Match Group is committed to respecting and protecting the
+human rights of our users, employees, contingent workers, and
+Gallery of Dick Pics Campaign
+people impacted by our business operations. We acknowledge
+To further solidify its position as a friendlier way to date online,
+and uphold human rights through compliance with laws and
+Plenty of Fish launched a campaign to turn the industry’s
+regulations wherever we have business operations and through
+ugliest behavior on its head (sending unsolicited photos) and
+our policies, practices, and programs. We do not tolerate human
+introduced the “Gallery of Dick Pics”, full of pictures of nice guys
+rights abuses within our portfolio of brands or in our business
+named Richard. The campaign also featured a “No Dick Pics”
+relationships. Our human rights commitment is guided by the
+badge in the app, enabling users to explicitly express disinterest
+United Nations’ Guiding Principles on Business and Human
+in receiving (and sending) unsolicited photos.
+Rights (UNGPs).
+BLK Retreat
+BLK hosted a wellness retreat designed exclusively for Black
+men. The “Brotherhood Reimagined” welcomed a unique
+collection of journalists, influencers, and like-minded individuals
+for a “glamping” experience like no other. Black men from
+across the country gathered in Los Angeles before embarking
+on a transformative journey featuring workshops on emotional
+vulnerability, identity intersections, imposter syndrome,
+masculinity, and spirituality. Participants conversed, laughed,
+networked, and explored topics related to key societal issues
+impacting black men.
+27
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+LGBTQ+ Advocacy
+Match Group maintains a longstanding partnership with the Human Rights
+Campaign (HRC), America’s largest civil rights organization working to achieve
+equality for LGBTQ+ communities.
+Match Group was a Diamond and After Party Sponsor for the 25th Annual
+HRC National Dinner. The dinner, hosted in Washington, DC, brought together
+President Biden and Dr. Jill Biden and several senior political leaders, LGBTQ+
+activists and organizers, Match Group employees and MGAC members, along
+with leaders from across corporate America to celebrate the achievements of
+the HRC and its partners. Hinge, Tinder, and Archer provided further support at
+events throughout the country. Money raised from the National Dinner enables
+HRC to continue its LGBTQ+ welfare support across the country.
+For the past decade, Tinder has been a safe space for the LGBTQ+ community
+to come out, allowing users to explore their preferences and meet new people
+online before making connections IRL. A recent study conducted on Tinder’s
+latest Future of Dating Report found that over half of young LGBTQ+ singles
+said they were out on a dating app before they came out to friends and
+family.
+In honor of National Coming Out Day on October 11th, Tinder partnered with
+the HRC to offer users essential coming-out resources, celebrate coming out
+journeys, and rally against hate. During the week of National Coming Out
+Day, Tinder provided direct, in-app access to HRC’s Coming Out Center, which
+contains resources and guides for coming out and living openly at home, work,
+and in their communities. Both LGBTQ+ users and allies can learn more about
+HRC’s “Come Out Against Hate” campaign and pledge their support to counter
+anti-LGBTQ+ sentiment, so that everyone, everywhere can feel safe.
+LGBTQ+ users are the fastest growing population on Tinder, with users
+from that community aged 18–25 more than doubling in the last two years.
+Support for this flourishing community has driven previous initiatives like the
+introduction of “My First Pride” profile stickers, helping users connect and
+find community ahead of their first pride experience, as well as a previous
+collaboration with HRC calling for an end to the U.S. Federal blood donation
+ban imposed on gay men.
+28
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+ENVIRONMENT
+Match Group is
+committed to doing
+our part to improve the
+natural world by reducing
+our negative impact on
+the planet.
+CONTENTS
+Environmental impact
+Match Group Los Angeles Office
+29
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+ENVIRONMENTAL IMPACT
+Growing a sustainable business
+OUR APPROACH employee insights to refine our strategy. The ongoing Michigan was chosen because it currently has one of the
+We are harnessing the scale of our portfolio brands’ platforms to collaboration unifies sustainability efforts across brands and dirtiest grids in the U.S., with about 1% solar, meaning these
+promote a more sustainable world. While our primary business empowers employees to make meaningful contributions to projects will effectively displace fossil fuel-generated electricity.
+is digital, we recognize that both our direct operations and reduce our enterprise-wide environmental footprint. This project will also help build the local clean energy market,
+value chain still can have negative effects on the environment as it will create opportunities for job upskilling, local supply
+Match Group is proud to be committed to the SBTi. These
+and are taking tangible action. The overall strategy for Match chain development, and investor interest. Every solar project
+comprehensive goals will guide Match Group’s strategic
+Group’s sustainability program includes: constructed makes the next one easier – that is what makes
+investments, enabling us to track our impacts on the planet
+• Measure: Audit-grade footprint to correctly prioritize our efforts against ambitious reduction targets. Aligning emission this project even more impactful.
+• Report: Provide annual disclosures to promote transparency reductions with the SBTi Net-Zero Standards, we have focused Output from the project that Match Group supported will cover
+our future emissions reduction strategy on decarbonizing our future North American electricity footprint. Cumulatively,
+• Commit: Set SBTi aligned goals our real estate, investing in renewable energy (VPPA), and Match Group’s 5 year commitment will avoid >35,000 tCO2e,
+• Reduce: Reduce carbon at facilities, via VPPA and supplier promoting sustainability in our supply chain. equivalent to >87 million car miles driven.
+engagement Our VPPA will help replace the use of fossil fuels in Michigan
+Carbon Reduction Journey
+• Enable: Engage employees and local partners to actively Match Group submitted its Near-Term and Net-Zero Targets and facilitate the production of 15,000 MWh of renewable
+participate in sustainability initiative to the SBTi. It was the culmination of months of analysis and power annually.
+Sustainability is embedded in our culture. Starting with the conversations with diverse stakeholder groups to learn from We are collecting energy and climate data from our offices
+Board of Directors and executive team actively incorporating each other, build support, and develop detailed plans to to inform energy efficiency upgrades. The two buildings
+environmentally responsible practices into our operations, reach ambitious targets. The team is continuously working to Match Group owns are powered entirely through renewable
+Match Group employees at all levels, including our first incorporate these targets into the portfolio’s operational strategy. energy provided by our local utility. In existing office spaces,
+Environmental Defense Fund Climate Corps fellow, have To support the expansion of renewable energy sources, Match we are incorporating new energy-saving technologies such as
+shaped the direction of our organization in this regard. In 2024, Group signed a Virtual Power Purchase Agreement (VPPA) with automation sensors that detect employee presence to optimize
+we plan to bring on another Environmental Defense Fund a coalition of other companies to purchase clean energy from a energy usage.
+fellow to continue training future climate leaders. new solar project in Michigan. This type of purchase agreement
+Match Group’s Environmental Sustainability Council plays a has high environmental impact because it directly helps create
+pivotal role in driving our progress. With over 100 members new renewable energy capacity on the grid.
+across the globe, the Council meets monthly and leverages
+30
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+Match Group’s Dallas headquarters and several other UNGC Innovation Accelerator In France, Meetic is driving the culture of sustainability and has
+facilities across our operations are various levels of LEED Three of our team members participated in the United Nations established itself as a leader in the space. Within Match Group,
+and Green Mark certified to ensure we maintain the highest Global Compact (UNGC) Innovation Accelerator program on the brand is sharing best practices, an employee Environmental
+sustainability standards. In June, Plenty of Fish opened their sustainability. In partnership with the Thunderbird School of Code of Conduct, and onboarding
+flagship LEED platinum certified office space in Vancouver. Business at Arizona State University, this nine-month program resources to influence and inspire
+These certifications prioritize sustainability by reducing invites employees to identify challenges within their companies our entire portfolio. Consistently ®
+the use of energy, water, and material resources, as well as and devise solutions with guidance from university professors striving to innovate sustainably,
+improving indoor environmental quality and minimizing and faculty. Meetic’s ISO 14001 certification, which ISO 14001 Certified
+external emissions. Leased spaces that do not align with the requires an annual renewal, ensures
+decarbonization plans are being retired, while newly leased One Tree Planted the environmental impacts of its
+spaces must adhere to high-quality climate standards before Our support with One Tree Planted continued with a operations are considered across all aspects of its business.
+being incorporated into the Match Group portfolio. reforestation initiative in Ghana. In honor of our summer intern Meetic continues to honor its 2019 pledge to reduce its GHG
+class, Match Group sponsored the event, created by Emi-Beth emissions, which have been reduced each year, in-line with the
+Quantson (CEO and Founder of Kawa Moka Limited coffee pace envisioned by the Paris Climate Agreement.
+CERTIFIED OFFICES
+company and a 2022 Match Group mentee) from the Fortune-
+Meetic also launched a sustainable marketing initiative to conduct
+U.S. State Department Global Women’s Mentoring Program, to
+an environmental audit of their recent advertising campaign’s
+raise awareness about the importance of planting native trees
+operations and footprint. The brand’s green design guidelines for
+and crops for both economic and environmental sustainability.
+media are aimed at creating a virtuous circle with our partners
+Participants planted coffee, ofram, plantain, and ginger trees
+and reduce the carbon impact of media investments. Meetic
+Dallas, TX Paris, France San Francisco, CA Vancouver, CA to combat deforestation, soil erosion, and climate change in
+also developed a green dating guide, to encourage climate-
+Headquarters Meetic Hub Tinder Hub Plenty of Ghana’s Volta region.
+Fish Hub responsible dating behavior in all communications.
+Meetic publicly pledged to reduce its climate impacts with the
+‘Contrat Climat,’ becoming the seventh key member of a coalition
+These of technology companies. The Contrat Climat is a voluntary
+programs commitment made to reduce the impact of a company’s
+support
+environmental and climate-related activities across the business.
+UN SDGs
+OUR FUTURE PRIORITIES
+Investing Locally As we consider our priorities in 2024 and beyond, we
+Match Group joined the Hudson River Park Business Council recognize how the implementation of our Near-Term Net-Zero
+Global Perspectives
+to support park and waterway conservation near our New York Sustainability Plan sets the foundation for sustainable growth.
+Match Group’s diverse portfolio enhances how we solve
+office and fund a STEM Student Leadership Program, offering This begins by clearly communicating our footprint, along with
+sustainability challenges. Individual brands bring their own
+high school girls from underrepresented communities a paid, our reduction goals throughout the organization.
+passion and perspective to testing innovative ideas, which we
+six-week internship. We look forward to continuing to support
+can then apply across our portfolio. We look forward to executing these plans to ensure a lasting
+the park.
+impact for our stakeholders and communities for years to come.
+31
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+GOVERNANCE
+Building trust through
+integrity and disclosure
+At Match Group, we are committed to good governance
+practices that build trust with our stakeholders and users,
+and to keeping their data secure and protecting their privacy,
+as we continue to help them make meaningful connections.
+CONTENTS
+Corporate governance
+Data security and privacy
+Machine learning and AI
+32
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+CORPORATE GOVERNANCE
+Cultivating a culture
+of reliability
+OUR APPROACH
+Match Group aims to lead the tech sector with ethical decision making, a
+culture of integrity, and sound corporate governance. Sound governance
+requires clearly defined owners of our strategy to provide accountability and
+allocate responsibilities among stakeholders. At Match Group, our executive
+team owns the execution of our strategy, and our Board of Directors provides
+corporate oversight across our operations. These groups shape the structure,
+processes, and policies that drive continuous improvement. Accountability,
+transparency, and experience are key drivers of our success.
+The Match Group Code of Business Conduct and Ethics reflects our ethical
+values as a company and provides guidelines for our conduct when interacting
+with users, competitors, government officials, and each other. The code
+applies to all directors, officers, and employees across our brands. Match Group
+employees train on these topics during onboarding and annually thereafter
+and regularly confirm their compliance.
+Our governance practices are designed to satisfy all applicable local and
+national regulatory and Nasdaq stock exchange requirements.
+33
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+OUR DIRECTORS
+The Match Group Board of
+Nominating and Corporate Governance Committee
+Directors recognizes that directors’
+diverse backgrounds, experiences, Our Nominating and Corporate Governance Committee is responsible
+skills, geographic locations, races, for overseeing the implementation of governance best practices. This
+and genders can bring valuable 50% 33% includes overseeing environmental, social, and governance matters.
+perspectives to Board discussions The Committee also periodically reviews Board and Committee
+and decisions. composition to ensure our Board has the necessary skills and diversity
+for effective oversight of our business.
+The Board satisfies independence Female Board Non-white Board
+requirements, maintaining ten members members The Committee’s charter includes the responsibility to oversee
+independent directors, out of evaluations of the Board and its Committees. Though we are not
+a total of twelve. Independent required to conduct these evaluations as a Nasdaq-listed company, we
+directors also comprise 100% of our view this as a best practice. The Committee conducted its first annual
+Audit, Nominating and Corporate evaluation in 2022 and expect to continue to conduct them annually
+Governance, and Compensation moving forward.
+and Human Resources
+10 12 In support of the Committee’s charter and Match Group’s
+Committees. At least twice a year,
+commitment to good governance, we’ve developed and implemented
+our independent directors meet out of
+corporate governance guidelines. These guidelines formalize key
+in scheduled executive sessions
+Independent good governance principles and practices, such as maintaining
+without management or non-
+members of an independent Chair of the Board. The guidelines, as well as our
+independent directors present.
+Committee charters, are available on our Investor Relations website..
+the Board
+34
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+PUBLIC ADVOCACY
+In the U.S. and around the world, Match Group works closely with legislators
+and regulators in support of policy and legislation that ensures all users are safe
+and protected. We supported efforts to pass the Digital Services Act package in
+the EU which aims to create a safer digital space where the fundamental rights
+of users are protected. We also advocated for enhanced online dating safety
+laws in Utah to ensure users and members of the community are made aware
+of potential safety threats.
+POLITICAL CONTRIBUTIONS
+Match Group does not make any federal political contributions in the U.S.
+In 2023, we published our Political Contributions and Expenditures Policy
+defining Match Group’s expectations and governance around participation in
+the political process.
+TAXATION
+Tax contributions are a crucial component of local community investment by
+public bodies. As a global business, Match Group seeks to make appropriate tax
+contributions and meet applicable local and national tax requirements.
+ETHICS AND WHISTLEBLOWING
+Our employees share a common responsibility to uphold the highest standards
+of conduct. We require all employees to certify their compliance with our
+core policies annually, including the Code of Business Conduct and Ethics, tool enabling all global employees to confidentially report any violation of our stated Code of Business Conduct and
+Harassment Policy, Securities Trading Policy, and whistleblower procedures. Ethics, our Harassment Policy, and other work-related concerns. For matters related to audits and other financial issues,
+Employees can access our full Policies and Procedures Manual through our employees can submit reports by phone through a dedicated hotline or online through Central. The Match Group Legal
+intranet site. All U.S. employees must also complete annual harassment Department reviews and manages all reports.
+prevention training.
+ANTI-BRIBERY
+REPORTING HOTLINE Match Group expects all employees to maintain strict compliance with our Anti-Bribery Policy. The policy, which
+If employees have any concerns about issues such as fraud or is included in our Employee Manual, prohibits bribery and any other improper payments, and provides definitions
+misrepresentation, they can report them confidentially through our 24/7 of prohibited acts and practices, including bribery, facilitation of payments, and false book and recordkeeping. All
+hotline and web-based reporting service. Our non-retaliation policy is included employees aware of violations of the policy are encouraged to report them to the Match Group Legal Department. In
+in our Employee Manual and assures employees that retaliation for good faith 2023, we conducted anti-bribery specific training for our Business Affairs and Legal Teams and participated in Match
+reporting is strictly prohibited and will not be tolerated. Our independent Group’s annual risk assessment process, with a focus on anti-money laundering. In 2024, we plan to roll out company-
+reporting hotline is managed by EthicsPoint, a comprehensive reporting wide anti-bribery training.
+35
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+ANTI-MONEY LAUNDERING AND ANTI-CORRUPTION
+As a global business, we recognize the need to expand our ethics program to include an Anti-
+Money Laundering and Anti-Corruption program. In 2023, we developed and finalized the
+company’s anti-money laundering policy. We also continued expanding our ethics program to
+include formalized processes and work around anti-money laundering and anti-corruption.
+BUSINESS CONTINUITY AND PHYSICAL SECURITY
+Maintaining strength against rapidly evolving and global threats requires a highly adaptable
+team and a clearly defined set of goals. To ensure our business can continue to operate robustly
+in a threat scenario, we unified our security systems for consistency across all of our brands,
+integrating our data security and physical security program into our disaster recovery and
+emergency action plans.
+We also have standards and baselines for Emergency Response Plans for our offices and
+collaborate with our global offices. This includes notification systems that can alert our employees
+worldwide in order to make sure our people are safe. We also actively monitor and respond to any
+security risks or threats to our brands, employees, executives, and physical office locations.
+With the new hybrid work environment across Match Group, we conduct training and drills so
+that our employees are actively prepared and ready to respond to any emergencies on-site or at
+home. Globally we comply with local regulations for emergency response training, emergency
+drills, and supplement with yearly safety training broadcasts to the full company. In mid-2023,
+we hosted a worldwide all-hands on Personal Safety Training that covered office safety, personal
+safety, and emergency evacuation. In addition, in the U.S., we recently completed our yearly
+requirements with drills and training.
+We also use data centers and cloud services providers with distributed sites across the world
+to ensure consistent services for users across our brands. This geographic redundancy creates
+resilience against outages and helps maintain business continuity.
+36
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+DATA PRIVACY AND SECURITY
+Building best-in-class data protections
+OUR APPROACH DATA SECURITY In November 2020, after extensive
+Making connections is a deeply Data security is a significant risk to internal and external audits,
+®1
+personal experience. Because all technology companies, including Tinder became the first dating ISO 27001 Certified
+our users entrust us with their Match Group. We take a company- app to achieve ISO/IEC 27001:2013
+information, the security of our apps wide approach to mitigating risk at certification for its Information
+and the privacy of their data is a top all levels, starting with Board-level Security Management System (ISMS),
+priority. Match Group is committed to oversight and dedicated security followed by ISO/IEC 27017:2015 in 2021 Match and Match Affinity Premium security policies, standards, and
+ensuring that we maintain a robust, teams. We require all Match Group for cloud security controls. In 2023, (OurTime and BlackPeopleMeet) training programs while our Red Team
+transparent, and accountable data employees to complete security Tinder continued to maintain its ISO/ also maintained the ISO/IEC engages in proactive penetration
+security and privacy program with awareness training during onboarding IEC 27701:2019 certification for its 27001 certification. These annual testing of our services and vendors
+high company-wide standards. We’re and throughout the year. Privacy Information Management certifications by third party ISO across our brands.
+striving to be best-in-class in these System, another first in the industry. auditors utilize a trusted framework
+Incident detection and response
+critical areas, and we’re continuously and demonstrate our proactive
+practices are standardized across
+seeking to improve. approach to protecting data. We are
+all brands and are fed into event
+Data security and privacy efforts expanding our security compliance management tools, as we continually
+across Match Group’s portfolio are efforts to other Match Group brands explore new ways to bolster how we
+reported quarterly to the Audit as well. protect against, detect, alert, and
+Committee. The full Board of We continually work to standardize respond to unauthorized data access.
+Directors is also briefed periodically data security practices and processes
+throughout the year. We’ve across our brands. Our robust,
+significantly streamlined our data portfolio-wide security strategy
+security and data privacy reporting employs multiple layers across
+across the organization for clarity brand security and enterprise
+and transparency at all levels of the security domains to safeguard data
+company and across brands. effectively. The Match Group security
+organization consists of 14 specialized
+teams. Among them, our Security
+Governance, Risk, and Compliance
+1 Tinder also achieved ISO 27017 and ISO 27701. team develops and reviews our
+37
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+DATA PRIVACY We take a proactive approach Regular updates ensure our user OUR FUTURE PRIORITIES
+Our brands implement strong data to data privacy, looking at best privacy notices accurately reflect In 2024, we plan to continue
+privacy standards globally. We collect practices for data governance, our data processing practices. Most creating stronger synergies
+only necessary and proportionate rather than only focusing on current Match Group brands update their between our Privacy and Security
+data, are transparent in the way we legal requirements. This reinforces user privacy notices annually and teams. The expansion of shared
+process it, obtain strong security and our commitment to setting and notify their respective users. Brand data protection initiatives will
+confidentiality commitments from implementing the highest standards. privacy policies are also reviewed for foster unity across our operations
+our vendors, maintain channels for relevant updates annually. and help Match Group lead the
+We aim to strike the right balance of
+our users to contact us regarding way toward better data discovery
+future-proofing our privacy policies
+privacy inquiries and requests, and and classification for ultimately
+and practices while making sure
+delete data when it is no longer improved data governance.
+they remain grounded in today’s
+necessary. All Match Group suppliers
+requirements and challenges. We are also dedicating resources
+and vendors are subject to strict
+Whenever one of our brands develops to a new AI/ML security group
+contractual obligations around data
+a new feature or service, the privacy focused on enhancing our ability
+privacy and security practices. We
+team works hand-in-hand with all to protect our members’ data.
+also provide data privacy training
+relevant stakeholders to embed the This internal team will not only
+at onboarding and throughout
+necessary privacy principles, from review the security of our AI-
+employment at Match Group.
+design and development to rollout. powered tools but also integrate
+We maintain data privacy as a AI breakthroughs to meet Match
+Aligned with our focus on Privacy By
+separate function to ensure our data Group objectives.
+Design, these initiatives help ensure
+processing aligns with applicable
+that privacy is enabled and reinforced
+laws. Our central privacy team acts as
+from the outset as our brands
+a joint center of excellence to support
+innovate.
+our brands.
+38
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+MACHINE LEARNING AND AI
+Leading with responsible, ethical innovation
+Match Group remains committed to leveraging new and emergent technologies to provide safe spaces where every single
+person can connect and belong. We believe machine learning and generative AI-powered features enable our platforms to
+make more accurate and personalized matches and, in turn, empower our users to build more meaningful connections.
+ENHANCED EXPERIENCES,
+SAFE SPACES
+The data privacy and security programs
+that govern the way Match Group
+processes personal data are critical
+to developing generative AI-powered
+tools that enhance the way our users
+experience our platforms.
+Across our brands, Match Group Privacy
+and Security teams provide vital support
+in the design and rollout of AI-powered
+tools and features that make our users’
+experience seamless, engaging, and
+safer. These teams also explore powerful
+new AI-tools that help improve our data
+posture and governance.
+39
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+OUR APPROACH
+As pioneers of the digital dating category and leaders in the modern, mobile landscape, we believe it is our responsibility to lead the way with integrity and reliability.
+Across our platforms, our approach to generative AI—and to all new and emergent technologies—is thoughtful and our commitment to ethical and responsible innovation is steadfast, guided by our
+corporate values and seven foundational generative AI principles.
+OUR RESPONSIBLE GENERATIVE AI PRINCIPLES
+AUTHENTICITY EQUITY EXPLAINABILITY ACCOUNTABILITY SAFETY PRIVACY INTEGRITY
+Developing features Generative AI Intent and outcomes Continually improving Safer connections Protecting the privacy, Advocating for better
+that enhance technologies should are easy to understand. based on feedback means better security, and personal experiences and
+individual expression not perpetuate Dating is predicated and assessment of connections. In data of our users. outcomes. Fostering
+and the authenticity of harmful biases or on trust. As we bring impacts. We’re just tandem with Data that we collect – meaningful and
+human connections. unfair practices. As new technology to the at the start of our incorporating including from our AI engaging digital and
+Our AI work is rooted we continue to dive dating experience, we generative AI journey. generative AI technologies – is only real-world connections
+in helping users deeper into generative will seek to educate We’re committed to technology into our used to provide the is the foundation
+profile, discovery,
+better showcase AI, we are being our members on tests, exploration, and best services possible of our company.
+and post-matching
+their personality and thoughtful on how we its applications and development work for our users and Our investments
+experiences, we’re
+put their best foot can layer in protections highlight the features alongside industry communities. We do and innovation in
+committed to
+forward in presenting throughout our apps’ that utilize these partners, third-party not sell user data to generative AI are
+leveraging the latest
+themselves to development lifecycles, technologies. experts, and our third parties, and we focused on furthering
+advancements in
+potential matches. such as regular audits communities, both will be transparent that mission and
+our safety tools
+We want to increase and algorithmic before sensitive new about how we use data improving the lives of
+and features, while
+user confidence in the adjustments. features or tools to improve generative our users around the
+developing policies
+connections that they are deployed and AI outcomes. world.
+and investing in
+make online and help throughout their use.
+development that will
+them meet in real life.
+help protect our users
+from AI-enabled risks
+and bad actors.
+40
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+READ MORE & DATA TABLES
+About this report
+MORE INFORMATION
+GOVERNANCE
+REPORTING APPROACH
+This Impact Report includes all of Match Group, Inc.’s wholly- and Code of Conduct
+majority-owned subsidiaries where direct operational control TRUST & SAFETY Annual Report
+was exercised as of December 31, 2023. Where we have minority
+Trust and Safety Center Proxy Statement
+investments, the performance of those businesses is not included
+Safety Framework Modern Slavery Statement
+in this report.
+Advisory Council UK Tax Policy Statement
+Except as otherwise noted, all performance data included in this
+report is based on the 2023 calendar year. Where appropriate for a Guidelines and Committee Charters
+fuller understanding, we’ve supplemented our performance with Political Spend Disclosures
+key performance and business elements through March 2024.
+Human Rights Policy Statement
+All performance data is measured, collected, and reported
+internally, subject to our usual control and compliance procedures.
+Our goal is to be accurate, complete, and comprehensive. Our non-
+financial performance data is not externally audited or reviewed.
+PRIVACY
+Privacy Principles
+PEOPLE
+Career Center
+41
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+AWARDS
+Recognition for our efforts
+We are proud to have received a number of awards for
+efforts at Match Group and across our brands.
+2024 Built In’s Best Places BC’s Best Places to Work, 2023 Comparably’s 2023 Comparably’s
+and Midsize Places to Work Plenty of Fish Best CEO for Diversity, Best Company for
+in the U.S., Los Angeles and Tinder Career Growth, Tinder
+San Francisco, Tinder
+2023 Comparably’s 2023 Comparably’s 2023 Comparably’s 2023 Comparably’s Best
+Best Company for Best Company for Best Company for Company for Work-Life
+Compensation, Tinder Happiness, Tinder Perks & Benefits, Tinder Balance, Tinder
+42
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+PERFORMANCE TABLE
+Our performance METRIC 2023 2022 2021
+Total Revenue1 $3.4 billion $3.2 billion $3.0 billion
+FINANCIAL
+We measure our progress using these $1.3 billion $1.1 billion $1.1 billion
+Adjusted Operating Income1
+key performance indicators.
+Payers1,2 15.6 million 16.3 million 15.5 million
+SAFETY Investment in Trust and Safety $125 million+ $125 million+ $125 million+
+Employee engagement (favorability) 62% 64% 70%
+PEOPLE
+Gender diversity in workforce 41% female 41% female 41% female
+Gender diversity in leadership 39% female 39% female 43% female
+Gender diversity in tech teams 27% female 26% female 25% female
+1 Metrics for the year-ended December 31, 2023. Adjusted Operating Income is a non-GAAP
+financial measure which is in addition to Operating Income, which is a financial measure Ethnic diversity in workforce (U.S.) 54% non-white 44% non-white 42% non-white
+presented in accordance with U.S. GAAP. Adjusted Operating Income is not a substitute for,
+or superior to, Operating Income. For a reconciliation of the non-GAAP measure for each
+period presented, see page 51.
+Ethnic diversity in leadership (U.S.) 42% non-white 29% non-white 29% non-white
+2 “Payers’’ are unique users at a brand level in a given month from whom we earned Direct
+Revenue. Direct Revenue is revenue that is received directly from end users of our services
+and includes both subscription and à la carte revenue. When presented as a quarter-to-
+date or year-to date value, Payers represents the average of the monthly values for the Ethnic diversity in tech teams (U.S.) 60% non-white 48% non-white 47% non-white
+respective period presented. At a consolidated level, duplicate Payers may exist when
+we earn revenue from the same individual at multiple brands in a given month, as we
+are unable to identify unique individuals across brands in the Match Group portfolio. Our Gender diversity of the Board 50% female 50% female 45% female
+global portfolio of brands includes Tinder®, Hinge®, Match®, Meetic®, OkCupid®, Pairs™,
+PlentyOfFish®, Azar®, BLK®, and more, each built to increase our users’ likelihood of GOVERNANCE
+connecting with others.
+Independent members of the Board 10 out of 12 7 out of 10 8 out of 11
+3 In 2022, Match Group contracted Watershed to measure grid electricity. In 2023,
+Watershed’s methodology for calculating grid electricity use was updated to include
+clean electricity use. Percentage grid electricity is calculated as total electricity consumed Employer and employee donations
+as purchased from the grid [excluding clean electricity with Renewable Energy COMMUNITY $2.8 million $6.1 million $5.2 million
+Certificates (RECs) applied] divided by total energy consumed. Match Group purchased and advertising space
+unbundled RECs in early 2023, equivalent to 56% of Match Group’s 2023 Scope 2 electricity
+consumption. However, we chose to shift our clean power purchase strategy towards
+higher climate impact investments, including a Virtual Purchase Power Agreement ENVIRONMENT3 Grid electricity used 86% 77% --
+(VPPA) and did not buy any additional RECS. Thus, we have chosen not to apply these
+unbundled RECs towards our 2023 footprint. Grid electricity use data prior to 2022 has
+been removed to reflect Watershed’s methodology.
+Note: all metrics as of calendar year-end. Totals may not sum due to rounding.
+43
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+REPORTING STATUS:
+READ MORE
+Fully reporting
+SASB report
+Partially reporting
+Not reporting
+SASB CODE ACCOUNTING METRIC 2023 RESPONSE REPORTING STATUS
+REPORTING APPROACH
+This report includes all disclosures as defined by
+TC-IM-000.A Entity-defined measure of user 15.6 million Payers as defined on page 43
+the Sustainability Accounting Standards Board
+activity of our Impact Report.
+(SASB) framework for the Internet Media &
+Services industry. Our disclosures are based on the
+2018-10 version of the Standard, and, except where TC-IM-000.B (1) Data processing capacity Omitted as privileged and confidential.
+otherwise noted, we provide information for the
+(2) Percentage outsourced
+2023 calendar year.
+We expect our SASB framework to continue to TC-IM-000.C (1) Amount of data storage Omitted as privileged and confidential.
+evolve over time. Where noted, in accordance
+(2) Percentage outsourced
+with SASB Standards Application Guidance,
+certain information is not included in this
+appendix, to the extent the information is not ENVIRONMENTAL FOOTPRINT OF HARDWARE INFRASTRUCTURE
+considered material, is privileged or confidential,
+or is not currently collected in a manner wholly TC-IM-130a.1 (1) Total energy consumed (1) 56,609 GJ
+correlative with the related SASB metric.
+(2) Percentage grid electricity1 (2) 86%
+(3) Percentage renewable (3) 26%
+Metrics for this SASB metric are limited to
+managed and third-party data centers.
+1 In 2022, Match Group contracted Watershed, an enterprise sustainability
+platform, to measure Match Group’s Greenhouse Gas (GHG) emissions.
+In 2023, Watershed’s methodology for calculating grid electricity use
+was updated to include clean electricity use. Percentage grid electricity TC-IM-130a.2 (1) Total water withdrawn Not reported.
+is calculated as total electricity consumed as purchased from the grid
+[excluding clean electricity with Renewable Energy Certificates (RECs) (2) Total water consumed,
+applied] divided by total energy consumed. Match Group purchased
+unbundled RECs in early 2023, equivalent to 56% of Match Group’s 2023 percentage of each in regions
+Scope 2 electricity consumption. However, we chose to shift our clean
+power purchase strategy towards higher climate impact investments, with high or extremely High
+including a Virtual Purchase Power Agreement (VPPA) and did not buy baseline water stress
+any additional RECS. Thus, we have chosen not to apply these unbundled
+RECs towards our 2023 footprint. Grid electricity use data prior to 2022 has
+been removed.
+44
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SASB CODE ACCOUNTING METRIC 2023 RESPONSE REPORTING STATUS
+TC-IM-130a.3 Discussion of the integration of To address the impact of our third-party data center
+environmental considerations providers, we are developing a strategy to engage with
+into strategy planning for data providers on disclosing and reducing their emissions.
+center needs Many of our data center providers have SBTi and Net
+Zero targets that illustrate their commitment to reducing
+these emissions.
+DATA PRIVACY, ADVERTISING STANDARDS & FREEDOM OF EXPRESSION
+TC-IM-220a.1 Description of policies and Our Privacy Principles are referenced in the Data Security
+practices relating to behavioral and Data Privacy and Read More sections of our Impact
+advertising and user privacy Report. They can be read in full in the Trust and Safety
+center on our website, which includes a fuller description
+of all our policies and practices related to user privacy,
+including those related to advertising.
+In addition to this, every Match Group’s specific data
+processing operations are described in their respective user
+privacy notices.
+45
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SASB CODE ACCOUNTING METRIC 2023 RESPONSE REPORTING STATUS
+TC-IM-220a.2 Number of users whose All of the purposes for which users’ personal information
+information is used for secondary is processed are described in the Privacy Policy that users
+purposes acknowledge when they join the service and is otherwise
+publicly available at all time. The entity does not use
+users’ data for any secondary purpose other than those
+laid out in the Privacy Policy.
+TC-IM-220a.3 Total amount of monetary losses There were no monetary losses as a result of legal
+as a result of legal proceedings proceedings related to user privacy in 2023.
+associated with user privacy
+TC-IM-220a.4 (1) Number of law enforcement Omitted as data collection is not wholly correlative with
+requests for user information this metric.
+(2) Number of users whose
+information was requested
+(3) Percentage resulting in
+disclosure
+46
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SASB CODE ACCOUNTING METRIC 2023 RESPONSE REPORTING STATUS
+TC-IM-220a.5 List of countries where core Given the nature of online dating services, certain of
+products or services are subject our services or features have been blocked in certain
+to government-required countries. In some instances we have placed restrictions
+monitoring, blocking, content on our services in order to comply with U.S. sanctions
+filtering, or censoring laws.
+TC-IM-220a.6 (1) Number of government Omitted as data collection is not wholly correlative with
+requests to remove content this metric.
+(2) Percentage compliance with
+requests
+DATA SECURITY
+TC-IM-230a.1 (1) Number of data breaches (1) No data breaches
+(2) Percentage involving (2) Not applicable
+personally identifiable
+information (PII)
+(3) Number of users affected (3) Not applicable
+TC-IM-230a.2 Description of approach to Our approach for identifying and addressing data
+identifying and addressing security risks is detailed in the Data Security and Data
+data security risks, including Privacy section of our Impact Report.
+use of third-party cybersecurity
+standards
+47
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SASB CODE ACCOUNTING METRIC 2023 RESPONSE REPORTING STATUS
+EMPLOYEE RECRUITMENT, INCLUSION & PERFORMANCE
+TC-IM-330a.1 Percentage of employees that As of December 31, 2023, 11.8% of our U.S. employees were
+are foreign nationals foreign nationals.
+TC-IM-330a.2 Employee engagement as a Employee participation rate of 83% in 2023, with an
+percentage overall engagement score of 62%.
+See the Engaging Employees section of our Impact
+Report for more information about our employee
+engagement survey results.
+48
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+SASB CODE ACCOUNTING METRIC 2023 RESPONSE REPORTING STATUS
+TC-IM-330A.3 PERCENTAGE OF GENDER GENDER DIVERSITY AT MATCH GROUP (WORLDWIDE)
+AND RACIAL/ETHNIC GROUP
+(1) 37% female / 63% male / 0% not provided
+REPRESENTATION FOR:
+(2) 27% female / 73% male / 0% not provided
+(1) Executive Management
+(3) 64% female / 36% male / 0% not provided
+(2) Non-executive management
+(3) Technical employees ETHNIC DIVERSITY AT MATCH GROUP (U.S. ONLY)
+(4) All other employees (1) 30% non-white / 58% white / 12% other
+(2) 49% non-white / 39% white / 12% other
+(3) 42% non-white / 49% white / 9% other
+INTELLECTUAL PROPERTY PROTECTION & COMPETITIVE BEHAVIOR
+TC-IM-520a.1 Total amount of monetary losses There were no monetary losses as a result of legal
+as a result of legal proceedings proceedings associated with anti-competitive behavior
+associated with anti-competitive regulations in 2023.
+behavior regulations
+49
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+READ MORE
+Task Force on Climate-related Financial Disclosures
+(TCFD)
+GOVERNANCE STRATEGY AND RISK METRICS AND TARGETS
+At Match Group, we are committed to understanding and addressing
+At the Board level, our Nominating MANAGEMENT In November 2023, we submitted our
+the evolving climate-related risks and opportunities in our operations.
+and Corporate Governance Our predominantly digital operations near-term and net-zero targets to SBTi
+Since 2021, we have collected data aligned with the Taskforce on
+Committee oversees all ESG matters, leave us with limited material for approval, nearly a year in advance
+Climate-related Financial Disclosures (TCFD). We have deployed the
+including strategy, action plans, risk exposure to physical risks such of the application deadline. As we
+Watershed enterprise sustainability platform to consistently measure
+management, and opportunities. This as extreme weather or flooding. await final approval, we are laying the
+our environmental footprint year after year and obtained third-party
+includes monitoring Match Group’s However, we do face risks such as groundwork to meet our proposed
+limited assurance of our 2023 Scope 1 and 2 GHG emissions.
+major capital expenditures and increased regulatory requirements targets by conducting baseline
+tracking our progress against ESG on climate impacts and emissions, assessments and launching strategic
+targets. In the management hierarchy, technology changes, and market initiatives that will be essential in our
+the Global Head of Social Impact, risks related to the demand for low emissions reduction journey.
+reporting to our President and CFO, carbon applications and web-based
+leads implementation of our climate platforms. These transition risks
+and ESG-related programs. The have the potential to impact our 2024 Greenhouse
+President and CFO, in turn, evaluates reputation as a service provider and Gas Emissions
+financial impacts and dependencies an employer in the short, medium, (CO2e metric tons)1
+associated with climate changes and and long-term. To gain a more
+potential operational shifts at Match comprehensive understanding of risks 564
+Group. and corresponding opportunities, we
+plan to conduct future climate risk
+Scope 1 emissions
+assessments aligned with disclosure
+requirements.
+3,049
+Scope 2 emissions
+1 Match Group’s emissions inventory follows the GHG Protocol Corporate Accounting and Reporting Standard. Our Scope
+1 and 2 inventory uses Operational Control as the Organizational Boundary.
+50
+Match Group Impact Report 2024
+Welcome ESG Strategy Safety People Community Environment Governance Read More
+FORWARD LOOKING STATEMENTS
+YEAR ENDED DECEMBER 31,
+Disclaimer
+2023 2022 2021
+(Dollars in thousands)
+Net Earnings Attributable to
+SAFE HARBOR STATEMENT UNDER THE PRIVATE SECURITIES Match Group, Inc. Shareholders $651,539 $361,946 $277,723
+LITIGATION REFORM ACT OF 1995
+This Impact Report may contain “forward-looking statements” within the meaning of
+the Private Securities Litigation Reform Act of 1995. All statements that are not historical
+Net loss attributable to noncontrolling interests (67) (2,027) (1,169)
+facts are “forward-looking statements.” The use of words such as “anticipates,” “estimates,”
+“expects,” “plans” and “believes,” among others, generally identify forward-looking
+Loss (earnings) from discontinued operations, net of tax -- 2,211 (509)
+statements. These forward-looking statements include, among others, statements relating
+to: Match Group’s future financial performance, Match Group’s environmental and social Income tax provision (benefit) 125,309 15,361 (19,897)
+initiatives, Match Group’s business prospects and strategy, anticipated trends, and other
+similar matters. These forward-looking statements are based on management’s current Other (income) expense, net (19,772) (8,033) 465,038
+expectations and assumptions about future events as of the date of this report, which are
+inherently subject to uncertainties, risks, and changes in circumstances that are difficult Interest expense 159,887 145,547 130,493
+to predict. Actual results could differ materially from those contained in these forward-
+Operating Income 916,896 515,005 851,679
+looking statements for a variety of reasons, including, among others: our ability to maintain
+or grow the size of our user base, competition, the limited operating history of some of
+Stock-based compensation expense 232,099 203,880 146,816
+our brands, our ability to attract users to our services through cost-effective marketing
+and related efforts, our ability to distribute our services through third parties and offset Depreciation 61,807 43,594 41,402
+related fees, risks relating to our use of artificial intelligence, foreign currency exchange
+rate fluctuations, the integrity and scalability of our systems and infrastructure (and those Impairments and amortization of intangibles 47,731 366,257 28,559
+of third parties) and our ability to adapt ours to changes in a timely and cost-effective
+manner, our ability to protect our systems from cyberattacks and to protect personal and Adjusted Operating Income $1,258,533 $1,128,736 $1,068,456
+confidential user information, risks relating to certain of our international operations and
+acquisitions, damage to our brands’ reputations as a result of inappropriate actions by
+users of our services, uncertainties related to the tax treatment of our separation from NON-GAAP FINANCIAL MEASURES
+IAC, uncertainties related to the acquisition of Hyperconnect, including, among other
+This Impact Report includes Adjusted Operating Income, which is a non-GAAP financial measure. Adjusted Operating
+things, the expected benefits of the transaction and the impact of the transaction on the
+Income is not a substitute for, or superior to, Operating Income, which is a measure of financial performance prepared in
+businesses of Match Group, and macroeconomic conditions. Certain of these and other
+risks and uncertainties are discussed in Match Group’s filings with the Securities and accordance with U.S. GAAP. See the table for a reconciliation of Operating Income to Adjusted Operating Income.
+Exchange Commission. Other unknown or unpredictable factors that could also adversely
+affect Match Group’s business, financial condition and results of operations may arise from TRADEMARKS
+time to time. In light of these risks and uncertainties, these forward-looking statements
+MATCH GROUP, the MG Logo, the MG Blue-Gradient Thread, Tinder, Match, and Swipe are trademarks and registered
+may not prove to be accurate. Accordingly, you should not place undue reliance on these
+forward-looking statements, which only reflect the views of Match Group management as trademarks of Match Group, LLC. Hinge, OkCupid, PlentyOfFish, Chispa, BLK, Stir, Upward, Ourtime, Twoo, Ablo, Meetic, Pairs,
+of the date of this. Eureka, Hawaya, Hakuna, Azar, and all other trademarks are trademarks and registered trademarks of their respective owners.
+51
+Match Group Impact Report 2024
+CONTACT
+Investor Relations
+IR@match.com
+Corporate Communications
+matchgroupPR@match.com
+www.mtch.com

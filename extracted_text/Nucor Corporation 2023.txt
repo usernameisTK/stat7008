@@ -1,0 +1,1819 @@
+CORPORATE SOCIAL RESPONSIBILITY
+22
+TABLE OF
+CONTENTS
+03 Letter from the CEO
+04 Who We Are & How We Create Value
+14 Governance
+17 Safety, Teammates & Culture
+31 Environmental Performance
+44 Policy Engagement
+48 GRI Index
+3
+Dear Stakeholders:
+In just a few short years, sustainability has gone from a topic of discussion in the steel industry to
+a driver of business strategy. A pathway for decarbonizing our industry is emerging, but it requires
+investment and technological breakthroughs to be realized.
+LETTER FROM THE CEO To bring this future into existence, we have to actively engage with partners and invest in new and
+emerging technologies to make a decarbonized steel industry a reality. And we are doing just that.
+LEON J. TOPALIAN During 2023 and the first few months of 2024, we continued to take action to accelerate the arrival
+of a clean industrial future for Nucor, the broader steel industry, and all industrial manufacturers.
+Some examples include:
+• Investing in Helion Energy, a start-up company developing nuclear fusion technology.
+• Forming a partnership with ExxonMobil to capture, transport and sequester CO emissions
+2
+from our Louisiana DRI facility.
+• Announcing a science-based greenhouse gas emissions reduction target for 2030 and a
+net-zero 2050 target (Scopes 1, 2 and 3) based on the emission standard developed by the
+Global Steel Climate Council (GSCC), which we helped found.
+• Supplying Mercedes-Benz with Econiq™-RE, a Nucor certified steel product that it is produced
+with 100% renewable electricity.
+• Announcing a joint initiative with Google and Microsoft to accelerate the deployment of
+reliable clean electricity technologies.
+Decarbonization in the steel industry is being driven by end-use customers looking to reduce
+carbon emissions in their supply chains. We introduced a marketing campaign – Made for Good –
+that highlights the work we are doing with our customers in markets such as automotive and non-
+residential construction, to help them achieve both their growth and sustainability goals.
+In this report, we also provide data on our safety performance. Our team continues to drive down
+the number of safety incidents we experience. Since 2020, the Nucor team has lowered our Injury
+and Illness (I/I) rate by nearly 30%. In 2023, we achieved our lowest I/I rate in company history. We
+also had 31 Nucor divisions go an entire year without a recordable injury. We are extremely proud of
+our progress, but we still have work to do to reach our ultimate goal of becoming the World’s Safest
+Steel Company.
+As we execute our mission to grow the core, expand beyond and live our culture, our team is
+growing. Our teammates and our culture are our greatest competitive advantage. Beginning
+on page 17, you can read more about our efforts to develop the talents and career paths of our
+teammates, as well as the steps we are taking to build a more diverse and inclusive Nucor.
+Steel is an essential material to our economy and our transition to a cleaner energy system. We are
+very excited about the proactive steps we are taking to advance the development and adoption
+of emerging technologies. I am proud of the way our 32,000 teammates are building on Nucor’s
+history of innovation to lead the way in decarbonizing our industry.
+Leon J. Topalian
+Chair, President & Chief Executive Officer
+LETTER
+FROM
+THE
+CEO
+4
+WHO WE ARE
+& HOW WE
+CREATE VALUE
+5
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE Nucor entered the steelmaking business in
+1969, providing steel to our then-fledgling
+steel joist business in South Carolina. Utilizing
+revolutionary steelmaking technology, the
+electric arc furnace, or EAF, to melt scrap into
+new steel with electricity, Nucor grew to supply
+its own steel products divisions. Recycling
+scrap steel in EAFs, also known as circular
+steelmaking, gave Nucor an advantage over
+traditional steel mills, which used giant blast
+furnaces to make steel from raw ore, referred
+to as extractive steelmaking. That advantage
+continues today. Our business is organized into
+three segments: raw materials, steel mills
+and steel products.
+Nucor’s raw materials segment provides scrap and direct
+reduced iron (DRI), both of which feed our steel mills, and
+acquires additional metallic input from the marketplace,
+as needed. Utilizing circular steelmaking via EAFs, our steel
+mills segment produces a wide range of primary steel
+shapes for sale to outside customers and to our downstream
+steel product businesses.
+Approximately 20% of our steel mill production is converted
+into a wide range of fabricated products by Nucor’s
+downstream product groups, including structural steel
+tubing, electrical conduit, joists and joist girders, steel
+deck, steel fasteners, fabricated rebar, steel grating, metal
+buildings, insulated metal panels, racking systems, overhead
+doors, utility towers and structures, wire and wire mesh,
+piling and foundation products. This vertical integration,
+from primarily recycled raw materials to final product, allows
+Nucor to operate more sustainably and provide the supply
+chain transparency that our customers are increasingly
+interested in – enhancing our position as a supplier of choice
+in our industry.
+6
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE
+END-USE MARKETS SERVED
+NON-RESIDENTIAL
+53% CONSTRUCTION
+& INFRASTRUCTURE
+2023 REVIEW & OUTLOOK
+13% ENERGY
+Strong demand and pricing for most of the products we offer, combined with 7% AUTOMOTIVE
+the Nucor team’s continued focus on performance, enabled us to deliver the
+third-most profitable year in Nucor history. We earned $18.00 per share and
+CONSUMER
+generated a return-on-equity (ROE) of 23%. 2% DURABLES
+The safety and well-being of our teammates – Nucor’s true value creators –
+remains our highest priority. We finished the year with an Injury and Illness 13% M INA DC UH SI TN RE IR AY L E& QUIPMENT
+(I/I) rate of 0.79, down 17% from 2022, but we are not satisfied with our
+progress and have numerous initiatives underway so that we can further
+improve and attain world class safety performance.
+7% TRANSPORT
+& LOGISTICS
+With the strongest balance sheet and credit ratings in the North American
+metals sector, and the most diverse product offering among all U.S. listed 5% OTHER
+steel products manufacturers, the Nucor team remains well positioned to
+create more value for all our stakeholders.
+Steel is increasingly recognized as an essential material to our nation’s Figures are approximate percentages of total external shipments of steel and steel products for 2023.
+general economic growth and development, as well as for climate change
+resilience and the energy transition. We are building out Nucor’s portfolio of
+solutions so that we can readily respond to accelerating efforts aimed at:
+• Rebuilding American infrastructure to make it more resilient.
+• Repowering and decarbonizing the domestic energy sector.
+• Reshoring manufacturing to lessen American dependence on far off
+global supply chains.
+And we are increasingly confident that our reputation as both the leading
+domestic producer of steel products and an employer of choice, along
+with our low GHG emissions intensity and recycling based business model,
+makes Nucor the preferred partner for both government and private sector
+customers pursuing these objectives.
+7
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE
+From electric vehicles (EVs) to offshore wind the fastest growing markets for our products in recent years and
+continue to represent an important construction market sub-
+towers to modern high-rise construction, steel
+segment for Nucor.
+is a ubiquitous component of the U.S. green
+economy. Its flexibility, strength, aesthetics and Other important end-use markets for Nucor include automotive,
+energy, machinery, heavy and agricultural equipment,
+relatively low cost have made steel the choice
+transportation, and appliances. Although each of these
+of architects, engineers, manufacturers and industries utilize a different mix of steel products, grades, and
+consumers for more than a century. sizes, they all require a steel producer that understands and
+anticipates the changing demands of the market.
+The markets and customers that Nucor serves are becoming
+We continue to invest in new products and new capabilities,
+increasingly aware and concerned about the environmental
+to build on our industry leadership position by sustainably
+and social impact of their supply chains. And Nucor’s EAF-based
+meeting both current and emerging market needs. Over the
+steelmaking facilities generate some of the lowest greenhouse
+past five years, Nucor has invested approximately $14 billion
+gas (GHG) equivalent emissions per ton in the steel industry.
+expanding our product portfolio to include more value-added
+steel products and steelmaking capabilities. Throughout
+A large percentage of the steel Nucor produces eventually Nucor’s history, we have served as a strategic partner for our
+makes it into a wide range of construction applications. customers; applying the latest innovations, staying abreast
+From nuts and bolts to the beams underpinning the nation’s of design trends, and using market analytics to develop
+tallest skyscrapers, Nucor steel can be found on almost every products that help solve their most pressing challenges.
+construction site in America. Construction of warehouses for We regularly bring customers new opportunities to drive
+goods distribution, as well as data centers, have been among progress and growth together.
+8
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE
+BAR
+BEAM
+CASTINGS
+CASTINGS
+COLD FINISH
+FASTENERS
+HIGHWAY INFRASTRUCTURE
+INSULATED METAL PANELS
+METAL BUILDINGS
+& SOLAR STRUCTURES
+PIPE & TUBE
+PLATE
+RACKING
+REBAR FABRICATION & INSTALLATION
+STEEL FOUNDATIONS
+METAL BUILDINGS
+& SOLAR STRUCTURES
+WIRE PRODUCTS
+9
+ANNUAL OUTPUT CAPACITY & FINANCIAL SUMMARY
+RAW MATERIALS SEGMENT (METRIC TONS) RESULTS
+Direct Reduced Iron Operations (DRI) 3,350,000 2021 2022 2023
+Scrap Recycling Operations 5,972,000 Net Sales $36.5B $41.5B $34.7B
+Steel Shipped 25.7M Tons 23.2M Tons 23.3M Tons
+STEEL MILLS SEGMENT (SHORT TONS)
+EPS $23.16 $28.79 $18.00
+Bar Mills 9,560,000
+Free Cash Flow $4.6B $8.1B $4.9B
+Plate Mills 2,800,000
+Sheet Mills 14,600,000
+Structural Mills 3,250,000
+STEEL PRODUCTS SEGMENT (SHORT TONS)
+Sheet
+Buildings Group 355,000 Bar
+Cold Finish 1,069,000 Structural
+Plate
+Fasteners 75,000
+Joist
+Grating 49,000
+Deck
+Rebar Fabrication 1,736,000 Tubular Products
+Steel Mesh 128,000 Rebar Fabrication
+Tubular Products 1,365,000 Other Downstream
+Raw Materials
+Vulcraft/Verco Joist 745,000
+Vulcraft/Verco Deck 560,000
+Insulated Metal Panels 97,000
+Warehouse Systems 168,000
+Overhead Doors 125,000
+Towers & Structures 10,000
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE
+DIVERSIFIED PRODUCT MIX
+TOTAL TONS SOLD TO OUTSIDE CUSTOMERS IN 2023
+8%
+6%
+37%
+5%
+4%
+1%
+2%
+7%
+7%
+23%
+10
+WORKING WITH OUR CUSTOMERS TO
+CREATE THE CIRCULAR STEEL ECONOMY
+From the time we entered the steel business more than 50 years ago, Nucor
+has been focused on producing steel sustainably. When our first EAF roared to
+life in Darlington, South Carolina, Nucor ushered in a new era of steelmaking
+in the U.S. and radically transformed the industry. The impact is still felt today
+with more than 70% of U.S. steel production coming from EAFs, making the U.S.
+one of the cleanest places in the world to make steel. And we are continuing
+to push our sustainability efforts further by looking to close the recycling loop
+through efforts such as Nucor Industrial Recycling. The goal of Nucor Industrial
+Recycling is to work with current and potential steel customers to find new
+and better ways to return steel scrap directly from manufacturing facilities to
+steel mills for circularity via remelting. In 2023, we recycled approximately 20.6
+million net tons of scrap steel.
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE
+10
+Vertical Integration & Product Lifecycle
+SCRAP METAL
+RECYCLING
+Nearly 70 recycling locations
+process scrap OR directly supply industrial
+scrap, end-of-life railcars and vehicles for
+26 Nucor steel mills make sheet,
+plate, beams and bar steel for
+Approximately 200 Nucor steel products facilities
+used by DOZENS of end-use markets
+INDUSTRIAL
+RECYCLING
+MANUFACTURING/
+END USE PRODUCTS EAF STEELMAKING
+11
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE
+11
+MADE FOR GOOD
+In 2023, Nucor launched “Made for Good,” a campaign
+highlighting our sustainability leadership and partnerships
+across a broad range of industries to help achieve
+sustainability goals and develop innovative solutions for
+industrial decarbonization.
+As a steel industry leader, we understand the importance
+of environmental stewardship and continuously challenge
+ourselves to further reduce our emissions. Sustainability is
+also being driven by our customers' focus on reducing
+their carbon footprint. Through partnership and purposeful
+innovation, we are providing both steel and solutions
+that empower our customers to meet their business and
+environmental goals successfully.
+"Made for Good" invites customers, investors, industry
+stakeholders and policymakers to partner with Nucor in
+tackling the challenge of decarbonization. The campaign's
+featured case studies include Nucor's investments in
+next generation technologies such as advanced nuclear See how a new process is
+technologies, Nucor’s industry leading Econiq™ low-embodied
+turning zero-carbon iron into
+carbon certification, and innovative products like Elcyon™,
+low-emission steel.
+the first domestically produced low-embodied carbon steel
+product for wind energy applications. nucor.com/madeforgood
+For more than five decades, Nucor has produced steel using
+the most sustainable technologies commercially available.
+Today, we are focused on the future of sustainability. The green
+and digital economies are being built with steel and the steel
+they’re built with matters. Together, we’re working to ensure
+that everything we make is “Made for Good”.
+Learn more at nucor.com/madeforgood
+12
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE
+POWERING THE GREEN ECONOMY
+Nucor stands out as one of the most environmentally friendly steel producers globally, boasting
+combined greenhouse gas (GHG) emissions that are less than half of those emitted by the
+average blast furnace extractive steel producer. Nucor is committed to further reducing our GHG
+emissions by making strategic investments in creating carbon-free iron and industrial-scale
+carbon-free energy.
+ECONIQ™ CERTIFIED LOW-EMBODIED CARBON STEEL
+Since its inception in 2021, Nucor’s Econiq™ has led the global steel industry in certifying
+low-embodied carbon materials. Utilizing Nucor’s industry leading GHG intensity position via
+circular EAF steel production – along with 100% renewable electricity supply and eliminating
+remaining Scope 1 emissions using carbon offsets – Econiq™ NZ continues to attract interest
+from automakers, manufacturers, construction firms, renewable energy producers and others
+searching for way to reduce their carbon footprint.
+As industry’s journey in decarbonization has continued to evolve, Nucor has adapted the
+Econiq™ certification to meet our customers’ needs. The Nucor Econiq™ certification will
+include an Econiq™ NZ category that will supply the certification for those customers wanting
+net-zero steel. Econiq™ RE is a category of Econiq™ that certifies that Nucor steel or steel
+products are made with 100% renewable electricity. And for those focusing on reducing their
+construction project’s carbon footprint, we have a portfolio of Econiq™ products that can meet
+your requirements.
+13
+WHO
+WE
+ARE
+&
+HOW
+WE
+CREATE
+VALUE
+O
+U
+R
+M
+I
+S
+S
+I
+O
+N
+OUR MISSION
+GROW THE CORE
+EXPAND BEYOND
+LIVE OUR CULTURE
+OUR CHALLENGE IS TO BECOME
+THE WORLD’S SAFEST STEEL COMPANY.
+WE LIVE EACH DAY WITH GRATITUDE
+FOR THE FAMILIES, CUSTOMERS AND PARTNERS
+THAT MAKE OUR WORK POSSIBLE.
+14
+GOVERNANCE
+15
+2023 BOARD MEMBERS
+At Nucor, we believe that our reputation for fair business
+dealings with our contractors, suppliers, customers and
+each other provides us with a strong foundation, and
+helps to ensure our success.
+LEGACY OF CARING
+Since our founding, Nucor has taken the long-term view. We believe that ongoing investment NORMA B. CLAYTON PATRICK J. DEMPSEY NICHOLAS C. GANGESTAD
+in our people, our communities, and in our partnerships will generate attractive returns for our
+stockholders far into the future. Our dedication to the health and safety of our teammates, our
+focus on being reliable partners for our customers, and our commitment to being good stewards
+of the communities where we live and work are all key elements of living the Nucor culture.
+BOARD, STRUCTURES, COMMITTEES
+Nucor’s Board of Directors is currently made up of nine members, three of whom are
+women and one of whom is our current President and CEO. Eight of the Board members are
+independent as defined by SEC guidelines. The Chair role is held by our CEO. Our Lead Director
+CHRISTOPHER J. KEARNEY LAURETTE T. KOELLNER MICHAEL W. LAMACH
+is Christopher Kearney, retired Chairman, CEO and President of SPX FLOW, Inc. The Board has
+three committees: Audit, Compensation and Executive Development, and Governance and
+Nominating. The Audit Committee is responsible for financial oversight and compliance, the
+Compensation and Executive Development Committee determines compensation for senior
+officers and Directors, while the Governance and Nominating Committee evaluates and
+recommends nominees for Board membership and oversees and makes recommendations
+to the Board regarding corporate sustainability and other environmental, social and related
+governance (“ESG”) matters. Detailed explanations of the Board, Committees and their
+respective responsibilities can be found on our website.
+Nucor provides training for new members of our Board of Directors including detailed
+materials explaining the company’s practices. Additionally, we ensure that senior managers
+and other staff members are available to familiarize board members with our company
+and the steel industry. We also organize regular visits by board members to our facilities. JOSEPH D. RUPP LEON J. TOPALIAN NADJA Y. WEST
+To increase their effectiveness in leading our company, Nucor encourages Directors to
+pursue educational opportunities related to their position and provides reimbursement for
+reasonable expenses related to those educational opportunities.
+GOVERNANCE
+16
+GOVERNANCE
+APPROACH TO RISK ASSESSMENT HUMAN RIGHTS
+The Board of Directors establishes guidelines to assess and manage risks faced by Nucor. Nucor is firmly committed to respecting the human rights of all individuals. Our policies
+In addition to Board oversight, our CEO and our entire executive team are fully engaged in are based on the United Nations Universal Declaration of Human Rights and the United
+risk management and mitigation. A comprehensive annual report on the risks facing Nucor Nations Guiding Principles on Business and Human Rights, as they pertain to the steel
+is prepared by our Corporate Controller, Director of Internal Audit and General Counsel and industry. Nucor proactively works to ensure that our labor and supply chain policies
+submitted to the Audit Committee for review. In its oversight role, the Audit Committee reflect our commitment to human rights. Given our team-oriented culture with its
+then meets with our managers to discuss and provide feedback on how Nucor prioritizes focus on accountability, and that most of our operations are in North America, we
+its risks. consider our potential risk for violating human rights to be low. Nucor does not tolerate
+any form of forced labor, involuntary labor, child labor, human trafficking, or modern
+The risks identified include those related to climate change such as extreme weather slavery, either in our operations or our supply chain. We also respect the rights of local
+events, disruptions to our supply chain and impacts to our markets. Some of Nucor’s people in the communities where we work and live, including the rights of indigenous
+other ongoing risks include those related to economic conditions, legal or environmental peoples. Nucor also does not tolerate coercion of any kind, withholding of passports, or
+liabilities, and cybersecurity. sexual exploitation. In geographic locations where human rights violations may occur,
+we monitor and certify our supply chains, including contractors, subcontractors and
+Specifically:
+suppliers. Our expectations in this regard are captured in our Supplier Code of Conduct.
+• Demand for steel products can be cyclical, causing significant fluctuations in prices If Nucor’s human rights standards are more stringent than the laws of a particular area,
+and shipment volumes of our products. we operate according to our own higher standards. For the complete text of the Nucor
+Human Rights Policy, please click here.
+• Nucor is also affected by fluctuations in the availability and costs of energy and raw
+materials on an ongoing basis.
+FAIR EMPLOYMENT PRACTICES
+• Complying with environmental, safety and other regulations typically requires us to
+incur expenses that reduce our profits and cash flows, but also helps us manage risks
+in these areas. Our employment practices mandate fair and equitable treatment for all teammates,
+including competitive compensation and benefits and the right to work in an
+• Cybersecurity is an area of increasing concern for all companies. We have increased
+environment free of discrimination and harassment. Nucor will not tolerate any form
+our investments in technology and personnel to address this growing risk area in
+of discrimination or harassment in any aspect of our business. Accordingly, Nucor
+recent years.
+considers discrimination and harassment to be major offenses that can result in
+suspension or termination. For the complete text of the Nucor Discrimination &
+SUSTAINABILITY Harassment Policy, please click here.
+To ensure that our operations consistently function according to our high ethical
+Our CEO and our entire executive team are fully engaged in Nucor’s progress toward
+standards, Nucor provides a framework for reporting violations. Teammates, as well
+achieving our sustainability goals and initiatives. The team members managing day-to-
+as suppliers and contractors, may report violations to a manager, general manager, or
+day activities in pursuit of our sustainability objectives report to Nucor’s Executive Vice
+to Human Resources. Individuals wishing to report anonymously may call a toll-free
+President of Business Services and General Counsel.
+Hotline, which is monitored by a third party. Violators of our ethical standards may be
+suspended, terminated, or referred to government authorities where appropriate. Nucor
+ETHICS AND COMPLIANCE prohibits any retaliation whatsoever against teammates who report violations.
+Nucor establishes Standards of Business Conduct and Ethics that all officers and
+teammates are expected to follow. These Standards cover issues including ethical
+business conduct, conflicts of interest, gifts and confidentiality. We also have a separate
+Code of Ethics for Senior Financial Professionals. Each senior financial officer, including
+our CEO, must sign this document by hand, and submit it to our corporate headquarters.
+These documents are available to view on our website here.
+17
+SAFETY,
+TEAMMATES &
+CULTURE
+18
+SAFETY,
+TEAMMATES
+&
+CULTURE
+18
+At Nucor, we’ve long said Safety is Our #1 Value, but
+it’s not just a motto. Our teammates understand they
+can rely on each other to ensure every person in the
+company goes home safely to their families at the end
+of their workday. We believe safe business is also smart
+business. Taking care of our customers begins with
+taking care of the teammates who get the job done.
+At Nucor, we use every resource available to ensure the safety
+of our teammates, including partnering with outside groups and
+agencies. And we have tapped into the naturally friendly competitive
+spirit of our Nucor teammates, challenging our geographic regions
+to compete to determine the safest Nucor region in the country.
+Our President’s Safety Cup encourages all our teammates to work
+together to ensure everyone goes home safely to their families and
+communities after every shift.
+In 2023, we lowered our Injury and Illness (I/I) rate for the fifth year in
+a row as an enterprise. That rate decreased 17% from the prior year.
+• Enterprise-wide I/I rate for 2023 was 0.79, for steel mills the
+I/I rate for 2023 was 0.62.
+• I/I rate for US Steel Industry in 2023 was 2.69.
+• In addition to the lowest I/I rate, we scored the lowest rates in all
+four OSHA metrics. Days Away Restricted or Transferred (DART)
+(0.32), Lost Work Day Case Rate (0.21), and Severity Rate (9.45).
+19
+NUCOR INJURY & ILLNESS RATES (2014-2023)
+ANNUAL OSHA RECORDABLES PER 200,000 HOURS/YEAR
+1.80
+1.63 1.66
+1.55
+1.48
+1.30
+1.10
+1.04
+0.95
+0.79
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+COMPARISON OF INJURY & ILLNESS RATES BETWEEN NUCOR STEEL MILLS AND THE U.S. STEEL INDUSTRY
+AS PUBLISHED BY THE BUREAU OF LABOR STATISTICS (BLS) (2014-2023)
+3.33
+3.17 3.00 3.10 2.93 2.87 2.90
+2.40
+1.63
+1.26
+1.19 1.19 1.19
+1.02 0.95
+0.73 0.70
+0.59
+2014 2015 2016 2017 2018 2019 2020 2021 2022
+BLS 3 YEAR AVERAGE FOR STEEL MILLS NUCOR STEEL MILL AVERAGE
+SAFETY,
+TEAMMATES
+&
+CULTURE
+2.69
+0.62
+2023
+20
+2023 NUCOR DIVISIONS WITH
+ZERO RECORDABLES
+• DJJ Cincinnati • Nucor IPG Melt-Span Texas
+• General Recycling of Mississippi • Nucor Logistics Group
+• General Recycling of Washington • Nucor Rebar Fabrication Birmingham
+• Kirby Building Systems • Nucor Rebar Fabrication Jackson
+• Laurel Steel • Nucor St. Louis Cold Drawn
+• Nucor Bright Bar Ohio • Nucor Tubular Products Gallatin
+• Nucor Business Technology • Nucor Tubular Products Louisville
+• Nucor Cold Finish South Carolina • Nucor Warehouse Systems California
+• Nucor Cold Finish Utah • Texas Port Recycling
+• Nucor Cold Finish Wisconsin • TrueCore Indiana
+• Nucor Grating • Universal Industrial Gases
+• Nucor IPG Centria Arkansas • Vulcraft Nebraska
+• Nucor IPG Melt-Span Canada • Vulcraft New York
+• Nucor IPG Melt-Span Nevada • Vulcraft Texas
+SAFETY,
+TEAMMATES
+&
+CULTURE 101 CRITICAL DAYS OF SUMMER
+In 2023 we made the time between Memorial Day to Labor
+Day a time of even more intense focus on safety. These 101
+Days of Summer have been higher risk months for injuries
+across the Nucor family. From heat stroke to boat safety, from
+firework safety to mosquito and tick awareness, this year
+Nucor teammates led initiatives to better focus each other
+on how to have a safe summer. We are proud to celebrate
+that we achieved 35% fewer injuries during the summer of
+2023 than the average for the previous ten summers.
+SAFETY CERTIFICATIONS
+To manage occupational health and safety risks Nucor utilizes ISO 45001
+and partners with the U.S. Occupational Safety and Health Administration
+(OSHA) through both its Voluntary Protection Program (VPP), and its Safety
+& Health Achievement Recognition Program (SHARP).
+VPP recognizes companies that voluntarily exceed the safety standards
+required by law. Achieving VPP Status requires a rigorous safety and health
+management system. Among our divisions, 24 participate in the VPP, and
+all of these have achieved VPP Star status, the highest award possible in
+the program. To qualify, divisions must have Injury and Illness (I/I) rates
+below the national average for their industries.
+Nucor also participates in the Special Government Employee (SGE)
+Program, which allows our Nucor teammates to work alongside OSHA
+to perform on-site safety evaluations. Qualified volunteers from Nucor
+are eligible to participate in the SGE Program. These volunteers must be
+approved by OSHA, and their participation is funded by Nucor. Nucor has
+one of the largest numbers of SGE volunteers in the country.
+Approximately 44% of Nucor steel mill teammates are certified under VPP
+and 24% are ISO 45001. Some Nucor steel mill teammates are certified
+under both of these programs, as well as SHARP.
+21
+SAFETY,
+TEAMMATES
+&
+CULTURE
+THE PRESIDENT’S SAFETY AWARDS &
+THE PRESIDENT’S SAFETY CUP
+Nucor established the President’s Safety Award in 1998, an annual award won by
+a mill or division where the Injury and Illness (I/I) rate and Days Away, Restricted
+or Transferred (DART) Rate is less than one-third the national average for
+comparable facilities.
+In 2019 Nucor built on the President’s Safety Awards recognition to create the
+President’s Safety Cup, an annual award presented to the region that has the best
+safety record across all of its Nucor facilities.
+Working as a region, and not just as an individual mill, encourages our teams to work
+alongside their regional teammates to share ideas and improve safety as a group.
+The 2023 President’s Safety Cup was awarded to the teammates
+of the Mid Central Region:
+• IPG-Centria Arkansas
+• Kirby Building Systems
+• Nucor Logistics Group
+• Nucor Rebar Fabrication Birmingham
+• Nucor Steel Birmingham
+• Nucor Steel Memphis
+• Nucor Tubular Products Birmingham
+• Nucor Tubular Prodcuts Decatur
+• Nucor Tubular Products Trinity
+• Nucor-Yamato Steel Company
+22
+SAFETY,
+TEAMMATES
+&
+CULTURE
+22
+MONITORING AND MEASURING
+We take teammate feedback seriously, both on an ongoing basis, and through an employee-wide survey
+administered every three years. Negative responses have dropped by 25% since our first survey in 1986. The
+teammate survey was sent out in August of 2022 and again had over a 90% participation rate. In addition, 88%
+of teammates stated they were satisfied with Nucor as a place to work compared to the national average of 72%.
+Recently, we have added two more surveys to monitor the teammate experience at Nucor. Nucor participates
+in the Great Place to Work (GPTW) certification process, which surveys an anonymous random sample of 5,000
+teammates and compares our results to those of the average company surveyed by GPTW, as well as other
+manufacturing companies.
+Notably, our employee survey results show that approximately 93% of our teammates feel a sense of pride when
+they look at what they accomplish, and 93% of teammates are made to feel welcome when joining the company.
+Additionally, since 1999 we have facilitated multiple, cross-divisional annual teammate gatherings to understand
+our progress on goals and the effectiveness of our inclusive and open-minded culture.
+OF OUR TEAMMATES ARE PROUD TO TELL
+OTHERS THAT THEY WORK FOR NUCOR.
+NUCOR IS ONE OF FORTUNE’S MOST ADMIRED COMPANIES IN 2023
+Nucor teammates know how fulfilling it is to be a part of our culture, but it is always gratifying when people
+outside of Nucor recognize that as well. That is why we were extremely pleased to be ranked number one in
+Fortune Magazine’s list of the World’s Most Admired Companies in our industry, for the third year in a row. Fortune
+is a well-respected source on corporate reputation, surveying 4,000 executives, directors, and securities analysts
+to compile its list of Most Admired Companies. Nucor received this valuable recognition in 2023 because of the
+hard work and dedication of our teammates.
+Competition between companies to attract and retain top talent has intensified. Outside recognition like this from
+Fortune Magazine helps add to our ongoing efforts to recruit the best and the brightest to join our team. Fortune
+recognizes what we already know to be true – the Nucor culture is admired because of our teammates.
+23
+SAFETY,
+TEAMMATES
+&
+CULTURE
+ATTRACTING AND RETAINING TEAMMATES STABILITY
+Our retention rate typically exceeds 92%. Possibly now more than ever, Nucor’s unwavering commitment to its teammates resonates with today’s
+workforce. Perhaps our founder, Ken Iverson, said it best:
+In 2022 Nucor’s Talent Team launched our talent brand and value
+proposition. The brand allows us to capture and share our unified
+story of who we are as an employer for the talent of tomorrow, and to
+differentiate ourselves from talent competitors. Our talent brand is “A teammate who does their job well today should feel confident
+simple- it’s our teammates, our stories, and our culture that matter.
+they will have it tomorrow.”
+This new employer brand is built around recognizing everything Nucor
+Ken Iverson, Founder
+teammates achieve as a team. Each and every teammate is Part of
+Something Bigger – and that’s truly something to be proud of.
+What sets Nucor apart from our competition is how our team lives our Nucor’s reputation as a reliable employer has become a more important consideration among job seekers,
+culture each day. The three pillars of the brand and value proposition especially over the past few years, when companies have really been tested. Although, for Nucor, the values it
+are: Family, Freedom and Stability. represents is nothing new. Nucor will continue to grow without losing sight of the remarkable culture that has
+made it a great place to work – and to build a career.
+FAMILY-LIKE CULTURE
+It’s no surprise that “like a family” was consistently referenced when
+teammates were asked to describe the working culture at Nucor.
+And though other companies may say the same, at Nucor, there is no
+mistaking that our culture is indeed the “real deal.” Our teammates
+often form deep bonds from time spent together, both inside and
+outside of work. Just one of the many reasons why Nucor is one of
+the companies included on Fortune Magazine’s Best Workplaces in
+Manufacturing and Production list.
+FREEDOM
+The level of freedom Nucor affords its teammates is at the heart of
+our innovative culture. If a teammate has an idea that would make
+things more efficient, safer, or better, they are encouraged to develop
+it. Nucor doesn’t hire the best and brightest to bury them under forms
+and bureaucracy. Nucor wants to leverage what the best and brightest
+are typically known for: thinking outside the box and making things
+better. So, our teammates are given the go-ahead to execute on good
+ideas and are encouraged to get back on the horse if things don’t go
+as planned. Quite simply, Nucor believes that good teammates are
+going to want to do the right thing for themselves, their teams and their
+company, and leaves it to them to make it happen.
+24
+SAFETY,
+TEAMMATES
+&
+CULTURE
+ENGAGING AND DEVELOPING OUR PEOPLE CORE PARTNER SCHOOLS
+Investing in our core partner schools allows Nucor to develop the degrees that are
+According to our “Teammate Value Proposition” survey, 90% of teammates
+needed to advance steelmaking technology, and to help young engineers find their
+feel fulfilled in their current job.
+passion in the metals industry.
+Nucor maintains numerous internal programs and initiatives to help ensure the quality At Tuskegee University, Nucor has invested in the Nucor Education & Research Center of
+and equity of our teammate recruitment, retention and talent development systems. We Excellence, also known as the Nucor Lab. There, engineering students receive hands-on
+also provide extensive “on-the-job” as well as external education training opportunities experience studying real-world examples from our mills and solving real problems for
+for teammates. Our $4,000 per school year reimbursement of educational expenses for Nucor customers.
+teammates has helped many to pursue college degrees, helping them further advance their
+careers while they are employed at Nucor. At the South Dakota School of Mines and Technology, Nucor has donated toward the
+construction of its new state-of-the-art Mineral Industries Building which, following
+We consistently seek feedback from our teammates about these programs to ensure that we its expected completion in early 2024, will house all disciplines related
+continue to meet the growth and development needs of our Nucor family. We also provide to steelmaking.
+extensive support to help our teammates further their children’s growth and development –
+providing $16,000 to each teammate’s child to use for educational expenses after high school Nucor was the first industry partner to contribute to the Missouri University of Science
+graduation. Through the Nucor Foundation, we regularly fund over $6 million a year in these and Technology’s $300 million Arrival District Project, contributing $2.5 million in cash
+scholarship payments and have contributed over $127 million since the inception of the program. and in-kind donations.
+In addition to these major investments, Nucor maintains an active presence on the
+campuses of our core schools through faculty interactions, student organizations,
+recruitment fairs, and student-led teams. Our current core schools for commercial,
+finance, and technical partnerships are:
+• Baylor University • Montana Technical University
+• Carnegie Mellon University • Purdue University
+• Colorado School of Mines • South Dakota School of Mines and Technology
+• Indiana University • Tuskegee University
+• Michigan Technical University • University of Alabama
+• Missouri University of Science and Technology • University of South Carolina
+25
+SAFETY,
+TEAMMATES
+&
+CULTURE
+25
+SUCCESSION PLANNING
+Our robust succession planning process has meant that we typically fill senior leadership
+roles with internal candidates who fully embrace our culture. We regularly review the
+demographics of leadership candidates and create appropriate talent acquisition and
+development plans to ensure we are building a world-class, diverse workforce.
+NUCOR’S TEAMMATE POPULATION
+Our teammate population is relatively balanced with respect to age group
+representation (see accompanying chart) but females are underrepresented at 13%.
+We believe that this represents an opportunity for Nucor to diversity its talent base,
+and are actively working to increase this percentage.
+US TEAMMATE POPULATION BY AGE
+28% 24%
+22% 20%
+6%
+26
+PAY EQUITY
+Nucor is committed to fair and equitable pay for our teammates. We regularly analyze internal
+and external pay data, as well as our compensation structure, policies, and practices, to drive
+equitable pay decisions. At Nucor, we strive to provide consistent and fair compensation based 93% OF
+on legitimate drivers of pay, such as experience, job duties, qualifications, performance, work
+location, and other job-related factors. Taking these factors into account, we believe that the
+average compensation for female and minority teammates is consistently at or above the TEAMMATES
+average compensation for male and non-minority teammates within each Equal Employment
+Opportunity (EEO) Commission job category.
+agree that people at Nucor are
+INCLUSIVE CULTURE FOSTERS DIVERSITY treated fairly regardless of their
+race or sexual orientation.
+Nucor’s commitments to inclusion and diversity have been integral parts of Nucor’s culture
+of teamwork and trust since our start when Ken Iverson desegregated all aspects of our
+first steel products facility in Florence, South Carolina. And we have always understood
+that benefiting from diversity, equity and inclusion requires more than just reflecting
+demographics. We rely on our culture to guide us as we continuously look for ways to
+improve on our efforts to make every teammate feel they are part of the Nucor team.
+COLLABORATING WITH PARTNERS TO ADVANCE INCLUSION
+Our focus on safety and looking out for one another’s
+IN HIRING AND DEVELOPMENT
+well-being has always defined the way we work with
+each other, our customers and our partners.
+Nucor maintains many partnerships that promote the hiring and development of teammates
+from more diverse backgrounds. Some of our partners include:
+We know we have a responsibility to create a culture where all our teammates feel they are
+an important part of our organization. To do this, we need to know when and why people • Tuskegee University, one of the leading historically black universities in the United
+do not feel that they belong. Over the past few years, we have been listening, learning States, where we funded the Nucor Education and Research Center.
+and conducting focus groups around race, gender and workplace equity issues with our
+• The Society of Women Engineers, the world’s largest advocate and catalyst for change
+teammates. We seek to better understand people’s perceptions about our workplace and the
+for women in engineering and technology.
+level of belonging our teammates feel.
+• The National Society of Black Engineers, one of the largest student-governed
+organizations, supports and promotes the aspirations of collegiate and precollegiate
+We have been holding focus groups for teammates that we believe have helped to
+students and technical professionals in engineering and technology.
+promote open dialogue on making the workplace feel inclusive for all. And we have been
+incorporating the resulting feedback into our training on diversity issues. • INROADS, an organization that identifies, develops and prepares youth from
+underserved communities for leadership positions in business and industry.
+In addition, diverse senior leaders have been sharing their experiences with Nucor • The Society of Hispanic Professional Engineers, the nation’s largest association
+teammates via video interviews to reinforce our values and expectations with the purpose of dedicated to fostering Hispanic leadership in the STEM field.
+creating a stronger sense of belonging for all our 32,000 teammates.
+To ensure that our workforce reflects the local demographics of each of our facilities’
+We are optimistic that more open communication about differences and difficulties locations, Nucor consults the U.S. Census Bureau for data on the percentage of racial and
+encountered will make us all more aware, supportive and empathetic, so that our culture ethnic minorities in a given area and factors that data into our hiring practices for that region.
+continues to develop along a path of improving equity and inclusivity. We believe this kind of Approximately, 94% of our job categories reflect the demographics of their local communities.
+progress can help make Nucor even more diverse and high performing over time. Approximately 22% of our workforce identifies as a racial and/or ethnic minority.
+SAFETY,
+TEAMMATES
+&
+CULTURE
+27
+SAFETY,
+TEAMMATES
+&
+CULTURE
+33%
+of Nucor’s board of directors are
+women and/or minority.
+DIVERSITY IN LEADERSHIP
+We also recognize the benefits of having diverse leadership at the helm
+of Nucor. That’s why 33% of Nucor’s Board of Directors are women and/
+or minority. We currently have three women (two of whom are minority
+women) seated on our Board of Directors. In addition, over the past two
+years, 35% of our placements into management and executive levels
+have been diverse candidates.
+LOOKING FORWARD
+Nucor believes that inclusion is a cultural issue and that becoming a
+more inclusive company means developing a deeper level of trust among
+all of us, allowing us to know each other better, and to understand and
+value each other’s differences.
+While Nucor is proud of its approach and track record of fostering
+diversity, equity and inclusion, we recognize that there is still more
+work to be done. Looking ahead, we will continue to increase the
+representation of minorities and women among our leadership, partner
+with external organizations, and listen more carefully to each other. By
+continuously evaluating our approach and executing where we detect
+opportunities to improve, Nucor and all its stakeholders will benefit.
+For further insight into how Nucor thinks about Inclusion and Diversity,
+including our most recently available EEO-1 data, please see our essay on
+this topic by clicking here.
+28
+SAFETY,
+TEAMMATES
+&
+CULTURE
+Nucor’s cultural focus on safety and teamwork means that how
+we care for everyone in the Nucor family is central to our mission.
+When Nucor joins a community, we consider our neighbors to
+be part of the Nucor family, too. That’s why Nucor is dedicated
+to supporting the communities where we live and work and
+the organizations that are making a difference in them. Our
+teammates are empowered to engage their local communities
+in the same way they are empowered to make independent
+decisions on the job. As a result, Nucor divisions and teammates
+contribute their time, money and materials to a diverse range of
+local charities and causes.
+In 2023, Nucor donated over $17 million to charitable organizations through our
+operating divisions across North America and the Nucor Charitable Foundation. Here
+are just a few examples of the ways the Nucor team is making a difference.
+NUCOR TAKES ON HEART HEALTH WITH THE
+AMERICAN HEART ASSOCIATION
+Nucor has played a vital role in advancing heart health awareness and supporting
+the life-saving research of the American Heart Association. From Heart Walks to the
+Heart Ball, Nucor teammates have championed the Heart Association’s mission to be
+a force for longer, healthier lives.
+Nucor’s President and CEO, Leon Topalian, and his wife, Kim served as co-chairs
+for the Greater Charlotte Heart Ball in 2023, helping raise $2.9 million in support of
+cardiovascular research and education. Since the fall of 2022, Nucor teammates
+Eileen Bradner and Carolyn Koonts have served as Leaders of Impact, raising
+additional awareness and nearly $50,000 through personal campaigns highlighting
+the many ways individuals can be affected by heart disease and personally
+advocating for heart health awareness. In addition to these efforts, Nucor teammates
+from Alabama, California, South Carolina, and Texas participated in their local Heart
+Walk events. The South Carolina teams alone raised almost $25,000.
+The Nucor commitment to heart health extends well beyond raising funds. In
+partnership with the American Heart Association, Nucor developed and distributed
+over 32,000 Healthy Community toolkits in 2023. These comprehensive toolkits
+equipped our teammates and community members with life-saving tools and
+resources like CPR training kits, blood pressure monitors, recipe booklets, and pulse
+oximeters to promote heart health at work, at home, and at play.
+29
+SAFETY,
+TEAMMATES
+&
+CULTURE
+PARTNERS FOR EDUCATION
+In September 2023, Nucor embarked on an exciting partnership with
+Discovery Education. As a founding member of the Sustainability
+Education Coalition (SEC), a first-of-its-kind initiative to empower
+students to make informed decisions and take responsible actions
+promoting sustainability, Nucor is helping provide equitable access to
+high-quality resources and tools in classrooms across the United States.
+The Nucor team is proud to bring together its expertise and commitment
+to decarbonization with education experts to develop resources for K-12
+teachers to bring relevant, relatable, real-world sustainability concepts
+into the classroom. Other founding partners for the Coalition include
+Honeywell, LyondellBasell, NEEF and Subaru of America.
+Click here to learn more about the exciting work of the Sustainability
+Education Coalition.
+A RELAY FOR LIFE POWERHOUSE
+Nucor teams from all over continued to show their generosity of time
+and resources for the American Cancer Society’s Relay for Life in 2023.
+Recognized for a second year in a row as the Nationwide Top Company,
+Nucor teammates raised more than $1.2 million for Relay for Life across
+multiple events and fundraisers across the country.
+Four of the Top 10 Team Fundraisers nationwide were Nucor-led from
+Nucor Steel Decatur, Nucor Steel Louisiana, Nucor Steel Hertford County,
+and Nucor Logistics. In addition, two Nucor teammates were among the
+top three individual fundraisers for 2023.
+NUCOR HONORS HISTORY SPONSORING
+INTERNATIONAL AFRICAN AMERICAN MUSEUM
+When the International African American Museum (IAAM) opened in
+Charleston, South Carolina, in the summer of 2023, it was the culmination
+of decades of planning and four years of construction on the first
+museum dedicated to telling the history of the Trans-Atlantic Slave Trade.
+The IAAM is bringing people together and forging compassion, empathy
+and understanding across people of all races and ethnicities.
+Nucor donated $1.25 million in cash and another $1.25 million in steel for
+the museum’s construction. Nucor is proud to play a role in bringing this
+important history to life by supporting this inspiring project, located just a
+few short miles from our steel mill in Berkeley County, South Carolina.
+30
+SAFETY,
+TEAMMATES
+&
+CULTURE
+STANDING BY OUR MILITARY
+AMERICAN CORPORATE PARTNERS
+More than 50 Nucor teammates have poured their support into veterans and military
+spouses as mentors with the national nonprofit, American Corporate Partners (ACP). As
+a company, Nucor values the sacrifices of our service members and their families and
+recognizes the special needs service members have when transitioning back to civilian
+life. Many of our teammates provide professional support to help our heroes fulfill their
+potential after their service ends by serving as one-on-one mentors with ACP.
+Nucor teammate and ACP mentor Aaron Wagener said of his work with ACP, “I’m
+extremely proud that Nucor 100% supports our Veterans and their families. The
+professionalism and passion for what ACP does shines through in every conversation.
+Moreover, the ability to match profiles, I assume, isn’t an easy task – [my mentee’s]
+needs and what I was able to bring to the table were perfectly aligned.”
+Nucor proudly recruits and encourages members of our armed forces to consider a
+second career within our organization.
+GLOBAL WAR ON TERRORISM MEMORIAL
+Nucor and the Nucor Charitable Foundation announced a donation of $2.5 million to the
+Global War on Terrorism Memorial Foundation in 2023. The gift, which includes financial
+assistance along with the steel required for the construction of the Memorial, was the
+largest single gift in the organization’s history.
+For more than two decades, over two million Americans have served in the Global War
+on Terrorism, spanning the globe in defense of freedom. Tragically, over 7,000 American
+service members have made the ultimate sacrifice in the line of duty. The Global War on
+Terrorism Memorial will not only honor their service but also pay tribute to their families
+and all those who have safeguarded our liberties throughout this complex, multi-
+generational conflict.
+When complete, the Global War on Terrorism Memorial will stand as a testament to
+those who have sacrificed for our nation in a prominent location between the Lincoln
+Memorial and the Vietnam Veterans Memorial on the iconic National Mall.
+On behalf of the entire Nucor family, Nucor’s President and CEO, Leon Topalian stated,
+To learn more about the Nucor team’s impact on
+“We are honored to show our gratitude and respect to the brave men and women of our
+our communities, follow us on social media.
+country who have served in the Global War on Terrorism.”
+31
+ENVIRONMENTAL
+PERFORMANCE
+32
+ENVIRONMENTAL
+PERFORMANCE
+NUCOR & THE ENVIRONMENT
+Nucor is the largest steel and steel products Nucor evaluates its greenhouse gas intensity and
+manufacturer in the United States and the largest other sustainability metrics regularly. We believe this
+recycler in North America. For over half a century, the information is important to gauge the efficacy of our
+environment and sustainability have been ingrained decarbonization and sustainability efforts.
+in every facet of our operations. Our pioneering
+utilization of Electric Arc Furnace (EAF) technology This section of our corporate sustainability report
+has revolutionized the industry, transforming outlines our corporate footprint and introduces
+scrap metal into high-quality steel products. recently established targets. We not only explore
+Consequently, Nucor stands as one of the world’s the implications of these targets but also outline our
+most environmentally conscious steel producers, with strategies for achieving them. Additionally, this section
+greenhouse gas (GHG) emissions measuring less than covers our other environmental policies, initiatives,
+one-half of the global average and a mere one-third of and metrics. For more information on Nucor and
+the average extrative steel producer. sustainability, please refer to our Sustainability Page.
+33
+ENVIRONMENTAL
+PERFORMANCE
+Scope 1
+Scope 3
+Scope 2
+OVERVIEW OF NUCOR GHG EMISSIONS 2023 NUCOR SCOPE 1, 2 & 3 INTENSITY (2019-2023)2
+(METRIC TONS OF CO EQ. PER METRIC TON OF STEEL PRODUCED)
+SCOPE 1: DIRECT EMISSIONS FROM OPERATIONS. 2
+SCOPE 2: INDIRECT EMISSIONS FROM PURCHASED ELECTRICITY. 0.93 0.93
+SCOPE 3: EMISSIONS ASSOCIATED WITH RAW MATERIALS AND TRANSPORTATION.
+0.79 0.76 0.77
+Scope 1
+NUCOR COMPANY WIDE (GHG) Scope 3
+METRIC TONS OF CO EQ. IN MILLIONS (M) 6.8M
+2 Scope 2
+SCOPE 1
+2019 2020 2021 2022 2023
+Steel Mills, DRI plants, Product Groups,
+Scrap Processing & Transportation
+SCOPE 1, 2 & 3 INTENSITY 2
+5.7M
+(METRIC TONS OF CO EQ. PER METRIC TON OF STEEL PRODUCED)
+SCOPE 2 2
+0.77 1.91 2.33
+20.8M 8.3M
+TOTAL SCOPE 3
+NUCOR STEEL1 MILLS (GHG)
+NUCOR OVERALL BF-BOF GLOBAL
+(CIRCULAR) GLOBAL (EXTRACTIVE)
+METRIC TONS OF CO EQ. IN MILLIONS (M) 4.3M
+2
+SCOPE 1
+EXTERNAL ASSURANCES
+2023 Nucor Steel Mill Scope 1, 2 and 3 (Category 1) emissions data was
+5.1M
+verified by SCS Global Services in alignment with ISO 14064-3 2019. Nucor’s
+SCOPE 2 Scope 1, 2 and 3 intensity (above) was included as part of this verification as
+well. SCS Global’s Verification Statements can be found here and here.
+16.2M 6.7M
+1. All steel mills with melting capacity owned and operated by Nucor were included in the steel
+TOTAL SCOPE 3 mill inventory, except for Nucor Steel Longview and Nucor Steel Brandenburg. This is due to
+the fact these facilities have operated for less than a full year. Emissions from these mills,
+however, are included in the Nucor company-wide graph above.
+2. Overall Global and BF-BOF Global Scope 1, 2 and 3 Intensities are based on Worldsteel
+Association’s latest sustainability indicator report.
+34
+IN NOVEMBER 2023, NUCOR ANNOUNCED NET-ZERO
+SCIENCE-BASED GREENHOUSE GAS (GHG) TARGETS FOR
+2050 AND ESTABLISHED A NEW INTERIM TARGET FOR 2030.
+ENVIRONMENTAL
+PERFORMANCE
+BOUNDARY CHANGES
+The “Steel Climate Standard” developed by the Global Steel Climate Council (GSCC) provides
+a comprehensive calculation methodology for steel companies to assess their Scope
+1, 2 and 3 emissions intensity. This standard aligns with the Paris Climate Agreement’s
+emission reduction goals for the steel sector by 2030 and with the International Energy
+Agency Net-Zero by 2050: A Roadmap for the Global Energy System glidepath (IEA NZE).
+The methodology defines a specific boundary that encompasses direct emissions, indirect
+emissions from electricity, and raw material procurement including transportation.
+Scope 1 Scope 1
+On the previous page, we reported our Scope 1, 2 and 3 intensities based on the
+Worldsteel CO data collection methodology. However, when applying the GSCC
+2 Scope 3 Scope 3
+methodology to our operational data, we observed higher intensity values, particularly
+for Scope 3 emissions (see below). This difference is attributed to the broader scope of
+the “Steel Climate Standard,” which includes a more cS oco mp pe r 2 ehensive assessment of raw Scope 2
+materials, externally purchased steel, and transportation impacts.
+Based on our 2022 intensity of 1,075 kg COe per metric ton of hot-rolled steel,
+2
+we have set ambitious sustainability targets. Our short-term goal is to reduce this
+intensity to 975 kg COe per metric ton of hot-rolled steel by 2030. Looking further
+2
+ahead, we aim to achieve net-zero emissions by 2050, with a target intensity of 116 kg
+COe per metric ton of hot-rolled steel. These targets represent our commitment to
+2
+significantly reducing our carbon footprint and advancing toward a sustainable future.
+The comparison graphs below show our 2023 World Steel GHG intensity of 0.77 vs our
+2023 GSCC GHG Intensity of 1.086. As mentioned above, the major difference in these
+intensities is the Scope 3 boundary.
+NUCOR’S GREENHOUSE GAS INTENSITY COMPARISON
+0.220
+GREENHOUSE GAS REDUCTION TARGETS NOW INCLUDE SCOPE 3 SCOPE 2
+2023 WORLDSTEEL METHODOLOGY 2023 GSCC METHODOLOGY
+0.21
+MT CO eq/MT Cast Steel MT CO eq/MT Hot Rolled Steel
+2 2
+In alignment with the Global Steel Climate Council's (GSCC) "Steel Climate Standard" and the SCO(kPgE C1O eq/MT Hot Rolled Steel)
+2
+International Energy Agency's Net Zero by 2050: A Roadmap for the Global Energy Sector,
+we are steadfast in our commitment to achieving a net-zero greenhouse gas (GHG) target by
+2050. This ambitious target, defined by science-based criteria, signifies a pivotal milestone 0.241
+in our journey toward environmental sustainability and aligns with the Paris Agreement’s (241)
+efforts to limit global temperature rise to less than 1.5C above pre-industrial levels. 0.199
+(199)
+Our net-zero 2050 target entails achieving a GHG intensity of 116 kg GHGs per metric ton of 1.086
+0.77
+steel, encompassing Scopes 1, 2, and 3 emissions as outlined by the GSCC. Additionally, we (1,086)
+have set an interim science-based GHG reduction target for 2030, aiming for 975 kg GHGs per
+metric ton of steel, inclusive of Scopes 1, 2, and 3 emissions.
+0.646
+(646)
+Nucor has not only established these targets but has also implemented comprehensive plans
+to achieve them.
+35
+ENVIRONMENTAL
+PERFORMANCE
+35
+NET-ZERO REDUCTION STRATEGY
+Nucor remains committed to transparency in GHG emissions reporting. Our reporting practices
+undergo third-party verification to ensure accuracy and accountability. (SCS Global Services
+Verification Statements can be found here and here.) Furthermore, we are dedicated to sharing
+our strategic plans and the necessary actions to attain our sustainability goals, demonstrating
+our unwavering dedication to environmental stewardship and corporate responsibility.
+Pioneering
+Circular Steel
+Low Carbon
+Low
+Copper Iron Innovations Green
+Shred Raw
+Materials
+NSLA
+Carbon
+Capture
+Renewable
+Power
+Purchase
+Agreements
+Reheat
+Furnace
+Upgrades
+Energy Supporting
+Efficiency Electricity Grid Investment
+Projects Decarbonization in Clean
+Energy
+Supersonic
+Injection
+36
+NET-ZERO STRATEGIES SUMMARY OVERVIEW
+SCOPE 1 STRATEGIES
+Nucor has been a pioneer in the steel industry for over 50 years, employing electric arc furnaces to manufacture a wide variety of essential steel products by
+Pioneering
+recycling scrap metal. This approach has enabled Nucor to achieve a greenhouse gas emissions intensity less than half of the global average. We are committed to
+Circular Steel
+sustaining this momentum by leveraging innovative practices to advance the circular economy further and continuing to lower our greenhouse gas footprint.
+Nucor utilizes injection carbon in steelmaking operations to provide additional energy for melting materials in electric arc furnaces. We are currently investigating
+Supersonic Injection
+supersonic injection methods to enhance the efficiency of this process, aiming to reduce the quantity of carbon material required per ton of steel.
+Nucor recognizes the substantial natural gas consumption and direct greenhouse gas emissions associated with reheat furnaces at our mills. We are actively
+Reheat Furnace Upgrades investigating options to enhance furnace efficiency and continue to invest in micro-mill technologies, which eliminate the need for steel reheating by
+immediately rolling cast steel.
+SCOPE 2 STRATEGIES
+Supporting Electricity serves as the primary energy source for melting scrap metal in Nucor's electric arc furnaces, making us a significant consumer of electrical power,
+Electricity Grid and contributing to our Scope 2 emissions. Consequently, Nucor is actively collaborating with utilities to advocate for the adoption of zero-carbon electricity
+Decarbonization generation methods.
+Nucor leverages power purchase agreements (PPAs) to procure renewable electricity for our operations, aligning with our commitment to sustainability. The
+Renewable Power
+renewable energy credits obtained from these PPAs are utilized to decrease the environmental footprint of our Econiq line of products, contributing to reduced
+Purchase Agreements
+GHG intensity.
+Investing in Nucor's electric arc furnaces require a reliable supply of electricity. To help meet this demand sustainably, Nucor is partnering with companies advancing next
+Clean Energy generation zero GHG nuclear technologies such as NuScale and Helion.
+On-Site Renewable Power At select facilities, we are actively pursuing increased use of on-site solar power generation and energy storage to lower our power costs and reduce the
+Generation & Storage carbon footprint of our power consumption.
+Nucor remains committed to enhancing energy efficiency across all its facilities as a key strategy to reduce greenhouse gas emissions. Through ongoing
+Energy Efficiency Projects
+efforts, we aim to achieve greater operational efficiency and contribute to a more sustainable future.
+SCOPE 3 STRATEGIES
+Nucor has initiated a low copper shred project at its Berkeley, South Carolina facility. This initiative focuses on removing non-magnetic materials, like copper,
+Lower Copper Shred to enhance the quality and utility of scrap metal. By increasing recycled content and reducing our reliance on high-embodied carbon iron inputs, Nucor can
+produce even higher quality steel materials with low environmental impacts.
+Low Carbon Iron inputs, such as pig iron and Direct Reduced Iron (DRI), are energy-intensive to produce and contribute significantly to Scope 3 emissions in steelmaking. To
+Iron Innovations mitigate the environmental impact of its iron inputs, Nucor is actively investing in and exploring methods to produce them with much lower carbon footprints.
+Nucor is dedicated to revolutionizing the steelmaking process by sourcing greener raw materials, including lower carbon ingredients, bio-based materials, and
+Green Raw Materials reclaimed waste, to align with its environmental goals. By integrating these sustainable alternatives, Nucor is reducing its product footprint and advancing a
+more sustainable steel industry.
+NSLA Carbon In June 2023, Nucor finalized an agreement with ExxonMobil to implement a Carbon Capture & Sequestration process at our Louisiana DRI plant. This initiative will
+Capture enable us to capture, transport, and store up to 800,000 metric tons of CO annually, lowering the GHG emissions profile of Louisiana's DRI.
+2
+ENVIRONMENTAL
+PERFORMANCE
+37
+CREATING CARBON-FREE ENERGY
+Renewable, affordable and clean, industrial-scale energy is a significant growth opportunity In August 2023, Nucor announced a Power Purchase Agreement (PPA) for 250 megawatts
+that has drawn our focus. To achieve the United States’ energy goals, a massive amount of of renewable energy from Sebree Solar, LLC, a subsidiary of NextEra Energy Resources, LLC.
+steel will be needed to build wind, solar, and nuclear power generation assets, as well as Sebree Solar is an innovative two-phase solar project in Henderson County, Kentucky, which
+enhanced energy transmission infrastructure. Nucor is investing today in capabilities that will have a capacity of up to 400 megawatts of American-produced energy. The project’s first
+will enhance its position tomorrow as a leader in sustainably producing the steel required for phase – Sebree Solar I – began construction in April 2024 and is anticipated to be operational
+this clean, industrial-scale energy future. Nucor is not only providing the steel to build out our by the end of 2025.
+nation’s renewable energy infrastructure but is also supporting the development of new solar
+and wind energy projects by agreeing to electricity offtake agreements in the form of Power
+The steel for Sebree Solar I will be sourced from multiple Nucor mills in the region, including
+Purchase Agreements (PPAs).
+Nucor Steel Gallatin in Ghent, Kentucky. Nucor steel will also be used for another solar
+project to be built and operated by a subsidiary of NextEra Energy Resources, Green River
+In November 2022, Nucor was the first industrial company to join the UN 24/7 Carbon-Free
+Solar, in Meade and Breckinridge counties. The Green River Solar project will generate up
+Energy Compact, which is aimed at accelerating the decarbonization of the world’s electricity
+to 200 megawatts of electricity. The Kentucky-produced steel will be used for the racking
+systems to mitigate climate change and ensure access to clean and affordable electricity.
+system which supports the projects’ solar panels.
+The Compact was formed in response to the urgent need to drive rapid decarbonization
+across the global economy. A group of energy buyers, energy suppliers, governments,
+Nucor has announced agreements for collaboration on pilot projects to explore the creation
+system operators, solutions providers, investors and other organizations joined together to
+of advanced nuclear facilities using both fission and fusion technology. Nucor announced a
+adopt, enable and advance the transition to a zero-carbon electrical grid. The Compact is a
+collaboration with fusion power company Helion in September 2023 to develop a 500 MW
+set of principles and actions that stakeholders across the energy ecosystem can commit to
+fusion power plant. This transformational project will offer baseload zero-carbon electricity
+as a way to drive systemic change.
+from fusion directly to a Nucor steelmaking facility. Nucor and Helion are actively working
+together to set a firm timeline and are committed to beginning operations as soon as
+To further its commitment, Nucor is working with our electricity suppliers to access 24/7 clean
+possible. This partnership is the first fusion energy agreement of this scale in the world and
+energy at the company’s steel mills, actively investing in a number of innovative projects that
+will pave the way for decarbonizing the entire industrial sector.
+will accelerate the transition to 24/7 clean energy.
+ENVIRONMENTAL
+PERFORMANCE
+ENERGY CONSUMPTION
+MEASURE VALUE
+Total Energy Consumed (Gigajoules) 116,778,000
+Total Fuel Energy Consumed (Gigajoules) 60,474,000 52.0%
+Percentage of Fuel that is Natural Gas 68.0%
+Percentage of Fuel that is Renewable 0%
+Total Electricity Energy Consumed (Gigajoules) 56,304,000 48.0%
+Percentage of Electricity that is Renewable 15.0%
+Percentage of Carbon-Free Electricity (CFE) 41.0%
+Energy Intensity (Gigajoules/MT) 5.53
+38
+ENVIRONMENTAL
+PERFORMANCE
+CREATING CARBON-FREE IRON LOW COPPER SHRED
+Another important way that Nucor is seeking to lower our carbon footprint is by In 2023, Nucor’s Berkeley, South Carolina steel mill started up a patented process intended to
+addressing the raw material mix that goes into steelmaking. Some grades of sheet remove copper and other residual tramp elements from its obsolete scrap metal raw materials.
+steel, because of their strict tolerances and specifications, require some input of This technology facilitates the separation of non-magnetic materials from recycled steel.
+virgin iron units, whether Pig Iron, Direct-Reduced Iron (DRI), or Hot-Briquetted Iron By adopting this innovative approach, Nucor gains access to superior quality scrap material,
+(HBI). Nucor is a significant purchaser of low-carbon “green” pig iron and we have thereby enhancing the recycled content of our products. Moreover, this advancement plays a
+invested in other technologies to reduce carbon emissions. pivotal role in reducing the total embodied carbon of our offerings, underscoring our unwavering
+commitment to sustainable manufacturing practices and environmental stewardship.
+In June 2023, Nucor entered into an agreement with ExxonMobil for a Carbon Capture
+& Sequestration process to capture, transport, and store up to 800,000 mt per year of
+GREENER ALTERNATIVE MATERIALS
+CO from Nucor’s Louisiana Direct-Reduced Iron (DRI) plant. The CO will be transported
+2 2
+via pipeline from the DRI plant and stored at an ExxonMobil-owned storage site.
+As a company deeply committed to innovation and sustainability, Nucor continuously strives to
+ExxonMobil owns the largest owned and operated CO pipeline network in the U.S. revolutionize the steelmaking process and achieve lower embodied carbon. We are dedicated
+2
+including nearly 925 miles of CO pipelines in Louisiana, Texas and Mississippi. to sourcing greener raw materials throughout our supply chain, ensuring that our practices align
+2
+The company also has access to more than 15 strategically located onshore CO with our environmental goals. Nucor is constantly evaluating the use of lower carbon ingredients,
+2
+storage sites. bio-based materials, and reclaimed waste, recognizing that these sustainable alternatives are
+essential for a greener future. By integrating these materials into our operations, we are not only
+“This transformative CCS project with ExxonMobil is a key part of our decarbonization reducing our product footprint but also paving the way for a more sustainable steel industry.
+strategy and will result in some of the lowest embodied carbon DRI or HBI in North
+America,” said Leon Topalian, Chair, President and Chief Executive Officer of Nucor ENVIRONMENTAL PRODUCT DECLARTIONS
+Corporation. “We are taking a multi-faceted approach to decarbonization, and this
+partnership builds on previous investments we have made in a carbon-free iron start-
+As the demand for supply chain transparency grows, Environmental Product Declarations (EPDs)
+up, renewable energy generation, and the development of small modular nuclear
+are increasingly required by states and the federal government, via Buy Clean legislation, and
+reactor technology.”
+many of our customers. An EPD serves as an independently verified document that succinctly
+outlines the life cycle impacts of a product, offering quantitative data on where these impacts
+The project is expected to start up in 2026 and supports Louisiana’s objective of
+are most pronounced. Particularly in industries such as construction, automotive, appliance,
+reaching net-zero CO emissions by 2050.
+2 and renewable energy, EPDs are becoming pivotal factors in material procurement decisions.
+Moreover, EPDs can facilitate obtaining green building certifications, such as LEED (Leadership
+in Energy and Environmental Design). As EPDs highlight sustainable manufacturing practices
+through lower environmental impacts, companies within the recycling sector, including Nucor,
+are well-positioned to capitalize on the demand for sustainable products and to meet Buy Clean
+requirements. Proactively, we are generating EPDs for our products to ensure compliance with
+regulations and to reinforce our status as a competitive partner in the market. As an industry
+leader, Nucor has published 19 Environmental Product Declarations for our wide offering of
+products, including EPD coverage of nearly 100% of our steel mill divisions. We anticipate
+our library of EPDs to double by the end of 2024 as we remain committed to the ongoing
+development of EPDs, which drive transparency in our manufacturing processes and ensure
+sustainable material procurement for our customers.
+For more information, please click here.
+39
+ENVIRONMENTAL
+PERFORMANCE
+ENVIRONMENTAL RESEARCH AND DEVELOPMENT
+Nucor is proud to announce that three of our collaborative research and
+development (R&D) projects with leading universities and laboratories
+have been awarded funding from the Department of Energy (DOE).
+These partnerships underscore our commitment to innovation and
+sustainability within the steel industry. By leveraging the expertise
+and resources of our academic and research partners, we aim to
+advance groundbreaking technologies that will drive efficiencies,
+reduce environmental impact, and enhance the competitiveness of our
+operations. We are excited about the potential impact of these projects
+and look forward to the insights and advancements they will bring to
+our industry.
+Nucor and the National Renewable Energy Laboratory (NREL), alongside its collaborators,
+are dedicated to pioneering technological solutions aimed at mitigating direct emission
+sources in electric arc furnace (EAF) steelmaking. Our innovative strategies will encompass
+the utilization of carbon-neutral combustion fuels produced via carbon looping technology,
+injection materials sourced from biomass, and the substitution of needle coke with
+biomass-derived pitch in electrode production. Through pilot-scale demonstrations and the
+implementation of alternative injection carbon in a commercial EAF, NREL and its partners
+aspire to showcase the viability of these technologies. If successful, these endeavors will
+provide a feasible pathway for decarbonizing all major carbon emission sources in EAF
+steelmaking, facilitating a profound reduction of up to 80% compared to conventional
+processing methods.
+Seerstone Development LLC, in collaboration with Nucor and its partners, is embarking on a
+pioneering initiative to conduct an unprecedented demonstration of electrodes produced
+using precursors sourced from CO, all at an industrial scale. These electrodes will undergo
+2
+on-site trials in a ladle furnace at a production facility. This groundbreaking technology
+holds immense promise for significantly reducing graphite electrode-based emissions
+in EAF steelmaking, as well as in secondary steelmaking, by displacing carbon-intensive
+needle coke with a cost-competitive and renewable source.
+Purdue University Northwest, in collaboration with Nucor and its partners, is embarking on a
+groundbreaking endeavor to showcase a variety of alternative stirring, oxidation, and foaming
+technologies through industrial trials conducted in a commercial-scale electric arc furnace
+(EAF). The innovative approach involves the development of novel gas injection technologies
+aimed at delivering low carbon reducing gases deep into the steel bath, alongside the
+utilization of 'soft' oxidation techniques, such as CO, to facilitate efficient mixing. Given the
+2
+dominance of EAF steelmaking in the U.S., the elimination of fossil carbon injection in its
+processing has the potential to reduce direct emissions by an impressive 40%.
+40
+ENVIRONMENTAL
+PERFORMANCE
+NUCOR’S COMMITMENT BEYOND CARBON
+As the largest steel products manufacturer in North America, Nucor
+recognizes our role in protecting the environment. We value the environment
+of the communities in which we operate, and recognize its importance to
+our teammates, their families, and our continued welfare. Protecting the
+environment is critical to our operations and the company’s long-term success.
+To this end, we endorse the following principles:
+PERFORMANCE
+To continuously improve the effectiveness of our ISO 14001:2015 Environmental Management System
+(EMS). Nucor will:
+• Pursue pollution prevention and waste minimization opportunities;
+• Investigate and develop technologies and operations that improve environmental performance;
+• Regularly evaluate the EMS and make appropriate improvements.
+100% of our operating Nucor steel mills are ISO 14001 certified. In addition, over 25 of our downstream
+production facilities are ISO 14001 certified. We are committed to ensuring a high level of environmental
+performance and maintain compliance with state and federal laws in which we operate. For a full list of
+certified facilities please refer to our Nucor Sustainability page.
+STEWARDSHIP
+Nucor recognizes our potential for environmental impact on the communities in which we operate. We
+will continuously strive to minimize these effects by evaluating our operations and researching new
+technologies and opportunities.
+RESPONSIBILITY
+Environmental protection is the individual obligation of each Nucor teammate and a primary
+responsibility of management. Nucor requires our contractors, vendors, and suppliers to comply with
+applicable environmental laws.
+STANDARD
+Nucor and its divisions will comply with the laws and regulations governing our operations.
+Environmental compliance is a priority for Nucor management equal with all other business functions.
+OUTREACH
+Nucor will strive to foster open dialogue so that we may effectively communicate with our teammates,
+our neighbors, and other concerned parties.
+BIODIVERSITY
+Nucor is dedicated to sustainability with policies that prioritize biodiversity. Nucor’s biodiversity policy
+can be found here.
+41
+ENVIRONMENTAL
+PERFORMANCE
+41
+COMMITMENT TO REDUCING WASTE
+Nucor demonstrates a commitment to waste reduction across all production
+processes. This approach extends to recycling various waste materials, thereby
+curbing potential air and water pollution while simultaneously offering valuable
+resources to other industries.
+The recycling process in Electric Arc Furnaces yields particulate matter
+emissions, containing various contaminants like paint, zinc, chrome, and
+other metals. This byproduct, known as EAF dust, is collected in specialized
+pollution control equipment, namely baghouses. Recognizing the value within,
+Nucor recycles the majority of this dust to recover metallic content. By doing
+so, we not only mitigate environmental impact but also avoid costly disposal
+procedures for hazardous waste.
+Furthermore, Nucor strategically repurposes steel slag from its mills, turning
+what would otherwise be considered waste into useful materials. This steel
+slag finds application in road construction, serving as a granular base,
+embankments, engineered fill, highway shoulders, and hot mix asphalt
+pavement. Leveraging the diverse physical, chemical, mechanical, and thermal
+properties of steel slag, we contribute to the sustainability of construction
+activities while meeting industry demands.
+NUCOR STEEL MILL WASTE (2023)
+MEASURE VALUE
+Total Steel Mill Waste (tons) 1,286,000
+Total Non-Hazardous Waste (tons) 913,000 71.0%
+Total Hazardous Waste (tons) 373,000 29.0%
+Total waste recycled % 53.0%
+42
+ENVIRONMENTAL
+PERFORMANCE
+COMMITMENT TO WATER
+In our commitment to minimizing environmental impact, Nucor prioritizes the efficient use of water resources across
+our operations. Through the implementation of advanced treatment systems, we have achieved the remarkable feat of
+recycling 90% of our water multiple times — up to 8-10 cycles — before it necessitates disposal. Nucor identifies new
+water pollutants under the standards of the Clean Water Act (CWA) to ensure compliance with environmental regulations,
+avoid potential legal and financial penalties and demonstrate corporate responsibility at our U.S. operations. The CWA
+sets water quality standards and regulates the discharge of pollutants into U.S. waters, requiring companies to monitor
+and control pollutants that may harm water quality. By proactively identifying and managing new or emerging pollutants,
+Nucor can protect local ecosystems to promote the safety of drinking water sources.
+Additionally, we have strategically constructed stormwater retention ponds throughout our facilities to capture and
+reuse stormwater runoff. Recognizing the vital role water plays in our cooling processes, Nucor remains cognizant of the
+potential adverse impacts excessive water withdrawal can have on local ecosystems and communities.
+NUCOR STEEL MILL WATER CONSUMPTION & DISCHARGE (2023)
+MEASURE VALUE
+Total Steel Mill Fresh Water Withdrawn
+29,960
+(Thousand cubic meters)
+Fresh Surface Water
+12.0%
+(Including rainwater, water from wetlands, rivers, and lakes)
+Groundwater
+42.0%
+(Water which is being held in, and can be recovered from, an underground formation) – renewable
+Groundwater
+17.0%
+(Water which is being held in, and can be recovered from, an underground formation) – non-renewable
+Third Party Sources
+29.0%
+(Municipal water suppliers, public or private, utilities)
+Total Steel Mill Water Discharge
+8,570
+(Thousand cubic meters)
+Water Discharge to Fresh Surface Water
+83.0%
+(Including wetlands, rivers, and lakes)
+Water Discharge to Third-Party Sources 17.0%
+Percentage of Water Recycled 86.0%
+Percentage of water withdrawn in regions with high water stress1 6.0%
+Percentage of water withdrawn in regions with extremely high water stress1 16.0%
+1. This analysis of water stress was conducted using the World Resources Institute Aqueduct 4.0 tool in accordance with SASB reporting. While certain locations
+are in areas determined to have high water stress, Nucor collaborates closely with local communities to maintain a stable water supply. For all facilities, Nucor
+has coordinated with local water suppliers to ensure that its operational water usage does not strain the utilities and local systems.
+43
+ENVIRONMENTAL
+PERFORMANCE
+TRAINING TEAMMATES ON THE ENVIRONMENT
+2023 PRESIDENT’S ENVIRONMENTAL AWARD RECIPIENTS
+The Nucor Environmental University (NEU) is a virtual platform
+initiated in 2015 to train teammates on environmental
+BAR MILL GROUP Nucor Cold Finish South Carolina
+compliance, and to connect teammates whose responsibilities Nucor Steel Auburn Nucor Cold Finish Utah
+include environmental performance. Nucor Steel Birmingham Nucor Cold Finish Wisconsin
+Nucor Steel Florida Nucor Fastener - St. Joe
+Nucor Steel Jackson Nucor LMP Steel
+NEU begins with a “Welcome to Nucor” series, which seeks to provide a
+Nucor Steel Kankakee St. Louis Cold Drawn - St. Louis
+thorough understanding of Nucor’s approach to environmental management
+Nucor Steel Kingman
+and compliance, along with the tools and resources we offer to help oversee it. Nucor Steel Marion NUCOR BUILDING GROUP
+This introductory series is followed by courses on laws such as the Clean Air Act, Nucor Steel Seattle ABC - Alabama
+Clean Water Act, and Resource Conservation and Recovery Act. For teammates Nucor Steel Sedalia ABC - Illinois
+whose roles require more in-depth training, more advanced courses are available Nucor Steel Texas CBC Metal Buildings
+on subjects relevant to their areas of responsibility. Nucor Steel Utah Kirby Building Systems
+Nucor Building Systems - Indiana
+BEAM MILL GROUP Nucor Building Systems - South Carolina
+Thus far, more than 2,800 teammates have completed over 25,000 NEU courses
+Nucor-Yamato Steel Nucor Building Systems - Texas
+and passed more than 14,000 related exams.
+Nucor Building Systems - Utah
+PLATE MILL GROUP Nucor Building Systems - VA Plant
+Nucor Steel Brandenburg
+Nucor Steel Hertford NUCOR TUBE GROUP
+Nucor Steel Longview Nucor Tubular Birmingham
+Nucor Steel Tuscaloosa Nucor Tubular Cedar Springs
+Nucor Tubular Chicago
+SBQ BAR MILL GROUP Nucor Tubular Decatur
+Nucor Steel Connecticut Nucor Tubular Louisville
+Nucor Steel Memphis Nucor Tubular Madison
+Nucor Steel Nebraska Nucor Tubular Marseilles
+Nucor Steel South Carolina Nucor Tubular Trinity
+SHEET MILL GROUP VULCRAFT/VERCO GROUP
+Nucor Steel Arkansas Verco Decking Phoenix
+Nucor Steel Berkeley - Sheet Vulcraft Alabama
+Nucor Steel Decatur Vulcraft Indiana
+Nucor Steel Gallatin Vulcraft Nebraska
+Nucor Steel Indiana Vulcraft New York
+Vulcraft South Carolina
+DRI GROUP Vulcraft Texas
+Nu-Iron Unlimited Vulcraft Utah
+Nucor Steel Louisiana
+PRESIDENT’S ENVIRONMENTAL AWARD RAW MATERIALS GROUP
+COLD FINISH/FASTENER GROUP Recycling Group - East
+Laurel Steel Recycling Group - South
+Sixty-four of our locations are recipients of Nucor’s President’s
+Nucor Bright Bar Orville Recycling Group - West
+Environmental Award, designed to highlight Nucor facilities that achieve Nucor Cold Finish Nebraska
+the highest levels of environmental excellence, while never losing sight
+of the fact that programs and systems need to evolve and improve.
+44
+POLICY
+ENGAGEMENT
+45
+ADDRESSING CARBON EMISSIONS
+As a global leader in producing steel with low carbon emissions, Nucor has become
+involved in international efforts to further reduce emissions. Nucor is a member
+of the United Nations 24/7 Carbon-Free Energy Global Compact, which is aimed
+at accelerating the decarbonization of the world’s electricity systems to mitigate
+climate change and ensure access to clean, reliable and affordable electricity.
+Recycling scrap steel into new steel products is currently the lowest emitting
+steel production process available at scale, but it requires significant amounts
+of electricity. We believe that growing demand for energy will require utilizing all
+forms of clean, zero-carbon energy sources, from wind, solar and hydroelectric, to
+nuclear power.
+As a founding member of the Global Steel Climate Council (GSCC), a coalition
+advocating for a single, transparent global emission standard that is focused
+on steelmaking emissions, we are committed to a net-zero 2050 science-based
+greenhouse gas (GHG) target. In 2023, Nucor became the first diversified steel
+maker in North America with net-zero, science-based greenhouse gas targets for
+2050, including Scopes 1, 2 & 3. Nucor will continue to be an industry leader in GHG
+transparency. Reporting will continue to be third-party verified. We will share our
+plans and the actions needed to achieve our goals.
+FEDERAL INFRASTRUCTURE & CLEAN ENERGY SPENDING
+Three key pieces of legislation passed by Congress – the Infrastructure Investment
+As North America’s largest producer of steel and steel products, Nucor
+& Jobs Act (IIJA), Inflation Reduction Act, and CHIPs Act – are providing hundreds
+regularly engages with government officials on regulatory and policy issues of billions of dollars to rebuild traditional infrastructure, build-out clean energy
+that concern our company and the U.S. steel industry, as well as the broader infrastructure, and re-shore semiconductor chip manufacturing back to the United
+States. Each of these initiatives will be steel-intensive.
+manufacturing sector in which we, and many of our customers, operate. For
+more than five decades, Nucor has established a circular model of steel
+The bipartisan IIJA legislation also includes strong Buy America provisions, which
+production with a low-carbon footprint, accomplished through the recycling means our infrastructure will be modernized using the cleanest, most sustainable
+of scrap metal into new steel and steel products utilizing electric arc furnace steel in the world. Nucor produces more than a quarter of our nation’s raw steel, and
+we do so with one-third the GHG intensity of a traditional extractive producer.
+(EAF) technology. Our key policy priorities include a level playing field for
+trade, infrastructure investment, strong Buy America provisions, advancing With more than 50% of Nucor’s steel going into the construction market, we are
+clean energy, ensuring America’s competitive advantage in producing low- well positioned to supply steel for these projects – and we will do so using clean and
+sustainable American made steel. Every time an infrastructure project uses steel from
+carbon steel, and creating greater awareness of the essential role a circular
+Nucor, the project team is choosing to reduce the world’s greenhouse gas emissions,
+model of steel production with a low-carbon footprint must play in a modern
+support sustainable steelmaking and promote job growth in the United States.
+and sustainable economy.
+POLICY
+ENGAGEMENT
+46
+POLICY
+ENGAGEMENT
+TRADE — LEVELING THE PLAYING FIELD
+Nucor advocates for a level playing field for American steel manufacturers. The
+governments of many countries subsidize — or even own — steel producing
+companies, and this often leads to these companies selling steel at artificially low
+prices that are harmful to the American steel industry. Foreign steel is also oftentimes
+produced in a manner that disproportionately impacts the environment and doesn’t
+protect worker safety to the levels we have come to expect in the United States.
+The steel Nucor manufactures at our facilities throughout the U.S. is simply more
+sustainable on many levels. It is made with a higher percentage of recycled content,
+less and cleaner energy, and consequently has lower GHG emissions per ton
+produced. In addition, steel manufacturing in the United States must comply with
+strict standards for worker safety and environmental protection, as required by the
+Occupational Safety and Health Administration, the U.S. Environmental Protection
+Agency and other regulatory agencies. In practice, we strive to far outperform
+minimum regulatory requirements such as these and keep our focus on what is best
+for long-term value creation that benefits all our stakeholders.
+With a score of 94.3%, Nucor is in the top tier
+of all companies, and considered a Trendsetter
+on the CPA-Zicklin Index, which seeks to bring
+transparency and accountability to corporate
+political spending. We continue to evaluate our
+lobbying activities and political disclosures,
+aiming for best-in-class standing for both
+accountability and effectiveness at advancing
+the interests of Nucor and its stakeholders.
+47
+POLICY
+ENGAGEMENT
+POLITICAL ACTIVITY AND ACCOUNTABILITY
+Nucor has a dedicated Public Affairs team which manages our efforts to provide clear committees at the federal level. Contributions to federal candidates and committees are
+and relevant information to governmental agencies and legislative bodies charged with allowed only through the Nucor Corporation Political Action Committee, which is funded
+regulating the U.S. steel industry. While doing so, this team conducts itself in a manner through voluntary contributions from eligible U.S. teammates. Nucor PAC fully discloses all
+consistent with our Standards of Business Conduct and Ethics and adheres to all applicable contributions made and received through reports filed with the Federal Election Commission.
+laws and regulations regarding lobbying activities. On a regular basis, the Public Affairs
+team presents policy priorities, initiatives and expenditures to our Board of Directors and our Our lobbying efforts and contributions are used to promote policies favorable to the steel
+Governance and Nominating Committee, which has oversight of all lobbying activities. We file industry and they are not based on the political preferences of any individual employed
+quarterly lobbying disclosure forms with the Clerk of the House of Representatives and the by Nucor. For further information on our political spending, lobbying and trade association
+Secretary of the Senate as required by the federal Lobbying Disclosure Act. Disclosure forms support, please click here.
+are also filed as necessary in the 21 states where we engage in lobbying.
+Nucor complies with federal, state, and local campaign finance laws and regulations
+governing political contributions and the disclosure of these contributions. In accordance
+with federal law, Nucor does not contribute to any political candidates, parties or
+48
+GRI
+INDEX
+49
+GENERAL DISCLOSURES INFORMATION OR PAGE REFERENCE
+G2: General Disclosures 2021
+Who We Are & How We Create Value, please see page 5.
+2-1 Organizational details 2023 Nucor Corporation 10-K Filing, please see page 1.
+Nucor Overview
+Who We Are & How We Create Value, please see pages 5-10.
+Entities included in the organization’s
+2-2 Environmental Performance, please see page 33.
+sustainability reporting
+2023 Nucor Corporation 10-K Filing, please see pages 1-7.
+Nucor’s 2023 Corporate Sustainability Report encompasses data for the calendar
+year 2023, except where explicitly indicated otherwise.
+2-3 Reporting period, frequency and contact point
+For questions regarding this report or any sustainability initiatives, please contact
+investor@nucor.com.
+2-4 Restatements of information No restatements are included in this report.
+Governance, please see page 16.
+2-5 External assurance
+Environmental Performance, please see page 33.
+Who We Are & How We Create Value, please see pages 6-9.
+2-6 Activities, value chain and other business relationships
+2023 Nucor Corporation 10-K Filing, please see pages 1-9.
+Letter From The CEO, please see page 3.
+2-7 Employees EEO 2022
+Safety, teammates & culture, please see pages 17-22.
+Governance, please see pages 15-16.
+2-9 Governance structure and composition 2023 Nucor Corporation 10-K Filing, please see pages 29-31.
+Nucor Board of Directors
+Governance, please see pages 15-16.
+2-10 Nomination and selection of the highest governance body Corporate Governance Principles
+Governance and Nominating Committee Charter
+Governance, please see page 16.
+2-11 Chair of the highest governance body 2023 Nucor Corporation 10-K Filing, please see page 31.
+Nucor Board of Directors
+Role of the highest governance body in overseeing the Governance, please see pages 15-16.
+2-12
+management of impacts Nucor Board of Directors
+GRI
+INDEX
+50
+GRI
+INDEX
+GENERAL DISCLOSURES INFORMATION OR PAGE REFERENCE
+G2: General Disclosures 2021
+Governance, please see pages 15-16.
+2-13 Delegation of responsibility for managing impacts
+Nucor Board of Directors
+Role of the highest governance body in
+2-14 Governance, please see page 16.
+sustainability reporting
+2-15 Conflicts of interest Corporate Governance Principles
+2-16 Communication of critical concerns Nucor Whistleblower Program
+Nucor 2023 Proxy Statement
+2-17 Collective knowledge of the highest governance body
+Nucor Board of Directors
+Evaluation of the performance of the highest Corporate Governance Principles
+2-18
+governance body Compensation and Executive Development Committee Charter
+Corporate Governance Principles
+2-19 Remuneration policies
+Compensation and Executive Development Committee Charter
+Corporate Governance Principles
+2-20 Process to determine remuneration
+Compensation and Executive Development Committee Charter
+2-21 Annual total compensation ratio Nucor 2023 Proxy Statement, please see page 51.
+Letter From The CEO, please see page 3.
+2-22 Statement on sustainable development strategy
+Nucor 2023 Proxy Statement, please see page 2.
+Governance, please see page 16.
+2-23 Policy commitments
+Nucor Policies
+Governance,please see page 16.
+2-24 Embedding policy commitments
+Nucor Policies
+Standards of Business Conduct and Ethics
+2-25 Processes to remediate negative impacts
+Nucor Whistleblower Program
+Standards of Business Conduct and Ethics
+2-26 Mechanisms for seeking advice and raising concerns
+Nucor Whistleblower Program
+2-27 Compliance with laws and regulations 2023 Nucor Corporation 10-K Filing, please see page 29.
+51
+GRI
+INDEX
+GENERAL DISCLOSURES INFORMATION OR PAGE REFERENCE
+G2: General Disclosures 2021
+Who We Are & How We Create Value, please see page 11.
+2-28 Membership associations
+Safety, Teammates & Culture, please see pages 28-30.
+We conduct focused stakeholder engagement through surveys, social media,
+2-29 Approach to stakeholder engagement formal communication, stakeholder outreach programs, team meetings, and
+one-on-one discussions.
+Nucor Human Rights Policy
+2-30 Collective bargaining agreements
+Supplier Code of Conduct
+GRI 3: Material Topics 2021
+Nucor determined its material topics for the Global Reporting Initiative by employing a
+3-1 Process to determine material topics comprehensive approach that integrated stakeholder engagement, internal company
+operations, historical reporting, and a review of peer practices.
+• Economic Impacts
+• Policy
+• Materials and Suppliers
+• Energy
+3-2 List of material topics • Water
+• Emissions
+• Waste
+• Safety and Teammates
+• Diversity, equity, and inclusion
+A comprehensive review of the organization’s impact across various dimensions,
+3-3 Management of material topics including economic, environmental, and societal, is continuously evaluated.
+Policy Engagement, please see pages 45-47.
+GRI 201: Economic Performance 2016
+201-1 Direct economic value generated and distributed 2023 Nucor Corporation 10-K Filing, please see pages 36-47.
+Financial implications and other risks and opportunities
+201-2 2022 Nucor TCFD, please see pages 7-8.
+due to climate change
+201-3 Defined benefit plan obligations and other retirement plans 2023 Nucor Corporation 10-K Filing, please see pages 74-75.
+52
+GRI
+INDEX
+GENERAL DISCLOSURES INFORMATION OR PAGE REFERENCE
+GRI 203: Indirect Economic Impacts 2016
+Nucor is building its new state-of-the-art sheet mill in Mason County, West Virginia.
+The West Virginia location on the Ohio River provides Nucor with important
+transportation and logistics advantages, and a strengthened ability to serve
+203-1 Infrastructure investments and services supported customers in the Midwest and Northeast, the two largest sheet consuming regions
+in the U.S. When fully operational, the new mill will employ approximately 800 full-
+time teammates. $3.1 Billion has been invested in this facility which aims to have the
+lowest carbon footprint of any sheet mill in the world.
+203-2 Significant indirect economic impacts Safety, Teammates & Culture, please see pages 28-30.
+GRI 205: Anti-Corruption 2016
+100% of our business operation and every functional area is included in our annual risk
+205-1 Operations assessed for risks related to corruption
+assessment, which includes bribery and corruption risk as a standard item.
+Communication and training about anti-corruption 100% of governance body members and teammates have had our anti-corruption
+205-2
+policies and procedures policies and procedures communicated to them.
+205-3 Confirmed incidents of corruption and actions taken No incidents
+GRI 206: Anti-competitive Behavior 2016
+In 2021, Nucor and other US steel producers were named in a federal antitrust case
+entitled JSW Steel (USA) Inc. and JSW Steel USA Ohio, Inc. v. Nucor Corp., United
+States Steel Corp., AK Steel Holding Corp., and Cleveland-Cliffs Inc. This Texas
+Legal actions for anti-competitive behavior, anti-trust, and action alleged that Nucor, U.S. Steel, AK Steel, and Cleveland-Cliffs participated in a
+206-1
+monopoly practices group boycott to prevent JSW from purchasing steel slabs. Nucor moved to dismiss
+this action and the District Court granted Nucor’s motion to dismiss with prejudice.
+JSW appealed the decision to the 5th Circuit Court of Appeals and the parties are
+awaiting the decision of the court.
+GRI 301: Materials 2016
+2023 Recycled Content Letter - Mill Products
+301-2 Recycled input materials used
+2023 Recycled Content Letter - Downstream Products
+GRI 302: Energy 2016
+302-1 Energy consumption inside of the organization Environmental Performance, please see page 37.
+302-2 Energy consumption outside of the organization Environmental Performance, please see page 37.
+302-3 Energy intensity Environmental Performance, please see page 37.
+53
+GRI
+INDEX
+GENERAL DISCLOSURES INFORMATION OR PAGE REFERENCE
+GRI 302: Energy 2016
+302-4 Reduction of energy consumption Environmental Performance, please see page 37.
+302-5 Reductions in energy requirements of products and services Environmental Performance, please see page 37.
+GRI 303: Water and Effluents 2018
+303-1 Interactions with water as a shared resource Environmental Performance, please see page 42.
+303-2 Management of water discharge- related impacts Environmental Performance, please see page 42.
+303-3 Water withdrawal Environmental Performance, please see page 42.
+303-4 Water discharge Environmental Performance, please see page 42.
+303-5 Water consumption Environmental Performance, please see page 42.
+GRI 305: Emissions 2016
+305-1 Direct (Scope 1) GHG emissions Environmental Performance, please see page 33.
+305-2 Energy indirect (Scope 2) GHG emissions Environmental Performance, please see page 33.
+305-3 Other indirect (Scope 3) GHG emissions Environmental Performance, please see page 33.
+305-4 GHG emissions intensity Environmental Performance, please see page 33.
+305-5 Reduction of GHG emissions Environmental Performance, please see pages 34-37.
+Ozone-depleting potential per product is reported in each of Nucor’s
+305-6 Emissions of ozone-depleting substances (ODS)
+Environmental Product Declarations
+Nitrogen oxides (NOx), sulfur oxides (SOx), and other
+305-7 2022 SASB Report, please see page 5.
+significant air emissions
+54
+GENERAL DISCLOSURES INFORMATION OR PAGE REFERENCE
+GRI 306: Waste 2020
+306-1 Waste generation and significant waste-related impacts Environmental Performance, please see page 41.
+306-2 Management of significant waste- related impacts Environmental Performance, please see page 41.
+306-3 Waste generated Environmental Performance, please see page 41.
+306-4 Waste diverted from disposal Environmental Performance, please see page 41.
+306-5 Waste directed to disposal Environmental Performance, please see page 41.
+GRI 308: Supplier Environmental Assessment 2016
+Each of our divisions uses Virtual Compliance to screen all potential
+308-1 New suppliers that were screened using environmental criteria
+international suppliers.
+GRI 401: Employment 2016
+401-1 New employee hires and employee turnover 2023 Nucor Corporation 10-K Filing, please see page 19.
+Benefits provided to full-time employees that are not
+401-2 2023 Nucor Corporation 10-K Filing, please see page 19.
+provided to temporary or part-time employees
+GRI 402: Labor/Management Relations 2016
+Nucor complies with all applicable regulations and agreements regarding notices of
+402-1 Minimum notice periods regarding operational changes
+operational changes to our workforce.
+55
+GRI
+INDEX
+GENERAL DISCLOSURES INFORMATION OR PAGE REFERENCE
+GRI 403: Occupational Health and Safety 2018
+Work-Related Injuries Number of Fatalities Rate of Fatalities
+Teammates 1 0.003
+High-Consequence
+Lost Work Day Cases Rate
+Work-Related Injuries
+306-1 Work-related injuries
+Teammates 79 0.24
+Recordable Work-Related
+Number Rate
+Injuries
+Teammates 263 0.79
+Work-Related Injuries Number of Fatalities Resulting from Work-Related Ill Health
+403-10 Work-related ill health
+Teammates 0
+GRI 404: Training and Education 2016
+Programs for upgrading employee skills and transition
+404-2 Environmental Performance, please see page 43.
+assistance programs
+GRI 405: Diversity and Equal Opportunity 2016
+405-1 Diversity of governance bodies and employees 2023 Nucor Corporation 10-K Filing, please see page 18.
+GRI 408: Child Labor 2016
+Operations and suppliers at significant risk for
+408-1 Each of our divisions uses Virtual Compliance to screen all potential international suppliers.
+incidents of child labor
+GRI 409: Forced or Compulsory Labor 2016
+Operations and suppliers at significant risk for
+409-1 Each of our divisions uses Virtual Compliance to screen all potential international suppliers.
+incidents of forced or compulsory labor
+56
+GRI
+INDEX
+GENERAL DISCLOSURES INFORMATION OR PAGE REFERENCE
+GRI 414: Supplier Social Assessment 2016
+Each of our divisions uses Virtual Compliance to screen all
+414-1 New suppliers that were screened using social criteria
+potential international suppliers.
+GRI 415: Public Policy 2016
+415-1 Political contributions Nucor Public Affairs

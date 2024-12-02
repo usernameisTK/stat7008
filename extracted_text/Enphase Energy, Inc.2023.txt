@@ -1,0 +1,2662 @@
+Enphase Energy, Inc.
+Environmental
+Social and
+Governance Report
+2023
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 1
+Enphase Energy, Inc.
+Environmental
+Social and
+Governance Report
+2023
+2
+Contents
+A letter from our President and CEO 04
+About us 06
+Enphase in numbers 07
+Our purpose 08
+Our core values 09
+Enphase culture playbook 10
+Our technology 12
+Start-up to industry leader 14
+Customer first 15
+Financial sustainability 18
+Our financial performance 19
+Environment 20
+E1. Environmental stewardship 21
+E2. Clean energy production 23
+E3. Emissions and energy 24
+E4. Product responsibility 30
+E5. Case studies 33
+People 42
+P1. Company demographics 43
+P2. Recruiting and retaining the best 44
+P3. Cultivating a diverse, inclusive and equitable workforce 46
+P4. Developing our people 50
+P5. Promoting a safe and healthy workplace 52
+P6. Responsible supply chain 54
+Society 58
+S1. Enphase Corporate Social Responsibility (CSR) initiatives 59
+S2. Enphase grid services 63
+S3. Enphase innovation and industry leadership 66
+S4. Promoting clean energy policies 69
+Governance 72
+G1. ESG governance and leadership 73
+G2. Business ethics and compliance 77
+G3. Data privacy, cybersecurity, intellectual property 80
+Appendix 83
+Emissions and energy calculation methodologies 84
+GRI index 86
+SASB index 88
+TCFD response 89
+Membership associations 93
+Contributing to the UN Sustainable Development Goals 94
+About this report 96
+Forward-looking statements and other important legal information 97
+GAAP to Non-GAAP reconciliation 98
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 3
+A Letter from our
+President and CEO
+Since the publication of our inaugural Environmental, Social, and Governance (ESG) report
+in 2020, we have made strides in managing our emissions footprint, cultivating a diverse
+and inclusive workplace, and raising awareness of ESG issues across the business. I am
+pleased to report the ongoing success of our ESG efforts in 2023 as we continued to make
+best-in-class renewable home energy systems with a laser focus on product innovation,
+quality, and customer experience.
+Enphase was founded in 2006 with its purpose: “Advancing a sustainable future for all.”
+We are the world’s leading supplier of microinverter-based solar and battery systems.
+Our systems are helping millions of people gain access to clean, affordable, and reliable
+Badri Kothandaraman energy. As you read this report, you will see our purpose is infused into every part of our
+President and CEO business. We acknowledge our responsibility to reduce our emissions footprint, focus on
+our customers and partners, and ensure our employees and the people and communities
+we serve are treated with transparency and respect, all while continuing to deliver products
+that are productive, reliable, smart, simple, and safe.
+“We aim to support a cleaner, Since inception, we have shipped more than 73 million solar microinverters and 1.2 GWh
+more reliable, and better- of IQ® Batteries. Approximately 4.0 million Enphase-based systems have been deployed
+in more than 150 countries. Approximately 25.2 GW DC power of Enphase microinverters
+performing grid to help improve
+have been installed in solar systems, preventing 56 million metric tons of carbon dioxide
+quality of life, and to
+equivalent (MTCOe) – the equivalent of providing energy to 7.3 million homes for one year.1
+collaborate with a wide range of 2
+stakeholders to advance policy
+2023 was a challenging year as our industry suffered through a period of slowdown in
+outcomes in support of clean overall demand, primarily due to high interest rates in the United States and California’s Net
+energy across the world.” Energy Metering (NEM) 3.0, and macroeconomic conditions in Europe. I am proud of the
+hard work and resilience shown by our employees around the world who worked tirelessly
+to deliver innovative products and services to our customers as we navigated through the
+global slowdown. We maintained our operational excellence throughout 2023 and our
+culture playbook is a reminder of how we work together to achieve results.
+We aim to support a cleaner, more reliable, and better-performing grid to help improve
+quality of life and to collaborate with a wide range of stakeholders to advance policy
+outcomes in support of clean energy across the world. The passing of the Inflation
+Reduction Act (IRA) by the U.S. Congress in 2022 enabled us to begin manufacturing in
+the United States, bring back high-technology jobs, and advance the country’s clean
+energy economy. During 2023, we began shipments from our new contract manufacturing
+partners in the United States, including Flex in South Carolina and Salcomp in Texas.
+In 2023, we introduced our products into more countries. We started shipping our IQ8™
+Microinverters into 21 countries worldwide. Our IQ Batteries are shipping to customers in
+North America, Belgium, Austria, France, the Netherlands, Switzerland, Spain, Portugal,
+Sweden, Denmark, and Greece. We also introduced our latest Enphase® Energy System,
+powered by IQ8 Microinverters and the IQ Battery 5P. The IQ Battery 5P delivers the best
+1 Estimate based on Enphase managed systems data as of December 31, 2023 grossed up for non-managed systems
+based on performance monitoring data; COe calculations based on U.S. Environmental Protection Agency (U.S.
+4 2
+EPA) Greenhouse Gas (GHG) Equivalencies Calculator.
+power specifications and commissioning times of any Enphase battery to date. By the end
+of 2023, we were shipping the IQ Battery 5P to the United States, Puerto Rico, Australia,
+and the United Kingdom. We plan to enter more countries in Europe and Asia throughout
+2024.
+“We remain committed to We launched our IQ® electric vehicle (EV) chargers in the United States and Canada in
+creating lasting value for all 2023. These Wi-Fi enabled smart chargers are now integrated into the Enphase Energy
+stakeholders, delivering a System. This enables use cases such as self-consumption and green charging, and allows
+homeowners visibility into the operation of their system through their Enphase® App.
+superior customer experience,
+and driving sustainable
+We remain committed to creating lasting value for all stakeholders, delivering a superior
+practices that make a
+customer experience, and driving sustainable practices that make a meaningful difference.
+meaningful difference.” As we navigate the clean energy market fluctuations due to global macroeconomic
+conditions, geopolitical instability, and climate change, our team is excited about the
+opportunities in 2024, knowing that sustainability is at the core of what we do at Enphase.
+We appreciate your continued interest in our ESG efforts and thank our employees,
+customers, partners, and shareholders for their dedication as we continue to embrace our
+core values and advance a sustainable future for all.
+Sincerely,
+Badri Kothandaraman
+President and CEO
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 5
+About us
+66
+Enphase in
+numbers
+2006 3,157 8,701 25.2
+GW DC
+the year Enphase employees and key installers approximate cumulative
+was founded contributors across worldwide1 shipments of
+our global offices1 microinverters1
+4 73+ 1.2 80.6
+million million GWh TWh
+approximate number of approximate number of of storage1 of clean energy
+systems deployed in more microinverters shipped1 production2
+than 150 countries1
+56 6.3 144
+million billion billion
+MTCO₂e prevented from gallons of gasoline miles not driven by an
+entering the atmosphere, not consumed3 average gas-powered
+enough to power passenger vehicle3
+7.3 million homes with
+energy for one year3
+1 As of December 31, 2023
+2 Annual running total estimate based on Enphase managed systems data as of December 31, 2023 grossed up for non-managed systems
+based on cumulative production records
+3 Estimate based on Enphase managed systems data as of December 31, 2023 grossed up for non-managed systems based on cumulative
+production records; CO₂e calculations based on U.S. EPA GHG Equivalencies Calculator
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 77
+Our
+purpose
+Advancing a sustainable future for all.
+Founded in 2006, Enphase is a global energy technology company and a leading provider
+of solar, battery, and EV charging products. We are working every day to enable whole-
+home energy management powered by clean energy, as well as helping to create a more
+resilient and reliable electricity grid for everyone.
+Enphase transformed the solar industry with its revolutionary microinverter technology
+which turns sunlight into a safe, reliable, resilient, and scalable source of energy to power
+our lives. Today, our microinverters can be paired with our industry-leading batteries, EV
+chargers, and software, creating a comprehensive home energy management system.
+The Enphase App provides unprecedented data and control in the palm of your hand. For
+the first time in the evolution of our centuries-old grid, people can get paid for the clean
+energy they produce and share with their communities, helping to build a new energy
+future that harnesses the sun. This clean, free, abundant source of energy can power our
+lives and ultimately help replace fossil fuels altogether.
+Today, if you see a home with solar panels on it, there is a good chance it is an Enphase
+home. As of the end of 2023, more than 73 million microinverters1 have been installed on
+approximately four million homes in over 150 countries, helping millions of people gain
+access to clean, affordable, and reliable energy while creating jobs and a more carbon-free
+future. Enphase is putting people and their power at the center of our shared energy future.
+Enphase. Power by people.
+1 Estimate based on Enphase managed systems data as of December 31, 2023 grossed up for non-managed
+systems based on cumulative production records since inception
+88
+Our core
+values
+Our company values are reflected in the way we work
+together, our performance, and how we are rewarded.
+Customer first Integrity
+We exist for our customers. We tell the truth at all times, without
+making excuses.
+We listen to our customers and measure
+our success based on their feedback. We do what is best for the company.
+We take action to deliver the best We take ownership of our behaviors
+customer experience. and results.
+Innovation Teamwork
+We value innovation and recognize that it is We appreciate and respect different
+the cornerstone of our existence. behavioral styles and perspectives.
+We encourage appropriate risk-taking and We collaborate globally to achieve
+challenge the status quo to find solutions. more together than we can on our
+own.
+We actively promote innovation through
+curiosity and continuous learning. We actively work to break down silos.
+Quality
+We place safety and quality above
+everything else.
+We measure everything that matters and
+drive continuous improvement.
+We make the highest quality products.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 9
+Enphase
+culture playbook
+The pillars of the Enphase Culture Playbook help align and
+guide daily interactions with our purpose and values.
+High performance
+• We set the standard.
+• We stretch ourselves to achieve exceptional results.
+• We are relentless in the pursuit of excellence.
+Recruiting and retaining the best
+• We hire only the best.
+• We reward and retain the best.
+• We promote our people who get results.
+Openness and transparency
+• We are curious and encourage new ideas.
+• We recognize that people have different styles and encourage
+diverse perspectives.
+• We openly discuss issues and want to learn rapidly from our mistakes.
+Accountability and execution
+• We acknowledge reality and get things done without making excuses.
+• We measure what matters and manage our performance through metrics.
+• Our metrics have clear targets that don’t change on a whim, and we publish
+progress against these each quarter.
+Learning organization
+• We encourage innovation.
+• We develop employees through two-way coaching and feedback.
+• We learn from our mistakes using a structured problem-solving approach
+known as 8-D.
+• We document and share knowledge freely.
+Culture playbook
+10
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 1111
+Our
+technology
+Enphase was founded on the deep-rooted belief that an AC-coupled distributed
+architecture will always win in the long run on cost, safety and reliability. To build products
+based on this architecture, we have developed core competencies in semiconductor-
+based power conversion, software-defined Internet of Things (IoT) systems, and an energy
+management platform. The microinverter, along with our battery, system controller, and
+cloud software form a true IoT system. Our Energy System manages energy flows between
+the various distributed energy resources (DERs), the utility grid, and home loads, all with
+the aim of delivering the most reliable solution at the lowest available energy cost.
+“The microinverter, along with The Enphase Energy System brings a high technology, networked approach to solar
+our battery, system controller, generation plus energy storage by leveraging our design expertise across power electronics,
+and cloud software form a true semiconductors, and cloud-based software technologies. It uses a single technology
+platform for seamless management of the whole solution, enabling rapid commissioning
+IoT system.”
+with the Enphase® Installer App; consumption monitoring with the IQ® Gateway or
+IQ® Combiner and the Enphase App, a cloud-based energy management platform; and our
+IQ Battery.
+The Enphase Energy System has become more sophisticated with the addition of devices
+such as batteries, EV chargers and heat pumps. In addition, utility tariffs which historically
+were fixed rates, are becoming more complex with time of-use rates, NEM 3.0, demand
+charges, and dynamic tariffs. Our home energy management software (HEMS) is evolving
+to manage this complexity by leveraging artificial intelligence (AI) and machine learning
+(ML) for forecasting and optimization.
+The increasing penetration of EVs has implications for home energy management, as
+households not only consume significantly more power with an EV, but also have a large
+battery that can be used for both backup and grid service. Our smart IQ EV chargers are
+compatible with most EVs sold in North America. We are working on a smart IQ EV charger
+for many countries in Europe that we expect to introduce in 2024.
+We are also working on bidirectional EV charger technology enabling vehicle-to-home and
+vehicle-to-grid functionality. This new bidirectional EV charger, along with Enphase’s solar
+and battery storage, will provide connectivity and control, enabling use cases like green
+charging. It will allow homeowners visibility into the operation of their Enphase solar-plus-
+battery-plus-EV charger systems through the Enphase App. We expect to introduce this
+new bi-directional EV charger in 2025.
+12
+Enphase Home Energy
+Management System
+ENPHASE CLOUD
+IQ SERIES MICROINVERTERS
+IQ EV CHARGER
+ENPHASE APP
+IQ SYSTEM CONTROLLER
+IQ COMBINER
+UTILITY METER
+IQ BATTERY
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 1133
+Start-up to industry leader
+2006
+Founded by Raghu Belur and
+Martin Fornage in California
+2008
+First microinverter-based
+solar system introduced
+2011
+One million microinverters shipped
+since inception
+2012
+Listed on NASDAQ
+under symbol ENPH
+2014
+Fourth-generation
+technology introduced
+2015
+10 million microinverters
+shipped since inception
+2016
+Sixth-generation
+IQ technology introduced
+2018
+Seventh-generation
+IQ technology introduced
+2019
+One millionth microinverter-based
+solar system deployed
+2020
+Started shipping IQ Batteries
+in North America
+2021
+Eight-generation IQ technology
+introduced
+2022
+Started shipping IQ8 Microinverters
+in France and the Netherlands
+2023
+Launched IQ Battery 5P
+1144
+Customer
+first
+Customer experience
+We exist to serve our customers and communicate consistently with them to review their
+experiences and levels of satisfaction with our products. We incorporate customer feedback
+into future product design and functionality in real-time, with the end goal of maintaining
+a high degree of satisfaction among distributors, installers, and homeowners. The ability
+to successfully grow and evolve our business requires open and continuous dialogue to
+ensure a smooth experience, and we take this aspect of our business very seriously.
+77 100
+Net Promoter Score (NPS) field service NPS
+among homeowners and
+installers worldwide
+24/7 30
+call center support minute target for
+with target wait time improved battery
+of 1.8 minutes commissioning times
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 15
+Enphase University
+The Enphase University platform is an on-demand platform where installers can become
+certified in the sales, design, and installation of Enphase’s products. The Enphase University
+platform has been in service for several years and supports our remote training team
+dedicated to teaching our installers how to successfully install and commission Enphase
+systems.
+We offer more than 45 different certification and qualification courses for our installers
+pertaining to the commissioning of specific Enphase products, which are available in 18
+native languages across the United States (U.S.), Latin America, Europe, Australia, Asia
+Pacific, Brazil, and South Africa.
+In addition, Enphase conducts in-person training events at more than 12 regional training
+centers across the globe, and we use vans equipped with Enphase system products to
+bring training where possible to installers in remote locations to learn about storage
+commissioning best practices. Training is also available on demand via our Enphase Energy
+Training YouTube channels where we currently have approximately 6,000 subscribers
+worldwide.
+23,000+ 25,300+
+installers certified in installers certified in
+Enphase Energy Systems Enphase photovoltaic
+(PV) systems
+4,700 516,000
+solar installation Enphase University
+companies represented courses completed by
+worldwide installers
+16
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 1177
+Financial
+sustainability
+$2.3 We managed well in 2023 with our financial discipline through a difficult global environment.
+billion Revenue was $2.29 billion in 2023, compared to $2.33 billion in 2022. We shipped 15.5
+million microinverters in 2023, compared to 15.4 million in 2022. Our non-GAAP gross
+revenue in 2023 margin expanded to 45.3%1, exclusive of the IRA net benefit, and our non-GAAP gross
+margin further increased to 47.1%1, inclusive of the IRA net benefit, by manufacturing our
+microinverters in the United States.
+15.5 Our balance sheet remained very strong in 2023. We generated approximately $586.0
+million million dollars of free cash flow in 2023 and exited the year with $1.70 billion dollars in cash,
+cash equivalents and marketable securities, up over $80.0 million dollars year-over-year,
+microinverters shipped in 2023
+while repurchasing 3.3 million shares of our common stock for approximately $410.0 million
+dollars.
+47.1%
+A responsible investment
+non-GAAP gross margin in 2023
+We are proud of the reputation we have built as a global leader in home energy management
+systems and sustainability. In 2023, we were pleased to be recognized by several third-
+party organizations for success in aligning our business with international sustainable
+development goals, including placement on both the Corporate Knights Global 100 and
+Newsweek’s America’s Greenest Companies lists.
+Our performance among third-party ESG ratings agencies also continued to improve in
+2023, with Enphase earning an ESG ‘Prime’ rating from Institutional Shareholder Services
+(ISS), a ‘AA’ ESG rating from Morgan Stanley Capital International (MSCI), and reduced risk
+rating from Sustainalytics. We remain committed to meeting and exceeding the qualifying
+thresholds for sustainable investment under various criteria such as the United Nations
+Global Compact (UNGC), the United Nations Sustainable Development Goals (UN SDGs),
+the EU Sustainable Finance Disclosure Regulation (SFDR), and the EU taxonomy for
+sustainable activities.
+1 See Appendix for reconciliation to comparable GAAP measures
+18
+Our financial
+performance
+We had another year of profitability in 2023. GAAP net income was $438.9 million, resulting
+in diluted earnings per share of $3.08. Non-GAAP net income was $613.2 million, resulting
+in non-GAAP diluted earnings per share of $4.41 million.1
+Quarterly revenue by year Quarterly gross margin % by year
+$800.0
+$726.0 $711.1 $724.7 55.0%
+$700.0 50.3%
+$634.7 50.0% 48.4%
+$600.0 $530.2 $551.1 45.7% 46.2% 42.9% 43.8%
+45.0% 42.2%
+$500.0 $441.3 41.1%41.0% 40.8% 40.8% 40.2%
+$351.5 $412.7 40.0%
+$400.0
+$301.8 $316.1 $302.6 35.0%
+$300.0
+$200.0 30.0%
+$100.0 25.0%
+$0.0 20.0%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+Quarterly operating expenses % by year Quarterly operating income % by year
+30.0% 28.6% 35.0% 32.2% 32.4% 30.6% 30.4% 31.7%
+30.0% 26.0% 28.7%
+26.6%
+25.0% 25.0% 24.4% 24.4% 23.7%
+21.7%
+20.0%
+20.0%
+18.0% 15.0%
+15.0% 16.4% 16.3% 16.5%
+14.5% 13.80% 10.0%
+15.0% 13.5% 13.4% 12.4%
+12.1% 5.0%
+10.0% 0.0%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+2021 2022 2023
+1 See Appendix for reconciliation to comparable GAAP measures
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 19
+Environment
+Enphase’s best-in-class energy management solutions, spanning solar energy
+generation, battery storage, EV charging, and cloud-based monitoring and control,
+provide the smart energy needed to drive global sustainable development. Our
+products and services directly address the urgent challenges presented by climate
+change and accelerate the transition to a low-carbon economy.
+2200
+E1. Environmental
+stewardship
+Enphase’s best-in-class energy management solutions, spanning solar energy generation,
+battery storage, EV charging, and cloud-based monitoring and control, provide the smart
+energy needed to drive global sustainable development. Our products and services directly
+address the urgent challenges presented by climate change and accelerate the transition
+to a low-carbon economy.
+“At Enphase, we create Climate change strategy
+clean energy products and
+At Enphase, we create clean energy products and technologies the world needs to help
+technologies the world needs
+slow the pace of global warming, protect the environment, and accelerate the transition to
+to help slow the place of global
+a clean, accessible, and resilient energy system. Our climate change strategy disclosures
+warming.”
+align with the recommendations of the Taskforce for Climate-Related Financial Disclosures
+(TCFD) and may be found in the Appendix.
+Environmental management system (EMS)
+Enphase demands of itself superior environmental performance, and 100% of our facilities
+are ISO 14001:2015 certified. Our EMS is continually improved to align with business strategy,
+promote positive environmental impacts, and minimize adverse impacts. Through the EMS,
+we proactively assess environmental risks and opportunities, define key performance
+indicators (KPIs) and targets, and evaluate progress toward environmental goals. Our
+executive leadership has direct oversight of the global Environmental Health and Safety
+(EHS) program.
+Supplier expectations
+Enphase works with suppliers who share our commitment to sustainability, and all suppliers
+and vendors are expected to uphold the same standards of environmental stewardship
+as we do. Suppliers are screened on specific criteria including the presence of an
+environmental policy; EMS or Eco-Management and Audit Scheme (EMAS) certification;
+Restriction of Hazardous Substances (RoHS) and Registration, Evaluation, Authorization,
+and Restriction of Chemicals (REACH) compliance; conflict minerals reporting; as well as
+the establishment of human rights and labor policies.
+Auditing
+Our environmental audit program includes periodic and complete evaluations of our
+product development and research and development (R&D) centers. Audits include air
+and water quality, waste management practices, spill prevention and control, hazardous
+materials management, and employee awareness.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 21
+Reporting and stakeholder consultation
+We report our annual environmental performance in line with prevailing sustainability
+reporting frameworks. Stakeholders such as our shareholders, local communities,
+customers, suppliers and contractors, government agencies, and other organizations
+focused on protecting the environment are allies and collaborators, and their priorities and
+feedback regarding our environmental performance are considered when assessing our
+environmental performance.
+“We support pollution prevention Product lifecycle stewardship
+programs and efficiently
+Our products are designed to be safe for the environment and their intended use. All
+use materials and energy to
+hazardous waste generated across our operations is disposed of properly or recycled, and
+conserve natural resources.”
+we comply with all applicable laws and directives where we operate regarding hazardous
+waste, including Waste from Electrical and Electronic Equipment (WEEE), RoHs, REACH,
+and the European Union (EU) batteries directive. We support pollution prevention programs
+and efficiently use materials and energy to conserve natural resources, including measuring
+emissions and implementing an emissions reduction strategy.
+Legal compliance
+Enphase complies in the areas where we operate with all applicable environmental, health
+and safety laws, as well as all pertinent industry codes and standards. We also expect our
+suppliers, partners, and customers to comply with all appliable environmental, health and
+safety laws and regulations.
+Empowering employees
+We harness the intellect and energy of our employees to achieve positive and lasting
+environmental impacts resulting from our business. Employees at all levels actively
+participate in environmental goal-setting, allowing for important insight and innovation to
+be realized across the company. We incentivize performance toward environmental-related
+goals, with all employees eligible to tie short-term bonuses to associated objectives.
+22
+E2. Clean energy
+production
+During Since
+2023 2006
+22 15 80.6 56
+TWh million TWh million
+generated by Enphase MTCO₂e prevented from generated by Enphase MTCO₂e prevented from
+microinverters1 entering the atmosphere2 microinverters1 entering the atmosphere2
+1 Annual running total estimate based on Enphase managed systems data as of December 31, 2023 grossed up for non-managed systems based on cumulative
+production records
+2 Estimate based on Enphase managed systems data as of December 31, 2023 grossed up for non-managed systems based on cumulative production records;
+COe calculations based on U.S. EPA GHG Equivalencies Calculator
+2
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 2233
+E3. Emissions
+and energy
+This is our third year of completing a greenhouse gas (GHG) emissions inventory. The
+calculations follow the guidance provided in the GHG Protocol Corporate Standard,
+covering Scope 1 (direct), Scope 2 (electricity-indirect), and select Scope 3 emissions
+categories. Please see the Appendix for details on the inventory methodology and energy
+and emissions data disaggregated at the individual facility level.
+We consider Scope 1 emissions to be negligible given our “OpEx Lite” operating model,
+where we do not own or operate any large factories. Emissions from our field service and
+training vehicle fleet do not represent more than 5% of our total emissions and are excluded
+from our GHG inventory per GHG Protocol guidelines.
+Energy consumption among our leased facilities globally creates our Scope 2 emissions.
+We are managing Scope 2 emissions by increasing on-site PV generation capacity by
+installing new PV systems on leased buildings and completing energy efficiency projects
+on a continuing basis. Our energy management program is informed by the ISO 50001
+standard, though we do not currently hold ISO 50001 certification.
+Note that we intentionally forgo market solutions such as Renewable Energy Certificates
+(RECs) to drive down Scope 2 emissions figures. This allows us to confidently claim that our
+operations run on renewable energy, while cultivating a net positive outcome. By leaving
+installed PV on the leased buildings after we vacate, we leave the facilities in a better
+condition than originally found.
+We completed a screening inventory as outlined in the GHG Protocol to determine which of
+the fifteen Scope 3 categories to include in the GHG inventory. Factors influencing inventory
+inclusion or exclusion include relevance and the ability to capture and disclose accurate
+data. Several of our key suppliers and customers have set ambitious GHG reduction targets
+through the Science-Based Targets Initiative (SBTi), helping to drive down our Scope 3
+emissions. We continue to measure our Scope 3 emissions and explore opportunities for
+further reductions moving forward.
+Table 1: 2023 GHG emissions*
+Emissions type Units
+Direct emissions (Scope 1) (MTCOe) 0
+2
+Electricity-indirect emissions (Scope 2) (MTCOe) 15,529
+2
+Other indirect emissions (Scope 3) (MTCOe) 49,077
+2
+Total emissions (MTCOe) 64,606
+2
+*All emissions figures represent location- and market-based calculation.
+24
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 2255
+Managing GHG emissions
+We appreciate the need to reduce operational emissions as we continue growing our
+business and helping to accelerate the world’s transition to a resilient and efficient
+renewable energy system. In 2022, we set a target to reduce our Scope 1 and 2 economic
+emissions intensity by 30% by 2030 from a 2021 baseline. To this end, we plan to increase
+energy efficiency and reduce energy consumption from non-renewable sources by
+continuing to employ the following strategies:
+• Expanding facility on-site PV generation capacity
+• Participating in utility renewable energy and green tariff programs
+• Completing facility energy efficiency projects
+• Requiring facilities to provide access to renewable energy
+• Installing bi-directional EV chargers at facilities
+• Incentivizing emissions reduction and energy conservation initiatives
+“Facility on-site PV generation 2023 actions taken
+increased by 228% year-over-
+• Increased facilities’ on-site generation capacity to 855.9 kW
+year to a total of 855.9 kW”
+• Completed energy efficiency projects representing annual savings of 195,052 kWh
+• Planned energy efficiency projects representing an annual savings of 955,296 kWh
+• Completed PV installs for three additional Enphase facility locations
+• Joined Austin Energy Green Choice program
+Chart 1: On-site PV generation capacity (kW)
+1200
+1000
+800
+600
+400
+200
+0
+2020.5 2021 2021.5 2022 2022.5 2023 2023.5 2024(Pl2an0)24.5
+Installed kW, Scope 2
+Chart 2: Renewable energy mix
+30%
+70%
+Renewable (%)
+Non-renewable (%)
+Renewable (%)
+Non-renewable (%)
+26
+GHG reduction target progress
+As of the end of 2023, our scope 1 and 2 emissions intensity has decreased by three
+percent from our 2021 baseline. The reported increase in scope 2 emissions is compatible
+with our internal target model, and reflects increases in headcount, the number of facility
+locations, and facility activity due to the growth of our business. We expect to see
+improved performance as the net impact of increases to on-site generation capacity and
+participation in green tariff programs made during 2023 are fully realized and as the solar
+industry recovers from recent global macroeconomic headwinds. We remain confident
+that our continuing efforts to decarbonize while providing the clean energy products and
+technologies needed to meet global climate goals will accelerate progress in the coming
+years.
+Table 2: Progress on GHG emissions reduction target
+Emissions metric 2021 2022 2023 2030 Target
+Direct emissions
+0 0 0 0
+(Scope 1) (MTCOe)
+2
+Electricity-indirect emissions
+9,240 10,603 15,529 n/a
+(Scope 2) (MTCOe)
+2
+Revenue ($M) 1,382 2,331 2,291 n/a
+Scope 1 + 2 emissions intensity
+6.99 4.55 6.78 4.89
+(MTCOe / $M revenue)
+2
+Table 3: Energy consumption detail
+Energy metric Units
+Grid electricity consumption (MWh) 20,079
+Heat consumption (MWh) 2,954
+Aggregated energy consumption (MWh) 23,033
+Total electrical power used (MWh) 20,507
+Normalized electrical power used (kWh / $M revenue) 6,856
+Energy intensity (kWh / $M revenue) 10,055
+Consumed energy from the grid (%) 99
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 27
+Chart 3: Emissions and energy intensity trend*
+20000 10
+18000
+8
+16000
+14000
+6
+12000
+10000
+4
+8000
+6000 2
+4000
+2000 0
+2020 2021 2022 2023 2024
+Energy Intensity (kWh / $M) Emissions Intensity (MTCOe / $M)
+2
+*Scopes 1 and 2 only
+28
+ytisnetni
+ygrenE
+ytisnetni
+snoissimE
+Energy intensity (kWh / $M) Emissions intensity (MTCO2e / $M)
+Hazardous air pollutants
+Enphase installed products reduce the amount of hazardous air pollutants (HAPs) that
+enter the atmosphere, helping to alleviate human health issues related to the release of
+particulate matter (PM 2.5), nitrous oxides (NO), sulfur oxides (SO), and other ozone-
+x x
+depleting substances (ODS). These are typically released from fuel combustion among
+both mobile and stationary sources such as cars, trucks, and factories. Many people are
+disproportionately impacted by air pollution, including those who live in communities of
+color or low-income communities. Every clean kilowatt hour generated by an Enphase
+system helps to reduce air pollution and promote environmental justice.
+We do not consider the release of HAPs across Enphase’s operations to be significant,
+given we do not own or operate a company vehicle fleet or any large factories. However,
+we do hold upstream suppliers and contract manufacturers accountable for environmental
+performance as outlined in our Enphase Supplier Code of Conduct and proactively work to
+reduce Scope 3 emissions, including HAPs, as described earlier in this report.
+Table 4: NO and SO emissions
+x 2
+Annual NO (lbs.) SO (lbs.)
+x 2
+Enphase U.S. operations 3.726 0.818
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 2299
+E4. Product
+responsibility
+Activities across the entire value chain from raw material extraction to end-of-life methods
+comprise our product footprint, and we are committed to reducing adverse environmental
+impacts as much as possible by following “Design for Environment” (DfE) principles. We
+strive to reduce the material inputs needed to build safe, reliable, high-quality products,
+integrate recycled materials where possible, and design products that can be repurposed
+or recycled safely at the end of their designed lifespan.
+“We assess the safety of our Product quality and safety
+products at all stages of their
+We take a comprehensive approach to quality and safety, with all products thoroughly
+life cycle, from prototype
+qualified and tested to ensure compliance with rigorous standards while exceeding
+development through
+customer expectations. All Enphase products and services are certified to the ISO
+manufacturing, use, service, and
+9001:2015 standard through our Quality Management System (QMS). Executives
+recycling or disposal.” overseeing product quality and safety report directly to the Chief Executive Officer (CEO),
+with supporting managerial oversight for a wide variety of cross-functional activities such
+as product development, defect and failure mode analysis, field service, and product end
+of life management.
+100% Zero
+ISO 9001:2015 product
+certified products recalls
+We assess the safety of our products at all stages of their life cycle, from prototype
+development through manufacturing, use, service, and recycling or disposal. This includes
+evaluating the inclusion or use of harmful chemicals in products and designing processes
+to ensure safety across all stages of the product lifecycle. Procedures for monitoring and
+managing the risks associated with inclusion of harmful chemicals in products are well-
+defined in our Product Lifecycle Process (PLCP), applicable to all product lines. All products
+are compliant with REACH and RoHS regulations.
+Supporting emergency response and first responders
+In line with our commitment to safety, we have helped train thousands of firefighters
+across the United States and Brazil on the critical strategies and tactics needed to mitigate
+structure fires involving PV and energy storage systems (ESS). Enphase is continuing this
+effort by engaging fire service consultants to develop training videos for fire professionals.
+We remain committed to setting the gold standard with respect to PV and ESS safety. For
+more information, please see our Energy Story: Safety and Solar.
+30
+Repairability
+During 2023, we introduced the ability to service batteries and other balance of system
+(BOS) components in the field by swapping components rather than replacing the entire
+product. This helps to reduce system downtime, improve customer satisfaction, and better
+the overall environmental profile of our products. Every component swap in the field
+ultimately reduces reliance on raw material inputs, avoids emissions and pollution related
+to product disposal, and extends product lifetime. We plan to expand this practice of field
+repairability to cover additional products in the future.
+“Every component swap in Waste management
+the field ultimately reduces
+Currently, we are primarily concerned with managing our electronic waste (e-waste),
+reliance on raw material inputs,
+hazardous waste, and universal waste responsibly across global operations. In 2023, we
+avoids emissions and pollution
+expanded our tracking and management to include operations in Germany, India, and
+related to product disposal, and
+New Zealand in addition to the United States. The overall waste is generated through R&D,
+extends product lifetime.” prototyping, and creating experimental apparatus for new product development and
+improvement across our product portfolio. Our dedication to building innovative, best-in-
+class products regarding safety, quality, and reliability requires extensive testing and failure
+analysis. Test equipment is disassembled or deconstructed, with the constituent parts
+recycled and reclaimed for future use, where possible. We make every effort to divert these
+wastes from landfills by sending e-waste, hazardous waste, and universal waste to certified
+vendors who provide certificates of destruction, outlining the percent composition, mass,
+and recycling method employed for each constituent material.
+100% 100%
+waste diverted from landfill* RoHS, REACH, WEEE, and EU
+Battery Directive compliance
+We focus significant efforts on residential, commercial, and industrial battery disposal and
+recycling. We evaluate third-party recycling vendors for certifications and compliance
+performance prior to engaging with them. Our battery recycler is certified to the R2
+standard, which prohibits incineration as a disposal solution. All battery waste is processed
+thermally or chemically to recover valuable metals such as nickel, lithium, cobalt, and
+copper, with the remaining plastic and byproducts separated for recycling. This allows
+for valuable components to be reused as material inputs for new products. We design our
+batteries for long-term duration to decrease waste, using lithium iron phosphate (LFP)
+chemistry as the storage material. Beyond batteries, we are reviewing the methods of
+other third-party vendors to validate that material is diverted from landfill and developing a
+vendor audit program to verify the destination of generated waste.
+We promote our company’s commitment to recycling and preventing products and
+materials ending up in landfills through our internal training and compliance with applicable
+federal, state, and local regulations. Employees working in our R&D labs undergo additional
+annual training to ensure they understand how to properly dispose of any hazardous
+materials that are not eligible for our recycling programs.
+*Hazardous waste, e-waste and universal waste across Germany, India, New Zealand and
+United States operations”
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 31
+Sustainable facilities
+We also make a conscientious effort to ensure responsible resource consumption across
+our facilities. Water conservation is encouraged, and we have installed auto stop taps to
+reduce consumption. Facilities are equipped with reusable and compostable materials,
+single-use items are eliminated, and employees are provided with reusable dishware,
+utensils, and mugs. Ink cartridges, organics, plastic, glass, cardboard, fluorescent bulbs,
+and metal scraps are recycled as standard practice among facilities.
+Table 5: Waste management*
+Amount Amount Diverted Percent Percent Directed
+Waste Type Generated from Landfill Recycled to Landfill
+(MT) (MT) (%) (%)
+Hazardous Waste 1.03 1.03 100 0.0
+E-Waste 105.86 105.86 100 0.0
+Universal Waste 33.15 33.15 100 0.0
+*Hazardous waste, e-waste and universal waste across Germany, India, New Zealand and United States operations
+32
+E5. Case studies
+United States
+Florida Solar Design Group, an installer of Enphase products in the United States, completed
+a 45.6 kW rooftop solar energy project for the Conservancy of Southwest Florida in Naples,
+Florida. Florida Solar Design Group installed 106 Enphase® IQ8H™ Microinverters, which
+are expected to help the Conservancy meet their sustainability goals.
+Conservancy of Southwest
+Florida
+45.6 kW
+Organization
+solar energy system size
+Florida Solar Design Group
+Enphase product installer
+77.4 MWh
+Naples, Florida
+Location
+estimated annual production
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 33
+United States
+A1A Solar, an installer of Enphase products in the United States, completed a 43.2 kW
+rooftop solar energy project for dtw Research in Fernandina Beach, Florida. A1A Solar
+installed 90 Enphase IQ8H Microinverters, which are expected to offset an estimated 41%
+of the business’s energy use with clean solar power.
+dtw RESEARCH
+Organization 43.2 kW
+A1A Solar
+solar energy system size
+Enphase product installer
+Fernandina Beach, Florida 56.3 MWh
+Location
+estimated annual production
+34
+Canada
+Hakai Energy Solutions, an installer of Enphase products in Canada, completed a 26.2
+kW rooftop solar energy project on the K’omoks First Nation administration building in
+Comox, British Columbia, Canada. The installer calculates that the addition of this Enphase
+commercial solar system on the building will offset approximately 35% of their electrical
+energy requirements, contributing to significant operating cost savings over the lifetime of
+the system.
+K’omoks First Nation
+Organization 26.2 kW
+Hakai Energy Solutions
+solar energy system size
+Enphase product installer
+Comox, British Columbia 26.7 MWh
+Location
+estimated annual production
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 35
+Spain
+PROT energía, an installer of Enphase products in Spain, performed a temporary solar
+installation for exhibition during the world ski mountaineering championship in the Catalan
+Pyrenees to promote the use of renewable energy. The installation covered the supply of
+12% of the electricity consumed during the event, achieving a savings of 24 kg of CO. The
+2
+installation consisted of eight solar panels with Enphase® IQ7A™ Microinverters.
+Skimo Championship
+(Boí Taüll 2023) 3.4 kW
+Organization
+solar energy system size
+PROT energía
+Enphase product installer
+Boí Taüll (Lleida)
+Location
+36
+France
+Regis Electric, an installer of Enphase products in France, completed a rooftop solar
+energy project for a family in Cannes, France. The system was designed to provide clean,
+resilient energy to help reduce electricity bills and make the family more self-sufficient. The
+installation consisted of 48 solar panels with Enphase® IQ8AC™ Microinverters and two
+Enphase IQ Battery 10Ts.
+Homeowner
+Organization 24 kW
+Regis Electric
+solar energy system size
+Enphase product installer
+Cannes 33.6 MWh
+Location
+estimated annual production
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 37
+Australia
+Country Solar NT, an installer of Enphase products in Australia, installed a 99.6 kW Enphase
+solar system, featuring 240 Enphase IQ7A Microinverters for the iconic Territory Wildlife
+Park in Darwin to power their visitor center. Given the different roof azimuths, variable roof
+pitch due to a curved roof, and extensive partial shading from surrounding vegetation and
+air conditioning units, as well as the region’s tough tropical climatic conditions, Enphase’s
+microinverters were the preferred solution for this project.
+DICE (Aust) Pty Ltd t/a
+Country Solar NT 99.6 kW
+Organization
+solar energy system size
+DICE (Aust) Pty Ltd t/a
+Country Solar NT
+127 MWh
+Enphase product installer
+Territory Wildlife Park - estimated annual production
+Berry Springs, Darwin NT
+0838
+Location
+38
+India
+U-Solar Clean Energy Solutions Pvt. Ltd, an installer of Enphase products, built a beautiful
+684 panel solar energy system across the 30,000 square foot rooftop space of Indiqube
+GVH building in Bangalore, Karnataka. This building functions as Enphase’s research and
+development facility and is the headquarters of Enphase-India operations.
+Indiqube GVH
+Organization 369.4 kW
+U-Solar Clean Energy
+solar energy system size
+Solutions Pvt. Ltd
+Enphase product installer
+506 MWh
+Bangalore (KA)
+Location
+estimated annual production
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 39
+Brazil
+Fortlev, an Enphase distribution partner in Brazil, chose Enphase microinverters to power
+its warehouse. The installation includes 627 Enphase IQ7A Microinverters on the roof to
+generate clean energy and savings for its business.
+Fortlev Solar
+Organization 210 kW
+Allan Realtec
+solar energy system size
+Enphase product installer
+Serra City / Espirito 384 MWh
+Santo State
+Location
+estimated annual production
+40
+South Africa
+The U.S. Embassy and Consulate in South Africa selected Rubicon Renewables as its official
+supplier for solar and backup on more than 400 consulate homes in the Western Cape
+and Gauteng. Enphase IQ7A Microinverters were selected for their 25-year warranty,
+panel-level asset management toolset, all-AC electrical safety, and superior performance
+in residential applications.
+U.S. Embassy and
+Consulate in South Africa 4.8 MW
+Organization
+aggregated solar energy system size
+Smart Energy and
+Ramgreen Services
+Enphase product installer 9,275 MWh
+Pretoria, Cape Town, and
+Johannesburg estimated annual production
+Location
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 41
+People
+We strive to make Enphase a great place to work by recruiting and retaining the
+best talent, cultivating a diverse, equitable and inclusive workforce, providing
+opportunities for learning and development, and ensuring a safe and healthy work
+environment.
+54%
+India
+33%
+North
+America
+7% 1%
+Europe China
+<1% 5%
+South Australia and
+America New Zealand
+4422
+P1. Company
+demographics
+Geographic headcount
+54%
+India
+33%
+North
+America
+7% 1%
+Europe China
+<1% 5%
+South Australia and
+America New Zealand
+Employee headcount
+3,500
+3,157
+2,821
+3,000
+2,500 2,260
+2,000
+1,500
+850
+1,000
+577
+427
+500 336
+0
+2017 2018 2019 2020 2021 2022 2023
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 4433
+P2. Recruiting and
+retaining the best
+We are committed to attracting and developing a strong, diverse group of employees.
+Our robust talent management program includes university outreach, global recruitment,
+career progression, and leadership development - empowering our employees to reach
+their full potential and find work satisfaction.
+Recruitment and onboarding
+We leverage employee referral programs, seek talent from specialized conferences, and
+work with recruiting agencies to supply a diverse slate of candidates for each job placement
+search. In addition, our talent acquisition department sponsors events, partners with
+student organizations on university campuses, makes certain all published job descriptions
+contain inclusive language, and ensures that interview teams are broadly represented.
+Once someone is hired, our world-class, scalable, and blended model for new employee
+onboarding and training creates an environment where all employees feel welcomed,
+supported, and valued.
+Buddy Up!
+As part of our new employee onboarding, every new employee is paired with a colleague, a
+“buddy,” who is a go-to person for the new employee. The buddy provides assistance and
+information during the settling-in period and ensures that the new employee is engaged
+and supported. In turn, our buddies benefit from improved self-confidence and the ability
+to hone managerial and leadership skills.
+Peer
+(with longer
+tenure)
+Maintain
+positive Technical
+outlook and and process
+attitude expert
+Buddy
+Share
+Characteristics
+knowledge Approachable,
+(Encourage accessible,
+self learning) and patient
+Listen actively
+Open-minded
+(Help resolve
+(No judgements)
+issues and
+concerns)
+44
+Benefits and wellness
+The physical, social, emotional, and financial needs of our employees and their families
+guide our global wellness program. We provide our employees with competitive
+compensation and benefits that enable them to achieve a nice quality of life and plan for
+their future, including retirement savings plans, paid vacation days and sick leave, and other
+benefits according to local regulations. All employees receive stock-based compensation
+through awards of Restricted Stock Units (RSUs) and are afforded additional benefits such
+as the ability to participate in an Employee Stock Purchase Plan (ESPP), quarterly bonus
+or commission plans, subsidized health insurance plans, employee assistance programs
+(EAP), and virtual fitness programs.
+“We recognize the importance We care about our employees and their families. Enphase provides family forming benefits
+of maintaining a positive and through Carrot, one of the leading global fertility care platforms. Carrot helps members
+explore alternatives to in-vitro fertilization (IVF) and assists employees around the world of
+constructive relationship
+every age, race, income, sex, sexual orientation, gender and marital status.
+with our workforce, as it is
+instrumental in our pursuit
+of sustainable growth and
+Engagement and satisfaction
+innovation.”
+We conduct an annual Employee Net Promoter Score (eNPS) and employee engagement
+survey. This survey drives our employee engagement plans and activities for the upcoming
+year. All employees are surveyed, and each functional or business unit prepares its own
+action plans for improvement for the year based on the survey results and feedback.
+Workforce and labor rights
+Enphase supports the fundamental rights enshrined in international labor standards. We
+believe that every individual has the right to associate freely and to engage in collective
+bargaining as protected by relevant laws and regulations. We are committed to complying
+with all applicable labor laws and standards in the countries where we operate, including
+the freedom to organize, negotiate, and express collective interests. We recognize the
+importance of maintaining a positive and constructive relationship with our workforce, as
+it is instrumental in our pursuit of sustainable growth and innovation. Our workforce and
+labor commitments include:
+• Paying a living wage
+• Respecting the right to collective bargaining
+• Respecting union rights
+• Respecting workers’ freedom of association
+• Abiding by specific conventions or standards governing union rights, specifically the
+Right to Organize and Collective Bargaining Convention, 1949 (No. 98).
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 45
+P3. Cultivating a diverse, inclusive
+and equitable workforce
+Enphase’s ability to innovate relies on the perspective and knowledge from employees across
+a broad range of backgrounds and experiences. We ensure our leaders and employees at all
+levels of the organization work with each other to foster an inclusive culture and mindset,
+and to continuously improve our interactions with each other, our partners, our customers,
+and our communities. Our global diversity, equity, and inclusion (DEI) strategy is focused on
+hiring, engagement, retention, and development efforts to achieve an inclusive and diverse
+workforce and is driven by a cross-functional council of executive leaders. As an extension
+of the efforts from the DEI council, we formed WE SPARK (Women at Enphase - Strong,
+Progressive, Ambitious, Resilient, Knowledgeable), an employee resource group (ERG) for
+women in 2023. This is a self-sustained community of women at Enphase whose mission
+is to inspire change, build and foster networking, and drive women’s professional growth
+by addressing the habits that limit them from advancing in the professional landscape. In
+2024, WE SPARK aims to offer developmental workshops throughout the year.
+“We ensure our leaders and Eliminating bias and ensuring equal opportunity
+employees at all levels of the
+We address the topic of “unconscious bias” in training that is available to recruiters, hiring
+organization work with each
+managers, and interviewers to ensure inclusive hiring practices. Through our “Interviewing
+other to foster an inclusive
+the Enphase Way” and “Hiring the Enphase Way” philosophies and trainings, we evaluate
+culture and mindset, and to candidates on merit and do not fall victim to prejudice or discrimination.
+continuously improve our
+interactions with each other, our We do not tolerate discrimination of any kind based on race, color, sex, gender, gender
+expression, religion, sexual orientation, national origin, ancestry, disability, medical
+partners, our customers,
+condition, genetic information, marital status, pregnancy, military or veteran status, or
+and our communities.”
+any other protected characteristic as outlined by all applicable laws. This policy applies to
+all employment practices within our organization, including hiring, recruiting, promotion,
+termination, layoff, recall, leave of absence, compensation, benefits, training, and
+apprenticeship.
+46
+P3. Cultivating a diverse, inclusive
+Table 6: Global gender diversity
+and equitable workforce Female Male Not disclosed
+Employee group
+(%) (%) (%)
+Executive officers (14) 14.3 85.7 0.0
+Leadership (209) 10.5 82.8 6.7
+Managers (589) 14.5 80.1 5.4
+All employees (3,157) 17.5 75.1 7.4
+Table 7: Global age diversity
+< 30 Years 31-50 Years > 50 Years
+Employee group
+(%) (%) (%)
+Leadership (209) 0.9 58.4 40.7
+Managers (589) 4.6 77.1 18.3
+All employees (3,157) 35.8 53.3 10.9
+Table 8: U.S. race and ethnicity
+All employees Leadership Managers
+Ethnicity (No. 1,003) (No. 127) (No. 230)
+(%) (%) (%)
+American Indian or Alaska Native
+0.2 0.0 0.9
+(not Hispanic or Latino)
+Asian (not Hispanic or Latino) 17.1 42.5 31.3
+Black or African American
+3.0 0.8 2.2
+(not Hispanic or Latino)
+Native Hawaiian or Other Pacific
+2.9 2.4 2.2
+Islander (not Hispanic or Latino)
+Two or more races
+0.5 0.0 0.0
+(not Hispanic or Latino)
+Not disclosed 21.8 11.0 16.5
+White (not Hispanic or Latino) 54.5 43.3 46.9
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 47
+DEI organizations and
+partnerships
+Avtar and Seramount
+In 2023, Avtar, India’s premier DEI solutions firm, along with Seramount, a strategic
+professional services firm dedicated to advancing DEI in the workplace in the United States,
+conducted its eighth successive edition of the Best Companies for Women in India (BCWI)
+and the Most Inclusive Companies Index (MICI). The BCWI and MICI studies evaluate
+organizations based on their gender diversity initiatives, equal opportunities, career
+advancement for women, and overall workplace inclusivity. Enphase again received two
+awards – “Top 100 Best Companies for Women in India” and an “Exemplar of Inclusion.”
+This accolade highlights Enphase’s commitment to gender diversity and inclusion in the
+workplace.
+SEIA DEIJ Certification Program
+Enphase continued its partnership with the Solar Energy Industries Association (SEIA) to help
+advocate for diversity and inclusion in the solar industry. SEIA’s Diversity, Equity, Inclusion &
+Justice (DEIJ) program increases social awareness by promoting solar companies that are
+certified, showcasing their progress in this space. The SEIA DEIJ also provides resources
+to help with expanding diversity efforts and educates member companies through various
+programs, training and resource development. In 2023, Enphase earned bronze level
+certification in the SEIA DEIJ program.
+Women in Cleantech & Sustainability
+Enphase continued its partnership with Women in Cleantech & Sustainability (WCTS),
+an organization that fosters an influential network of professionals to further the roles of
+women in growing the green economy and making a positive impact on the environment. By
+supporting WCTS, we are helping to shine a light on the need for more women in cleantech
+and fostering support for clean energy with participation in events and mentorship
+opportunities.
+4488
+CEO Action for D&I
+Enphase’s CEO signed the CEO Action for Diversity & Inclusion pledge in 2021, joining more
+than 2,000 other CEOs, to act on supporting more inclusive workplaces. We continued
+our pledge to promote diversity in our leadership team and implemented changes focused
+on attracting more qualified and diverse talent into the company such as making positive
+changes in our hiring process, including rewriting job postings to appeal to women, requiring
+that qualified diverse candidates must be interviewed for all new executive-level and Board
+of Directors (Board) positions, and ensuring a diverse representation of interviewers are
+always included in the process.
+ParityPledge
+Enphase is a signatory to the corporate “ParityPledge,” alongside a significant number
+of established corporations, in support of women and people of color in the workplace.
+We are continuing to honor the pledge goal, which requires a commitment to interview
+and consider at least one qualified woman and person of color for every open role, vice
+president and higher, including C-Suite and the Board.
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 4499
+P4. Developing
+our people
+‘Experience-Exposure-Education’ learning model
+Our learning model is designed to enable the majority of knowledge gained from job-related
+experiences, followed by learning from coaching and mentoring, and formal learning events.
+This model reinforces our belief that learning is not just a result of functional responsibility
+- it goes beyond formal training. Learning and development are embedded into daily work,
+cross-functional interactions, informal mentoring, and stretch assignments at Enphase.
+82 100%
+NPS for learning compliance course
+programs completion
+Enphase Learning Academy
+Enphase Learning Academy is the hub for learning and development for employees globally,
+focusing on job-related training, business awareness training and product overviews, and
+soft-skills programs. In 2023, Enphase Learning Academy launched the Management
+Development program – a six-month upskilling program for people managers; and the
+Leadership Development & Mentoring program – a one-year program aimed at grooming
+emerging leaders to take on leadership positions at Enphase.
+Career pathing, development and mobility
+Enphase offers its employees clear direction and opportunities for continued learning and
+growth. Employee career development at Enphase can often be non-linear. It happens in
+all directions, including subject matter expertise, lateral growth to new teams, and linear
+growth through a job family. We encourage employees to own their development and
+engage in career conversations with their managers. Such conversations enable employees
+to realize their career goals by identifying lateral and vertical advancement opportunities
+through focused development plans.
+50
+‘Ennovate’ – Enphase’s innovation program
+Innovation remains a core value at Enphase and is key to the long-term success of our
+organization. Ennovate, Enphase’s annual company-wide hackathon, is one of the programs
+that helps drive innovation at Enphase. In 2023, the Ennovate program again received
+over 130 ideas across three broad themes - software, systems, and business processes. A
+cross-functional team of engineering and business leaders has short-listed 36 proposals
+for proof-of-concept demonstration presentations, with prizes awarded to teams with the
+best ideas.
+Ennovate 2023
+Ideate. Innovate. Implement.
+Join the hackathon and help build the future of Enphase.
+Visit link.enphase.com/ennovate to learn more.
+Education Assistance Program
+Our Education Assistance Program offers qualifying employees financial support to
+advance their educational goals and increase their business knowledge. This benefit is
+used by our employees globally to advance their knowledge and career through formal
+education.
+Enphase behavioral competency framework
+Behavioral competencies are attributes that Enphase employees are expected to
+demonstrate at the workplace, forming a shared understanding of performance standards
+and Enphase’s values and culture. Enphase’s behavioral competency framework is at the
+core of internal employee practices such as hiring, performance evaluation, promotions
+and career development.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 51
+P5. Promoting a safe and
+healthy workplace
+Occupational Health and Safety (OHS) and Environmental
+Health and Safety (EHS)
+Enphase’s Occupational Health and Safety (OHS) program has implemented a culture
+of safety compliance, framed on identifying hazards, minimizing workplace risks, and
+promoting continuous improvement in safety performance. The U.S. Department of Labor’s
+Occupational Health & Safety Administration (OSHA) guidelines are the building blocks for
+our OHS program in the U.S. and provide significant influence over the development of our
+global OHS systems. The OHS program either complies with or exceeds the occupational
+health and safety regulations in the countries where we operate.
+“In 2023, Enphase had zero The OHS program goes through a continuous monitoring and evaluation process. Our
+reportable notices of health and OHS policy provides strategic direction, guiding principles, and relevant responsibilities for
+safety violations worldwide.” management, employees, and the Enphase Environmental Health and Safety (EHS) team.
+Our EHS team is led by a safety professional trained and certified by the Board of Certified
+Safety Professionals (BCSP). In 2023, Enphase had zero reportable notices of health and
+safety violations worldwide.
+Workplace accident and injury rates
+Enphase uses OSHA definitions to calculate recordable incidents, lost time, and restricted-
+day injuries. These definitions are also implemented globally for data gathering and analysis.
+In 2023, we expanded the accident and injury reporting program to cover operations in
+New Zealand and India in addition to those in North America. As a result of these efforts,
+our recordable incidents, lost-time, and restricted-day injuries are below industry averages
+published by the U.S. Bureau of Labor Statistics.
+Table 9: Accident and injury rates*
+Total Days Away,
+Lost Time
+Recordable Restricted,
+Incident Rate Fatalities**
+Incident Rate Transfer
+(LTIR)
+(TRIR) (DART)
+Enphase Energy 0.23 0.13 0.13 0
+Industry Benchmark*** 1.10 0.30 0.50 No data
+*North America, New Zealand, and India operations
+**Includes Enphase and contract employees
+***NAICS code 334413 – Semiconductor and Related Device Manufacturing
+52
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 5533
+P6. Responsible
+supply chain
+Our commitment to human rights
+We acknowledge our responsibility to protect, preserve, and promote human rights around
+the world. We are committed to ensuring that the people and communities impacted by
+our business can live a life of liberty, dignity, and respect. Our internal codes and policies on
+human rights are rooted in established frameworks and conventions including:
+• United Nations Declaration on Human Rights
+• The Code of Conduct of the Responsible Business Alliance (RBA)
+• The United Nations Guiding Principles for Business and Human Rights (UNGPs)
+• The Organization for Economic Cooperation and Development (OECD) Guidelines for
+Multinational Enterprises
+• International Labour Organization (ILO) Declaration on Fundamental Principles and
+Rights at Work
+“We believe access to energy Beyond the fundamental rights defined in these frameworks and conventions, we also
+helps to reduce poverty, consider access to clean, reliable, and affordable energy as a basic human right and a
+improve health, reduce prerequisite for achieving the 2030 United Nations Sustainable Development Goals (UN
+SDGs). We believe access to energy helps to reduce poverty, improve health, reduce
+inequality, and raise standards
+inequality, and raise standards of living. For more information, please refer to our Human
+of living.”
+Rights Policy.
+Business relationships and due diligence
+We seek to do business with those who share our values and commitment to human rights
+and expect all business partners to abide by our codes of conduct. We protect human rights
+across the value chain through the adoption of contractual clauses, supplier screening
+measures, grievance reporting, and on-site audits of our contract manufacturing facilities.
+At minimum, we expect our business partners to uphold basic human rights pertaining to
+minimum wage, maximum working hours, freedom of association and the right to collective
+bargaining, corporal punishment and disciplinary practices, acceptable living conditions,
+non-discrimination, and compliance with health and safety laws as defined in domestic and
+international conventions and frameworks.
+All Enphase employees, including supply chain and procurement managers, are educated
+annually on expectations regarding human rights as part of compliance training. As of the
+end of 2023, all suppliers are under contractual obligation to abide by the expectations set
+out in our Supplier Code of Conduct.
+5544
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 5555
+Grievance mechanisms
+Grievance mechanisms are available, including the use of an anonymous third-party
+whistleblower hotline, when instances of non-compliance with the Enphase Energy Code
+of Conduct or our Supplier Code of Conduct are observed or reported. Corrective actions
+are taken by managers, the HR department, the Legal department, executive sponsors,
+and/or the Audit Committee of the Board when appropriate.
+“We are committed to following Eradicating forced labor and human trafficking in supply
+all materials guidance and chains
+environmental regulatory
+compliance requirements of the We take the issues of slavery and human trafficking very seriously and will continue doing
+our part by responsibly managing our supply chain to help eradicate human trafficking and
+countries in which we operate.”
+slavery. As stated in our Supplier Code of Conduct, our suppliers must not support, promote,
+or engage in the practice of forced labor, child labor, slavery, or human trafficking. The
+Supplier Code of Conduct requires our suppliers, next tier suppliers, and subcontractors
+to comply with all international standards and applicable laws regarding slavery and human
+trafficking and to conduct due diligence of their operations to verify compliance that the
+materials used in our products comply with laws regarding human trafficking and slavery.
+Also see our California Transparency in Supply Chains Disclosure.
+Materials sourcing and conflict minerals
+We are committed to following all materials guidance and environmental regulatory
+compliance requirements of the countries in which we operate. We do not use cobalt in our
+batteries as this mineral represents an increased risk of being sourced from the Democratic
+Republic of the Congo (DRC) and other conflict-affected areas associated with unfair labor
+practices. Our conflict minerals disclosure on responsible sourcing is updated annually and
+filed with the Securities and Exchange Commission (SEC) and posted on our website. For
+additional information, please refer to our most recent conflict minerals report and conflict
+minerals policy.
+We expect our suppliers to source materials and operate in a responsible manner consistent
+with the Organization for Economic Cooperation and Development’s Due Diligence
+Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk
+Areas, and are committed to ensuring that private security providers respect human rights.
+We expect our suppliers to acknowledge and agree to the following terms with respect to
+conflict minerals:
+• that we are required to meet the requirements of the Dodd-Frank Wall Street Reform
+and Consumer Protection Act
+• to provide us with conflict mineral content and country of origin information on
+products supplied to us
+• to cooperate in our or independent third-party auditing of the supply chain and
+procurement process, conflict mineral audits, and due diligence on its suppliers, and
+• to collaborate with us in developing a chain of custody for conflict minerals in the
+supply chain and identifying and sourcing conflict-free sources for minerals used in
+our products
+56
+Supplier selection
+The success of our products would not be possible without positive and long-lasting
+relationships with suppliers and partners that share our values of high quality, design, and
+sustainability. We work closely with all our contract manufacturers —from onboarding
+to customer delivery —to ensure that our products are made to the highest ethical,
+environmental, and socially responsible standards.
+“The success of our products We provide a Supplier Quality Assurance Manual that outlines our expectations of new
+would not be possible without and continuing partners. We are committed to producing high quality, reliable, and
+positive and long-lasting cost-effective products that are shipped on time, provide customer value, and conform
+to national and international requirements. We, along with our customers, demand and
+relationships with suppliers and
+expect defect-free products and services. Prior to onboarding, all potential suppliers are
+partners that share our values of
+rigorously screened for performance on over 100 factors related to quality, environmental
+high quality, design, and
+stewardship, and social responsibility such as:
+sustainability.”
+• Presence of a certified ISO 9001 or ISO/TS 16949 Quality Management System (QMS)
+• Presence of a certified ISO 14001 Environmental Management System (EMS)
+• Presence of an environmental policy, and
+• Published REACH and RoHS compliance
+Auditing procedures
+We maintain Enphase employee presence at all contract manufacturing locations to ensure
+that rigorous standards for quality and environmental and social sustainability are upheld
+throughout the duration of the manufacturing partnership. All contract manufacturers
+are subject to supplier audits covering environmental, social, and sustainability criteria.
+For each contract manufacturer, we complete one audit, issue any corrective actions,
+and document corrective actions taken during a follow-up audit. Contract manufacturing
+audits are completed at least annually by our on-site teams. We plan to extend our auditing
+procedures to additional strategic first tier hardware component suppliers in the future.
+• 100% of CMs are certified to ISO 14001 Environmental Management System (EMS)
+• 100% of CMs are certified to ISO 9001 or ISO/TS 16949 Quality Management System
+(QMS)
+Table 10: Supply chain auditing*
+Contract
+Environmental Social Health and Corrective
+manufacturers
+non- non- safety non- action
+issued
+compliance compliance compliance completion
+corrective
+rate (%) rate (%) rate (%) rate** (%)
+actions (%)
+9% 3% 0% 100% 88%
+*Contract manufacturing partners only
+**Remaining unresolved corrective actions to be completed in 2024
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 57
+Society
+We aim to support a cleaner, more reliable, and better-performing grid, and to
+collaborate with a wide range of stakeholders to advance policy outcomes in
+support of clean energy across the world.
+5588
+S1. Enphase Corporate Social
+Responsibility (CSR) initiatives
+United States
+GRID Alternatives
+We have been partnering with GRID Alternatives, a national non-profit leader, since
+2012. GRID’s mission is to build community-powered solutions to advance economic and
+environmental justice through renewable energy. GRID works towards this mission by
+handling solar installations and providing job training in low-income communities. Through
+the partnership, we donate our industry-leading microinverters, batteries, and EV chargers
+for GRID projects.
+42 MW Over the lifetime of our partnership, GRID has installed more than 10,300 solar energy
+systems using Enphase products in in low-income communities across the United States,
+solar installed which equates to more than 42 megawatts of solar power. These homes are expected to
+see an estimated lifetime savings of more than $295 million, helping to prevent more than
+705,200 tons of greenhouse gas emissions from entering the atmosphere. In addition,
+10,300
+Enphase employees have volunteered thousands of on-job working hours over the
+families served past decade, which led to the installation of solar on dozens of low-income homes and
+community buildings. This work has also provided job trainees and volunteers with more
+than 592,000 hours of solar education and training.
+$295 million
+expected lifetime savings
+705,200 tons
+of GHG emissions avoided
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 5599
+Matt’s Place Foundation
+Enphase donated microinverters to Matt’s Place Foundation in Spokane, Washington, to
+support building a living space for families contending with Lou Gehrig’s disease. This eco-
+friendly state of the art interactive smart home is designed specifically for ALS patients and
+their families and is meant to help those living with ALS lead more independent lives.
+Vision Warriors Foundation
+Enphase teamed up with the Vision Warriors Foundation to donate microinverters to power
+housing for homeless veterans in the Saint Louis area. Located on a 5-acre property in
+the heart of St. Louis, the Veterans Community Project (VCP) campus will consist of 50
+tiny homes ranging from 240–320 square feet and a VCP Village Community Center. The
+community center will serve as a “base camp,” providing case management services,
+education, health and wellness programming, and social activities for veterans living in the
+village.
+The Footprint Project
+After the Maui wildfire disaster, Enphase support allowed Footprint Project to stand up
+its largest microgrid mobilization ever. In the first three months of response, Footprint
+Project deployed over 200 kW of solar and 350 kWh of energy storage to provide clean,
+sustainable power to 18 relief hubs across Maui.
+Empowered by Light
+Enphase joined Empowered by Light to launch a one-year pilot workforce development
+program in Juncos, Puerto Rico in an effort to help meet the growing demand for solar
+installers in the region. The program seeks to train 60 people during the first year, using GRID’s
+Installation Basics Training (IBT) curriculum that consists of three weeks and 120-hours
+of interactive classroom learning and hands-on solar training labs with equipment. The
+program aims to connect graduating trainees to real jobs which will increase job placement
+and the overall impact of the IBT program.
+Empower a Billion Lives
+The Empower a Billion Lives (EBL) competition, an interdisciplinary, biennial global
+competition to identify and promote innovative and scalable solutions to energy poverty.
+Teams are invited from across the globe and from all walks of life, including companies,
+entrepreneurial startups, research organizations, and student teams from colleges and
+universities.
+6600
+Australia
+House of Hope / Foundation 61
+Enphase, Australian Women in Solar Energy (AWISE), REC Solar, and Vortex Electrical
+collaborated to donate a 30 kW state-of-the-art solar system to House of Hope, a new live-
+in facility for women seeking drug and alcohol rehabilitation support in Geelong, Victoria.
+Driven by not-for-profit Foundation 61, the solar system is projected to save around $650
+monthly on running costs, or the equivalent of one full-time support worker’s salary one
+day a week.
+Thailand
+SCG Future Energy
+Enphase and SCG Future Energy collaborated to donate Enphase IQ Microinverter-
+powered solar systems to two universities in Thailand. The objective of the donation is to
+both educate students about leading solar power technology and offset daytime electricity
+costs.
+University 1
+Organization: Kasetsart University
+Enphase installer: SCG Future Energy Co., Ltd.
+Location: Kasetsart University BKK, Thailand
+Solar energy system size: 2.2 kW
+Estimated annual production: 2,882 kWh
+University 2
+Organization: King Mongkut’s University of Technology Thonburi
+Enphase installer: SCG Future Energy Co., Ltd.
+Location: King Mongkut’s University of Technology Thonburi BKK, Thailand
+Solar energy system size: 4.4 kW
+Estimated annual production: 6,107 kWh
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 6611
+India
+Trinity Care Foundation
+We continued our support of the Trinity Care Foundation with two new schools (Adarsha
+Vidyalaya, Siddepalli and New Government High School, Venkatagirikote) receiving
+cutting-edge computer labs to provide underprivileged students with computer literacy,
+and implementing Enphase powered solar PV systems to ensure an uninterrupted power
+supply, thus fostering a sustainable and eco-friendly learning environment.
+India Sudar
+We continued our contribution to schools across rural Karnataka by developing essential
+facilities infrastructure such as installing female restrooms, computer centers, and libraries.
+The project also aims to create employment opportunities in the local village areas
+surrounding the schools.
+Society of St. Vincent De Paul (Mandya)
+We sponsored the education expenses for 35 students at the Sharon School, KG Halli,
+Bangalore who hail from underprivileged families, primarily migrant laborers from the
+northern parts of India.
+Pratham Books
+We worked with Pratham books to print and disseminate 18,800 children’s books (in
+multiple regional Indian languages such as Assamese, Tamil, Telugu and Marathi) with state
+governments, non-profit organizations and the school system. These books introduce
+science, technology, engineering, and mathematics (STEM) subject matters to children in
+underprivileged communities in India’s expansive agricultural hinterland.
+Maharaja Energy and SEWA
+Enphase collaborated with Maharaja Energy and SEWA to distribute 290 efficient
+cookstoves to underprivileged rural households. Both organizations are dedicated to
+catalyzing inclusive and sustainable development for vulnerable sections of society by
+providing opportunities to improve the overall standard of living.
+6622
+S2. Enphase
+grid services
+Adding value to customers and communities with Enphase
+solar and battery systems.
+In 2023, we expanded our grid services programs, enabling more homeowners with
+IQ Batteries to participate in utility programs and earn money. These programs, also known
+as virtual power plants (VPPs), create a network of home batteries that utilities and grid
+operators manage. Homeowners who enroll in a VPP send the stored energy in their home
+batteries to the grid to help electric utilities avoid using power from expensive, polluting
+power plants when power demand is higher. In return, homeowners can receive hundreds
+to thousands of dollars toward their home battery system purchase or as annual incentive
+payments.
+In many grid services programs, customers can sign up, monitor, and control participation
+in the program using the Enphase App or via their energy providers’ web portal or apps. The
+incentives reduce the cost of the home energy system and help make home batteries more
+accessible and affordable for more people. Homeowners enrolled in these programs can
+still use their reserved energy for backup power when the grid is down, and Enphase Storm
+Guard can prioritize a full charge for the battery when triggered.
+An overview of our grid services programs can be found on our website.
+Enroll Monitor Backup and opt-out
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 63
+In 2023, we announced our participation in Pacific Gas and Electric’s (PG&E) Emergency
+Load Reduction Program (ELRP), Public Service Enterprise Group (PSEG) Long Island’s
+Battery Storage Rewards Program, and Connecticut’s Energy Storage Solutions Program.
+We also signed and started many more pilot VPP programs with utilities across the United
+States. We also introduced our most powerful home battery, the IQ® Battery 5P, which
+offers an industry-leading energy storage solution to help homeowners, utilities, and grid
+operators derive more value.
+PG&E Emergency Load Reduction Program
+California homeowners in PG&E territory who install Enphase IQ Batteries and enroll in
+the program will earn $2 per kilowatt-hour from PG&E for using the electricity stored in
+their IQ Batteries to help reduce demand on the grid during peak load periods. The ELRP
+demand response events are scheduled to occur during hot summer days between May
+and October and last from one to five hours between 4 p.m. and 9 p.m. Between 20 and 60
+event hours will be scheduled during each ELRP season, with homeowners expecting to
+earn between $100 to $250 per year.
+PSEG Long Island’s Battery Storage Rewards Program
+Currently, Long Island homeowners who install Enphase IQ Batteries and enroll in PSEG Long
+Island’s Battery Storage Rewards program will receive an upfront incentive from installers
+of Enphase products of at least $250 per kilowatt-hour of useable battery capacity with a
+cap of $6,250 per household. For example, homeowners with two IQ Battery 5Ps offering
+10 kilowatt-hours of usable capacity will receive an upfront discount of $2,500 from their
+Enphase installer as part of the program. Low-to-moderate income homeowners may
+be eligible for a larger $400 per kilowatt-hour discount or $4,000 for installing two IQ
+Battery 5Ps with 10 kilowatt-hours of usable capacity. In return for the upfront incentive,
+participating homeowners agree to let PSEG Long Island use the electricity stored in their
+batteries to help reduce demand on the grid during peak load periods about 10 times per
+year. The power-sharing would occur automatically, and participants would keep the
+functionality of their IQ Batteries, including backup power.
+64
+Connecticut Energy Storage Solutions Program
+Connecticut homeowners who install Enphase IQ Batteries and are electric customers
+of United Illuminating or Eversource Energy are eligible to enroll in the Energy Storage
+Solutions program. Enrolled homeowners currently receive an upfront incentive from the
+Connecticut Green Bank of at least $250 per kilowatt-hour of useable battery capacity
+with a cap of $16,000 per project, or 50 percent of the battery plus installation cost
+(whichever is lowest). For example, homeowners with two IQ Battery 5Ps offering 10
+kilowatt-hours of usable capacity will receive an upfront incentive of at least $2,500
+from the program. Underserved communities, lower-income households, and “grid edge”
+customers (homeowners in areas with more frequent or longer grid outages) may qualify
+for an even more significant incentive of $450 - $900 per kilowatt-hour of usable battery
+capacity. In addition, the upfront incentive can be coupled with seasonal performance
+incentives from United Illuminating or Eversource of up to $200 per kilowatt each summer
+and $25 per kilowatt each winter for sharing the electricity stored in the homeowner’s IQ
+Batteries to help reduce demand on the grid during peak load periods.
+Our portfolio of grid services programs currently spans nine states, including Arizona,
+California, Connecticut, Hawaii, Massachusetts, New York, Rhode Island, Texas, and Vermont.
+As we continue to scale these programs, including expanding programs internationally
+in the coming years, we expect to provide access to cleaner, more affordable, and more
+reliable energy for everyone.
+Learn more about these programs on the Enphase website.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 65
+S3. Enphase innovation and
+industry leadership
+Supporting a more clean, reliable, and better-performing
+grid through codes and standards.
+To support our commitment to drive the adoption of sustainable clean energy solutions, we
+participate in the development of policies and regulations around the world as part of our
+core principles.
+Underwriters Laboratory (UL) and the
+Institute of Electrical and Electronics Engineers (IEEE)
+“We participate in the In 2023, Enphase continued its leadership and collaboration with UL and IEEE, including
+development of policies and acting as task group leader and co-convener for several specific standards and actively
+regulations around the world as participating in the standards development process for a variety of safety and compliance
+issues.
+part of our core principles.”
+Underwriters Laboratory elevated Power Control Systems (PCS) from a Certification
+Requirements Decision under UL 1741 to an Outline of Investigation (OOI) under UL 3141
+in 2023. This change reflected UL’s belief that PCS is a critical function which warranted
+being a full UL standard. Enphase lead the PCS task group which published the First Edition
+of UL 3141 and will continue work on future editions leading to publication as a bi-national
+standard in the U.S. and Canada. In addition to leadership on the PCS task group, Enphase
+also participated in UL Standards Technical Panels UL 1741, UL 3141, UL 3741, UL2703, UL
+6703, UL 9540, UL 9540A, and UL 1699B during 2023.
+Enphase continued its support of the Institute of Electrical and Electronics Engineers in
+2023, serving on the management team developing the next revision of the IEEE P1547
+and P1547.1 standards as well as participating in multiple sub-groups supporting this
+effort. Enphase also served as co-facilitator of Task Force 2, charged with developing
+recommended changes in multiple sub-groups to accommodate Vehicle to Grid applications
+in 1547. Enphase co-facilitated the 1547.1a amendment, which corrects or provides clarity
+on over 100 issues discovered following original publication of 1547.1 in 2020.
+Interstate Renewable Energy Council (IREC) and
+Sustainable Energy Action Committee (SEAC)
+Led by IREC, the SEAC provides a forum for stakeholders to address code enforcement and
+permitting for sustainable energy systems. Enphase is a founding member and an active
+participant in SEAC’s work to advance clean energy permitting and inspection initiatives.
+The SEAC addresses industry confusion about how to interpret particular codes, which
+can slow down the deployment of solar and battery systems and create more work for local
+officials and project developers.
+66
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 6677
+US Department of Energy I2X program
+In 2023, Enphase submitted a proposal to the U.S. Department of Energy (DOE) to study
+the impact of PCS on utility service transformers. The project was selected for funding
+and assigned to Pacific Northwest National Labs (PNNL) which will conduct the research.
+Enphase worked with several utilities to define the goals and objectives of the project and
+is supplying PNNL with high resolution performance data for actual systems operating in
+the field.
+International Code Council
+We work alongside other clean energy stakeholders, in collaboration with the International
+Code Council (ICC) to develop changes to the International Fire Code (IFC) and the
+International Residential Code (IRC) to develop practical solutions. The group actively
+participates in the code-making process to recommend solutions for future versions of the
+Code. The IFC has gained increased importance, especially in California, as energy storage
+systems are beginning to be installed at scale.
+International Electrotechnical Commission (IEC)
+The IEC is a global, not-for-profit membership organization, whose work underpins quality
+infrastructure and international trade in electrical and electronic goods. We work with the
+IEC to support the writing of international codes and standards. Specifically, our team
+is actively engaged as members of the IEC Technical Committee 82, which is scoped
+to look at solar PV energy systems. Within this committee, we are actively involved with
+Working Groups 3 (balance of system components) and 6 (inverter safety). We have also
+participated in working groups to develop the following IEC standards:
+• IEC 63027 (DC arc fault)
+• IEC 62109-1 (Inverter safety)
+• IEC 62109-3 (AC module safety)
+• IEC 62548 (PV array design requirements)
+68
+S4. Promoting clean
+energy policies
+In 2023, Enphase was involved in several policy and regulatory initiatives that are expected
+to enable the broad adoption of DERs including residential solar, energy storage, and EV
+charging.
+“The Inflation Reduction Act In the United States, we continued our leadership role with SEIA as members of the Board
+(IRA) was signed into law in of Directors, as well as leadership positions in various committees and subcommittees. We
+2022 and enabled Enphase continued our role as members of the California Solar & Storage Association (CALSSA),
+which represents the largest state-affiliated solar and battery industry association in the
+to begin manufacturing in the
+United States. We are also members of Advanced Energy United, which represents the full
+United States, bring back high-
+range of advanced energy technologies and services in the United States.
+technology jobs and help
+advance the country’s clean In Europe, we are members of Solar Power Europe, the leading trade association for solar
+energy economy.” technology on the continent.
+Here are some highlights from 2023:
+United States manufacturing
+The IRA was signed into law in 2022 and enabled Enphase to begin manufacturing in the
+United States, bring back high-technology jobs and help advance the country’s clean
+energy economy. We began microinverter shipments in 2023 from our new contract
+manufacturing locations in the United States, including Flex in South Carolina and Salcomp
+in Texas.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 69
+DER interconnection policy
+Enphase worked with decisionmakers in both the United States and Europe to accelerate
+the adoption of new interconnection processes to enable higher penetration levels of DERs
+while mitigating against costly grid upgrades by grid operators.
+Enphase was also instrumental in developing the regulatory standards necessary to unlock
+PCS software for home solar and battery systems. PCS is an advanced software-enabled
+feature that enables a more streamlined interconnection process for DERs, reduces the
+need for main panel upgrades, and supports increased battery capacity for homeowners.
+Enphase undertook these initiatives in 2023 and continues to advance them in order to
+help ensure that DERs can safely connect to the grid, provide grid resilience benefits to
+customers, and grid services benefits to grid operators.
+“Enphase was responsible Virtual power plant (VPP) policy
+for advancing policies and
+Enphase was responsible for advancing policies and regulations in support of DER-enabled
+regulations in support of DER- VPPs that provide reliability services to the electric grid in many markets. This includes
+enabled VPPs that provide the development of VPP programs that enable residential customers to modify their DER
+reliability services to the electric systems (i.e., decrease energy consumption and/or increase energy exports) to receive
+maximum compensation from grid operators. In addition, Enphase worked to advance
+grid in many markets.”
+the development of incentive programs for customers to acquire DER systems that grid
+operators, in turn, may utilize to maintain grid reliability.
+Domestic manufacturing policy
+Enphase worked with decisionmakers to advance incentivization programs in the United
+States and Europe to support the development of a domestic manufacturing industry for
+DER systems, as well as new tax and tariff initiatives that serve to increase customer demand
+for domestically manufactured products and improve safety and security standards for
+DER customers.
+70
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 7711
+Corporate
+governance
+Our corporate governance framework is rooted in risk
+management and compliance, which serves as a foundation
+for sustainability and ESG efforts at Enphase.
+7722
+G1. ESG governance
+and leadership
+Board oversight of ESG
+“Our governance framework is Our Board of Directors is presided over by an Independent Chair of the Board. We believe
+rooted in risk management and that having an Independent Chair, separate from our CEO, creates an environment that
+is more conducive to objective evaluation and oversight of management’s performance.
+compliance, which serves as
+We further believe this increases management’s accountability and improves the Board’s
+a foundation for sustainability
+ability to monitor whether management’s actions are in the best interests of our company
+and ESG efforts at Enphase.”
+and our shareholders.
+Our governance framework is rooted in risk management and compliance, which serves as
+a foundation for sustainability and ESG efforts at Enphase. We appreciate the importance
+of ESG risks and opportunities, and the Board and its committees are responsible for
+overseeing our overall ESG strategy.
+The Nominating and Corporate Governance Committee oversees ESG matters including
+strategy, initiatives, policies, and outreach to investors and other interested stakeholders.
+Our cross-functional ESG executive leadership team provides regular updates on emerging
+ESG trends, reporting and regulations, and assessment of strategic objectives over the
+short-, medium-, and long-term on climate and emissions, diversity initiatives, human
+rights, and other material ESG topics.
+The Audit Committee has the responsibility to consider and discuss our major financial and
+accounting risk exposures and the steps our management has taken to monitor and control
+these exposures, including the potential financial impact of physical climate risks. The Audit
+Committee also monitors compliance with legal and regulatory requirements, including
+emerging ESG and sustainability disclosure requirements, as well as the performance of
+our internal audit function.
+The Compensation Committee oversees matters related to human capital management,
+leadership development, and talent assessments. The Committee is also responsible for
+executive compensation and pay metrics.
+Additional information about the role of the Board and its various committees is available in
+our Corporate Governance Guidelines and our most recently filed Proxy Statement.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 73
+Board diversity and independence
+We are committed to ensuring that our Board is effective and serving the long-term interests
+of our shareholders. We believe that our Board should represent diversity of thought,
+background, skill, experience, and expertise. We recognize that enhancing demographic
+diversity on the Board, through the representation of women and underrepresented
+groups, encourages a thoughtful decision-making process that is important to effective
+corporate governance. Consistent with our philosophy, we have codified a version of the
+Rooney Rule in our Corporate Governance Guidelines, which states that, “the Nominating
+and Corporate Governance Committee will ensure each pool of qualified candidates for
+additional or vacant Board positions from which Board nominees are chosen includes
+candidates who bring racial and/or gender diversity.”
+The composition of our seven-person Board reflects a variety of backgrounds, experiences,
+and tenures, and we continue to seek opportunities to enhance the diversity and
+effectiveness of our Board.
+Board composition
+Tenure Diversity
+0-5 years 2 2 11+ years
+8.4 43% 3 Diverse
+years
+Average tenure Others 4 Diverse
+3
+6-10 years
+Independence Age
+Non-Independent 2 > 60 years 2 2 < 50 years
+71% 57
+years
+Independent Average age
+5
+Indepedent
+3
+50-60 years
+74
+ESG management structure
+Our cross-functional ESG executive team, led by our General Counsel, and the supporting
+working groups manage and operationalize the ESG program across the company. The ESG
+team is comprised of representatives from executive management and meets regularly
+to review ESG risks and opportunities, develop ESG goals and targets, and allocate the
+necessary resources to achieve companywide ESG objectives. The supporting ESG
+working groups include senior leaders and key internal stakeholders representing legal,
+investor relations, global policy and government affairs, facilities, procurement, supply
+chain, quality, manufacturing, customer service, human resources, compliance, and risk
+management. Progress toward ESG goals and targets is incentivized through our annual
+and quarterly bonus program.
+Enphase Energy Board
+of Directors
+Nominating &
+Audit
+Corporate Governance
+Committee
+Committee
+ESG Executive
+Leadership
+Team
+ESG
+Working Group
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 75
+ESG pay link
+We are in the business of providing climate change solutions to the world. Given our purpose,
+remuneration to executives, senior leadership, managers, and individual contributors helps
+drive performance under the environmental ESG pillar, including quarterly bonus payouts
+that are a function of company profitability, our company performance against targets, and
+individual performance. Beyond climate-related goals, employees can also be rewarded in
+a similar manner through the quarterly bonus system for advancing progress among other
+various ESG initiatives under the social and governance pillars.
+Stakeholder engagement
+Our ESG program is rooted in addressing issues most important to both our company
+and stakeholders. This allows us to identify and prioritize sustainability risks and
+opportunities and proactively respond to stakeholder concerns. Our approach considers
+the expressed concerns among stockholders, financial analysts, company leadership,
+employees, customers and suppliers against the evolving regulatory landscape, disclosure
+requirements, and emerging ESG trends. We use our findings to help identify strategic
+priorities and define goals and targets of our ESG program.
+76
+G2. Business ethics
+and compliance
+Enphase Code of Conduct
+We hold ourselves to operating under the highest ethical standards and believe that
+all people should be treated with dignity and respect. The Enphase Code of Conduct
+applies to all officers, directors and employees, contractors, and consultants. It sets forth
+guidelines to ensure proper and ethical behavior, legal compliance, and adherence to our
+standards, policies, and procedures. We are committed to complying with all applicable
+laws and regulations everywhere we operate.
+“We hold ourselves to operating Supplier Code of Conduct
+under the highest ethical
+We choose business partners who share our mission and intend to work only with those
+standards and believe that all
+suppliers who agree that our shared success is based on acting ethically and lawfully. We
+people should be treated with
+expect our business partners to adhere to our Supplier Code of Conduct, which includes
+dignity and respect.” (a) conducting business with high ethical standards; (b) complying with applicable laws;
+(c) supporting the human rights of workers and treating their employees with dignity; (d)
+adhering to anti-slavery and human trafficking principles; and (e) maintaining safe and
+healthy working conditions.
+Compliance training
+To meet legal requirements and regulations, such as anti-discrimination laws, health and
+safety regulations, and data privacy laws, we offer a set of compliance trainings, with
+an objective to provide required information and awareness to all employees, including
+managers, on anti-corruption, bribery, human trafficking and slavery, safety, code of
+conduct, workplace harassment prevention, ISO training and more. We achieved 100%
+completion of our required compliance courses and had no confirmed cases of breaches
+to our Code of Conduct in 2023.
+Clawback policy
+Effective October 2, 2023, the Compensation Committee approved a new Executive
+Compensation Clawback Policy (the “Required Clawback Policy”), which is designed
+to comply with, and will be interpreted in a manner consistent with, Section 10D of the
+Exchange Act and the applicable Nasdaq rules. In addition, we also maintain clawback
+provisions that apply to employees, including our named executive officers, that receive
+equity awards under our 2023 Performance Share Program that allows the Board to
+recover any incentive-based compensation that was paid based on erroneous financial
+information reported under securities laws (“PSP Clawback Provisions”). For additional
+information regarding the Required Clawback Policy and the PSP Clawback Provisions,
+please refer to our 2024 Proxy Statement.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 77
+Whistleblower policy
+We take matters of ethics and integrity seriously at all levels of our organization and
+provide an anonymous platform available to report violations of the Code of Conduct. We
+proactively communicate the existence of the whistleblower hotline and empower each
+employee to report any witnessed or suspected wrongdoing. The whistleblower hotline is
+also available in most local languages where we operate. Under our whistleblower protection
+and non-retaliation provisions, any employee, supplier, or other party is encouraged to
+anonymously or non-anonymously report concerns and violations of our policies. Our
+hotline is available 24 hours a day, seven days a week, and structures are in place to ensure
+all reports are investigated promptly with the highest degree of confidentiality. Retribution
+or retaliation against whistleblowers is strictly prohibited. Employees are also encouraged
+to report any suspicious or unethical activity directly to their manager, human resources,
+the legal department, or our Compliance Officer. For additional information, please refer to
+our Code of Conduct.
+78
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 7799
+G3. Data privacy, cybersecurity,
+intellectual property
+Data privacy and cybersecurity
+We continue to carry out our belief that every global citizen is entitled to strong privacy
+protection. This belief is carried out in our data privacy and cybersecurity programs.
+Our data privacy program is a single framework governing all processing of personal
+information, derived from the world’s strictest standards, including the EU’s General Data
+Protection Regulation (GDPR), California’s Consumer Privacy Act (CCPA) and California
+Privacy Rights Act (CPRA), and the most stringent of requirements from various other state
+and federal privacy laws. Every processing activity follows this uniform framework, which
+ensures that we treat our employees, customers, partners, and general consumers in the
+proper way. As a few notable examples:
+“We train our workforce about • We never sell or provide personal information
+our privacy policy and other • We give individuals notice and choice – notice of how we process their personal
+data processing activities, information, including who we share it with, and a choice of such processing where
+possible. This includes built-in consent in many instances where it is not legally required
+and frequently refer to it in
+• We comply with data subject requests regardless of where the data subject is located,
+developing and maintaining our
+including requests to access, delete, know, rectify, and not sell or share
+products and services.”
+• Our privacy team routinely engages with consumers on data issues, even where there
+is no legally recognized privacy request
+• We demand best-in-class privacy clauses with our service providers/processors
+Our public privacy policy reflects our privacy practices globally, including every data
+processing activity in each of our various businesses. Going beyond simply legal
+compliance, our privacy policy was created and continues to evolve based on what is
+“right” rather than merely what is “required.” Our policy is routinely reviewed and updated
+in accordance with leading data privacy laws, internal policies, and to reflect improvements
+in internal practices consistent with the principles above. We train our workforce about our
+privacy policy and other data processing activities, and frequently refer to it in developing
+and maintaining our products and services.
+All partner engagements involving personal information are done with guidance from our
+privacy team, which seeks to ensure that our partners abide by our privacy expectations
+above. With our service providers/processors, this includes privacy clauses that including
+definition of parties’ respective processing roles, restrictions on use and further transfer
+of personal information, definition of data retention periods, and other forms of data
+minimization.
+We also deeply integrate our privacy and cybersecurity efforts, with the understanding
+that the confidentiality, integrity, and availability of personal information inherently impacts
+our delivery on privacy principles. In 2023, we obtained SOC2 Type 2 certification for
+80
+several of our core businesses and architectures. We continue to work with various third-
+party cybersecurity experts and certification bodies to demonstrate our commitment to
+cybersecurity.
+We also significantly matured our cybersecurity operations, including improvements
+in Board level oversight, risk identification and management, coordinated vulnerability
+reporting, Security Incident Response Team policy and procedures, and management and
+evaluation of escalated incidents and outward reporting obligations. Our cybersecurity
+program continues to mature through improved documentation, tools and resources,
+tabletop exercises, cross-functional involvement, and other improvements.
+Intellectual property
+We are strongly committed to advancing the state of the art, including developing and
+protecting our technologies through various forms of intellectual property. Patents and
+trade secrets are among our most valuable assets as they protect our investment in R&D. We
+place particular emphasis on protecting our digital innovation, including software, through
+a specifically focused High-Value Trade Secret program. Our ASIC designs are similarly
+protected through customized High-Value Trade Secret Protection Plans. Our patent
+portfolio continues to be a best-in-class representation of our dedication to innovation.
+At the end of 2023, we had more than 400 issued patents and more than 250 pending
+applications, covering microinverters, batteries, EV supply equipment, grid and microgrid
+interaction, our supporting hardware and software suite, and various components and
+technologies within these major categories. We expect this protection to continue to grow
+in the years ahead, owing both to our increased innovation and our focus on enhancing our
+intellectual property position.
+Chart 4: Patents and pending applications
+700
+264
+600
+186
+500
+127
+400
+86
+401
+300 368
+333
+317
+200
+100
+0
+Q4 20 Q4 21 Q4 22 Q4 23
+Patents
+Pending applications
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 81
+As a leading international brand, we also protect our trademarks and have a portfolio of
+more than 100 unique trademarks, both registered and unregistered. This includes pending
+marks in more than 40 countries. Our domain protection reflects similar intensity as we
+continue to expand internationally. We emphasize protection of our copyrights as well,
+where we restrict any use of Enphase copyrighted content without an express license
+granted by our intellectual property team.
+Falling between the discrete forms of intellectual property, we protect all our confidential
+information with confidentiality agreements, both with employees and external parties.
+All our R&D personnel have additionally entered into invention assignment agreements
+with the company, requiring employees to assign to us all the inventions, designs, and
+technologies they develop during their employment with us.
+While we expect others to respect our intellectual property, we similarly respect the rights
+of others, routinely evaluating relevant portfolios for freedom-to-operate, rigidly enforcing
+internal open-source consumption policies, observing Digital Millennium Copyright Act
+(DMCA) copyright takedown procedures, and ensuring that we are honoring others’
+intellectual property rights.
+82
+Appendix
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 8833
+Emissions and energy
+calculation methodologies
+Avoided metric tons of carbon dioxide equivalent (MTCOe) figures were derived from
+2
+actual kilowatt-hour (kWh) production of our deployed microinverter fleet from Enphase’s
+inception through December 31, 2023 as recorded in our Enlighten™ monitoring database,
+including a gross up factor of 1.2 to account for deployed systems which are not monitored
+in the Enlighten database. The conversion of kWh production to carbon dioxide equivalent
+figures was made using the U.S. EPA Greenhouse Gas Equivalencies calculator.
+The 2023 GHG emissions inventory follows the GHG Protocol Corporate Standard, covering
+Scope 1, Scope 2, and certain Scope 3 categories. All emissions were calculated using
+an operational control and location-based method for electricity and heat consumption
+across all leased facilities globally. We forgo market products to reduce emissions, so the
+reported location-based figures are equivalent to market-based emissions figures. Note
+that heat consumption was only gathered for facilities located in North America. Electricity
+consumption for European office locations was estimated by square foot using data
+from the U.S. Commercial Buildings Energy Consumption Survey (CBECS), representing
+two percent of energy consumption reported. Electricity and heat consumption were
+converted to MTCOe using emission factor data provided in the Emissions Factors for
+2
+Greenhouse Gas Inventories provided by the U.S. EPA (eGRID2021) for U.S. locations
+and the Emissions Factors 2021 data set from the International Energy Agency (IEA) for
+international locations. Emissions calculations cover those attributable to carbon dioxide
+(CO), nitrous oxide (NO), and methane (CH ) resulting from electricity generation, heat
+2 2 4
+generation, and transmission and distribution losses. Emissions are converted to COe by
+2
+multiplying by their global warming potential (GWP), referencing default factors provided
+by the Intergovernmental Panel on Climate Change (IPCC). Hydrofluorocarbons (HFCs),
+perfluorocarbons (PFCs), sulphur hexafluoride (SF), and nitrogen trifluoride (NF ) gases
+3
+are excluded from our inventory, as facilities under our operational control do not produce
+significant amounts of these GHGs.
+The data supporting Scope 3 disclosures was provided by our third-party travel agency,
+contract manufacturers, and internal logistics team, covering purchased goods and
+services (category 1), upstream transportation and distribution (category 4), business
+commuting (category 6), and downstream transportation and distribution (category 9).
+Emissions attributable to contract manufacturing were made using supplier-specific data,
+covering Scope 1 and Scope 2 of manufacturing activity at eight manufacturing sites,
+representing substantially all of total contract manufacturing spend in 2023. The emissions
+disclosed represent only that fraction of activity attributable to the manufacture of Enphase
+products.
+84
+Emissions from upstream and downstream transportation were calculated using the
+distance-based method outlined in the GHG Protocol, covering freight of consigned raw
+materials into contract manufacturers (CMs) and distribution centers (DCs) and freight
+of finished goods from CMs to DCs or customers. Vehicles considered include aircraft,
+medium- and heavy-duty trucks, and waterborne craft. MTCOe estimates were calculated
+2
+from emissions factors made available by each specific upstream or downstream carrier.
+Renewable energy mix was calculated by referencing information made available by local
+utility grid operators for all leased facilities globally. Electricity consumption in kWh, as
+billed or estimated by square footage, was multiplied by the non-fossil fuel percentage
+of the specific utility grid mix and divided by the total kWh consumed. This figure also
+accounts for the impact of any PV systems or bi-directional EV chargers installed across
+leased facilities.
+Table 11: Energy and emissions data disaggregated at facility level
+Electrical Energy
+Direct Indirect Electrical Electrical
+Total power and conservation
+GHG GHG power power from
+electrical energy project,
+Location emissions emissions from grid grid (non-
+power use generated completed
+(Scope 1) (Scope 2) (renewable) renewable)
+(kWh) (renewable) and pending
+(MTCOe) (MTCOe) (kWh) (kWh)
+2 2 (kWh) (kWh)
+U.S. facility #1 0 247.0 866,417 823,096 43,321 - 110,019
+U.S. facility #2 0 2596.7 7,043,764 6,691,576 352,188 - -
+U.S. facility #3 0 431.9 581,571 541,919 28,522 11,130 14,827
+U.S. facility #4 0 316.4 272,166 246,052 12,950 13,164 -
+U.S. facility #5 0 393.8 753,093 715,438 37,655 - -
+U.S. facility #6 0 73.9 115,172 109,414 5,759 - -
+U.S. facility #7 0 342.1 505,608 242,700 242,700 20,208 -
+U.S. facility #8 0 4.1 11,132 10,575 557 - 4,892
+U.S. facility #9 0 81.4 232,000 109,504 122,496 - 27,600
+International facility #1 0 0.3 40,584 40,584 - - -
+International facility #2 0 24.7 2,982,320 2,982,320 - 4,058 139,980
+International facility #3 0 3.3 397,143 397,143 - - 840,030
+International facility #4 0 28.0 76,119 - - - -
+International facility #5 0 28.3 77,017 - - - -
+International facility #6 0 5.5 91,637 - - - -
+nternational facility #7 0 37.0 95,159 - - - -
+International facility #8 0 8.3 139,074 - - - -
+International facility #9 0 10841.1 6,167,100 549,752 5,237,114 380,234 -
+International facility #10 0 93.2 60,901 - - - 13,000
+Total 0 15,557.0 20,507,976 13,460,073 6,083,262 428,794 1,150,348
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 85
+GRI index
+GRI Standard Disclosure Location
+GRI 2: General
+2-1 Organizational details See 10-K at https://investor.enphase.com/sec-filings
+disclosures
+2-3 Reporting period, frequency, and contact point FY 2023, annually
+See About Us and Environment sections; See 10-K (Business Section) at
+2-6 Activities, value chain, and other business relationships
+https://investor.enphase.com/sec-filings
+2-7 Employees See People Section
+See Corporate governance Section; See Proxy Statement at
+2-9 Governance structure and composition
+https://investor.enphase.com/sec-filings
+See Corporate governance Section (ESG governance and leadership); See
+2-10 Nomination and selection of the highest governance body
+Proxy Statement at https://investor.enphase.com/sec-filings
+See Corporate governance Section (ESG Governance and leadership); See
+2-11 Chair of the highest governance body
+Proxy Statement at https://investor.enphase.com/sec-filings
+2-12 Role of the highest governance body in overseeing the See Corporate governance Section (ESG Governance and leadership); See
+management of impacts Proxy Statement at https://investor.enphase.com/sec-filings
+See Corporate governance Section (ESG Governance and leadership); See
+2-13 Delegation of responsibility for managing impacts
+Proxy Statement at https://investor.enphase.com/sec-filings
+2-14 Role of the highest governance body in sustainability reporting See Corporate governance Section (ESG Governance and leadership)
+2-15 Conflicts of interest See Proxy Statement at https://investor.enphase.com/sec-filings
+2-17 Collective knowledge of the highest governance body See Board of Directors information on Enphase company website
+2-18 Evaluation of the performance of the highest governance body See Proxy Statement at https://investor.enphase.com/sec-filings
+2-19 Remuneration policies See Proxy Statement at https://investor.enphase.com/sec-filings
+2-20 Process to determine remuneration See Proxy Statement at https://investor.enphase.com/sec-filings
+2-22 Statement on sustainable development strategy See CEO Letter
+2-25 Processes to remediate negative impacts See Enphase Code of Conduct
+2-26 Mechanisms for seeking advice and raising concerns See Corporate governance Section (Business ethics and compliance)
+2-27 Compliance with laws and regulations See Enphase Code of Conduct
+2-28 Membership associations See p. 93 of this report
+2-29 Approach to stakeholder engagement See p. 76 of this report
+2-30 Collective bargaining agreements See 10-K (Business Section) at https://investor.enphase.com/sec-filings
+GRI 3: Material topics 3-1 Process to determine material topics See 2022 ESG Report
+GRI 201: Economic See Financial Sustainability Section and GAAP to non-GAAP Reconciliation,
+201-1 Direct economic value generated and distributed
+performance pp. 98-99
+201-2 Financial implications and other risks and opportunities due to
+See TCFD Response, p. 89
+climate change
+GRI 203: Indirect
+203-1 Infrastructure investments and services supported See About us, Envrionment, and Society sections
+economic impacts
+See Environment and Emissions and energy calculation methodologies
+GRI 302 Energy 2016 302-1 Energy consumption within the organization
+sections
+See Environment and Emissions and energy calculation methodologies
+302-3 Energy intensity
+sections
+See Environment and Emissions and energy calculation methodologies
+302-4 Reduction of energy consumption
+sections
+GRI 305 Emissions See Environment and Emissions and energy calculation methodologies
+305-1 Direct (Scope 1) GHG emissions
+2016 sections
+See Environment and Emissions and energy calculation methodologies
+305-2 Energy indirect (Scope 2) GHG emissions
+sections
+86
+GRI Standard Disclosure Location
+See Environment and Emissions and energy calculation methodologies
+305-3 Other indirect (Scope 3) GHG emissions
+sections
+See Environment and Emissions and energy calculation methodologies
+305-4 GHG emissions intensity
+sections
+See Environment and Emissions and energy calculation methodologies
+305-5 Reduction of GHG emissions
+sections
+GRI 306 Waste 2020 306-1 Waste generation and significant waste-related impacts pp. 30-32
+306-2 Management of significant waste-related impacts pp. 30-32
+GRI 308 Supplier
+Environmental 308-1 New suppliers that were screened using environmental criteria p. 57
+Assessment 2016
+308-2 Negative environmental impacts in the supply chain and actions
+pp. 30-31, 54-57
+taken
+GRI 401 Employment 401-2 Benefits provided to full-time employees that are not provided
+p. 45
+2016 to temporary or part-time employees
+GRI 403 Occupational
+Health and Safety 403-1 Occupational health and safety management system p. 52
+2018
+403-2 Hazard identification, risk assessment, and incident investigation p. 52
+403-3 Occupational health services p. 52
+403-4 Worker participation, consultation, and communication on
+p. 52
+occupational health and safety
+403-5 Worker training on occupational health and safety p. 52
+403-6 Promotion of worker health p. 52
+403-7 Prevention and mitigation of occupational health and safety
+p. 52
+impacts directly linked by business relationships
+403-8 Workers covered by an occupational health and safety
+p. 52
+management system
+403-9 Work-related injuries p. 52
+403-10 Work-related ill health p. 52
+GRI 404 Training and
+404-1 Average hours of training per year per employee 17.3
+Education 2016
+404-2 Programs for upgrading employee skills and transition
+pp. 50-51
+assistance programs
+404-3 Percentage of employees receiving regular performance and
+100%
+career development reviews
+GRI 405 Diversity and
+Equal Opportunity 405-1 Diversity of governance bodies and employees p. 47, 74
+2016
+GRI 408 Child Labor
+408-1 Operations and suppliers at significant risk for incidents of child labor pp. 54-57
+2016
+GRI 409 Forced or
+409-1 Operations and suppliers at significant risk for incidents of
+Compulsory Labor pp. 54-57
+forced or compulsory labor
+2016
+GRI 414 Supplier
+Social Assessment 414-1 New suppliers that were screened using social criteria pp. 54-57
+2016
+GRI Customer Health 416-1 Assessment of the health and safety impacts of product and
+p. 30-31
+and Safety 2016 service categories
+GRI Marketing and 417-2 Incidents of non-compliance concerning product and service
+Zero
+Labeling 2016 information and labeling
+417-3 Incidents of non-compliance concerning marketing
+Zero
+communications
+GRI 418 Customer 418-1 Substantiated complaints concerning breaches of customer
+Zero
+Privacy 2016 privacy and losses of customer data
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 87
+SASB index
+Topic Accounting Metrics Code Response
+Hazardous Waste Management Amount of hazardous waste generated , percentage recycled RR-ST-150a.1 1.03 MT, 100%, see p. 32
+Number and aggregate quantity of reportable spills, quantity recovered RR-ST-150a.2 0, n/a
+Management of Energy Infrastructure Description of risks associated with integration of solar energy into existing energy RR-ST-410a.1 pp. 63-70
+Integration & Related Regulations infrastructure and discussion of efforts to manage those risks
+Description of risks and opportunities associated with energy policy and its impact RR-ST-410a.2 pp. 63-70
+on the integration of solar energy into existing energy infrastructure
+Product End-of-life Management Percentage of products by revenue that contain IEC 62474 declarable substances, RR-ST-410b.3 Estimated less than 0.1%
+arsenic compounds, antimony compounds, or beryllium compounds
+Product End-of-life Management Description of approach and strategies to design products for high-value recycling RR-ST-410b.4 pp. 30, 32
+Materials Sourcing Description of the management of risks associated with the use of critical materials RR-ST-440a.1 pp. 54-57
+Total Project Development Assets Reporting currency RR-ST-000.C Financial sustainability
+section and GAAP to Non-
+GAAP Reconciliation,
+pp. 98-99
+Energy Management in Manufacturing (1) Total energy consumed, (2) percentage grid electricity, RR-ST-130a.1 See Environment section
+(3) percentage renewable
+Water Management in Manufacturing (2) Total water consumed* RR-ST-140a.1 5,223 m3
+*Water consumption information collected for certain operations in North America only. Water consumption was
+drawn from municipal supplies.
+88
+TCFD response
+The following responses to the Taskforce for Climate-Related Financial Disclosures (TCFD)
+recommendations are not meant to be an exhaustive review of climate-related issues
+impacting the business. Rather, the following should be treated as a supplement to our
+2023 Form 10-K filing.
+Governance
+The Board of Directors has primary oversight of climate risks and opportunities, with the
+Nominating and Corporate Governance Committee overseeing the environmental, social,
+and corporate governance (ESG) program specifically. The Board receives updates on
+sustainability and ESG matters from the Nominating and Corporate Governance Committee
+at least annually, covering strategy, policies, initiatives, progress against goals and targets,
+and communications with employees, investors, and other company stakeholders. The
+Audit Committee reviews climate risk alongside other major financial risk exposures, and
+steps taken by management to monitor and control these risks. The Committee also reviews
+climate disclosures as required by the jurisdictions in which we operate. Please see the
+“Leadership and governance” section of the Enphase website for additional information.
+The ESG steering committee, led by our General Counsel and comprised of executive
+leadership, meets quarterly to prioritize strategic objectives and review status of various
+climate-related initiatives, drawing on the results of our ESG materiality assessment and
+other inputs as appropriate. Functions represented include legal, investor relations, global
+policy and government affairs, facilities, EHS, procurement, supply chain, manufacturing,
+customer service, human resources, compliance, and risk management. Updates are
+provided to the Nominating and Corporate Governance Committee and to the Board.
+ESG working groups, comprised of department heads, extended leadership, and individual
+contributors, manage progress toward climate-related goals and targets as defined by the
+steering committee. Supporting activities across global operations are tracked and rolled
+up into corporate dashboards, which are reviewed by the director of ESG and shared with
+the ESG steering committee on a quarterly basis.
+Strategy
+Our purpose is advancing a sustainable future for all. Our strategy is to build best-in-class
+home energy systems and deliver them to customers through our installer and distributor
+partners, enabled by a comprehensive installer platform. Successful execution reduces
+GHG emissions, slows the pace of global warming, and accelerates the transition to a clean,
+accessible, and resilient energy system.
+Thus, the impact of climate issues on our financial condition is positive, so long as climate risk
+is managed appropriately over the long-term as discussed below. Key aspects of our low-
+carbon transition plan include continued execution of our strategy in service of our purpose,
+transitioning operations to renewable energy, and building resilience into the value chain
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 89
+through enhanced cooperation with suppliers, contract manufacturers, and customers.
+Our strategy is a function of the economic, technological, legal, market, regulatory, social,
+and environmental context in which we operate. Per the Intergovernmental Panel on Climate
+Change (IPCC), significant GHG emissions reductions are needed in this decade to limit
+warming to below 2°C from pre-industrial levels, allowing for net-zero emissions by 2050,
+and avoiding the most catastrophic consequences of global warming. Thus, we are focused
+on driving impact as quickly and responsibly as possible while also preparing for an uncertain
+future which may follow a variety of warming trajectories informed by climate science. All
+climate-related scenarios which require reductions in GHG emissions are favorable to
+Enphase.
+A trajectory resulting in 2°C or lower warming from pre-industrial levels will require largescale,
+rapid, and equitable deployment of clean energy technologies, including those engineered
+by Enphase. In this case, the economic, technological, legal, market, regulatory, social,
+and environmental context would create increased demand for our products and drive
+rapid growth. However, these scenarios (e.g., Shared Socioeconomic Pathway 1) require
+rapid decarbonization across all sectors globally, implying the need to decouple resource
+extraction and consumption from economic growth. Thus, significant investment and
+financing for accelerated R&D, expanded operations, and enhanced coordination with value
+chain partners would be needed. Ultimately, with the proper global investment, planning,
+and coordination, a 2°C or lower scenario would allow us to rapidly deploy our products in
+the near-term and scale at the commensurate rate to achieve the desired outcome over the
+long-term.
+Characteristics of short-, medium-, and long-term time horizons for climate issues at Enphase
+are defined as follows:
+• Short-term (0-3 years) – rapid business growth; low-carbon transition planning and
+implementation; qualitative climate risk disclosures; improved emissions tracking and
+reporting; and setting and executing on near-term GHG reduction target.
+• Medium-term (3-7 years) – manage continued business growth; quantitative climate
+scenario analysis and strategic integration; setting and executing long-term GHG
+reduction targets.
+• Long-term (7-25 years) – manage continued business growth; quantitative climate
+scenario analysis integrated with strategic and financial planning; maintain operational
+alignment with global climate goals.
+Short-term risks (0-3 years)
+• Extreme weather events such as floods, cyclones, hurricanes, wildfires, and heatwaves
+could result in delays in product shipments, which could adversely affect our revenue,
+competitive position, and reputation.
+• Delaying operational decarbonization could limit access to third-party capital and
+affect operating costs or reputation.
+• Not evaluating potential climate risk impacts to key suppliers, contract manufacturers,
+and logistics partners may adversely affect our ability to execute our strategy over the
+long-term.
+90
+Short-term opportunities (0-3 years)
+• Improve climate risk analysis and integrate results into strategic planning.
+• Implement low-carbon transition plan for facilities and key suppliers.
+Medium-term risks (3-7 years)
+• Extreme weather events may increase in severity and frequency and disrupt operations,
+which could adversely affect our revenue, competitive position, and reputation.
+• Chronic climate change impacts such as rising mean temperatures, rising sea levels,
+droughts, new diseases, population migration, and water stress may have the potential
+to disrupt our business operations in certain geographies.
+• Increased insurance premiums for operations in geographies vulnerable to climate risk
+may adversely affect cost or force investment in climate mitigation projects to ensure
+business continuity.
+• Inability to reduce quantity of virgin material inputs or integrate circular principles into
+product design, manufacturing, and business processes could adversely affect cost,
+reputation, competitiveness, and social license to operate in certain geographies.
+Medium-term opportunities (3-7 years)
+• Leverage climate scenario planning to inform strategic decision making, such as
+determining significant locations of operation.
+• Enhance resilience through product lifecycle and business process innovations.
+Long-term risks (7-25 years)
+• Extreme weather events may further increase in severity and frequency, having the
+potential to disrupt our business.
+• Chronic climate change impacts may become more pronounced, having the potential
+to negatively impact our business operations in certain geographies.
+Long-term opportunities (7-25 years)
+• Continued integration of climate-risk scenario analyses into strategic planning across
+all aspects of the business.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 91
+Risk Management
+A detailed discussion of risks to the business can be found in our 2023 Form 10-K for the
+year ended December 31, 2023. Currently, climate risks are reviewed as part of the ESG
+materiality assessment process. The Director of ESG collaborates with key internal and
+external stakeholders to identify and rank climate risk and other enviro-social factors.
+Results are reviewed with the ESG steering committee to define strategic priorities and
+goals, which are then managed by a supporting network of extended leadership and
+collaborators, both within and outside the organization.
+In 2023, we completed our first water risk assessment using the Aqueduct Water Risk Atlas
+tool provided by the World Resources Institute (WRI). Our assessment included all Enphase
+office locations and six contract manufacturing locations, representing substantially all
+contract manufacturing activity in 2023. Locations were assessed for both baseline water
+stress and water quantity, quality, and access (as defined in the Aqueduct Peak RepRisk
+Country ESG Risk Index). We defined risk as those locations which scored either “High” or
+“Extremely High” in the Aqueduct risk scale. Moving forward, we plan to further develop
+quantitative, forward-looking scenario-based climate risk assessments over short-,
+medium-, and long-term time horizons as recommended by the TCFD and integrate results
+into risk management and strategic planning processes.
+Table 12: Physical climate risk, baseline water assessment
+Proportion in
+Proportion in
+Proportion in areas of high
+areas of high
+Location high water stress water accessibility,
+coastal flood
+areas (%) quality, availability
+risk (%)
+risk (%)
+Corporate offices 25% 13% 25%
+Contract manufacturers 67% 17% 67%
+Metrics and Targets
+Financial metrics found in our quarterly filings and annual reports reflect how well we are
+performing with respect to climate opportunities. Please see page 7, Enphase in numbers,
+of this report for additional climate opportunity indicators. Relevant climate risk metrics
+can be found in the Emissions and energy section of this report.
+Performance against climate metrics and targets is connected to remuneration at all levels
+of the organization, as all revenue generated by us ultimately results in emissions reductions
+through renewable energy deployments and improved efficiency in energy management.
+All employees have the option to explicitly link individual goals to climate metrics. CEO
+compensation for 2023 is explicitly tied to increasing on-site generation capacity across
+leased facilities and preventing emissions resulting from product deployments. The results
+of CEO performance directly modulate bonuses paid out to all employees.
+92
+Membership associations
+North America
+Solar Energy Industry Association (SEIA)
+Advanced Energy Economy
+Electric Vehicle Charging Association
+California Solar + Storage Association (CSSA)
+Hawaii Solar Energy Association (HSEA)
+Latin America
+Solar Energy and Storage Association of Puerto Rico (SESA)
+AMF (Association Mexicana de la Industria Fotovoltaica)
+Asolmex (Association Mexicana de Industria Solar)
+Absolar (Associacao Brasileira de Energia Fotovoltaica)
+ABGD (Associacao Brasileira de Geracao Distriuida)
+Europe
+Solar Power Europe
+European Solar Industry Alliance
+PV Austria
+Asia-Pacific
+Master Electricians of Australia
+Clean Energy Council
+Sustainable Energy Association of New Zealand
+National Electrical and Communications Association
+Smart Energy Council
+AMCHAM India
+ASSOCHAM
+Bridge to India
+Mercon, SolQuarter, REI
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 93
+Contributing to the UN Sustainable
+Development Goals
+GOAL DESCRIPTION TARGETS ENPHASE CONTRIBUTION
+End poverty in all its 1,5 Enphase directly reduces exposure and vulnerability
+forms everywhere to extreme climate events and other economic, social,
+and environmental shocks and disasters by deploying
+renewable energy generation and management systems
+across the globe. Renewable energy directly reduces
+GHG emissions and mitigates climate risk.
+Ensure healthy lives and 3.9 Renewable energy generation and management
+promote well-being for promotes environmental justice, good health, and well-
+being by avoiding the release of hazardous chemicals
+all at all ages
+and air, water, and soil pollution associated with
+traditional forms of energy production.
+Ensure inclusive and 4.3, 4.4, 4.5 We promote technical and vocational education in the
+equitable quality education renewable energy industry through our company learning
+and promote lifelong learning platform and non-profit partnerships. As our geographic
+reach continues to grow, we will expand opportunities for
+opportunities for all
+men, women, and children to learn about the renewable
+energy industry and create opportunities to contribute to
+global deployment of renewable energy technologies.
+Achieve gender equality 5.1, 5.2, 5.5 We do not tolerate discrimination in any form, including
+and empower all women against women. We are committed to eliminating human
+trafficking, slavery, and any type of human rights abuses
+and girls
+across our supply chain. Women are represented on
+our Board of Directors and in leadership positions
+throughout the company.
+Ensure access to affordable, 7.1, 7.2, 7.3, 7.a, 7.b Access to reliable, affordable, and modern energy
+reliable, sustainable, and services is what Enphase offers its customers. Enphase
+microinverters boast the highest levels of reliability, and
+modern energy for all
+our next generation off-grid solutions are paving the way
+for further access.
+As Enphase continues to grow globally and gain market
+share, it accelerates its positive impact and contributes
+to the goal of increasing the global renewable energy mix.
+9944
+Promote sustained, inclusive, 8.2, 8.3, 8.7, 8.8 Through our work in deploying renewable energy systems in
+emerging markets, we are supporting economic growth in
+and sustainable economic
+developing countries. We employ local leaders and attract
+growth, full and productive
+talent from local markets, helping to provide decent work
+employment and decent
+globally.
+work for all
+We are committed to eradicating forced child labor and
+ending modern slavery and human trafficking of children,
+including the use of child soldiers.
+Build resilient infrastructure, 9.2, 9.4, 9.5 Our core business contributes directly to the “adoption of
+promote inclusive and clean and environmentally sound technologies and industrial
+processes.”
+sustainable industrialization
+and foster innovation
+We have expanded our manufacturing footprint globally,
+accelerating our ability to upgrade infrastructure to
+be more sustainable, particularly regarding clean and
+environmentally-sound renewable energy generation and
+management technologies.
+Make cities and human 11.3 Sustainable urbanization is a priority for both residential
+settlements inclusive, safe, and small commercial applications of our products and
+services. Additionally, we support this goal through
+resilient, and sustainable
+our long-standing philanthropic activities that help
+to provide solar energy for low-income communities
+through our partnership with GRID alternatives.
+Take urgent action to 13.1 The Enphase Energy System helps communities be
+combat climate change more resilient in the face of climate-related hazards
+and natural-disasters through its grid-agnostic and
+and its impacts
+energy storage capabilities; allowing homeowners and
+businesses to stay safe and connected even when grid
+services are interrupted or when there is extensive
+damage to energy infrastructure due to natural disasters.
+EENNVVIIRROONNMMEENNTTAALL,, SSOOCCIIAALL,, AANNDD GGOOVVEERRNNAANNCCEE RREEPPOORRTT 22002233 9955
+About this report
+We referenced the Sustainability Accounting Standards Board (SASB) to identify material
+financial ESG metrics for the investor community and referenced the Global Reporting
+Initiative (GRI) standards to report on additional material sustainability issues. We drew upon
+subject matter expertise of our colleagues throughout Enphase and value chain partners
+to collect and organize the content relative to the areas we identified for disclosure.
+Additionally, we provided disclosures aligned with the four key themes of the Taskforce
+for Climate-Related Financial Disclosures (TCFD). Lastly, we compared our activities to
+the United Nations Sustainable Development Goals (SDGs) to assess and convey how we
+are contributing to these important goals. For specific information about this report or our
+sustainability program overall, please contact us at ir@enphaseenergy.com. We intend to
+issue this report on an annual basis. All information included in this report is for the twelve-
+month period ended December 31, 2023, unless otherwise stated. References to “we,”
+“us,” “our,” “Enphase” or “Enphase Energy” throughout this report pertain to Enphase
+Energy, Inc.
+96
+Forward-looking statements
+and other important legal
+information
+This report and the materials or websites cross-referenced contain statements that
+are aspirational or reflective of our views about our future performance that constitute
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform
+Act of 1995. Forward-looking statements are generally identified through the inclusion of
+words such as “aim,” “anticipate,” “aspire,” “believe,” commit,” “endeavor,” “estimate,”
+“expect,” “goal,” “intend,” “may,” “plan,” “seek,” “strive,” “target,” “projection,” “will,” and
+“work,” or similar statements or variations of such terms and other similar expressions.
+The forward-looking statements in this document and the materials or websites cross-
+referenced concern our goals, progress or expectations with respect to corporate
+responsibility, sustainability, employees, environmental matters, policy, and business risks
+and opportunities. Forward-looking statements inherently involve risks and uncertainties
+that could cause actual results to differ materially from those predicted in such statements.
+These statements are based on numerous assumptions that we believe are reasonable, but
+are open to a wide range of uncertainties and business risks. In addition, these statements
+may be based on standards for measuring progress that are still developing, controls
+and processes that continue to evolve, and assumptions that are subject to change in
+the future. Consequently, actual results may vary materially from what is contained in a
+forward-looking statement.
+For a further description of the risks and uncertainties that could cause actual results to
+differ from those expressed in these forward-looking statements, as well as risks relating to
+our business in general, see our Annual Report on Form 10-K filed with the Securities and
+Exchange Commission (SEC) on February 9, 2024 and our subsequent periodic reports
+filed with the SEC from time to time. Copies of these filings are available on the Enphase
+website at http://investor.enphase.com/sec.cfm, or on the SEC website at www.sec.gov.
+All forward-looking statements in this report are based on information currently available
+to us, and we assume no obligation to update these forward-looking statements in light of
+new information or future events.
+The information included in, and any issues identified as material for purposes of, this
+document may not be considered material for SEC reporting purposes. In the context of
+this report, the term “material” is distinct from, and should not be confused with, such term
+as defined for SEC reporting purposes. Website references and hyperlinks throughout this
+document are provided for convenience only, and the content on the referenced third-
+party websites is not incorporated by reference into this report, nor does it constitute a
+part of this report. We assume no liability for the content contained on the referenced
+third-party references. This report contains non-GAAP financial measures relating to
+our performance. You can find the reconciliation of these measures to the most directly
+comparable GAAP financial measures on the next page.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 97
+GAAP to non-GAAP reconciliation
+Reconciliation of non-GAAP financial measures
+In millions, except percentages Q1’21 Q2’21 Q3’21 Q4’21 Q1’22 Q2’22 Q3’22 Q4’22 Q1’23 Q2’23 Q3’23 Q4’23
+Gross profit (GAAP) $122.9 $127.8 $140.4 $163.3 $177.0 $219.0 $267.9 $310.7 $177.0 $219.0 $267.9 $310.7
+Stock-based compensation 1.0 1.1 2.9 2.4 2.5 3.1 3.2 4.3 2.5 3.1 3.2 4.3
+Acquisition related amortization - - - 0.2 1.3 1.5 1.4 2.1 1.3 1.5 1.4 2.1
+Gross profit (Non-GAAP) $123.9 $128.9 $143.3 $165.9 $180.8 $223.6 $272.5 $317.1 $180.8 $223.6 $272.5 $317.1
+Gross margin (GAAP) 40.7% 40.4% 39.9% 39.6% 40.1% 41.3% 42.2% 42.9% 40.1% 41.3% 42.2% 42.9%
+Stock-based compensation 0.4% 0.4% 0.9% 0.6% 0.6% 0.6% 0.5% 0.6% 0.6% 0.6% 0.5% 0.6%
+Acquisition related amortization -% -% -% -% 0.3% 0.3% 0.2% 0.3% 0.3% 0.3% 0.2% 0.3%
+Gross margin (Non-GAAP) 41.1% 40.8% 40.8% 40.2% 41.0% 42.2% 42.9% 43.8% 41.0% 42.2% 42.9% 43.8%
+Operating expenses (GAAP) $61.6 $68.4 $103.0 $105.6 $115.2 $125.0 $132.5 $153.7 $115.2 $125.0 $132.5 $153.7
+Stock-based compensation (13.9) (14.3) (44.1) (34.8) (45.3) (49.9) (49.1) (59.4) (45.3) (49.9) (49.1) (59.4)
+Acquisition related expenses and amortization (4.0) (2.5) (1.6) (2.7) (3.6) (3.9) (4.2) (4.8) (3.6) (3.9) (4.2) (4.8)
+Restructuring and asset impairment charges - - - - - - (0.6) (1.8) - - (0.6) (1.8)
+Operating expenses (Non-GAAP) $43.7 $51.6 $57.3 $68.1 $66.3 $71.2 $78.6 $87.7 $66.3 $71.2 $78.6 $87.7
+% of Revenue (Non-GAAP) 14.5% 16.4% 16.3% 16.5% 15.0% 13.4% 12.4% 12.1% 15.0% 13.4% 12.4% 12.1%
+Income (loss) from operations (GAAP) $61.4 $59.4 $37.4 $57.7 $61.8 $94.0 $135.4 $157.0 $61.8 $94.0 $135.4 $157.0
+Stock-based compensation 14.8 15.3 46.9 37.1 47.8 53.1 52.3 63.6 47.8 53.1 52.3 63.6
+Acquisition related expenses and amortization 4.0 2.5 1.6 2.9 4.9 5.3 5.6 7 4.9 5.3 5.6 7
+Restructuring and asset impairment charges - - - - - - 0.6 1.8 - - 0.6 1.8
+Income from operations (Non-GAAP) $80.2 $77.2 $85.9 $97.7 $114.5 $152.4 $193.9 $229.4 $114.5 $152.4 $193.9 $229.4
+% of Revenue (Non-GAAP) 26.6% 24.4% 24.4% 23.7% 26.0% 28.7% 30.6% 31.7% 26.0% 28.7% 30.6% 31.7%
+98
+Reconciliation of non-GAAP financial measures (continued)
+In millions, except per share data FY’23
+Net income (GAAP) $ 438.9
+Stock-based compensation 212.8
+In millions, except percentages Q1’21 Q2’21 Q3’21 Q4’21 Q1’22 Q2’22 Q3’22 Q4’22 Q1’23 Q2’23 Q3’23 Q4’23 Acquisition related expenses and amortization 22.9
+Restructuring and asset impairment charges 15.7
+Gross profit (GAAP) $122.9 $127.8 $140.4 $163.3 $177.0 $219.0 $267.9 $310.7 $177.0 $219.0 $267.9 $310.7
+Non-cash interest expense 8.4
+Stock-based compensation 1.0 1.1 2.9 2.4 2.5 3.1 3.2 4.3 2.5 3.1 3.2 4.3
+Non-GAAP income tax adjustment (85.5)
+Acquisition related amortization - - - 0.2 1.3 1.5 1.4 2.1 1.3 1.5 1.4 2.1 Net income (non-GAAP) $ 613.2
+Gross profit (Non-GAAP) $123.9 $128.9 $143.3 $165.9 $180.8 $223.6 $272.5 $317.1 $180.8 $223.6 $272.5 $317.1
+Net income per share, diluted (GAAP) $ 3.08
+Stock-based compensation 1.57
+Gross margin (GAAP) 40.7% 40.4% 39.9% 39.6% 40.1% 41.3% 42.2% 42.9% 40.1% 41.3% 42.2% 42.9% Acquisition related expenses and amortization 0.16
+Stock-based compensation 0.4% 0.4% 0.9% 0.6% 0.6% 0.6% 0.5% 0.6% 0.6% 0.6% 0.5% 0.6% Restructuring and asset impairment charges 0.11
+Non-cash interest expense 0.06
+Acquisition related amortization -% -% -% -% 0.3% 0.3% 0.2% 0.3% 0.3% 0.3% 0.2% 0.3%
+Non-GAAP income tax adjustment (0.57)
+Gross margin (Non-GAAP) 41.1% 40.8% 40.8% 40.2% 41.0% 42.2% 42.9% 43.8% 41.0% 42.2% 42.9% 43.8%
+Net income (loss) per share, diluted (Non-GAAP) (1) $ 4.41
+Shares used in diluted per share calculation GAAP 142.3
+Operating expenses (GAAP) $61.6 $68.4 $103.0 $105.6 $115.2 $125.0 $132.5 $153.7 $115.2 $125.0 $132.5 $153.7
+Shares used in diluted per share calculation Non-GAAP 139.2
+Stock-based compensation (13.9) (14.3) (44.1) (34.8) (45.3) (49.9) (49.1) (59.4) (45.3) (49.9) (49.1) (59.4)
+Acquisition related expenses and amortization (4.0) (2.5) (1.6) (2.7) (3.6) (3.9) (4.2) (4.8) (3.6) (3.9) (4.2) (4.8)
+Income-based government grants (GAAP) $ 53.5
+Restructuring and asset impairment charges - - - - - - (0.6) (1.8) - - (0.6) (1.8) Incremental cost for manufacturing in U.S. (11.6)
+Operating expenses (Non-GAAP) $43.7 $51.6 $57.3 $68.1 $66.3 $71.2 $78.6 $87.7 $66.3 $71.2 $78.6 $87.7 Net IRA benefit (Non-GAAP) $ 41.9
+% of Revenue (Non-GAAP) 14.5% 16.4% 16.3% 16.5% 15.0% 13.4% 12.4% 12.1% 15.0% 13.4% 12.4% 12.1%
+Net cash provided by operating activities (GAAP) $ 696.8
+Purchases of property and equipment (110.4)
+Income (loss) from operations (GAAP) $61.4 $59.4 $37.4 $57.7 $61.8 $94.0 $135.4 $157.0 $61.8 $94.0 $135.4 $157.0 Free cash flow (Non-GAAP) $ 586.4
+Stock-based compensation 14.8 15.3 46.9 37.1 47.8 53.1 52.3 63.6 47.8 53.1 52.3 63.6
+Acquisition related expenses and amortization 4.0 2.5 1.6 2.9 4.9 5.3 5.6 7 4.9 5.3 5.6 7
+Restructuring and asset impairment charges - - - - - - 0.6 1.8 - - 0.6 1.8
+Income from operations (Non-GAAP) $80.2 $77.2 $85.9 $97.7 $114.5 $152.4 $193.9 $229.4 $114.5 $152.4 $193.9 $229.4
+% of Revenue (Non-GAAP) 26.6% 24.4% 24.4% 23.7% 26.0% 28.7% 30.6% 31.7% 26.0% 28.7% 30.6% 31.7%
+(1) Calculation of non-GAAP diluted net income per share for the year ended December 31, 2023 excludes convertible
+Notes due 2023 interest expense, net of tax of less than $0.1 million in each period from non-GAAP net income.
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 99
+Non-GAAP Financial Metrics
+Enphase Energy has presented certain non-GAAP financial measures in this Environmental Social Governance Report 2023. Generally, a non-GAAP
+financial measure is a numerical measure of a company’s performance, financial position, or cash flows that either exclude or include amounts that
+are not normally excluded or included in the most directly comparable measure calculated and presented in accordance with generally accepted
+accounting principles in the United States (GAAP). Reconciliation of each non-GAAP financial measure to the most directly comparable GAAP financial
+measure can be found in the accompanying tables to this press release. Non-GAAP financial measures presented by Enphase Energy include non-GAAP
+gross profit, gross margin, operating expenses, income from operations, net income, net income per share (basic and diluted) and free cash flow.
+These non-GAAP financial measures do not reflect a comprehensive system of accounting, differ from GAAP measures with the same captions and may
+differ from non-GAAP financial measures with the same or similar captions that are used by other companies. In addition, these non-GAAP measures
+have limitations in that they do not reflect all of the amounts associated with Enphase Energy’s results of operations as determined in accordance with
+GAAP. As such, these non-GAAP measures should be considered as a supplement to, and not as a substitute for, or superior to, financial measures
+calculated in accordance with GAAP. Enphase Energy uses these non-GAAP financial measures to analyze its operating performance and future
+prospects, develop internal budgets and financial goals, and to facilitate period-to-period comparisons. Enphase Energy believes that these non-GAAP
+financial measures reflect an additional way of viewing aspects of its operations that, when viewed with its GAAP results, provide a more complete
+understanding of factors and trends affecting its business.
+As presented in the “GAAP to non-GAAP reconciliation” pages, each of the non-GAAP financial measures excludes one or more of the following items for
+purposes of calculating non-GAAP financial measures to facilitate an evaluation of Enphase Energy’s current operating performance and a comparison
+to its past operating performance:
+• Stock-based compensation expense. Enphase Energy excludes stock-based compensation expense from its non-GAAP measures primarily
+because they are non-cash in nature. Moreover, the impact of this expense is significantly affected by Enphase Energy’s stock price at the time of
+an award over which management has limited to no control.
+• Acquisition related expenses and amortization. This item represents expenses incurred related to Enphase Energy’s business acquisitions, which are
+non-recurring in nature, and amortization of acquired intangible assets, which is a non-cash expense. Acquisition related expenses and amortization
+of acquired intangible assets are not reflective of Enphase Energy’s ongoing financial performance.
+• Restructuring and asset impairment charges. Enphase Energy excludes restructuring and asset impairment charges due to the nature of the
+expenses being unusual and arising outside the ordinary course of continuing operations. These costs primarily consist of fees paid for cash-based
+severance costs and asset write-downs of property and equipment and acquired intangible assets, and other contract termination costs resulting
+from restructuring initiatives.
+• Non-cash interest expense. This item consists primarily of amortization of debt issuance costs and accretion of debt discount because these
+expenses do not represent a cash outflow for Enphase Energy except in the period the financing was secured and such amortization expense is not
+reflective of Enphase Energy’s ongoing financial performance.
+• Non-GAAP income tax adjustment. This item represents the amount adjusted to Enphase Energy’s GAAP tax provision or benefit to present the
+non-GAAP tax amount based on cash tax expense and reserves for periods prior to 2023. Effective January 1, 2023, Enphase Energy updated
+its methodology of computing the non-GAAP income tax adjustment from reporting cash tax expense and reserves to the projected non-GAAP
+annualized effective tax rate as Enphase Energy utilized most of its net operating loss and tax credit carryforwards in the year ended December 31,
+2022, and became a significant cash taxpayer in the United States. Going forward, Enphase Energy will exclude the income tax effects of GAAP
+adjustments such as stock-based compensation, amortization of purchased intangibles, and other non-recurring items that are not reflective of
+Enphase Energy ongoing financial performance.
+• Non-GAAP net income per share, diluted. Enphase Energy excludes the dilutive effect of in-the-money portion of convertible senior notes as they
+are covered by convertible note hedge transactions that reduce potential dilution to our common stock upon conversion of the Notes due 2025,
+Notes due 2026 and Notes due 2028, and includes the dilutive effect of employee’s stock-based awards and the dilutive effect of warrants. Enphase
+Energy believes these adjustments provide useful supplemental information to the ongoing financial performance.
+• Net IRA benefit. This item represents the advanced manufacturing production tax credit (“AMPTC”) from the IRA for manufacturing microinverters in
+the United States, partially offset by the incremental manufacturing cost incurred in the United States relative to manufacturing in Mexico, India, and
+China. The AMPTC is accounted for by Enphase Energy as an income-based government grants that reduces cost of revenues in the consolidated
+statements of operations.
+• Free cash flow. This item represents net cash flows from operating activities less purchases of property and equipment.
+100
+ENVIRONMENTAL, SOCIAL, AND GOVERNANCE REPORT 2023 101
+© 2024 Enphase Energy. All rights reserved.
+Enphase, the e logo, IQ, and certain other marks listed at https://enphase.com/trademark-usage-guidelines are
+trademarks of Enphase Energy, Inc. in the U.S. and other countries.
+102

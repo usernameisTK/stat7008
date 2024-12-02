@@ -1,0 +1,2187 @@
+2023
+SUSTAINABILITY
+REPORT
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 2
+About this report
+The content and structure of this report provide
+stakeholders a comprehensive update highlighting NRG’s
+dedication to people, commitment to environmental
+stewardship, and the governance principles that inform
+our work. Sustainability has become increasingly
+integrated into the fabric of who we are as a company;
+this report reflects its importance and impact across
+all parts of our business.
+This sustainability report is aligned with our fiscal year (FY) and is a
+snapshot of the period from January 1 to December 31, 2023, unless
+otherwise noted in individual disclosures. Featuring highlights from the
+reporting period as well as relevant data and disclosures, our report
+contains information and issues pertinent to NRG and complements
+our other reporting and financial filings. Unless otherwise stated, NRG
+refers to NRG Energy, Inc. as well as its subsidiaries and affiliates. While
+this report’s scope is FY 2023, some longer-term projects and goals
+are discussed, as are certain significant current events that occurred
+between the end of FY 2023 and the time of publication.
+Where applicable, sustainability-related disclosures are in line with the
+Sustainability Accounting Standards Board (SASB), which was recently
+incorporated into the International Financial Reporting Standards (IFRS)
+Foundation, and the United Nations Sustainable Development Goals
+(SDGs). Additional details on NRG can be found in our Environmental,
+Social, and Governance (ESG) Data Download as well as in our reports
+and proxy statement on the NRG Investor Relations website. The
+Appendix section contains our SASB table and resources with more
+information linked throughout the report.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 3
+Table of contents
+INTRODUCTION 4 ENVIRONMENTAL 17 GOVERNANCE 40
+CEO letter 5 Powering a lower-carbon future 18 Corporate governance 41
+CSO letter 6 Our climate goals and progress 19 Board of Directors 41
+About NRG 7 Environmental management and operations 22 Governance approach for environmental 42
+stewardship and social responsibility
+Sustainability at NRG 8 Advancing a sustainable supply chain 25
+Stockholder and stakeholder engagement 46
+Looking ahead 25
+Public policy 48
+FACILITATING AN INTENTIONAL 10
+ENERGY TRANSITION
+Data, technology, and security 48
+SOCIAL 26
+Our balanced approach 11
+Supporting and empowering our people 27
+APPENDIX 49
+Customer-driven solutions 12
+Upholding safety and well-being 30
+Sustainable products and services 13 Glossary 50
+Fostering diversity, equity, and inclusion (DE&I) 32
+Technology and data analytics 15 Further reading 51
+Giving back to communities 36
+Public policy and advocacy 16 UN Sustainable Development Goals (SDGs) 52
+Vivint Gives Back 37
+and progress
+Looking ahead 16
+Looking ahead 39
+SASB standards 54
+Key issues assessment 60
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 4
+Introduction
+IN THIS SECTION:
+CEO letter 5
+CSO letter 6
+About NRG 7
+Sustainability at NRG 8
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 5
+CEO letter
+Dear Stakeholders,
+Today, NRG is proud to be working at the intersection of energy and increasingly cleaner supply, continued electrification, and tremendous
+consumer services, placing sustainability at the core of everything we demand-side growth. NRG is harnessing technology, our customer-
+do. Our strategy ensures we make responsible decisions that consider centric approach, and incredible talent to advance our business. We
+every aspect of our business. are not just adapting to change—we are leading it, championing an
+intentional energy transition that is safe, affordable, reliable, and
+In 2023, we achieved some great milestones, thanks to the steps beneficial for future generations.
+we’ve taken in recent years to strengthen our business. NRG made
+significant progress in advancing our long-term energy transition and Thank you for your continued support and interest in NRG. It is
+electrification strategy. your belief in our vision that inspires us to do better every day. I am
+grateful for our employees, partners, customers, and communities’
+We achieved a 58% reduction in GHG emissions, bettering our 2025 dedication. Together, we are shaping a bright future.
+target, and our demand response programs effectively helped to
+balance market needs and reduce grid demand. The NRG team’s
+commitment to the community remained steadfast, contributing
+31,000 volunteer service hours across North America. The integration
+of NRG and Vivint has been a ‘better together’ story, enriching both
+our offerings and our teams. Reflecting our new collective identity, we
+introduced an updated purpose statement: To power a brighter future
+together. One that is safe, smart, and sustainable.
+Looking ahead, there is still much to accomplish. Our goals for the
+coming years are ambitious as we enter a new era of energy, driven by
+Larry Coben
+Chair, President and
+Chief Executive Officer
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 6
+CSO letter
+Dear Stakeholders,
+Looking back on my first nine months as Chief Sustainability Officer for Our whole-home experience delivers comprehensive, tech-forward
+NRG, I am filled with hope and excitement. I feel honored to have joined energy management to our customers. For our gas business, we
+a sustainability program with such a strong legacy. The opportunity to are exploring ways to evolve our customer solutions as we continue
+now spearhead NRG’s sustainability initiatives as we shape the future reducing our carbon intensity. The anticipated power demand
+of energy is a privilege. Today, I am proud to share with you both our increase driven by the technology sector presents both challenges
+progress over the past year and our vision for a more sustainable future. and opportunities.
+In 2023, we achieved many milestones and expanded our portfolio to NRG’s strategic shift to sit at the intersection of energy and technology
+offer more sustainable alternatives for both homes and businesses. marks a new chapter in our sustainability story. As we navigate this next
+Our efforts to progress our emissions targets were reflected in a 58% phase of NRG and the energy industry as a whole, I remain focused on
+decrease in GHG emissions from our base year, including a 30% cut maintaining our unwavering commitment to putting our customers
+from 2022 in our Scope 1 emissions. We retained our top-decile safety first as we continue to elevate our sustainability approach and set a
+performance, and our commitment to our people and communities benchmark for the industry.
+was strengthened through integration with our Vivint colleagues.
+I am proud of the progress to date, which is a testament to our
+Throughout an atypical year for our business, we maintained
+company’s dedication and to those leaders before me who paved the
+shareholder engagement and strong governance principles and
+way. As we move forward, I will continue to collaborate closely within
+ensured our strategies remained aligned with stakeholder values
+NRG to ensure that sustainability remains at the core of our business.
+and expectations.
+I am grateful for the support and engagement of our stakeholders as
+My time in this role has deepened my commitment to advancing NRG’s
+we pursue our sustainability goals and for the opportunity to lead as we
+sustainability agenda and reinforced my belief that sustainability is not
+drive tangible results through our collective efforts. Together, we can
+a destination, but rather a journey that requires constant adaptation,
+create a more prosperous and sustainable future for all.
+learning, and dedication. I am anticipating many more opportunities to
+engage with customers in new ways.
+Lynda Clemmons
+Chief Sustainability Officer
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 7
+ESSENTIALS FOR THE HOME AND BEYOND OUR PURPOSE AND VALUES
+About NRG
+Throughout 2023, we focused on the integration of Vivint Smart Home Our purpose and values inform how we move forward and achieve more
+NRG sits at the intersection of energy and home services.
+as a catalyst in accelerating our consumer-focused growth strategy for the people we serve. We constantly aim higher to provide a better
+With our customers’ needs and aspirations at the
+— to bring customers a best-in-market home services platform fueled experience for our customers, employees, and communities. In 2023,
+forefront, we are bringing peace of mind, customization,
+by unparalleled insights, proprietary technologies, and complementary we rolled out a new purpose statement. This new statement reflects
+and convenience to the home. Our leading brands and sales channels. our growth, aspirations, and the evolving needs of our stakeholders.
+customer experience as an energy provider have paved
+NRG serves approximately eight million residential consumers in
+the way for trusted relationships inside the home, and
+addition to commercial, industrial, and wholesale customers, supported
+today, we are much more than simply a power and natural
+by approximately 13 GW of energy generation capacity as of December
+gas retailer. We are empowering consumers with a unique
+31, 2023. We sold 152 TWhs of electricity and 1,892 MMDth of natural
+platform that combines innovative energy services gas in 2023, making us one of the largest competitive energy retailers in
+and controls with home automation, smart devices, the U.S. NRG PURPOSE STATEMENT
+and protection. To power a brighter future together.
+As of 2023’s end, we had recurring electricity and/or natural gas sales in
+25 U.S. states, the District of Columbia, and eight provinces in Canada. One that is safe, smart, and sustainable.
+Other products and services are available nationwide in both the U.S.
+and Canada. Vivint served customers in all 50 U.S. states. NRG’s retail
+brands collectively have the largest share of competitively-served
+residential electricity customers in Texas and nationwide.
+Our power values
+Safety and Customer focus Collaboration Accountability Diversity, equity,
+well-being and inclusion
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 8
+OUR SUSTAINABILITY GOALS
+Sustainability at NRG
+In addition, we have established three ambitious targets for reducing
+Sustainability is a philosophy that underpins and
+NRG’s environmental footprint and reporting our progress:
+facilitates value creation across our business for all
+stakeholders. It is an integral piece of our corporate
+50%
+strategy and ties directly to business success, reduced
+reduction in GHG emissions by 20251
+risk, and enhanced reputation.
+We are committed to affecting positively the communities in which our
+Net-zero
+customers and employees live and work. We are focused on reducing
+emissions by 2050
+our environmental footprint while ensuring the long-term reliability,
+competitiveness, and success of NRG.
+100%
+As we help to drive the energy transition through increasingly more
+sustainable products and solutions, our goal is to provide more electrification of company-owned, light-duty fleet vehicles by 2030
+clean energy choices to our customers and help reduce overall
+environmental and social impacts associated with the use of our
+products. This includes:
+• Providing sustainable energy solutions to customers, optimizing
+our generation on an ongoing basis
+• Reducing the carbon footprint of our operations
+• Leveraging cleaner energy technologies such as battery
+storage and the incorporation of renewables
+• Supporting the advancement of our employees through
+initiatives spanning health, safety, personal and professional
+growth, and DE&I
+1 From our 2014 base year, includes scopes 1, 2, and 3 business travel
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 9
+YEAR IN REVIEW
+2023 by the numbers
+We’re on a mission to power, protect, and intelligently manage all things
+home and business — and 2023 was another year of outstanding
+progress. We advanced our strategic priorities, expanded our
+A Fortune Approximately
+152 TWh
+sustainability initiatives, and reinforced our support for NRG employees,
+partners, and the communities we serve. 150 electricity sold 31,100
+Company hours of volunteer service by employees
+Together, we are building a
+58%
+brighter, cleaner, and more Approximately
+reduction in GHG emissions1 1,160+
+resilient future.
+$28.8B
+charitable organizations impacted by
+in revenue volunteers and donations
+SELECTED 2023 AWARDS
+54%
+AND RECOGNITION
+Approximately Board of Directors’ ethnic or
+gender diversity
+• Newsweek’s Most Responsible Companies
+18,000
+• Forbes America’s Best Midsize Employer
+employees
+• Forbes Global 2000
+1.9 GW
+• Forbes Best Employer for Diversity
+of renewable power purchase
+13 GW agreements (PPAs)
+• Forbes America’s Best Employer by State (Texas)
+total generation capacity
+• Fortune Global 500
+• HRO Today’s Talent Acquisition Leader of the Year, Top decile
+Lifetime Achievement
+8MM+ safety performance
+• Finalist HRO Today’s Talent Acquisition Team of the Year
+customers
+• IABC Houston Bronze Quill Award of Excellence
+Approximately
+• Illumi: Creative Development Award (UserTesting)
+$7.2 MM
+1,892 MMDth
+• Ragan Communications CSR & Diversity Awards Finalist
+donated to charitable organizations
+natural gas sold
+1 From our 2014 base year.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 10
+Facilitating an
+intentional
+energy transition
+IN THIS SECTION:
+Our balanced approach 11
+Customer-driven solutions 12
+Sustainable products and services 13
+Technology and data analytics 15
+Public policy and advocacy 16
+Looking ahead 16
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 11
+Our balanced approach
+The energy industry is at an inflection point, transitioning
+from a century-old system built upon combustible fuels
+to one that fulfills the requirements of a world
+contending with climate change and being reshaped by
+technological innovation.
+At NRG, we are committed to the responsible transition to a lower-
+carbon economy. Our sustainability strategy recognizes and embraces
+that together with NRG’s customers and partners, we have an
+unprecedented opportunity to rethink what power can be.
+While much of today’s energy landscape is transforming, our
+fundamental approach — delivering energy that is safe, affordable,
+and available when it’s needed — still holds true. From development
+to strategy, our customers are crucial in helping us navigate and find
+success in an ever-evolving sector.
+We all want to leave a better world for the
+next generation. By using the technology
+we have now to manage our resources,
+we believe we can turn the tide on
+climate change.”
+— Lynda Clemmons
+Chief Sustainability Officer
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 12
+Customer-driven solutions
+We are empowering NRG customers to play a greater role in shaping
+a sustainable energy future. From data center growth to continued
+electrification, our customers are inspiring industry change and
+influencing how we think about solutions to meet the needs of their
+homes and businesses. To empower and mobilize our customers
+to achieve their sustainability goals, we are aligning smart home
+technologies that manage usage with cleaner energy options.
+Whether generating power from our fleet with diverse fuel sources and
+geographic proximity to our customers, selectively purchasing power
+from the market, or entering long-term power purchase agreements
+(PPAs) for renewables, we’re sourcing power in ways that meet our
+customers’ needs and values.
+Our vision is to orchestrate all of these
+instruments — wind power, solar panels,
+Energy-saving innovations in the tech-smart home
+smart thermostats, EV charging, and
+more — to continue providing energy As modern living spaces become increasingly electrified broader efforts to level out demands on the energy grid by
+and technologically interconnected, consumers have offering attractive incentives for customers to change their
+whenever and wherever people need it.
+unprecedented opportunities to manage their residential electricity usage.
+In concert with our customers, we can energy usage more flexibly. Aided by our Vivint products, we
+In 2023, we continued to advance our customer EV rate
+are accelerating this shift toward a more demand-driven model
+make sustainable energy usage a way
+plan offerings. This includes a new EV interface that helps
+through our combined solutions.
+of life.” customers connect their cars automatically with a time-of-use
+By controlling their thermostat, lighting, appliances, electric electricity plan. Our new interface also gives customers the
+— Mark Parsons vehicle (EV) charging, and other in-home devices from option to see both gasoline and CO savings. This is just one
+2
+Head of Texas, Consumer Energy anywhere via a single app, our customers have greater example of how NRG’s products are making customer’s
+control over their energy usage without sacrificing comfort energy experience seamless.
+or convenience. In addition, the Vivint platform supports our
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 13
+For example, the Reliant app now provides insights on solar
+Sustainable products
+savings, KWh imported and exported, environmental impact,
+and services and weather. In addition, we launched a new buyback program,
+Solar Unlimited, for our Direct Energy customers.
+We are continually innovating to support the energy transition with • EV charger plan. EV owners receive a discounted rate every
+more responsive products and services that put greater control in night between 9 p.m. and 5 a.m. to support overnight charging.
+customers’ hands. The plan is supported by 100% renewable energy and comes
+with a complimentary Level 2 EV charger.
+SOLUTIONS FOR THE HOME
+• Renewable energy add-on. This program allows our
+customers to add renewable energy to cover 25%, 50%,
+We believe smart home solutions are an essential catalyst in the
+or 100% of their load.
+transition to a lower-carbon energy future. Our retail brands are built
+around making sustainability easy for customers. Gone are the days • SolarSPARC. When customers enroll in this plan, they help fund
+where being efficient was seen as sacrificial, old-fashioned, and difficult. a variety of projects that make solar energy more accessible in
+Instead, that’s been replaced by technology, transparency, and flexibility. local communities.
+In addition, we have participated in small pilot projects that provide
+Our offerings include:
+insight into expanded demand side management capabilities that
+• Degrees of Difference, Reduce Your Use, and Ready benefit both consumers and the grid.
+Set Relax These demand response programs adjust
+These efforts include:
+customer’s electricity use during times of high demand. In
+2023, NRG’s programs resulted in nearly 1,155 MWh saved
+• A pilot project that allows Reliant customers in Texas to
+across 24 demand response events and an additional
+enroll their energy storage system in the state’s aggregated
+~520 MWh saved through customers’ voluntary participation.
+distributed energy resource (ADER) program
+• Flextra Credits. As part of this 100% solar electricity plan,
+• Involving NRG employees with EVs in a proof-of-concept test to
+Reliant customers receive their two highest-use days each
+integrate “smart car” technology as a lever for EV charging
+week for free. The program also provides up to $200 in bonus
+bill credits over the length of a customer’s term. • Conducting an assessment among select Reliant customers
+to gauge how they perceive the value of receiving a smart
+• Solar buyback programs. In 2023, we grew our Reliant
+thermostat with free installation. The results of this study
+solar buyback portfolio by nearly 20% while also enhancing
+will help us further hone our integration of Vivint Smart
+customers’ experience with online account management.
+Home capabilities
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 14
+SOLUTIONS FOR BUSINESS We also have several teams dedicated to helping our commercial and
+industrial customers optimize sustainability in their operations: Community solar
+We guide our business customers to what’s optimal for their unique
+goals and needs — leveraging our energy industry knowledge, a • Our sustainability advisory group educates commercial and NRG takes a market-leading approach to maximizing the value
+industrial customers on how to reach their sustainability goals
+technology-agnostic mindset, and our customer-first approach. Our of community solar and minimizing the effort required. We
+by providing insight into their carbon footprint, helping them to
+ultimate goal is to make each customer’s energy strategy a competitive work with organizations to scale community solar based on
+decide the appropriate way to access renewable energy as well
+advantage for their business. unique footprints. An offsite solar facility generates electricity
+as the tools available for benchmarking and reporting. This team
+that’s delivered directly to the grid. Afterward, bill credits are
+NRG’s diverse portfolio for businesses includes: helps customers establish a solid strategy and make it easier
+assigned to specific customer sites and the customer pays a
+to navigate the evolving clean energy landscape, understand
+discounted price.
+Carbon intensity-reducing and socially-responsible solutions the ESG implications of energy commodity and services
+procurement, and improve business performance.
+• Community solar brokerage
+Support for a customer’s climate
+• Our renewable brokerage team focuses on assisting Fortune
+• Renewable Select™ planning journey
+500 companies with VPPAs, community solar portfolio
+• Renewable power purchase agreements (PPAs) and virtual origination and management, transferable tax credit financing As a trusted advisor on implementing ESG and disclosure
+power purchase agreements (VPPAs) solutions, distributed generation solutions, and long-term REC strategies, NRG recently helped a large consulting firm
+purchases. With over two GW in recent transactions, the team
+• Renewable Energy Credits (REC) successfully apply for several respected climate planning
+continues to assist clients in an ongoing effort to maximize
+and sustainability certifications. These efforts included:
+• Carbon offsets both ESG and financial benefits.
+• Assisting with the customer’s latest CDP submission
+• ESG advisory services • Our renewable and new product innovation team works
+with NRG business operations to bring new products such as
+• Fleet electrification advisory services • Helping the firm prepare for a climate scenario
+renewable energy credits, carbon offsets, renewable natural gas
+planning analysis in accordance with the International
+Customizable demand-side solutions (RNG), and certified gas (CG) to market. They identify customer Sustainability Standards Board (ISSB)
+needs and market opportunities and collaborate with internal
+• Demand response and external partners to design, develop, and launch innovative • Assisting with deliverables to the Taskforce on
+solutions that address sustainability challenges. This team also Climate-Related Financial Disclosures (TCFD)
+• Responsive Economic Dispatch
+supports the scaling and adoption of these products across
+• Energy efficiency and management tools • Supporting the firm’s Science-Based Targets initiative
+different regions and sectors, ensuring they deliver value to our
+(SBTi) submission, which led to final certification in
+customers and stakeholders.
+• Peak load management
+December 2023
+Energy storage and resilience solutions
+• Helping the firm create its playbook for achieving
+sustainable longevity and continuing to quantify its
+• Emergency back-up generation
+climate change-related activities
+• Distributed energy resources (DERs)
+• Supporting the firm’s assessment and verification of
+metric data for upcoming sustainability deliverables
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 15
+Some of our key accomplishments in 2023 include: In addition, we are committed to facilitating customers’ sustainability
+Technology and
+efforts through solutions that make renewables, energy efficiency,
+• Expanding the customer data platform, providing industry-
+data analytics and home management more accessible to everyone. Our robust
+leading insights, and enabling real time personalization
+technology platform helps customers be better energy users by
+providing data and insights into their consumption. Paired with the right
+Data, technology, and security play a major role in our business. We • Delivering enterprise-wide data projects to strengthen the
+electricity plan, we reward customers for leveraging this information to
+have the data to make informed decisions, the technology to support core business, executing on the digital strategy to personalize
+modify energy use — without disrupting their lives.
+business execution and optimization, and internal security controls offers, and advancing our Artificial Intelligence (AI) capabilities
+based on the U.S. National Institute of Standards and Technology to unlock value within the business
+With the help of smart home technology, consumers can easily control
+Cybersecurity Framework (NIST CSF).
+• Continuing to develop preventative protections, identifying their power usage with a simple tap on a phone app. Lower power usage
+and remediating information security risks and vulnerabilities, can mean lower bills, less strain on the grid, and less environmental
+The unique power of harnessing data, technology, and security keeps
+testing incident response procedures, and providing ongoing impact. This literally puts control over their sustainable energy use in
+us on the cutting edge of our business, allowing us to deliver excellence.
+employee cybersecurity training and awareness the palm of a customer’s hands. Multiplied by thousands or millions of
+Our approach groups data and technology under the same roof. households, the potential impact is substantial.
+Through this combination, we are building enterprise-wide platforms to
+capture individual consumer insights and behavioral trends that enable
+us to continue innovating and enhancing customer engagement and
+satisfaction with our products and services.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 16
+More specifically, we advocate for state and federal policies that give
+Public policy and advocacy
+customers access to a greater array of renewable and emissions-free
+energy options, with the right to choose their preferred providers and
+Renewable energy policies are rapidly evolving, due in part to the need
+shop for the lowest prices. We also help customers optimize their use
+to address climate change. These policy changes present challenges
+of renewable energy incentives created under the Inflation Reduction
+and solutions for businesses operating in the energy sector.
+Act (IRA), which includes tax credits for adopting decarbonization
+technologies such as wind and solar power.
+We recognize that consumer choice is an important component in
+achieving a sustainable energy transition. Therefore, NRG advocates for
+NRG has been a market leader in guiding businesses toward
+legislation and policy pillars that allow customers to leverage the power
+opportunities to save money while achieving their sustainability goals
+of the free market to influence and shape the energy future.
+through renewable energy tax credits. In addition, we commission and
+prepare energy policy research to help guide legislators, regulatory
+Four overarching policy principles guide our political advocacy work:
+agencies, and non-governmental organizations in making decisions
+• Competition and consumer choice. Consumers should that affect our business, customers, and broader industry.
+be able to choose their electricity and natural gas providers.
+Learn more on our Energy Policy page.
+Competition promotes a customer-centric approach to
+business and drives companies to innovate and develop
+products and solutions, while helping to keep them affordable.
+• Sustainability and lower-carbon-intensity energy.
+Looking ahead
+Competitive markets allow energy providers to cater to
+consumers who would like to support renewable electricity
+from wind and solar resources, and meet their energy Technology continues to expand the opportunities for at-home
+efficiency goals. and business customers to take charge of their energy choices
+and usage. We are focused on continuing to equip and mobilize
+• Innovation and technologies. Retail innovation-focused
+NRG customers to achieve their sustainability goals through the
+policies improve consumer experiences by spurring the
+combination of advanced digital smart home technologies and
+development of innovative technologies, products,
+renewable, resilient energy.
+and services.
+• Resilience and reliability. Retail energy-focused policies help
+ensure customers have access to energy when they need it,
+helping support a market system where reliability and resiliency
+are prioritized.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 17
+Environmental
+IN THIS SECTION:
+Powering a lower-carbon future 18
+Our climate goals and progress 19
+Environmental management 22
+and operations
+Advancing a sustainable supply chain 25
+Looking ahead 25
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 18
+Powering a
+lower-carbon future
+58%
+We’re committed to managing our business in an decrease in GHG emissions compared to
+environmentally responsible way while also offering our 2014 base year, from approximately
+58 million metric tons CO e to
+energy products and services that help our customers 2
+approximately 24 million metric tons
+achieve their environmental goals. Our focus on reducing
+greenhouse gas (GHG) emissions to achieve our climate
+goals remains at the forefront of NRG’s strategic planning
+71%
+as we transition to a decarbonized global economy.
+In addition, we continue to invest in water-saving and decrease in water withdrawal associated
+with NRG operations compared to our
+waste-reducing innovations.
+2014 base year
+Approximately
+36 GW
+fossil fuel-fired power generation capacity
+retired or divested since 2014
+68%
+of coal combustion residuals (CCRs)
+generated by our facilities were recycled
+for beneficial reuse in 2023
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 19
+Since 2014, our CO e emissions have decreased 58%, from 58 million
+Our climate goals 2
+metric tons to 24 million metric tons. Key drivers of this change include
+and progress reductions in our fleet-wide annual net GHG generation and a market-
+US GHG emissions (MT CO e)
+2
+driven shift from coal to natural gas as a primary fuel for
+power generation.
+Our emissions reduction goals encompass Scope 1, Scope 2, and the
+employee business travel portion of Scope 3 emissions. To ensure 35,000,000 34,708,791
+We achieved a 30% reduction in our Scope 1 emissions in 2023, 33,004,376
+consistency and relevance, our 2014 base year GHG emissions are
+primarily resulting from reduced output by our power plants along with
+30,000,000
+reviewed annually and recalculated as warranted to reflect any changes
+a 34% decline in net electricity generation from our coal-powered
+to our generation asset portfolio. Such recalculations are made 24,375,429
+facilities compared to 2022. 25,000,000
+according to The Greenhouse Gas Protocol: A Corporate Accounting
+and Reporting Standard, Revised Edition, 2004.hicle fleet by 2030 While we are excited about our 58% reduction in 2023, the achievement 20,000,000
+of NRG’s 2025 emissions reduction targets could be impacted by
+15,000,000
+volatility within the power markets, driven by market conditions and
+NRG GOALS
+changes in regulatory policies. We target the continued achievement
+5,000,000
+of this goal.
+0
+50%
+Please see our Annual Report on Form 10-K for additional discussion FY21 FY22 FY23
+carbon emissions reduction by 20251 on NRG’s generation from all fuels — natural gas, coal, nuclear, oil,
+and renewables — represented in our portfolio.
+US tCO e/$M revenue2
+Net-zero 2
+carbon emissions by 2050
+In 2023, less than 5% of our 1500
+1,223
+100% consolidated operating revenues
+1200 1,100
+electrification of our vehicle fleet by 2030 were derived from coal-fired
+900 846
+operating assets, and our
+carbon intensity by revenue 600
+has decreased 31% since 2021.
+300
+0
+FY21 FY22 FY23
+1 Compared with our 2014 base year.
+2 These numbers have been updated since publishing our 10-K, and therefore do not match what is listed in the 10-K.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 20
+CLIMATE TRANSITION STRATEGY LEVERS
+Retired and divested fossil fuel-fired power
+We are using four main levers to advance our carbon transition strategy:
+generation capacity (MW)
+• Decarbonization of existing business lines, which includes
+retiring fossil fuel generation assets when they reach end of life 50,000 48,792 Total capacity
+Cumulative
+46,247
+• Diversification into low-emissions businesses, which includes retired and
+44,037 divested capacity
+providing our customers with renewable electricity and options
+to reduce the carbon footprint associated with their natural
+40,000
+gas consumption
+• Divestment of select high-emissions assets
+30,000
+• Deployment of new technologies and innovations
+27,097
+21,527 21,272 21,343
+Asset retirements and divestitures
+20,000
+Since 2014, we have retired or divested approximately 36 GW of fossil 16,524 15,164
+fuel generation, a reduction of 73%. In 2023, we sold or retired natural 12,998
+gas-fired capacity equivalent to approximately 2,200 MW.
+10,000
+As part of our portfolio optimization strategy, we intend to retire all
+remaining fossil power plants in Illinois in time to comply with the
+Illinois Climate and Equitable Jobs Act, which mandates that private 0
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+coal- and oil-fired electric generating units reach zero emissions by
+-2,545
+no later than January 1, 2030. Our overall plan includes deactivating
+-4,755
+the 410 MW Indian River Unit 4 coal-fired power plant in Delaware
+-10,000
+upon the termination of a Reliability Must-Run (RMR) agreement with
+the PJM regional transmission organization (RTO). The end of RMR
+service is dependent upon notice of termination by PJM and successful
+completion of certain transmission system upgrades which is currently
+-20,000
+expected no earlier than December 2024. The 1,538 MW Powerton
+-21,695
+coal facility in Illinois is projected to close by December 31, 2028 to
+comply with ELG regulations. In Maryland, the 167 MW Vienna oil facility -27,265
+-27,520-27,449
+-30,000
+is planned for retirement in June 2025. In Texas, we plan to cease
+operating Cottonwood, a 1,166 MW natural gas-fired facility when our -32,268
+-33,628
+lease expires in May 2025 and operations revert to the facility owner. -35,794
+Additional details about our asset retirements and divestitures are
+-40,000
+available in our Form 10-K.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 21
+BROADENING RENEWABLE
+ENERGY OPTIONS
+Knowing that our customers increasingly want sustainable energy
+solutions, we partner with developers to bring new renewables to the
+grid through medium and long-term PPAs. At the end of 2023, NRG had
+signed agreements for 1.9 GW of renewable power capacity through
+these PPAs, of which all were online as of July 2024. The average tenor
+of these agreements is 11 years.
+We expect to continue evaluating and entering into additional PPAs that
+support our business needs as well as the objectives of our customers.
+NATURAL GAS
+Natural gas remains an important part of the overall energy mix, and
+we support its continued use within our diversified portfolio. We expect
+that natural gas will become less carbon-intensive over time through
+advancements in emerging forms such as RNG, CG, and hydrogen.
+NRG delivers reliable, competitively priced natural gas supply and
+related solutions to households, companies, and state and local
+Fleet electrification
+governments, helping them to achieve their climate goals. We also work
+to help reduce the carbon impact of gas consumption with products like We employ a test-and-learn framework to develop
+high-quality carbon offsets.
+new electric vehicle (EV) products and services for our
+customers. In addition, EV innovations help us advance
+toward our 2030 climate goals.
+In 2023, we grew our fleet of EVs by 14, adding all-
+electric trucks. Also, we applied lessons from our own
+fleet electrification and home charging experiences in
+the development and deployment of new solutions.
+Our framework included testing these concepts at the
+Houston Boat & Auto Show.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 22
+ENVIRONMENTAL PERFORMANCE
+Environmental
+management and operations We carefully measure and track compliance with environmental
+requirements and NRG standards using our EKPIs, which measure
+leading and lagging indicators such as Notices of Violation (NOVs),
+We integrate environmental considerations into our strategic decisions
+reportable spills, and compliance with laws. We report on EKPIs to our
+as part of our commitment to operating sustainably and complying with
+management monthly, and our Board also receives regular reports. In
+all applicable environmental requirements. Our Environment-Over-
+2023, 93% of our generation fleet met or exceeded their respective
+Production policy sets a clear understanding among NRG employees
+performance targets.
+that environmental compliance takes precedence in the company’s
+operational decision-making. For more details, see our Environmental
+Our environmental performance metric counts environmental
+Policy Statement.
+incidents such as reportable spills, permit deviations, and receipts
+of NOVs. Having fewer incidents results in a lower, more favorable
+BIODIVERSITY score. The chart below shows the company’s EKPI score by year as a
+percentage of base year 2014, which is indexed to 100%.
+Recognizing the potential impact of our operations on the local natural
+ecosystem, we strive to support and protect biological diversity in the
+areas where we operate. Environmental performance record1
+(% compared to base year – 2014, 100%)
+All active NRG plants have a site-specific Biodiversity Plan that outlines
+practices to limit the local impact of operations. In 2023, our plants 100
+100
+completed 31 econrgSM projects, with each plant completing at least 94
+one. Project highlights:
+Intelex Environmental Management
+80 76 77 Information System (EMIS)
+• $18,000 in scholarships focused on environmental matters
+provided to high school students
+63 We use a system called Intelex to track, assign
+59
+• Lighting upgrades (installation of solar lighting, motion sensors, 60 responsibility, and report on our full range of
+53
+and LEDs, all reducing energy use) 49 environmental tasks and requirements. This EMIS
+42 system helps us maintain environmental compliance
+• Beach/creek/community cleanup volunteer events
+40
+34 by efficiently capturing data related to incident
+• Planting native grasses/wildflowers
+management, audit findings, corrective actions,
+• Recycling materials that had historically gone to landfill root cause determinations, and the performance of
+20
+our generation fleet. We continuously analyze this
+Annually, each plant chooses, designs, and implements one econrgSM
+information to identify opportunities for improvement.
+project, and this work contributes to the plant’s environmental key
+performance indicators (EKPIs) score. Our econrgSM projects span 0 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+multiple program areas including biodiversity, climate change, and
+1 The score associated with the base year is updated as the composition of the NRG
+resource reduction, reuse, and recycling.
+generation fleet changes. In some cases, this has resulted in differences from percentages
+previously reported.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 23
+AIR EMISSIONS WATER WITHDRAWAL AND DISCHARGE
+Over the last decade, our annual air emissions have declined To effectively operate our power plants, we use fresh, recycled,
+NRG water withdrawal, discharge, and recycling
+significantly. These improvements were driven in part by actions like brackish, and ocean water to cool condensers during electricity power
+(million cubic meters)
+emission controls and decommissioning of coal-fired units. We expect generation and create steam for the turbines that produce electricity.
+to achieve similar results from future plant retirements.
+2021 2022 2023
+Water usage, scarcity, quality, and the effects of these factors on
+SO emissions (million KG) biodiversity are important site-specific considerations for us. To Freshwater
+2 1,807 1,101 487
+conserve freshwater, we use non-potable options like brackish and withdrawal
+% change since grey water from sewage treatment plants and leachate collection, and
+2021 2022 2023
+2014 baseline reuse water in plant cooling and process systems. In addition, we invest Non-freshwater
+1,065 1,039 1,067
+in water-saving technologies such as cooling towers that mitigate withdrawal
+39 41 32 -71%
+effects on aquatic life and significantly reduce water consumption at
+generating stations. Total water
+2,872 2,140 1,554
+withdrawal
+Since 2014, we have reduced our total volume of water withdrawal
+NOx emissions (million KG)
+by approximately 71% and our total volume of water discharge by Freshwater
+1,727 991 394
+discharge
+% change since approximately 72%. Our net amount of water consumed has decreased
+2021 2022 2023
+2014 baseline by approximately 37% since 2014. In addition to our conservation
+Non-freshwater
+efforts, NRG’s water usage is affected by variables such as weather, 1,059 1,023 1,067
+16 18 12 -59% discharge
+plant capacity utilization, and plant retirements.
+Total water
+2,786 2,014 1,461
+discharge
+Mercury emissions (US tons)
+Total water
+% change since consumption2 86 126 93
+2021 2022 2023
+2014 baseline
+0.08 0.07 0.04 -96%
+2 Total water consumption represents the net difference between total water withdrawal and total
+water discharge.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 24
+WASTE
+Coal combustion residual recycling rate (%)
+We work to reduce, reuse, and recycle materials used in our daily
+2021 2022 2023
+operations to help preserve natural resources, save money, and improve
+NOVs and spills in 2023
+operational efficiency. The scope of our waste management programs
+72 80 68
+includes both corporate offices and generation facilities.
+7
+Electronic waste recycled (US tons)
+Coal combustion residuals
+NOVs from events occurring between 2021 and 2023;
+We continually research options for the beneficial reuse of CCRs 3 with fines totaling $15,780
+2021 2022 2023
+from NRG operations. Examples include diverting CCRs for use in
+construction products, concrete, and cement. This practice helps 10 22 60
+reduce the need for mining virgin resources like native soil, gravel,
+1
+and gypsum.
+reportable oil spill to land of approximately 3 gallons during
+In 2023, NRG facilities generated approximately 743,253 metric tons the demolition of a site. Oil remained in the immediate area
+of CCRs, 68% of which — more than 504,000 metric tons — were of the spill and the oil and impacted soil was removed from
+beneficially reused. The remainder was disposed of in accordance with the property
+applicable state and federal regulations.
+Electronic waste 0
+NRG works with Compucycle to recycle electronic waste (e-waste) unauthorized discharges of process water
+such as old computers and other electronic products. We recycled
+60 US tons of e-waste in 2023 — raising our total since 2014 to
+more than 530 short tons. The increase in e-waste in 2023 was
+0
+primarily driven by office closures and decommissioning efforts at the
+Waukegan, Will County, and Joliet plants. reportable chemical spills
+NOVs and spills
+An NOV can be issued for any violation of law, regulation, permit,
+certification, or license, regardless of significance, and may or may not
+result in a fine. Historically, the vast majority of NOVs issued to NRG
+have not included a fine. All NOVs issued to NRG, regardless of final
+disposition, are recorded as an incident against our EKPIs.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 25
+In 2023, we continued advancing transparency and disclosure by
+Advancing a sustainable
+participating in the world-leading CDP (formerly known as Carbon
+supply chain Disclosure Project) Supply Chain engagement program. This initiative is
+very important to NRG and supports our vision to create a sustainable Looking ahead
+energy future. 2023 marks NRG’s seventh year participating in CDP’s
+We strive to work with suppliers that share our commitment to
+Supply Chain Engagement program. We have also been disclosing
+sustainability. Some of our supply chain initiatives include: NRG’s supply strategy and fuel mix will continue to evolve
+to CDP our climate change information for 15 years and our water
+to meet the needs of our customers and the electric grid,
+• Promoting environmental disclosure practices for those management information for nine years. as we are committed to supporting the transition to a lower-
+with whom we do business carbon-economy.
+As members of this program, we ask all suppliers that comprise the
+• Developing strong manufacturing standards and top 90% of our total spend to participate and report their water- and
+Recognizing our essential role in the energy system, our approach
+internal policies climate-related information in the CDP Climate Change and Water
+will continue to balance the important affordability, reliability, and
+Security Questionnaires.
+sustainability factors of our products.
+Opportunities to support this approach will include leveraging
+innovations in both the supply and demand side of the energy
+equation, helping support a cleaner natural gas and power supply
+chain, and continuing to be good stewards of the environment
+and efficient, safe operators of our facilities.
+2023 CDP Supplier
+Response highlights
+82%
+suppliers reporting to CDP that have
+an active target for reducing their
+emissions, compared to 76% in 2022
+88%
+suppliers reporting to CDP that are
+integrating climate-related issues
+into their long-term objectives
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 26
+Social
+IN THIS SECTION:
+Supporting and empowering 27
+our people
+Upholding safety and well-being 30
+Fostering diversity, equity, 32
+and inclusion (DE&I)
+Giving back to communities 36
+Vivint Gives Back 37
+Looking ahead 39
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 27
+Supporting and
+empowering our people
+NRG employees are the heartbeat of our purpose and
+the engine that drives our success. We’re dedicated to
+fostering a workplace where every person can thrive
+— with a dynamic corporate culture, a dedication to
+safety and well-being, and a keen focus on diversity and
+inclusion. Together with our employees, we also foster
+strong communities through philanthropic and
+volunteer projects.
+Top decile
+ALIGNING CULTURES AND safety performance
+MULTIPLYING STRENGTHS
+Approximately
+Our acquisition of Vivint Smart Home in 2023 added a groundswell of
+1
+31,100
+new talent, viewpoints, and practices to NRG’s workplace culture. We
+brought more than 11,000 Vivint employees into our corporate family hours of volunteer service by employees
+with a goal of melding the best traits within both organizations.
+Bringing the best of Vivint and NRG
+This intentional process continues to evolve through efforts such as: 1
+1,160+ together has created many opportunities
+• Finalizing a new set of companywide values that align Vivint and charitable organizations impacted by for enhancing our culture by allowing
+NRG’s foundational beliefs and behaviors volunteers and donations
+diverse perspectives to come through in
+• Making Vivint’s extensive training and professional development
+resources available to all employees within one system Approximately conversations. Looking at our business
+1 through new lenses has been so rewarding
+• Standardizing our benefits packages and other support for $7.2MM
+employees across NRG business groups
+for my team and me.”
+donated to charitable organizations
+• Strengthening our performance management, leadership
+— Jennifer Brunelle
+development, and succession planning opportunities
+Vice President, Talent Acquisition and DE&I
+1 Figures include positiveNRG and Vivint Gives back.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 28
+ATTRACTING AND RETAINING
+THE BEST AND BRIGHTEST
+To stay competitive in our industry and continue delighting our
+customers, we need innovative and talented people who are excited
+about building their careers with NRG. Our recruitment and hiring
+programs focus on attracting highly-qualified candidates whose diverse
+backgrounds, interests, and perspectives reflect the communities that
+we serve.
+We cultivate a robust pipeline of future talent by raising NRG’s profile
+through regional job fairs, university programs, on-campus events, and
+Patrol to Power
+recruiting websites. In addition, we provide internships in many of our
+corporate locations. Now in its fourth year, our Patrol to Power internship program
+helps former military personnel transfer their valuable
+Through the NRG Historically Black Colleges and Universities (HBCU)
+experience and skills into career opportunities at NRG.
+Academic Excellence Scholarship program, we award $10,000 annually
+With support from the U.S. Department of Defense, Patrol
+($100,000 total) to ten students at Prairie View A&M and Texas Getting to come home a little early from
+to Power gives participating veterans a 12-week paid work
+Southern University. Administered by the Thurgood Marshall College
+my enlistment and getting that time experience in fields such as instrumentation and control,
+Fund and supported by our BELIEVE (Black Employees Leading in
+Inclusion, Excellence, Vision, and Education) Business Resource Group back with my family has been absolutely engineering, plant operation, and equipment operation.
+(BRG), the scholarship program also provides career development,
+Of the 14 interns who completed Patrol to Power
+amazing. I really appreciate my manager
+mentorship, and networking opportunities. This partnership helps
+through the end of 2023, we have hired 11 into
+empower talented individuals from historically underrepresented and NRG for making this possible for me.”
+full-time positions.
+backgrounds to pursue their academic and professional aspirations.
+— James Walker
+While these service members gain on-the-job training and a
+Learn more about our diverse and inclusive recruitment practices.
+Military Veteran, U.S. Marine Corps, Patrol to Power Recruit
+deeper understanding of what our industry does, the traits
+that they bring — including leadership, integrity, commitment,
+and a strong work ethic — benefit our company just as much.
+Building on the two-way value that Patrol to Power creates,
+we are currently expanding it to include other positions and
+locations across the company.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 29
+Total Rewards
+We aspire to grow and improve as a company for decades to come
+— powered by employees who feel recognized and rewarded for
+contributing to NRG’s success. Our Total Rewards compensation and
+benefits program reflects the value that we place in cultivating a highly
+talented and deeply engaged workforce for the long term.
+To help us retain high-performing talent, we regularly benchmark
+our offerings against those of NRG’s industry peers as well as other
+employers in the communities where we operate. As a result, we
+enhanced several categories of benefits in 2023. Changes included
+raising our 401(k) matching contribution from 4% to 6% and increasing
+paid parental leave to six weeks, regardless of gender. Also, we
+instituted fully employer-paid disability leave for our workforce
+in Canada.
+Each time I hear of a
+Leadership and professional development
+candidate’s reaction, I am
+We provide a broad and growing array of professional development
+reminded of how fortunate I
+experiences designed to help NRG employees pursue meaningful
+career growth. Along with presenting various in-person courses and am to lead a team that delivers
+role-specific training throughout the year, we offer more than 10,000
+NRG talent lead honored by HRO Today the good news, impacts lives
+on-demand resources through our online learning portal.
+positively, and helps NRG
+Robyn Antoine, director of talent acquisition, received a
+Recognizing that many of our future executives and senior managers
+prestigious Lifetime Achievement honor from HRO Today acquire the talent needed to
+are already part of today’s NRG workforce, we invest in preparing high-
+as part of the organization’s 2023 Talent Acquisition of the
+potential employees for leadership roles. Each year, we select 30 people succeed in our strategic goals.
+Year Awards. During her 11 years with NRG, Robyn has been
+to participate in our Emerging Leaders Program (ELP). They spend
+instrumental in many of our initiatives to enhance diversity, It’s a humbling experience that
+the next two years working on business-critical projects and receiving
+mentorship from current NRG executives and past ELP graduates. inclusivity, and employee engagement. We are proud of always warms my heart.”
+Robyn’s exceptional work and this well-deserved recognition.
+In addition, our people managers support the development goals of — Robyn Antoine
+their direct reports through annual performance reviews and ongoing Director of Talent Acquisition
+conversations. Our talent and culture department also works closely
+with business leaders on succession planning, management coaching,
+and organizational design initiatives.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 30
+KEEPING CONTRACTORS SAFE
+Upholding safety
+and well-being NRG %-year safety record We engage a third-party service provider that specializes in providing
+Better than top decile detailed reviews of contractor-written safety programs to ensure
+regulatory compliance and uphold safety performance criteria. This
+Keeping all personnel safe and well is our top priority. This includes
+robust review process ensures contractors demonstrate the safe
+employees’ physical, emotional, and mental wellness, which we
+0.60 practices that we expect. We audit contractors in the field to verify they
+support through our holistic well-being programs and comprehensive
+are working in accordance with their written safety programs.
+safety standards. 0.50
+0.49
+0.40
+In early 2023, we introduced a contractor program focused on reducing
+ALWAYS STAYING SAFE 0.30 0.32 incidents with serious injury and fatality (SIF) potential. The SIF program
+0.30
+0.27 focuses on preventing incidents associated with working at heights,
+0.20
+Our power plant-based employees work tirelessly to provide 0.20 dropped or falling objects, and lines of fire. Contractors are required to
+uninterrupted energy to our customers. However, our Safety-Over- 0.10 identify a hazard mitigation plan to address the SIF potential prior to
+Production policy prioritizes all safety rules and requirements even if 0.00 performing their work.
+FY19 FY20 FY21 FY22 FY23
+generation facilities must stop production.
+Our comprehensive safety program includes anyone working within an
+NRG facility. We continually evaluate our safety practices to ensure all
+NRG programs satisfy regulatory requirements. Every year, we strive
+to rank in the top decile for total recordable incident rate (TRIR), which
+is defined as the number of work-related injuries per 100 full-time
+workers during a one-year period. NRG ended 2023 with a 0.20 TRIR1,
+well under the Edison Electric Institute top decile benchmark of 0.36
+and 26% lower than our 2022 TRIR. It also marks our fifth consecutive
+year of top decile safety performance and fifth straight year-over-year
+reduction in TRIR.
+etar
+yriuqni
+esac
+latoT
+NRG actual
+EEI top decile target
+Safety by the numbers
+26 30.5K+
+owned or operated plants with hours of safety training
+zero recordables status
+2,200+
+6
+employees completing safety courses
+facilities with OSHA Voluntary Protection
+Program (VPP) Star status
+26%
+decrease in total recordable incident rate
+600
+contractors completing safety courses
+1 Excludes Vivint and Airtron.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 31
+WELLNESS RESOURCES JUST TRANSITION
+We offer resources that promote our employees’ physical, emotional, We are committed to ensuring a just transition in the event of a large
+and financial wellness to help them achieve a healthy and secure future. plant downsizing or closure. Therefore, our plant operations leaders
+take a proactive approach to notifying employees of upcoming changes
+In 2023, we continued partnering with EHE Health to provide an annual and explaining available options.
+physical for employees who may not have a primary care doctor.
+EHE Health physicians completed nearly 1,500 exams in 2023; 82% Plant Operations and corporate leaders maintain an open dialogue
+of the metabolic conditions identified in these exams were previously with union leadership, share job openings at NRG, prioritize displaced
+unknown to the patients, giving people an opportunity to address qualified internal employees for open roles at other plants, and relocate
+issues early. impacted employees willing to take those positions.
+EHE Health also followed a cohort of 636 returning patients from In addition, NRG offers outplacement services, resume writing skills
+our company. Of the 298 people who were diagnosed with unhealthy workshops, and tuition assistance for retraining.
+conditions in 2022, only 247 still had the same condition in 2023
+— a 17% improvement.
+Among our other wellness initiatives in 2023:
+• We maintained well-being goals within our Annual Incentive Plan
+as further motivation for participants to improve their physical,
+emotional, and financial well-being
+• We continued the Mental Health First Aid (MHFA) at Work
+program, which trains employees to serve as mental health
+ambassadors and help colleagues find trusted support
+professionals. Currently, NRG has nearly 200 MHFAs across
+the company
+• We offered free support to find childcare, manage finances,
+obtain legal guidance, and locate counseling through the
+Employee Assistance Program (EAP)
+• We provided education on retirement planning, mortgages,
+and other financial wellness topics
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 32
+Gender breakdown of NRG employees in 2023
+Male Female
+Fostering diversity, equity,
+Total NRG employees 70% 30%
+and inclusion (DE&I)
+Corporate
+56% 44%
+At NRG, we celebrate the power of DE&I as a catalyst for building (16% of all employees)
+Gender diversity in leadership roles in 2023
+stronger teams and inspiring better performance across our business.
+Residential and business
+Through encouraging diverse perspectives and cultivating a work 68% 32% Male Female
+(62% of all employees)
+environment in which all people feel empowered to contribute as their
+Generation Middle management
+best selves, we grow more adaptive and responsive to our customers
+93% 7% 69% 31%
+(11% of all employees) (19% of all employees)
+and communities.
+Services VP and above
+79% 21% 79% 21%
+(11% of all employees) (<1% of all employees)
+ASSESSING OUR PROGRESS
+We track the ethnic and gender makeup of NRG’s workforce as one
+means of building greater accountability behind our efforts to identify Ethnic diversity at NRG in 2023 Ethnic diversity in leadership roles in 2023
+and remove any barriers for recruiting and retaining the most talented
+people available. Corporate Middle management VP and above
+Total NRG employees
+(16% of all employees) (19% of all employees) (<1% of all employees)
+To help accelerate progress in cultivating a progressively more
+<1% 1% <1% <1%
+diverse workforce, we spearheaded the development and successful 4%
+2%
+3%
+integration of a focused space within our PowerUp talent hub in 2023. 2%
+6% 10% 9%
+This dedicated space not only showcases our diverse culture but also 18% 4%
+11% 6%
+3%
+serves as a comprehensive resource encompassing our daily initiatives,
+continuous learning opportunities, and the adoption of inclusive 61% 9% 59% 10% 72% 80%
+17%
+hiring practices.
+11%
+We also conducted our second annual DE&I-focused employee
+survey to gauge the effectiveness of our initiatives and identify areas
+for improvement. Team members’ candid feedback on how they
+Residential and business Generation Services
+experience DE&I in our company culture helps sharpen our focus on (62% of all employees) (11% of all employees) (11% of all employees) White (non-Hispanic or Latino)
+continuous improvement. Hispanic or Latino
+1% 1% <1% 1% <1%
+Black or African American
+4% 1% 3%1% 4%1% Asian
+Two or more
+4%
+7% 8% (non-Hispanic or Latino)
+12% American Indian or
+13%
+Alaskan Native
+60% 75% 57% Native Hawaiian or other
+17% 28% Pacific Islander
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 33
+DIVERSE AND INCLUSIVE AWARENESS AND TRAINING
+HIRING PRACTICES
+We have developed and implemented safety-centric training and
+We are committed to an inclusive hiring process without degree development programs that are accessible to all employees across the
+requirements, where appropriate, and without resume details that may company. These programs encompass a wide range of topics, including
+convey a candidate’s gender identity, race, religion, or socioeconomic inclusive leadership training, unconscious bias mitigation, and fostering
+background. Also, we actively seek qualified and diverse job candidates psychological safety in the workplace. By equipping our workforce with
+through our connections with affinity groups and other organizations these invaluable skills and insights, we aim to cultivate a culture where
+that focus on elevating talent from underrepresented communities. every individual feels valued and respected.
+In 2023, we developed an updated interview guide that reinforces best In 2023, we rolled out two new programs:
+practices for hiring managers to evaluate candidates in an inclusive and
+• Psychological Safety. An initial cohort of 20 employees
+unbiased manner. The guide includes step-by-step tips on selecting a
+completed this live, facilitated training over ten weeks. The
+diverse interview panel, formulating questions that invite a broad range
+interactive sessions focused on building and maintaining
+of perspectives, and reducing conscious and unconscious biases during
+psychological safety, active listening, emotional intelligence
+the evaluation process. Our hiring teams began using the new guide
+and vulnerability, inclusivity, diversity and belonging, and safety
+in 2024, and we plan to analyze its impact on the number of diverse
+in conflict.
+candidates who advance through our selection process.
+• How Was Your Day. This four-part e-learning series focuses on
+unconscious bias in the workplace. Participants examine how
+bias can negatively affect productivity and limit opportunities by
+perpetuating inequities. The series also provides strategies to
+counter stereotypes, promote inclusivity, and foster empathy.
+Accolades for our DE&I efforts
+In early 2024, Forbes magazine named NRG among
+America’s Best Employers for Diversity — an honor that
+we also received in 2023.
+Also, Reliant Energy received a 2023 Vets Indexes
+Employer Award for its efforts to hire, retain, promote,
+and support military veterans.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 34
+BUSINESS RESOURCE GROUPS
+Our employee-led BRGs are safe and collaborative spaces for
+individuals from all backgrounds to share experiences. In 2023, we had
+18 BRGs with nearly 1,300 participating employees. These include nine
+DE&I-focused groups and seven based on employees’ shared interests. Black Employees Leading in Inclusion, Fosters cultural diversity among Promotes diversity and inclusion
+Our newest group, RISE — Reconciliation with Indigenous Peoples and Excellence, Vision, and Education Latin and Hispanic members for Indigenous persons
+Supporting Equity — formed in 2023.
+The groups help break down barriers and promote psychological
+safety at NRG by providing venues for all employees to share common
+interests and make their voices heard. Our BRGs also play a vital
+Promotes social, recreational, and health Supports living an eco-friendly lifestyle and Brings together employees
+role in fostering curiosity and raising awareness about the diverse
+aspects of cycling sustainable living culture who enjoy running
+perspectives that shape our business.
+Learn more about our BRGs.
+Jumpstarts early career professionals Promotes and builds awareness Committed to bettering the lives of all
+through development for the LGBTQ+ communiity Military Veterans
+Facilitates improvement Builds one community to promote diversity Celebrates diverse perspectives and
+of project management and inclusion awareness by facilitating experiences of employees and customers
+open dialogue and discussions
+Educates members about the EV Empowers member’s public speaking Serves as a platform to Asian American
+market and trends and leadership skills and Pacific Islander employees
+ETHNICALLY DIVERSE
+Promotes and advocates for outdoor activities Promoting diversity and inclusion by Empowers, strenthens, and connects
+highlighting an array of ethnic communities female employees
+and diverse racial backgrounds
+https://www.nrg.com/assets/
+documents/suppliers/signed-ceo-
+committment-letter-2017.pdf
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 35
+DAY OF UNDERSTANDING EXECUTIVE COMPENSATION TIED
+TO METRICS
+An annual highlight for our organization is the Day of Understanding,
+where we come together to delve into critical topics related to DE&I. Our Board Compensation Committee designs and implements an
+Each year, we select a theme of significance and invite a professional or executive compensation program that is intended to complement
+keynote speaker to share their insights. and advance NRG’s power values, which include DE&I. Among the
+performance metrics is increasing the pipeline of diverse candidates
+Our 2023 Day of Understanding focused on accessibility in the who advance to the interview stage for manager-level and higher
+workplace, shedding light on the importance of creating environments positions at NRG.
+that are inclusive and accommodating for all individuals. Catarina Rivera,
+a prominent DE&I consultant and disability rights advocate, shared
+PAY EQUITY STUDY
+her perspectives on working as a legally blind person and a Latina in
+society. The interactive session was moderated by a co-lead for the Every three years, we hire a third party to conduct a company-wide
+visABILITY BRG, who also shared his experiences as a traumatic brain gender- and ethnicity-based pay equity study. We conducted our first
+injury survivor. pay equity study in 2020, to ensure our employees are compensated for
+their contributions, not based on gender, race, or other similar factors.
+The 2020 study showed equitable pay practices after accounting for
+education, experience, performance, and location. The 2023 study
+produced similar results to the 2020 study, in which no statistically
+significant pay gaps were identified.
+EXPANDING DIVERSITY
+WITHIN OUR SUPPLY CHAIN
+Our business grows stronger and more responsive to customer needs
+through the partnerships that we build with diverse-owned suppliers.
+In turn, our support helps these enterprises contribute to economic
+growth in local communities.
+We formally measure subcontracted small and diverse business spend
+for our top 25 suppliers and intend to increase this number annually.
+Learn more about our commitment to supplier diversity.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 36
+Giving back to communities PositiveNRG is our primary community giving and volunteering initiative, POSITIVENRG IMPACT WEEK
+while the Reliant Gives program supports community causes across
+Texas. In addition, Vivint and its employees made a sizable philanthropic This annual event mobilizes our employees to volunteer and
+Whether through volunteering or charitable giving,
+impact through the Vivint Gives Back program in 2023. donate to their communities. In 2023, PositiveNRG Impact Week
+our philanthropic initiatives are dedicated to making
+continued its focus on increasing food security. Approximately
+a meaningful difference in the communities where we Collectively, PositiveNRG and Vivint Gives Back donated approximately
+2,900 NRG employees participated, our highest volunteer turnout
+live and work. $7 million to nonprofit organizations and charitable causes in 36 U.S. in the event’s 16-year history.
+states and Canadian provinces. NRG employees donated $500,000 to
+Philanthropy and volunteering various causes and, together with their Vivint colleagues, logged more
+than 31,000 hours of volunteer service throughout the year.
+2021 2022 20231
+PositiveNRG contributions in 2023 included:
+NRG donations to
+$9,635,088 $6,207,947 $7MM
+charitable organizations • Providing approximately $64,000 to aid residents affected by 2023 PositiveNRG Impact Week highlights
+the wildfires in Maui, Hawaii, through the American Red Cross,
+Employee-reported
+Hawaii Community Fund, and the Maui Food Bank. In addition,
+donations to charitable $251,122 $188,476 $235,220
+we donated to wildfire relief in Alberta, Canada, and tornado
+organizations 50+
+relief in Pasadena, Texas
+Charitable participating cities
+• Collaborating with United Way, Mercer Street Friends, Boys &
+organizations impacted
+970 1,015 1,160+ Girls Club of Pittsburgh, and the Foundation Academy to collect
+by volunteers and
+and donate nearly 800 books in honor of MLK Day of Service 60
+donations
+• Supporting approximately 50 NRG employees who Nonprofits benefited
+Total reported hours
+volunteered in a tree-planting event to benefit Houston
+volunteered by NRG 6,388 13,739 31,100
+Parks and Recreation
+employees 2
+710K+
+• Donating to Nonprofit Connect, a New Jersey-based program
+% of employees who meals packed
+that trains NRG employees and others to serve as volunteer
+volunteered and/or 15% 27% 32%
+board members for various nonprofit organizations. We
+donated
+3
+also contribute directly to those nonprofits on behalf of our ~2.9K
+% of employees who employee volunteers
+4% 20% 19% employee volunteers
+volunteered
+# of U.S. states and
+6.7K
+Canadian provinces
+17 21 36
+where employees volunteer hours
+volunteered
+1 Includes contributions by Vivint employees through Vivint Gives Back program.
+2 Total number of meals calculation includes the equivalent number of the pounds of food sorted & packed and meals served. Inclusive of Vivint Gives Back.
+3 Total volunteer number includes individuals who volunteered more than once.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 37
+With the unwavering support of the community, Vivint, and dedicated MEXICO CITY IMPACT TRIP
+Vivint Gives Back
+company employees, VGB made a positive impact on the lives of
+62,211 people worldwide. VGB hosts annual international humanitarian trips. Each year, Vivint
+Established in 2008, Vivint Gives Back (VGB) initially
+employees volunteer their time, money, and labor to help improve the
+dedicated its efforts to assisting families with children An impressive $3.1 million was raised, supporting a diverse range of
+quality of life for communities in need.
+affected by autism and other neurological disorders. charitable initiatives – from addressing hunger and ensuring clean water
+access to constructing homes for families in need. For the 2023 impact trip, VGB teamed up with a local charity in Mexico
+Over the years, VGB has expanded its mission to create a positive City, Mexico, to provide homes, clean water, and a community center.
+influence in both local and global communities. Transitioning into a
+public charity in October 2020, the statistics on this page showcase the Over 630 volunteers devoted a collective 12,960 hours to VGB
+cumulative contributions made by VGB since its inception. throughout the month of October, constructing 52 homes with clean
+water systems and a community center and positively impacting the
+lives of 260 individuals.
+2023 at a glance
+1 in 5
+Vivint and VGB together capped off another
+stellar year of successful charitable endeavors. employees volunteered
+632
+62K+ 23,083 volunteers
+people impacted volunteer hours
+15,168
+5,022 $750K volunteer hours
+volunteers contributed by Vivint
+52
+$3.1M+ $483 homes built
+raised average Vivint employee donation
+52
+124% 1 in 3 clean water systems installed
+increase in volunteer efforts over 2022 employees donated
+1
+community center built
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 38
+GIVING TUESDAY CAMPAIGN NRG GIVES
+During the Giving Tuesday campaign as part of PositiveNRG Week, NRG cares deeply about the people and communities we serve.
+we match employee donations 2:1, allowing employees to double their Through both NRG Gives and the Choose to Give program, we partner
+impact on their favored causes and organizations. with customers to change lives for the better. Through the annual NRG
+Gives program, employees can nominate their favorite nonprofits in
+the Northeastern U.S. to receive funding. Eligible organizations are
+then ranked by a committee, which selects eight finalists to be voted
+on by employees.
+Our 2023 NRG Gives winners, which collectively received $100,000, were:
+Giving Tuesday highlights
+• Lower Valley Community Food Bank, which serves the Springdale,
+Pennsylvania area
+• Girls on the Run, a national organization that seeks to inspire all
+$126K
+girls to build their confidence, kindness, and decision-making
+in employee and NRG-matching donations
+skills through fitness
+• Hannahtopia Foundation, which provides support for children
+164
+living with epilepsy
+nonprofit organizations supported
+• Lunch Break, a one-stop resource center for homeless families in
+the Red Bank, New Jersey area
+42%
+When customers enroll in a Choose to Give plan, their energy use can
+increase in employee giving compared to 2022 help fund nonprofit organizations in their area. Since 2017, NRG’s
+Choose to Give program has empowered customers to support local
+nonprofits just by paying their electricity and natural gas bills. When a
+customer enrolls in a Choose to Give plan, we contribute to their chosen
+nonprofit on their behalf. In addition, a percentage of the supply portion
+of each of their monthly bills is contributed annually—all at no additional
+cost to the customer. The Choose to Give program in the East Region
+supports eight nonprofits – Big Brothers Big Sisters Independence,
+Boston Children’s Hospital, Children’s Hospital of Philadelphia, Lurie
+Children’s Hospital, Nationwide Children’s Hospital, Nemours Children’s
+Health, Philabundance, and UPMC Children’s Hospital. Since 2017, we’re
+proud to have contributed $18 million total and counting to these local
+organizations.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 39
+RELIANT GIVES CARE program Texas State Aquarium
+Since 2002, Reliant has provided more than $17 million to help We joined forces with the Texas State Aquarium to continue to expand
+The mission of Reliant Gives is to support causes that are important
+Texans who need assistance with electricity costs through the wildlife rescue and education efforts. Wildlife Rescue on the Road is a
+to Texas communities. In 2023, Reliant Gives focused on supporting
+Community Assistance by Reliant Energy (CARE) program. STEM-based program that teaches kindergarten through fifth-grade
+community programs, utility assistance, sustainability efforts, and
+In 2023, our support included: students about wildlife conservation and educates them about the
+educational programs.
+work of rescuing and rehabilitating animals.
+• $1.2M in donations to more than 70 agencies that directly
+Reliant Gives donations support customers Reliant’s $25,000 donation in 2023 enabled the Aquarium to build out
+its rescue vehicle fleet and bring Wildlife Rescue on the Road to more
+• Another $159,355 donated by Reliant customers through their
+Texas students.
+2021 2022 2023
+utility bill payments
+Amount of
+$5,628,065 $4,109,656 $4,848,334 GREEN MOUNTAIN ENERGY SUN CLUB
+donations ($) Beat the Heat
+# of nonprofit In partnership with city governments, local health departments, and We collaborate with nonprofit organizations on projects that advance
+organizations 151 224 206 nonprofits, Reliant has opened 45 Beat the Heat centers across Texas renewable energy, energy efficiency, resource conservation, and
+supported over the past 18 years. These facilities provide a safe place for seniors environmental stewardship. Since 2002, Sun Club has donated more
+and other vulnerable neighbors to cool off during warm weather. than $14.2 million to 163 unique projects and has avoided more than
+# of employee
+~4,000 4,078 4,109 20,000 metric tons of CO .
+volunteer hours 2
+Reliant also provided more than 1,000 personal cooling devices for
+residents to use at home in 2023.
+Read on to learn about selected Reliant Gives highlights from 2023.
+Choose to Give
+Habitat for Humanity Launched in 2023, this program enables Reliant customers to support Looking ahead
+Reliant partnered with Houston Habitat for Humanity to build the the American Heart Association and March of Dimes by doing
+first home in its new Robin’s Landing project, a 127-acre housing something as simple as turning on their light switch. When customers In both our Talent organization and philanthropic efforts, we are
+community. In addition, this new homeowner received a year of free enroll in a Choose to Give plan, they can channel a $100 upfront working to operate more effectively as one unified organization.
+electricity from Reliant. donation from Reliant to either of the two nonprofits. From there, Our CEO, senior leadership team, and operational managers
+Reliant donates an amount equal to 5% of the customer’s annual continue to focus on growing NRG’s culture and aligning
+We contributed: energy charges to the chosen organization. employees behind a cohesive set of values that guide how we
+move forward. The outcomes of this work will define our approach
+• $115K Choose to Give replaced two previous Reliant customer-directed giving
+to enhancing professional development, DE&I, community
+campaigns that also benefited the American Heart Association and
+• 100 smart thermostats engagement, employee well-being, and more at NRG.
+March of Dimes. Since 2013, the initiatives have contributed a total of
+• 300 doorbell cameras $2.7 million to those organizations.
+• 19 volunteers and 124 volunteer hours
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 40
+Governance
+IN THIS SECTION:
+Corporate governance 41
+Board of Directors 41
+Governance approach for 42
+environmental stewardship
+and social responsibility
+Stockholder and 46
+stakeholder engagement
+Public policy 48
+Data, technology, and security 48
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 41
+In 2023, the G&N Committee introduced a third-party facilitator
+Corporate governance
+as a new component of its Board evaluation program. We believe
+this addition will strengthen Board effectiveness as the third-party
+We build our corporate governance on a strong
+facilitator will bring broad market insight and candid perspectives on a
+foundation of ethical standards and conduct. Robust
+wide range of governance matters, including board dynamics, structure
+and comprehensive governance practices strengthen
+and composition, information practices, meeting schedules and
+our culture, support our business strategy, and underpin agendas, and decision-making.
+all our actions.
+We are proud to have a diverse Board in terms
+Board of Directors
+of director tenure, age, gender, and ethnicity.
+Of our 13 directors, seven are gender or
+Our Board of Directors is dedicated to maintaining the highest integrity
+for our company, and we are proud of its contributions to the evolution ethnically diverse. In addition, four of our five
+of NRG. Together with management, the Board is responsible for
+Committee chairs are women.
+establishing our operating values and Code of Conduct as well as
+setting our strategic direction and priorities. The Board has adopted
+Corporate Governance Guidelines that, together with the Amended
+and Restated Certificate of Incorporation, the Bylaws, and the Charters
+Board of Directors gender and ethnic diversity,
+of the Board Committees, constitute our governance framework.
+tenure, independence, and age
+The Board is composed primarily of independent directors. In 2023,
+we expanded the Board from 11 to 13 directors and welcomed a total 2021 2022 2023
+of four new directors. Following the November 2023 sale of NRG’s
+Number of women on Board 4 4 5
+interest in the South Texas Plant, NRG dissolved its Nuclear Oversight
+Committee. Our Board includes four standing committees: Audit,
+Number of Board
+Compensation, Governance and Nominating (G&N), and Finance and members who identify 3 3 2
+Risk Management. In addition, the Board established a non-standing as ethnically diverse
+CEO Search Committee in November 2023.
+0-4 years 5 5 7
+The G&N Committee of our Board seeks to reflect the gender and
+ethnic diversity of our people and those we serve. In choosing director Tenure 5-10 years 2 2 2
+candidates, our definition of diversity goes beyond race and gender
+and includes valuing a diversity of viewpoints, experience, and tenure. 11+ years 4 4 4
+Differences in expertise allow the Board to hear various perspectives
+Number / % of
+from its members, leading to better outcomes and a robust decision- 10 (91%) 10 (91%) 12 (92%)
+independent directors
+making process.
+Median age of Board members 60 61 62
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 42
+RISK MANAGEMENT
+Governance approach for
+environmental stewardship Together with the Board of Directors, our risk management
+professionals oversee risks related to our capital structure, liquidity,
+and social responsibility financing, and other capital market transactions. In addition, they
+oversee NRG’s management of risks associated with our trading of fuel,
+transportation, energy and related products and services, regulatory
+Sustainability is a philosophy that serves to create greater value across
+compliance, information technology systems, data privacy and security,
+our business and for all our stakeholders. It is an integral piece of NRG’s
+and cybersecurity matters.
+strategy and ties directly to business success, reduced risks, and
+enhanced reputation.
+We also maintain a robust business continuity program as well as
+a corporate crisis management team that oversees planning and
+ETHICS AND COMPLIANCE
+preparation for emergency response initiatives. This team meets
+quarterly to train for various scenarios that may impact our business,
+At NRG, we care about doing the right thing — and not just when
+such as hurricanes, plant incidents, pandemics, winter storms, and
+it’s convenient. By demonstrating our commitment to act ethically
+other events.
+and transparently, we preserve trust and help to ensure we meet our
+legal obligations as a company. Our Code of Conduct helps keep us
+BOARD OVERSIGHT
+focused on enhancing NRG’s reputation through our decisions and
+actions. Beyond highlighting potential risks, our Code helps us maintain
+We take an integrated governance approach to overseeing
+a Culture of Care in which we can all thrive. It provides guidance with
+environmental and sustainability issues, including climate change.
+respect to competition and fair dealing, confidentiality, conflicts
+Our full Board has ultimate responsibility for climate risk oversight as
+of interest, corporate opportunities, protection and proper use of
+a component of NRG’s business strategy. Board committees conduct
+the Company’s assets, recordkeeping, reporting illegal or unethical
+more in-depth reviews of specific sustainability issues, with the
+behavior, and compliance procedures.
+G&N Committee formally responsible for our sustainability policies
+By adhering to the Code, we are living our values and ensuring that NRG and programs.
+continues to be recognized for modeling integrity and ethical behavior.
+By formalizing our governance structure for climate and other
+All employees are required to complete Code of Conduct training
+sustainability-related issues, we help enable the Board and its
+annually and attest that they will comply with the Code.
+committees to ensure that all material risks to the company are
+mitigated. This structure also helps the Board effectively guide our
+pursuit of significant business opportunities.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 43
+At least once per year, sustainability is formally included as an agenda
+item at a full Board meeting and is also discussed separately by the G&N
+Committee. In addition, sustainability-related matters are discussed Board of Directors and Board committee responsibilities
+at other Board and Committee meetings as the context requires.
+For example, the Compensation Committee regularly discusses ESG Oversight responsibilities Selected ESG topics addressed at least annually
+compensation metrics in the context of annual compensation plan
+design and achievement of compensation plan metrics. Board Overall oversight of ESG risks and opportunities, and • Climate strategy, goals, and progress
+integration of ESG risks and opportunities into our
+• DE&I
+The Board oversees environmental and sustainability issues and other long-term strategy
+ESG topics with the support of its committees as outlined to the right. • Safety and well-being
+• Annual sustainability update and review of
+• Cybersecurity and data analytics
+sustainability reporting
+Sustainability is a philosophy that serves • Community relations and philanthropy
+• Certain responsibilities delegated to board
+committees for more in-depth review
+to create greater value across our
+and analysis
+business and for all our stakeholders.
+Audit Oversight of ESG disclosure, including processes • Quarterly review of disclosure in Form 10-K/Qs
+and controls to ensure disclosures are accurate, and earnings releases
+consistent, and comparable
+• Ethics and compliance
+Compensation Oversight of accountability for ESG goals and the • Review of executive compensation program and
+talent and management succession to execute the succession planning for senior management
+ESG strategy
+• Incorporating ESG into compensation
+G&N • Oversight of ESG engagement, Board • Annual sustainability update
+composition, and ongoing Board education on
+• Annual review of political spending
+ESG matters
+• Ongoing Board refreshment and director
+• Oversight of corporate sustainability issues
+onboarding and training program
+Finance and Risk Management Oversight of risk assessment of material ESG • Review of new and emerging risks
+sustainability risks such as climate change
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 44
+EXECUTIVE MANAGEMENT
+Responsibility for our overall sustainability approach begins with our Sustainability oversight at NRG
+CEO, who is tasked with reviewing all sustainability-related strategies,
+goals, and metrics. These components are then finalized and approved
+EXECUTIVE LEVEL
+by the Board prior to implementation.
+President and CEO has ultimate Standing meeting with Reviews all sustainability disclosures
+Sustainability strategy development, implementation, and reporting
+responsibility for sustainability Sustainability team and strategic direction
+are led by our CSO and our sustainability group. In particular, the
+sustainability group is responsible for developing our climate-related
+policy positions, coordinating policy and commercial initiatives, CORPORATE SUSTAINABILITY TEAM
+engaging with our stakeholders, and advising on decarbonization
+Sustainability
+pathways as well as business and residential low-carbon energy
+Corporate Sustainability team oversees creation, Sustainability team works with corporate functions to
+team provides
+solutions. Our sustainability group reports to our SVP, Administration.
+and communication of key ESG-related strategies, goals, develop and implement issue-specific goals, scenarios,
+oversight and
+It also maintains a direct line of communication with our CEO through
+and initiatives and projects
+implementation
+standing one-on-one meetings.
+PROGRAMMATIC INPUT FROM CROSS-FUNCTIONAL DEPARTMENTS
+Environment Corporate compliance Finance
+Corporate
+Regulatory and government affairs Treasury Asset management
+functions provide
+subject matter
+Operations Legal Talent expertise
+Home, business, and retail services Risk Market structuring and fundamentals
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 45
+Climate opportunity and climate risk While all 17 development goals are important for global sustainability,
+we have chosen to focus our time and resources primarily on the
+Each pillar of our sustainability strategy addresses climate risks
+following four SDGs that are most applicable to NRG’s business:
+and opportunities that are continually evolving based on external
+developments as well as NRG’s strategy and activities. While we
+currently face certain climate risks, we believe our strategy is
+increasing the company’s resilience while also positioning NRG to
+realize climate opportunities.
+Tying ESG to compensation A more in-depth analysis of our climate risks and opportunities can
+be found in our 2020 TCFD Report here.
+We incorporate an ESG metric into the company’s annual cash incentive
+plan, linking our executive compensation program directly to our ESG
+commitments and objectives. The ESG metric includes: Environmental stewardship
+For more detail
+As further discussed in the Environmental section, we are committed
+• Customer satisfaction regarding our
+to operating in an environmentally responsible manner and in
+SDG-aligned initiatives,
+• eKPIs compliance with all applicable environmental requirements. Our
+see the full chart in
+Environment Over Production policy sets a clear directive to prioritize
+• Update internal Scope 3 GHG inventory for current year data the Appendix.
+environmental compliance across NRG, and we empower every
+• Diversity recruiting practices employee to continuously maintain this priority. NRG’s Environmental
+Policy Statement can be found here.
+• Employee well-being
+Sustainability reporting
+For Named Executive Officers (NEOs), the ESG metric has a 15% weight Sustainable Development Goals
+We strive to be a leader in sustainability, transparency, and disclosure.
+in the determination of annual cash incentive plan funding.
+Launched in 2015, the 17 SDGs are a global set of goals, targets, We assess our disclosure quality and overall sustainability performance
+and indicators developed by the United Nations. These SDGs guide through ongoing stakeholder feedback, including through investor
+countries, communities, and organizations in their work to end poverty, relations and engagement in voluntary disclosure organizations such as
+fight inequality and injustice, and tackle climate change by 2030. the CDP, TCFD, and SASB. View our comprehensive reporting approach
+and historical reports here.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 46
+Stakeholder Key topics How we engage
+Employees • Recruitment and retention • Fair hiring practices, competitive benefits,
+Stockholder and and programs to assist employees when plants
+• DE&I
+are retired
+stakeholder engagement • Safety and well-being
+• BRGs
+• Just transition
+• Safety standards and well-being programs
+Engaging with stockholders and implementing their feedback is integral
+to continuous improvement for our Board, governance, compensation,
+Customers • Affordable energy • Customer call centers, customer-facing
+and sustainable practices.
+websites, and direct email, social media,
+• Reliable energy
+and mail communications
+Stockholder engagement informs our Board’s decision-making
+• Sustainable energy and related products
+• Home, Business, and Services products
+process and has driven changes to our governance and compensation
+and services
+and solutions
+practices. In 2023, members of management spoke with stockholders
+• Overall customer experience and satisfaction
+representing 2/3 of our outstanding shares. • Diverse supply fuel sources
+In addition to stockholders, our vast network of stakeholders is highly Community • Community impact and engagement • Employee volunteerism
+valued for providing diverse expertise, perspectives, and insights that
+• Economic development • Nonprofit partnerships
+support the evolution of our organization.
+• Community events and philanthropy
+• Sponsorships
+Government • Public policies and regulations impacting • Engagement with regulators and local officials
+energy markets (e.g., reliability, affordability,
+• Compliance with federal, state, and local laws
+market design, retail choice, and environment
+and regulations
+and climate)
+Investors • Company financial performance and strategy • Shareholder meetings
+• Various ESG topics including climate, DE&I, • Quarterly earnings conference calls
+and Board governance
+• SEC disclosures
+• Voluntary sustainability disclosures
+Non-governmental • Various ESG topics including climate, • Industry and trade associations
+environmental conservation, DE&I, Board
+• Community development initiatives
+governance, and community relations
+• Voluntary sustainability disclosures
+Suppliers • Compliance with NRG policies • NRG Supplier Code of Conduct
+• Supplier sustainability goals and progress • NRG Manufacturers Standards Policy
+• NRG supplier diversity standards
+• CDP Supply Chain program
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 47
+ENGAGING ON CLIMATE ISSUES • The Rice University Baker Institute Center for Energy • Carbon-to-Value (C2V) (founding member and part of
+Studies (Working Group on CCUS and Hydrogen) – The Working Carbontech Leadership Council (CLC)) – C2V is a multiyear
+Building relationships with non-governmental organizations, Group is exploring the deployment of CCUS and hydrogen program driving the creation of a thriving innovation ecosystem
+community and industry groups, and academia, among others, helps us technologies in the state of Texas and consists of a diverse set for the commercialization of carbontech. The CLC is creating a
+to identify and pursue potential decarbonization opportunities for our of stakeholders representing corporations, industry groups, technology road map for the future of the carbon-tech industry
+business and our customers. academic institutions, and non-governmental organizations and is fostering opportunities for technology validation, testing,
+active in the state. and demonstration of carbontech.
+As part of these efforts, we have established relationships with a variety
+• Rice Alliance for Technology and Entrepreneurship (founding
+of organizations that are helping us both set and make progress toward
+supporter, Rice Alliance Clean Energy Accelerator) – A clean
+our goals. These organizations include the following.
+energy accelerator at Rice University in Houston that supports
+• Climate Group EV100 – Climate Group EV100 is a global early-stage energy start-ups from around the world, all of which
+initiative bringing together forward-looking companies have access to the Rice Alliance network of energy companies,
+committed to accelerating the transition to EVs by 2030. investors, advisors, and Rice’s energy tech venture forums.
+• Zero Emission Transportation Association (ZETA) – ZETA is • EVolve Houston (founding member) – EVolve Houston
+a coalition focused on advocating for 100% EV sales in the U.S. is a coalition of sustainability-minded civic, business, and
+by 2030. academic leaders who seek to accelerate clean transportation
+through electrification, improve regional air quality, and reduce
+• Greentown Labs (founding sponsor, Houston Expansion)
+greenhouse gas (GHG) emissions in the greater Houston area.
+– Greentown Labs is the largest climate-tech start-up incubator
+in North America and brings together start-ups, corporations, • Greater Houston Partnership (Houston Energy Transition
+investors, policymakers, and many others, with a focus on Initiative (HETI) Steering Committee and Working Groups on
+scaling climate solutions. Capital Formation; CCUS; Hydrogen; Industrial Decarbonization;
+Power Management; Energy and Sustainability Advisory
+• The United States Business Council on Sustainable
+Committee; and Energy 2.0 Committee) – The Partnership
+Development (Founding member, Gulf Coast Carbon
+prioritizes efforts that will position Houston to lead the global
+Collaborative (GCCC)) – The GCCC convenes working groups
+energy transition to a more efficient and sustainable future
+on the energy transition, nature-based solutions, Carbon
+while accommodating growth in global energy demand.
+Capture, Use, and Sequestration (CCUS), and hydrogen.
+• University of Houston and Southern States Energy Board
+• Rice University (Carbon Hub) – The Rice Carbon Hub aims
+(SSEB) (CCUS Commercialization Effort) – University of
+to accelerate the energy transition such that clean hydrogen
+Houston and Southern States Energy Board (SSEB) CCUS
+energy and advanced carbon materials are co-produced
+Commercialization Effort is a public-private consortium of
+efficiently and sustainably from natural gas and oil.
+experts who promote the rapid and transformative deployment
+of CCUS technologies.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 48
+Our security approach encompasses both data and technology.
+Public policy Data, technology,
+We maintain robust internal security controls based on the NIST
+and security Cybersecurity Framework.
+NRG participates in the political process to advance our long-term
+strategy and the interests of our stockholders, employees, customers, All employees receive annual IT and cybersecurity training that
+Governing our business effectively and sustainably requires strong
+and stakeholders. focuses on anti-phishing, malware prevention, and how to recognize
+protection of NRG technology systems as well as the data that we rely
+and prevent cybercrime. Our Cyber Integration Center team also
+upon for making informed decisions. The unique power of harnessing
+POLITICAL CONTRIBUTIONS provides tips and awareness to help employees stay safe online during
+data, technology, and security keeps us on the cutting edge of our
+Cybersecurity Awareness Month.
+business, allowing us to deliver excellence.
+Dedicated to transparency, we appreciate the need to disclose our
+Within our protective framework, we are building enterprise-wide
+political and policy-related activity and do so annually through our
+platforms to capture individual consumer insights and behavioral
+Public Policy Engagement and Corporate Political Contributions report.
+trends. This knowledge enables us to continue innovating and
+The report lists all membership organizations, trade associations, and enhancing customer engagement and satisfaction with our products
+social welfare organizations to which NRG paid annual dues in 2023 of and services.
+$25,000 or more, and which were registered to lobby at the state or
+Our key accomplishments in 2023 include:
+federal levels and who did, in fact, engage in such lobbying, as well as
+the total amount paid to such organizations in 2023. The report also
+• Expanding our customer data platform, which provides
+lists all political contributions the company made in 2023. We share
+industry-leading insights and enables real-time personalization
+more details about our engagement with third parties in our Industry
+Association Climate Review and Climate Change Principles. • Delivering enterprise-wide data projects that strengthen our
+core business, execute our digital strategy to personalize offers,
+and advance our Artificial Intelligence (AI) capabilities to unlock
+NRG POLITICAL ACTION COMMITTEE (PAC)
+value within the business
+Along with participation in civic, charitable, and volunteer activities, NRG • Continuing to develop preventative protections, identifying
+encourages its employees to be active members of their communities and remediating information security risks and vulnerabilities,
+by participating in the political process. Employees may contribute testing incident response procedures, and providing ongoing
+voluntarily to the NRG PAC, which pools these contributions to support employee cybersecurity training and awareness
+candidates seeking elective office who understand our industry.
+Zero
+Material cybersecurity
+incidents in 2023
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 49
+Appendix
+IN THIS SECTION:
+Glossary 50
+Further reading 51
+UN Sustainable Development 52
+Goals (SDGs) and progress
+SASB standards 54
+Key issues assessment 60
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 50
+Greenhouse Gas (GHG): Traps heat in the atmosphere, resulting Watt (W): A measure of electricity generation capacity at a particular
+Glossary
+in global warming and climate change. In the power sector, GHG point in time. Variants include kilowatts (kW, thousand watts),
+emissions are released during the combustion of fossil fuels, such megawatts (MW, million watts), gigawatts (GW, billion watts), and
+Business Resource Groups (BRGs): Voluntary, employee-led groups
+as coal, oil, and natural gas, while producing electricity. In the natural terawatts (TW, trillion watts).
+at NRG organized around a particular shared background, interest,
+gas sector, GHG emissions are released during the production,
+or issue. transportation, and consumption of natural gas. Measured in metric Watt Hours (Wh): A measure of the amount of electricity provided
+tons of carbon dioxide equivalent. over a particular period of time (typically one year or one month).
+Carbon intensity of electricity: the amount of carbon dioxide
+1 Wh is equal to 1 Watt of average power flow over the course of an
+equivalent (measured in metric tons) emitted per unit of electricity
+Power Purchase Agreement (PPA): A medium- or long-term contract hour. Variants include kilowatt hours (kWh, thousand-watt hours),
+measured in a variant of watt hours (terawatt hours, gigawatt hours,
+between two parties, one which generates electricity (the seller), megawatt hours (MWh, million watt hours), gigawatt hours (GWh, billion
+megawatt hours, kilowatt hours). See also revenue carbon intensity.
+and one which is looking to purchase electricity (the buyer, either watt hours), and terawatt hours (TWh, trillion watt hours).
+a corporate end-user or a power company reselling the electricity
+Carbon offset: Mechanism to compensate for the greenhouse
+to a corporate end-user). PPAs are often used in renewable energy,
+gas (carbon dioxide equivalent) emissions of a household or larger
+especially solar, as a way for buyers to access solar electricity without
+organization due to its combustion of fossil fuels. An example of a
+having to directly install solar generating capacity onsite. Buyers
+carbon offset is afforestation (planting trees).
+take ownership of the physical energy and receive renewable
+Certified Natural Gas (CG): Natural gas certified by a third-party to electricity credits.
+have a lower methane/CO e intensity. This is achieved by reducing
+2
+Renewable Natural Gas (RNG): Captures methane that would have
+methane leaks in the natural gas value chain.
+gone into the atmosphere and injects it into the natural gas distribution
+Community solar: local solar facilities shared and financially supported system. Methane can be sourced from farms, food waste, wastewater
+by multiple community subscribers who might not otherwise be able to plants, landfills, and biomass.
+access solar.
+Revenue carbon intensity: the amount of carbon dioxide equivalent
+Demand Response (DR): A program that provides financial incentives (measured in metric tons) per unit of revenue typically measured in a
+to end-users to reduce their consumption of electricity during periods variant of dollars (millions of dollars, thousands of dollars).
+when the electricity grid is experiencing high electricity demand (for
+Virtual Power Purchase Agreement (VPPA): A variation of a PPA
+example, when temperatures are very high or very low).
+in which the buyer does not take ownership of the physical energy
+Distributed Energy Resources (DERs): Modular energy generation and generated. Instead, a VPPA is a financial transaction whereby a
+storage technologies that provide electric capacity or energy where corporate customer agrees to purchase power at a negotiated price
+and when it’s needed. Usually deployed close to load (at the point of from a wind or solar project over a predetermined number of years,
+customer demand) and behind the customer’s meter, giving customers committing to pay a fixed price to the owner of the facility for each unit
+greater control, predictability, and stability when it comes to their of electricity produced. As with a PPA, the buyer receives renewable
+energy usage. electricity credits, but the developer takes responsibility for managing
+the delivery and sale of the electricity produced on the open market.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 51
+• Backup power • 2020 TCFD Report
+Further reading
+• Smart technology • 2019 GRI Content Index
+• Home services • Energy policy and regulatory filings
+Our 2023 Sustainability Report is designed to provide stakeholders
+with a comprehensive update on NRG’s commitment to people, the • Smart Home • The path to one and a half
+environment, and the governance principles that inform our work. To • Home security • Environmental Policy Statement
+delve deeper into certain topics, the list below is a catalog of the most • Cameras • Climate Change Principles
+recent publications spanning our business.
+Solutions for Business • Coal Combustion Residuals Rule Compliance Data
+and Information
+This list is also posted on our website and will be refreshed as additional • Power
+• Suppliers overview and working with NRG
+materials are published. We hope this provides an even more complete • Natural gas
+• NRG Manufacturers Standards Policy
+view of NRG. As always, if you do not find what you are looking for, • Load management
+please email us at communications@nrg.com.
+• Sustainability and renewables
+Governance
+• Energy brokers
+Business • The Power to Become: NRG Code of Conduct
+• Case studies by goal and industry
+• Corporate Governance Guidelines
+• 2024 Annual Meeting of Stockholders and Proxy Statement
+People • NRG Management
+• 2023 Form 10-K
+• Life at NRG • NRG Board of Directors
+• Other U.S. Securities and Exchange Commission Filings
+• Diversity, equity, and inclusion • NRG Board Committee Composition
+• NRG Sustainability-Linked Bond Framework
+• NRG Statement on Addressing Racial Injustice • Audit Committee
+• Second Party Opinion on NRG’s Sustainability Linked
+Financing Framework • CEO Commitment Letter on Supplier Diversity • Audit Committee Procedures
+• 2021 NRG Investor Day • 2022 Equal Employment Opportunity Report (EEO-1) • Compensation Committee
+• Pillars of positiveNRG • Governance and Nominating Committee
+Insights
+• Employee goodwill programs • Finance and Risk Management Committee
+• Energy education
+• positiveNRG Week 2023 • NRG Political Contribution Policy
+• People and community
+• 2023 Conflict Minerals Disclosure • NRG Manufacturers Standards Policy
+• Sustainability
+• Environmental Policy Statement
+• Innovation
+Environment • Climate Change Principles
+• 2023 Third Party Assurance of NRG Greenhouse Gas
+Customers
+Emissions Report
+Residential Solutions
+• 2023 SASB Standards table
+• Energy plans • 2023 CDP Climate Questionnaire
+• Sustainable living • 2023 CDP Water Security Questionnaire
+• Electric vehicle driving • 2023 Industry Association Climate Review
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 52
+UN Sustainable Development Goals (SDGs) and progress
+For a comprehensive look at our SDG-aligned efforts, see the chart below. For more information regarding NRG’s approach
+to incorporating SDG guidance into our business strategy, click here.
+SDG Sub-Target Alignment 2023 Featured Contributions and Progress
+5.1 End all forms of discrimination against all women At NRG, diversity, equity, and inclusion (DE&I) is one of our core values because it is a catalyst for building stronger teams, inspiring
+and girls everywhere better performance, and empowering our people to show up as their most authentic selves. A core component of our DE&I strategy is
+promoting gender equality and ensuring equal opportunities for women at NRG. Among our key initiatives:
+5.5 Ensure women’s full and effective participation
+and equal opportunities for leadership at all levels • We updated our hiring interview guide in 2023 to ensure candidates are evaluated in an inclusive and unbiased manner. The guide
+of decision-making in political, economic and provides step-by-step tips — from selecting panel participants, to formulating questions, to reducing bias — during the interview and
+Achieve gender equality
+public life evaluation process.
+and empower all women
+and girls 5.5.2 Proportion of women in managerial positions • Our Women in Power BRG hosts regular events throughout the year and focuses on connecting female colleagues to foster career
+growth and prepare for leadership roles at NRG.
+• We conduct equal pay audits, and our most recent study found no evidence of gender- or race-based pay discrimination.
+For more information on how we assess our progress on hiring and promoting women and other employees from diverse backgrounds,
+please see pages 32-35 of this report.
+Our commitment to promoting diversity and inclusivity in leadership extends to our Board of Directors. Of our 13 directors, seven are
+gender or ethnically diverse and four of our five committee chairs are women.
+SDG Sub-Target Alignment 2023 Featured Contributions and Progress
+6.4 By 2030, substantially increase water-use Recognizing that water usage, scarcity, and quality are important considerations for NRG, we work to increase our water-use efficiency.
+efficiency across all sectors and ensure sustainable We have implemented several initiatives to effectively operate and reduce our water use over time, including:
+withdrawals and supply of freshwater to address
+• Using non-potable options like brackish and grey water from sewage treatment plants and leachate collection
+water scarcity and substantially reduce the number
+of people suffering from water scarcity • Reusing water, when possible, in plant cooling and process systems
+Ensure available and
+6.4.1 Change in water-use efficiency over time • Modeling water risk scenarios and identifying risk mitigation efforts where needed to minimize risk to water resources
+sustainable management
+For more on our water-use efficiency projects and insight into our progress over time, please see page 23 of this report.
+of water and sanitation
+Also, see SASB IF-EU-140a.3.
+for all
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 53
+SDG Sub-Target Alignment 2023 Featured Contributions and Progress
+7.1 By 2030, ensure universal access to affordable, We take a balanced approach to facilitating an intentional energy transition. Our strategic initiatives include sourcing our power in ways that
+reliable and modern energy services align with our customers’ needs and priorities, providing sustainable home solutions, and partnering globally to expand infrastructure and
+upgrade technology to support sustainable and modern energy. Highlights from our efforts in 2023 include:
+7.2 By 2030, increase substantially the share of
+renewable energy in the global energy mix • Partnering with developers to bring new renewables to the grid through medium- and long-term renewable power purchasing
+agreements (PPAs), including an additional 1.9 GW of renewable energy capacity through these PPAs by the end of 2023
+Ensure access to affordable, 7.b By 2030, expand infrastructure and upgrade
+reliable, sustainable and technology for supplying modern and sustainable • 100% renewable plans offered in all of NRG’s retail markets, including plans tailored for EV charging and rooftop solar
+energy services for all in developing countries, in
+modern energy for all • Providing a wide range of home and energy solutions, including energy efficiency tools enabled by smart thermostats, voice control,
+particular least developed countries, small island
+and mobile apps. For more on our home solutions, please see page 13 of this report.
+developing States and landlocked developing
+countries, in accordance with their respective Since 2002, Reliant has provided more than $17 million to help Texans who need assistance with electricity costs through the Community
+programs of support Assistance by Reliant Energy (CARE) program. In 2023, our support included:
+• $1.2M in donations to more than 70 agencies that directly support customers
+• Another $159,355 donated by Reliant customers through their utility bill payments
+SDG Sub-Target Alignment 2023 Featured Contributions and Progress
+12.6.1 Number of companies publishing We support the UN goal of encouraging companies to adopt sustainable practices and integrate sustainability information into their
+sustainability reports reporting cycle in order to demonstrate their commitment to sustainable development to stakeholders. We support these goals and
+targets by publishing an annual sustainability report since 2010.
+Ensure sustainable
+consumption and
+production patterns
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 54
+SASB standards
+The mission of SASB, now a part of The International Financial Reporting Standards (IFRS) Foundation, is to develop sustainability metrics for public
+corporations to disclose material, decision-useful information to investors. NRG supports work that contributes directly to providing comparable and
+Electric Utilities & Power Generators
+consistent data. The nature of our business directs us to consult the SASB Standard as defined by the Sustainable
+Industry Classification System (SICS). Below is a table which contains relevant SASB disclosures against which we are able to report as a publicly-
+traded company. Topics that are not applicable to NRG are denoted as such. Additional activity metrics that may assist in the accurate evaluation and
+comparability of disclosure may be found in NRG’s 2023 Form 10-K.
+Code Category Unit of Measurement Metric Response
+Greenhouse Gas Emissions & Energy Resource Planning
+IF-EU-110a.1 Quantitative Metric tons (t) CO e (1) Gross global Scope 1 emissions, percentage covered (1) 26,835,867 MT COe1
+2 2
+Percentage (%) under
+(2) 0.3%2
+(2) emissions-limiting regulations and
+(3) 99.7%2
+(3) emissions-reporting regulations
+IF-EU-110a.2 Quantitative Metric tons (t) CO e Greenhouse gas (GHG) emissions associated with The calculation of this metric is under consideration and will not be disclosed this year.
+2
+power deliveries
+IF-EU-110a.3 Discussion and Analysis N/A Discussion of long- and short-term strategy or plan to NRG’s goal is to reduce its U.S. Scope 1, 2, and 3 (business travel) COe emissions by 50% by 2025 from a
+2
+manage Scope 1 emissions, emissions reduction targets, and 2014 baseline and achieve net-zero carbon emissions by 2050.
+an analysis of performance against those targets
+For more on our strategy to reduce our emissions and progress on our goals, please see pp. 18-21 of
+this year’s Sustainability Report.
+2022 CDP Response
+TCFD Report
+Sustainability-Linked Bond Framework
+1 Scope 1 includes only direct GHG emissions associated with fuel combustion in boilers, turbines, and engines used to produce electric power. Scope 1 GHG emissions were determined by using methods specified within Title 40, Chapter I, Subchapter C, Part 98, Subparts A (Jan. 1, 2018 update), C (Sep. 21, 2018 update), and
+D (Jan. 3, 2017 update). The determination of the equity share of GHG emissions is consistent with equity share methodologies for equity share accounting for greenhouse gas emissions as described in the GHG Protocol. GHG emissions from combustion of fossil fuels used for other activities or equipment, such as auxiliary
+boilers, starter engines, and company fleet vehicles are not included at this time as the associated emissions are immaterial. Scope 1 emissions do not include emissions from fugitive sources such as hydrofluorocarbon (HFC) releases from use of refrigeration and/or air conditioning equipment, sulfur hexafluoride (SF6) from
+electrical equipment, and methane releases from natural gas transport as they are not material sources of greenhouse gases for the Company. Includes 37.5% ownership of a 605 MW capacity coal plant in Australia. Reported GHG metrics include emission and consumption data from all facilities located in the United States
+that were owned, controlled, or for which the Company had an equity interest as of December 31, 2023. The Company employs a hybrid methodology of operational and financial control, as defined in the WRI / WBCSD GHG Protocol: A Corporate Accounting and Reporting Standard, Revised Edition, 2004 (GHG Protocol), to
+determine facilities within the organizational boundary. Emissions and consumption data from jointly-owned electric generating facilities are allocated based on the Company’s equity share of ownership at the plant level. Note that tolling agreements are currently excluded from the organizational boundary.
+2 Nearly all (>99%) of NRG’s emission sources are subject to mandatory U.S. federal (Environmental Protection Agency [EPA]) greenhouse gas reporting regulations. In addition, some of these emission sources (0.6% specified under IF-EU-110a.1 (2) and (3)) also report to regional and state CO 2e reporting programs (RGGI,
+AB32) that are disclosed annually as part of NRG’s financial reporting data.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 55
+Code Category Unit of Measurement Metric Response
+Air Quality
+IF-EU-120a.1 Quantitative Metric tons (t), Air emissions of the following pollutants:
+Air Quality SASB table
+Percentage (%) (1) NO (excluding N O), (2) SO, (3) particulate matter (PM ),
+x 2 x 10 Air emissions Air emissions Percentage from production facilities
+(4) lead (Pb), and (5) mercury (Hg); percentage of each in or source (metric tons) within urbanized areas
+near areas of dense population
+NO 12,339 39%
+x
+SO1 31,990 81%
+x
+PM 2 1,252 67%
+10
+Pb3 0.140 50%
+Hg3 0.040 36%
+Water Management
+IF-EU-140a.1 Quantitative Thousand cubic meters (1) Total water withdrawn, (2) total water consumed;
+Total water withdrawn
+percentage of each in regions with High or Extremely High
+Percentage (%)
+Baseline Water Stress Water Source Total (in millions of cubic meters) Percent
+Fresh water 487 31%
+Non-Fresh water 516 33%
+Ocean 551 35%
+Total 1,554 100%
+(2) 93 (in thousands of cubic meters)
+Percentage of Each in Regions with High or Extremely High Baseline Water Stress
+Baseline Water Stress High (40-80%) Percent of Percent that is
+or Extremely High (>80%)4 Total Water Non-Fresh5
+Withdrawal from areas with High/Extremely
+0.01% 0%
+High Baseline Water Stress
+Consumption from areas with High/Extremely
+0.10% 0%
+High Baseline Water Stress
+Discussion of accounting, estimations, and uncertainty for Air Emissions: 3 In the case of lead and mercury emissions, volumes are estimated for some facilities due to incomplete data at time of publication.
+Data collection varies based on the generation facility and may include engineering calculations or continuous emissions monitoring systems (CEMS). 4 NRG uses the WRI Aqueduct tool to model and help assess water basin risks in combination with regional internal expertise
+1 NRG only has SO emissions so SO emissions are equivalent to SO emissions. 5 Non-fresh water has a total dissolved solids greater than 1,000 mg/l and is not used for agriculture or municipal water supply.
+2 x 2
+2 The requirement to report PM emissions in annual emissions inventories or emissions statements varies across states. In addition, the earliest reporting deadline for a
+10
+reporting year is July 1 of the following year. For sites in NRGs fleet that have not yet, or are not required to, report PM emissions at the time of publication of this SASB table,
+10
+NRG has used the U.S. EPA’s AP-42 emission factors to estimate emissions.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 56
+Code Category Unit of Measurement Metric Response
+IF-EU-140a.1 Quantitative Metric tons (t), (1) Total water withdrawn, (2) total water consumed;
+Type of Generating Facility in Baseline Water Stress Areas Number
+continued
+percentage of each in regions with High or Extremely High
+Percentage (%)
+Baseline Water Stress Fossil fuel (natural gas, coal, oil) 2
+Renewable (solar and wind) 1
+Nuclear 0
+Thermal (district heating and cooling) 0
+Total 3
+IF-EU-140a.2 Quantitative Number Number of incidents of non-compliance associated with 4
+water quality permits, standards, and regulations
+IF-EU-140a.3 Discussion and analysis N/A Description of water management, risks and discussion of NRG’s definition of substantive risk from water is the possibility that an event will occur and significantly
+strategies, and practices to mitigate those risks affect the achievement of NRG’s business goals. Risk identification and assessment process applies
+to both direct operations and supply chain. NRG uses measures, metrics, and indicators for water risk
+assessment leveraging management and professional judgment from the perspective of:
+Financial impact: including, corporate earnings, capital expenditure on technologies to reduce water
+consumption and risk
+Environmental impact: including, availability, quality of river basis, and regulations that impact supply
+and/or management of water
+Plant operations: including, operation disruption due to shortage, increase in water costs, or supply
+chain risks
+We use the WRI Aqueduct tool annually to develop high-level views of basin-level risk that informs
+strategic decision-making and the setting of goals and targets. This tool is open source and provides
+ease of use. Because each generating facility is unique, the risk approach identifies and addresses risks
+related to water availability and quality, relevant regulatory, financial, operational, and environmental
+concerns, as well as stakeholder and supply chain impacts.
+Water risk is monitored by risk owners (individual plant operators) and reported to management upon
+material changes, with a threshold of 20% in water consumption and withdrawal levels.
+Plant Operations team members review modeling scenarios to identify if a water supply risk could impact
+projected generation levels at any point within a two-year time frame. If so, risk mitigation efforts are
+identified and economically evaluated for implementation. Plant water usage is reviewed annually by the
+senior leaders of NRGs Operations, Engineering, and Commercial Operations teams. Risk response
+decisions are primarily made and executed by managing plant operations to maintain compliance with all
+relevant regulations.
+NRG also reports supply chain water risk annually through the CDP Water Security Questionnaire.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 57
+Code Category Unit of Measurement Metric Response
+Coal Ash Management
+IF-EU-150a.1 Quantitative Percentage (%), (1) Amount of coal combustion products (CCPs) generated, (1) 743,253
+Presentation currency (2) percentage recycled (2) 68%
+IF-EU-150a.3 Discussion and analysis N/A Description of coal combustion products (CCPs) Coal combustion residuals
+management policies and procedures for active and
+inactive operations
+Energy Affordability
+IF-EU-240a.1 Quantitative Rate Average retail electric rate for (1) residential, (2) commercial, This topic pertains to regulated electric utilities, and NRG is not a regulated utility. Therefore, this
+and (3) industrial customers disclosure is not applicable to NRG.
+IF-EU-240a.3 Quantitative Number, Percentage (%) (1) Number of residential customer electric disconnections This topic pertains to regulated electric utilities, and NRG is not a regulated utility. Therefore, this
+for non-payment, (2) percentage reconnected within 30 days disclosure is not applicable to NRG.
+IF-EU-240a.4 Discussion and analysis N/A Discussion of impact of external factors on customer This topic pertains to regulated electric utilities, and NRG is not a regulated utility. Therefore, this
+affordability of electricity, including the economic conditions disclosure is not applicable to NRG.
+of the service territory
+Workforce Health & Safety
+IF-EU-320a.1 Quantitative Rate (1) Total recordable incident rate (TRIR), (2) fatality rate, and (1) .201
+(3) near miss frequency rate (NMFR) for (a) direct employees
+(2) 01
+and (b) contract employees
+(3) 8.21,2
+End-use Efficiency & Demand
+IF-EU-420a.2 Quantitative Percentage (%) by megawatt Percentage of electric load served by smart grid technology This topic pertains to regulated electric utilities, and NRG is not a regulated utility. Therefore, this
+hours (MWh) disclosure is not applicable to NRG.
+IF-EU-420a.3 Quantitative Megawatt hours (MWh) Customer electricity savings from efficiency measures, This topic pertains to regulated electric utilities, and NRG is not a regulated utility. Therefore, this
+by market disclosure is not applicable to NRG.
+1 Data excludes Airtron and Vivint
+2 Process for classifying, recording, and reporting: # of Near-Misses Reported / Total Hours Worked x 1,000,000 = Near Miss Frequency Rate. The National Safety Agency defines near-misses as “an unplanned event that did not result in injury, illness, or damage, but had the potential to do so.” NRG uses an electronic Incident
+Management System to document, communicate, track, and trend specific factors about each event including causal factors and corrective actions; this system provides automated fleet-wide notifications. The number of near misses is derived from a report pulled from the Incident Management System. NRG’s Operational
+Health and Safety (OHS) management system applies to 100% of U.S. operations. The system also includes notifications to executive management when significant safety events occur that meet the defined criteria for a Significant Event notification. The system also generates weekly reports to communicate any events
+from the previous week to NRG personnel
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 58
+Code Category Unit of Measurement Metric Response
+Nuclear Safety & Emergency Management
+IF-EU-540a.1 Quantitative Number Total number of nuclear power units, broken down by results NRG South Texas Project LP (STP) was a 44% owner of a joint undivided interest in STP. As As of
+of most regent independent safety review November 1, 2023, NRG Energy, Inc. sold its interest in STP. Page 13 of 2023 10-K.
+Reactor Unit Action Matrix Current Regulatory Oversight
+South Texas 1 License Response Baseline inspection
+South Texas 2 License Response Baseline inspection
+IF-EU-540a.2 Discussion and analysis N/A Description of efforts to manage nuclear safety and As a former holder of ownership interest in STP, NRG South Texas Project LP operated under NRC
+emergency preparedness licensing and regulations. However, NRG’s license only granted possession rights, not operational control.
+As a non-operating co-owner, NRG’s compliance with NRC regulations primarily concerned financial and
+decommissioning funding assurances. To fulfill these obligations, NRG and its subsidiaries had a support
+agreement, committing up to $120 million for STP operations. As of November 1, 2023, NRG Energy, Inc.
+sold its stake in STP. Source
+Grid Resiliency
+IF-EU-550a.1 Quantitative Number Number of incidents of non-compliance with physical or NRG does not have transmission and distribution operations. Therefore, this disclosure is not applicable
+cybersecurity standards or regulations to NRG.
+IF-EU-550a.2 Quantitative Minutes, Number (1) System Average Interruption Duration Index (SAIDI), (2) NRG does not have transmission and distribution operations. Therefore, this disclosure is not applicable
+System Average Interruption Frequency Index (SAIFI), and to NRG.
+(3) Customer Average Interruption Duration Index (CAIDI),
+inclusive of major event days
+Activity Metrics
+IF-EU-000.B Quantitative Megawatt hours (MWh) Total electricity delivered to: (1) residential, (2) commercial, 2023 Form 10-K page 7
+(3) industrial, (4) all other retail customers, and (5) wholesale
+customers
+IF-EU-000.D Quantitative Megawatt hours (MWh), Total electricity generated, percentage by major energy 2023 Form 10-K page 10
+Percentage (%) source, percentage in regulated markets
+2023 ESG Data Download
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 59
+energy and fuel prices, failure of customers or counterparties to
+perform under contracts, changes in the wholesale power and gas
+markets, changes in government or market regulations, the condition
+of capital markets generally and NRG’s ability to access capital markets,
+NRG’s ability to execute its supply strategy, risks related to data
+privacy, cyberterrorism and inadequate cybersecurity, the loss of data,
+unanticipated outages at NRG’s generation facilities, NRG’s ability
+to achieve its net debt targets, adverse results in current and future
+litigation, complaints, product liability claims and/or adverse publicity,
+failure to identify, execute or successfully implement acquisitions or
+asset sales, risks of the smart home and security industry, including
+risks of and publicity surrounding the sales, subscriber origination
+Feedback Safe harbor
+and retention process, the impact of changes in consumer spending
+patterns, consumer preferences, geopolitical tensions, demographic
+If you have any comments or questions about this report or The information presented in this report includes forward-looking trends, supply chain disruptions, NRG’s ability to implement value
+would like more information on NRG, please visit nrg.com or email statements within the meaning of Section 27A of the Securities Act of enhancing improvements to plant operations and companywide
+communications@nrg.com. 1933 and Section 21E of the Exchange Act. These statements involve processes, NRG’s ability to achieve or maintain investment grade credit
+estimates, expectations, projections, goals, assumptions, known and metrics, NRG’s ability to proceed with projects under development
+unknown risks and uncertainties and can typically be identified by or the inability to complete the construction of such projects on
+terminology such as “may,” “should,” “could,” “objective,” “projection,” schedule or within budget, the inability to maintain or create successful
+“forecast,” “goal,” “guidance,” “outlook,” “expect,” “intend,” “seek,” partnering relationships, NRG’s ability to operate its business efficiently,
+“plan,” “think,” “anticipate,” “estimate,” “predict,” “target,” “potential” NRG’s ability to retain customers, the ability to successfully integrate
+or “continue” or the negative of these terms or other comparable businesses of acquired companies, including Vivint Smart Home, NRG’s
+terminology. Such forward-looking statements include, but are ability to realize anticipated benefits of transactions (including expected
+not limited to, statements about NRG’s future revenues, income, cost savings and other synergies) or the risk that anticipated benefits
+indebtedness, capital structure, plans, expectations, objectives, may take longer to realize than expected, NRG’s ability to execute its
+projected financial performance and/or business results and other capital allocation plan. NRG undertakes no obligation to update or
+future events, and views of economic and market conditions. Although revise any forward-looking statements, whether as a result of new
+NRG believes that its expectations are reasonable, it can give no information, future events or otherwise, except as required by law.
+assurance that these expectations will prove to be correct, and actual The foregoing review of factors that could cause NRG’s actual results
+results may vary materially. Factors that could cause actual results to differ materially from those contemplated in the forward-looking
+to differ materially from those contemplated herein include, among statements included in this report should be considered in connection
+others, general economic conditions, hazards customary in the power with information regarding risks and uncertainties that may affect
+industry, weather conditions and extreme weather events, competition NRG’s future results included in NRG’s filings with the Securities and
+in wholesale power, gas and smart home markets, the volatility of Exchange Commission at www.sec.gov.
+INTRODUCTION FACILITATING AN INTENTIONAL ENERGY TRANSITION ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2023 SUSTAINABILITY REPORT | 60
+Key issues assessment
+NRG strives to report decision-useful information to our stakeholders
+in an efficient and concise manner. We recognize that we have many
+different stakeholder groups which may each require information
+presented in a variety of ways and on numerous topics. We engage
+proactively with our key stakeholders to understand the type of
+information that is of greatest interest and the processes that will most
+effectively deliver data to them. However, given rapidly growing interest
+in voluntary sustainability reporting, we must also focus on compiling
+the most relevant information while achieving greater transparency.
+As part of the above process, we periodically conduct a key issues
+assessment to ensure that we identify potential strategic and
+operational risks and opportunities as well as specific sustainability
+issues that are relevant to our current and potential future business
+and operating environment. The key issues assessment provides a
+foundation of topics from which to prioritize our sustainability goals
+and initiatives, prepare annual sustainability reporting, as well as provide
+insight into emerging issues that our stakeholders care about.
+To conduct the key issues assessment, we monitor the competitive,
+regulatory, and media landscapes. For the purpose of this Sustainability
+Report, these findings are also compared with external best practice
+publications on sustainability metrics, such as from the Electric Power
+Research Institute, TCFD, and SASB / IFRS. We use this independent
+analysis to better inform business decisions and shape our voluntary
+reporting process. For the purposes of sustainability reporting, NRG has
+considered the GRI framework to report on issues of importance to the
+company and its stakeholders. Relevant financial implications, as well as
+a discussion of risks and opportunities associated with some of these
+issues, can be found in Part 1, Item 1A in our 2023 form 10-K. Additional
+financial statements or equivalent documents can be found here.

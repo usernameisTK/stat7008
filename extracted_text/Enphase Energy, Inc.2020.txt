@@ -1,0 +1,1166 @@
+Enphase Energy, Inc.
+Environmental,
+Social, and
+Governance Report
+2020
+Energy independence starts with
+Enphase Solar and Storage
+Encharge 3™ Encharge 10™ IQ 7+™
+storage system storage system microinverters
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 22
+Contents
+CEO letter 4
+About us 6
+Our purpose 7
+Start-up to industry leader 8
+Financial sustainability 9
+Our approach to ESG 10
+Importance of ESG 11
+ESG governance and leadership 12
+Board diversity and independence 14
+Environment 15
+E1. Energy administration 16
+E2. Waste and hazardous materials management 20
+E3. Product design and lifecycle management 21
+Human capital 22
+HC1. Employee development programs and policies 24
+HC2. Diversity, equity and inclusion 25
+HC3. Employee health and safety 27
+Social 28
+S1. Access and affordability 29
+S2. Data security and customer privacy 30
+S3. Supply chain management 31
+S4. Material sourcing and efficiency 33
+Governance 34
+G1. Business ethics 35
+G2. Risk management 35
+G3. Management of energy infrastructure and related regulations 36
+SASB Index 37
+UN sustainable development goals 39
+Methodology 41
+Forward-looking statements and non-GAAP measures 42
+GAAP to non-GAAP reconciliation 43
+Environmental, Social, and Governance Report 2020 3
+A letter from our President and CEO
+Sustainability is at the core of what we do at Enphase and our purpose is to advance a
+sustainable future for all. We deliver technology solutions that make clean energy more
+affordable, reliable, and accessible. Today, Enphase is the world’s leading supplier of
+microinverter-based solar-plus-storage systems. Since inception, we have shipped 30 million
+solar microinverters and approximately 1.3 million Enphase-based systems have been
+deployed in more than 130 countries.1 8.6 gigawatts DC of Enphase microinverters have
+Badri Kothandaraman
+been installed in solar systems, offsetting 20.8 million metric tons of CO2e - the equivalent of
+President and CEO
+providing electricity to 3.5 million homes for one year.1
+Enphase was founded in 2006 with five key elements to our value proposition: deliver products
+that are productive, reliable, smart, simple, and safe. Our value proposition rings as true
+today as when the company was established. As I write my letter to you for our inaugural
+Environmental, Social, and Governance (ESG) Report, I am reminded of when I joined Enphase
+in 2017. I was excited about the opportunity to work with such a talented and diverse global
+workforce committed to developing technology and products that further enable energy
+independence. The same commitment exists at Enphase today, and I am proud of our team
+for their ongoing dedication to serve our communities and better the environment.
+We know that diversity and an inclusive work culture fuels innovation and helps better
+“We know that diversity represent our customers and partners. As we work towards our vision for a solar-powered
+planet, we never forget the three commitments that have guided us from the beginning:
+and an inclusive work
+innovation, quality, and social responsibility. Innovation is the cornerstone of our existence,
+culture fuels innovation and
+and we have worked hard to develop the world’s best home energy management systems, with
+helps better represent our
+energy independence as the goal for our customers. Quality is the bedrock of the Enphase
+customers and partners.
+product design, and we have consistently set the bar high for quality and reliability. We are
+As we work towards our
+driven by a sense of responsibility towards our planet and our communities as we strive to
+vision for a solar-powered
+bring solar energy mainstream. We believe it is because of this focus on innovation, quality,
+planet, we never forget
+and social responsibility we have built a solid financial foundation driven by operational
+the three commitments
+excellence and the desire for long-term sustainability.
+that have guided us from
+the beginning: innovation, Our commitment to long-term sustainability starts at the top and extends throughout the
+quality, and social organization. Our ESG efforts are overseen by a senior management committee, along with
+responsibility.” board-level oversight led by our Nominating and Corporate Governance Committee. We are
+publishing this inaugural report with the world still impacted by the COVID-19 pandemic.
+Our topmost priority has been to ensure the health and safety of our employees, customers,
+and partners. It is through the collective discipline, efforts, and support of our employees,
+customers, and partners that we have been able to successfully manage through this global
+pandemic.
+1 Estimate based on Enphase managed systems data as of 9/30/20 grossed up for non-managed systems
+based on cumulative sales records; CO2e calculations based on EPA GHG calculator.
+Environmental, Social, and Governance Report 2020 4
+During 2020, we introduced to customers in North America our Enphase storage system,
+featuring our Ensemble™ management technology, which powers the world’s first grid-
+independent microinverter-based storage system. The Enphase storage system provides
+resiliency in the face of natural disasters and grid outages, ensuring that a home is powered
+even during extended periods of inclement weather, delivering energy independence and
+peace of mind. We will continue to focus on technology and products that help to improve
+quality of life while keeping true to our core purpose of sustainability.
+At Enphase, we developed a culture playbook to provide our current and future employees
+“At Enphase, we developed a with a blueprint showing our purpose, core values, how we work together and achieve results
+culture playbook to provide within the company. We promote and reinforce five core values every day we come to work:
+our current and future Customer First, Integrity, Innovation, Teamwork, and Quality. We listen to our customers and
+employees with a blueprint take action to deliver a superior customer experience; we tell the truth at all times, without
+making excuses; we actively promote innovation through curiosity and continuous learning;
+showing our purpose,
+we appreciate and respect different behavioral styles and perspectives; and we place safety
+core values, how we work
+and quality above everything else. These core values unify us and enable us to achieve our
+together, and achieve results
+purpose.
+within the company.”
+I would like to thank our employees for their continued hard work and dedication, and our
+customers, partners, and shareholders for their strong support. Enphase embraces the
+opportunity to create a future of sustainable prosperity for all our stakeholders, while reducing
+our environmental footprint. I appreciate your interest and engagement in our ESG efforts.
+Sincerely,
+Badri Kothandaraman
+President and CEO
+Environmental, Social, and Governance Report 2020 5
+About us
+The leading microinverter company in the world
+2006 789 3,900 30 million
+is the year employees and installers microinverters
+Enphase was personnel across all worldwide1 shipped
+founded our global offices1 worldwide1
+20.8 million 29.5 TWh 1.3 million 8.6 GW DC
+metric tons of CO2e offset of cumulative systems deployed in of cumulative
+equivalent to providing shipments of more than 130 countries2 shipments of
+3.5 million homes with microinverters2 microinverters1
+electricity for one year2
+2.3 billion 51.7 billion
+gallons of gas car miles driven
+equivalent to equivalent to
+cumulative CO2e cumulative CO2e
+avoidance2 avoidance2
+1. As of 9/30/20
+2. Estimate based on Enphase managed systems data as of 9/30/20 grossed up for non-managed systems
+based on cumulative sales records; CO2e calculations based on EPA GHG calculator
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 66
+Our purpose
+Enphase is a global energy technology company. We deliver smart, easy-to-use solutions
+that manage solar generation, storage, and communication on one single platform. We
+have revolutionized the solar industry with our microinverter technology and produce a fully
+integrated solar-plus-storage solution. We take a systems approach to solar technology
+and provide advanced energy monitoring and control through our semiconductor-based
+microinverter, proprietary network, and software technologies.
+At Enphase, we think big. Our purpose is to advance a sustainable future for all. We’re on a
+“We believe we can have the mission to bring solar energy to the next level, one where it is ready to meet the world’s energy
+biggest impact on the planet demands. As we work toward our vision for a solar-powered planet, we never lose sight of
+the three commitments that have guided us from the beginning: innovation, quality, and
+by pursuing our mission
+responsibility.
+to bring solar energy
+mainstream.”
+Innovation
+We have always pushed the boundaries of solar technology, ever since our founders took one
+look at a string inverter and knew they could do better. In 2006, Enphase co-founders Raghu
+Belur and Martin Fornage knew that entering the solar industry presented both technological
+challenges and opportunities for widespread impact. With a strong focus on innovation, we are
+continuously developing new technologies that make energy more intelligent, more connected,
+and more cost effective than ever before.
+Quality
+Quality is at the heart of what we do. It is the bedrock of the Enphase product design, and we
+consistently set the bar high for quality and reliability, with the end goal of providing the most
+reliable and resilient energy solutions. We’re passionate about building products that people
+can count on for years to come and in all climates. That’s why we put quality at the forefront
+in every step of our design and production process, and why we’ve established some of the
+industry’s most rigorous quality standards.
+Responsibility
+Behind it all, we are driven by a sense of responsibility towards our planet and our
+communities. We believe we can have the biggest impact on the planet by pursuing our
+mission to bring solar energy mainstream. On a smaller scale, we are also committed to doing
+all we can to serve our communities and better the environment. Our footprint is widespread,
+and we recognize that growth comes with great responsibility.
+Our company’s purpose is to advance a sustainable future for all. By advancing solar
+technology and investing in our people and communities, we believe we can create
+sustainable solutions that may benefit generations to come.
+Environmental, Social, and Governance Report 2020 7
+Start-up to industry leader
+2006
+Founded by Raghu Belur and
+Martin Fornage in California
+2008
+First microinverter-based
+solar system introduced
+2011
+1 million microinverters shipped
+since inception
+2012
+Listed on NASDAQ
+under symbol ENPH
+2014
+Fourth-generation
+technology introduced
+2015
+10 million microinverters
+shipped since inception
+2016
+Sixth-generation
+IQ™ technology
+2017
+AC Modules
+Introduced
+2018
+Seventh-generation
+IQ technology introduced
+2019
+One millionth microinverter-based
+solar system deployed
+2020
+More than 30 million microinverters
+shipped since inception
+Started shipping Encharge™ storage
+systems to customers in North America
+Environmental, Social, and Governance Report 2020 8
+Financial sustainability
+We have built a solid financial foundation driven by a focus on profitable top line growth and
+operational excellence. Our revenue nearly doubled in 2019 to $624.3 million, from $316.2
+million in 2018. We shipped 6.2 million microinverters in 2019, compared to 2.8 million
+microinverters in 2018, representing more than a 100% increase. Our non-GAAP gross margin
+in 2019 was more than 35.7%, compared to 30.2% in 2018, primarily due to great pricing and
+cost management.
+We generated $139.1 million of cash flow from operations in 2019, compared to $16.1 million
+“We exited the third quarter in 2018. GAAP net income was $161.1 million, resulting in diluted earnings per share of $1.23.
+of 2020 at approximately Non-GAAP net income was $124.2 million, resulting in diluted earnings per share of $0.95. We
+were pleased to report that 2019 was the first full year of GAAP profitability in Enphase’s history.
+41-17-24 – this means 41%
+gross margin, 17% operating
+At Enphase we believe in measuring what matters. We surpassed our original 30-20-10
+expense and 24% operating
+target financial model handily for most of 2019. 30-20-10 stands for 30% gross margin, 20%
+income, all as a percentage
+operating expenses, and 10% operating income, all as a percentage of revenue on a non-GAAP
+of revenue – on a non-GAAP
+basis. At our Analyst Day in December 2019, we introduced a new baseline financial model of
+basis.”
+35-15-20. This baseline model represents the minimum financial performance we expect to
+achieve over the next 24 months, while demonstrating profitable topline growth. We exited the
+third quarter of 2020 at approximately 41-17-24 – meaning 41% gross margin, 17% operating
+expenses and 24% operating income, all as a percentage of revenue – on a non-GAAP basis. In
+addition, we exited the third quarter of 2020 with an ending cash balance of $661.8 million.
+Quarterly revenue by year Quarterly gross margin % by year
+45.0%
+$250 41.0%
+$206 $210 40.0% 39.5% 39.6%
+$200 $180 $178.5 36.2% 37.3%
+$150 $134 $125.5 35.0% 33.5% 30.5%34.1% 32.8% 30.7%
+$100 $92 30.0%
+$100 $70 $76 $78 26.5%
+$50 25.0%
+$0 20.0%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+Quarterly operating expenses % by year Quarterly operating income % by year
+30.0% 40.0%
+35.0%
+25.2% 25.0%
+25.0% 23.9% 30.0%
+22.3% 25.7% 24.5% 24.9%
+20.7% 21.4% 25.0% 22.3%
+20.0% 20.0% 17.3%18.9%
+16.8% 16.6% 15.0%
+11.3%
+15.0% 13.9% 13.9% 10.0% 8.9% 9.3%
+12.4% 5.4%
+5.0%
+1.2%
+10.0% 0.0%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+Quarterly revenue by year is in millions, Gross Margin, Operating Expenses and Operating Income are 2018 2019 2020
+as a percentage of revenue.
+All numbers reflected are on a non-GAAP basis. Refer to page 43 for reconciliation to the most
+Environmental, Social, and Governance Report 2020 9
+comparable GAAP measure.
+Our approach to ESG
+Sustainability is at the core of what we do and our purpose is
+to advance a sustainable future for all. Our focus on ESG starts
+with our technology solutions that make clean energy more
+affordable, reliable, and accessible. As our business continues
+to grow, we are committed to increasing the wellbeing of our
+stakeholders and communities we serve.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 1100
+Importance of ESG
+We have recognized the importance of ESG issues since our inception and are committed
+to the success of our employees, customers, partners, shareholders, and the communities
+“We have recognized the
+we serve. We believe tracking and reporting on environmental, social, and governance
+importance of ESG issues
+business practices makes our company more responsive to a global business environment
+since our inception and are
+characterized by finite natural resources, changing legislation, and heightened public
+committed to the success of
+expectations for corporate accountability. In this inaugural ESG report, we describe how
+our employees, customers,
+we integrate ESG in our own operations, identify gaps and opportunities in our products
+partners, shareholders, and
+and processes, publicize innovative and environmentally conscious practices, and receive
+the communities we serve.”
+feedback for continuous improvement.
+We have identified key focus areas and fundamental ESG standards relevant to our business
+based on guidance from the Sustainability Accounting Standards Board (SASB) industry-
+specific standards to help us understand the areas of most relevance to our investors.
+We have also identified four UN Sustainable Development Goals (SDGs) which most closely
+align with our business activities and strategy.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 1111
+ESG governance and leadership
+Our ESG program drives the company’s commitment to the triple bottom line of “planet,
+people, and profit.” Our commitment to long-term sustainability starts at the top and extends
+throughout the organization. Enphase works to not only be a steward in the solar technology
+field, but also share best practices and influence standards to collectively advance the industry
+and deliver better products and services to our customers. Our management team and Board
+of Directors view sustainability as an integral part of our corporate strategy.
+Our governance framework is firmly rooted in risk management and compliance and
+“Our commitment to long- establishes the foundation for sustainability at Enphase. We take ESG risks and opportunities
+seriously and are working to integrate ESG deeper into our existing governance structure
+term sustainability starts
+and process. This includes expanded oversight and governance by the Board of Directors
+at the top and extends
+and the executive leadership team. A cross-functional ESG Working Group manages and
+throughout the organization.”
+operationalizes the program in various parts of the company. The annual Enterprise Risk
+Management (ERM ) program incorporates ESG risk factors and is reviewed formally by
+Enphase management and executives with oversight from the Audit Committee of the Board
+We recently expanded our Nominating and Corporate Governance Committee Charter with
+language that reflects the Committee’s oversight responsibility regarding our Sustainability
+and ESG strategy, initiatives, and policies. The Board will receive reports on sustainability
+and ESG matters from the Nominating and Corporate Governance Committee and Executive
+Leadership Team on an annual basis at a minimum. Additional information about the role of
+the Board and its various committees is available in our Corporate Governance Guidelines.
+The ESG Working Group looks for sustainability opportunities in the company and alignment
+to industry stakeholder initiatives and goals. The company’s ESG Working Group is comprised
+of senior leaders and key internal stakeholders representing legal, investor relations, global
+policy and government affairs, facilities, procurement, supply chain, human resources, IT,
+quality, compliance, and risk management. The purpose of the group is to monitor existing
+ESG programs and policies and identify opportunities to expand activities.
+Environmental, Social, and Governance Report 2020 12
+Our Compensation Committee of the Board of Directors is charged with overseeing the
+company’s compensation policies, plans, and programs on behalf of the Board. The policy of
+the Committee includes maintaining an overall compensation structure designed to attract,
+retain, and motivate management and other employees by providing appropriate levels of risk
+and reward in proportion to individual contribution and performance. In discharging its duties,
+the Compensation Committee ensures that the company equitably applies its compensation
+programs.
+Enphase is committed to providing a work environment free of discrimination and harassment,
+in which all individuals are treated with respect and dignity. We apply a compensation
+philosophy that helps frame our pay and reward strategy. We follow a pay-for-performance
+culture that ties compensation to the performance of the individual and the company. We
+provide competitive compensation programs that focus on the following five key elements:
+1. Pay-for-performance -- Reward and recognize leading contributors and high potential
+individuals, named executive officers excluded, by targeting the 65th percentile of market
+for total direct compensation, which includes base salary, quarterly bonus, and stock
+awards;
+2. External market factors -- Pay levels of compensation that are competitive with respect to
+the labor markets in which we compete for talent;
+3. Internal equity-- Provide fair pay relationships within the company;
+4. Fiscal responsibility -- Establish affordable compensation programs that are within our
+budget; and
+5. Legal compliance -- Ensure that the company is compliant with the laws of the states and
+countries in which we operate.
+Enphase Energy
+Board of Directors
+Nominating and Corporate Compensation
+Audit Committee
+Governance Committee Committee
+Enterprise Risk Managemen t Executive Leadership Team Executive
+(ERM) Committee + Leadership Team
+ESG Working Group
+Human Resources
+Organization
+Environmental, Social, and Governance Report 2020 13
+Board diversity and independence
+We believe that our Board should represent a diversity of thoughts, backgrounds, skills,
+experiences, and expertise. Consistent with this philosophy, the Nominating and Corporate
+Governance Committee works to ensure each pool of qualified candidates for additional or
+vacant Board positions from which Board nominees are chosen includes candidates who
+bring racial and/or gender diversity. In 2020, we appointed our first female director, Jamie
+“We believe that our Board
+Haenggi, to our Board of Directors. Ms. Haenggi brings more than 25 years of leadership in
+should represent a diversity
+marketing, sales, and customer experience.
+of thoughts, backgrounds,
+skills, experiences,
+Our seven-person Board is represented by a variety of experience and tenures. We value Board
+and expertise.” refreshment in order to provide new perspectives, as represented by the two Board members
+added in 2020. We look forward to continued guidance by these leaders as they play an active
+role in shaping Enphase’s future in sustainable development.
+For more information about our Board of Directors, please see our Proxy Statement.
+Environmental, Social, and Governance Report 2020 14
+Environment
+We collectively require a fundamental shift toward a more
+circular and low-carbon model. Companies with adequate
+sustainability management systems will thrive in a resource
+constrained future and will be well placed to help customers
+do the same. We are in the business of enabling access to
+intelligent, clean energy solutions for our customers in order to
+help reduce the world’s carbon footprint. Sustainability is at the
+core of what we do.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 1155
+E1. Energy administration
+Enphase adheres to the strongest environmental regulations and standards. Of our ten offices
+“Through various energy worldwide, seven are certified to ISO 14001 standards. Through various energy reduction
+initiatives, we are reducing our energy footprint through tailored programs that also benefit our
+reduction initiatives, we
+employees.
+are reducing our energy
+footprint through tailored
+We are in the process of transitioning almost entirely to the cloud and relying on SAS
+programs that also benefit
+applications for logistics, payroll, and most internal processes. This means we have a very
+our employees.”
+small footprint when it comes to data center energy use.
+As a company focused on enabling clean energy at scale, we support and encourage our
+employees to transition to solar energy at home and use more sustainable transportation
+alternatives. We provide our people the infrastructure to make these changes by offering
+electric charging stations at our offices and discounts on Enphase solar powered systems
+installed in their homes. We also offer rideshare and carpooling subsidies for U.S. offices to
+reduce transportation emissions.
+Environmental, Social, and Governance Report 2020 16
+United States case study
+16.8 kW In partnership with 603 Solar, we deployed a 16.8 kW solar array in the
+town hall building of Shelburne, New Hampshire. This project is expected
+Solar array
+to offset 100% of the building’s energy needs and provides a wonderful
+gathering point for the community. According to estimates by 603 Solar, the
+system is expected to offset approximately 12.8 metric tons of CO2e per year.
+100%
+offset expected to building’s
+energy needs
+12.8 metric tons CO2e
+expected offset per year
+18,105 kWh
+of electricity per year
+Environmental, Social, and Governance Report 2020 17
+Australia case study
+39.6 kW In partnership with Solar Concept, we deployed a 39.6 kW solar array on the
+roof of APEI (Association of Parents of Maladjusted Children) in Noumea,
+Solar array
+New Caledonia, which works to support the education and social integration
+of people with intellectual disabilities. The system has eliminated all
+power cut disruptions and reduced the association’s electricity bills by
+80%
+approximately 80%. In addition, the association expects that the system will
+approximate electricity bill reduction also offset approximately 36 metric tons of CO2e per year based upon their
+calculations.
+36 metric tons CO2e
+expected offset per year
+50,919 kWh
+of electricity per year
+Environmental, Social, and Governance Report 2020 18
+Europe case study
+78 kW In partnership with SCJ Renewables and Electrical, we deployed a 78 kW solar
+array on the roof of Fergyspace, a self-storage facility on the Northumberland
+Solar array
+Business Park West in Cranlington, Northumberland. Fergyspace boasts
+50,000 square feet of rentable space and is one of the biggest facilities of its
+kind in the northeast region of England. Based upon estimates made by SCJ
+660.9 metric tons CO2e
+Renewables and Electrical, the system is anticipated to offset more than 660.9
+expected offset over 20 years metric tons of CO2e over 20 years.
+934,722 kWh
+of electricity over 20 years
+Environmental, Social, and Governance Report 2020 19
+E2. Waste and hazardous
+materials management
+We realize there are opportunities for reducing our environmental footprint. Due to the
+“The goal of our internal critical nature and prevalence of batteries in our industry, we focus significant efforts on
+proper disposal and recycling of both household and residential storage battery systems. We
+universal waste policy
+have collection boxes in every U.S. office, and we work with a third-party provider to recycle
+and training is to promote
+batteries used in testing centers. We recycle approximately 90% of our total electronic waste
+the site’s commitment to
+every year.
+recycling and removal of
+products and materials
+In our U.S. offices, we generate approximately 5,000 yd³ of waste every year and about 50%
+from landfills, to assure
+of it is recycled. We focus on the use of supplies with a low environmental impact, including
+compliance with federal,
+reusable and compostable materials where possible. In the U.S. and New Zealand, we have
+state, and local regulations,
+eliminated paper cups and provide our employees with re-usable dishware, utensils, and
+and to provide an internal drinkware in our employee cafeterias.
+system within the company
+for collection, pickup, All site employees who handle hazardous materials in California take additional training to
+and recycling.” ensure compliance with universal waste management in California Code of Regulations,
+Title 22. The goal of our internal universal waste policy and training is to promote the sites’
+commitment to recycling and removal of products and materials from landfills, to assure
+compliance with federal, state, and local regulations, and to provide an internal system within
+the company for collection, pickup, and recycling. Employees outside of the U.S. working in
+labs also undergo annual training, including how to properly dispose of any toxic or hazardous
+materials.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 2200
+E3. Product design and lifecycle management
+Designing for the environment has been a priority since our co-founders first thought about
+which technology would yield the most impact. Not only are we using less materials and
+increasing efficiency, but we are also taking a systems approach for seamless integration into
+broader energy systems. We know that we are at the cusp of major technology and energy
+and market transformations. Our strategy is to transform into a home energy management
+systems company, providing our customers with clean, reliable energy solutions.
+From the beginning, we have understood that installers must have ease of installation while
+system owners demand safety and ease of use long after the installation experts have left
+their homes. Of course, both require a system that provides years of reliability and high
+performance with a simple expansion and upgrade path. Central to realizing this vision
+has been a laser-like focus on delivering a superior customer experience. We consider our
+customers to be both the installers and the final system owners because both depend on
+us delivering products of high quality and exceptional reliability. Solar as well as storage
+systems often represent the most significant investment for new construction or renovations.
+Energy system upgrades based on our technology are therefore designed to deliver innovative
+features that are:
+Reliable and resilient -- No moving parts and a fail-safe design supported by a single company
+Safe -- Free of high-voltage batteries and powered by fire-resistant battery chemistry
+Powerful -- Automatic backup, single-app monitoring and upgradeable
+Our microinverters have evolved significantly from the first product released to the market
+in 2008. Our cloud-based Enphase Enlighten™ monitoring system allows for remote
+problem-solving and saves time on installations. The distributed architecture requires less
+maintenance, creating systems without a single point of failure. We are also designing
+microinverters to last longer. This is especially important to divert waste from landfills. When
+units are sent back to Enphase, they are recycled and disposed of according to local law. In
+our testing center in Fuyong, China, products are taken apart and scraps and materials are
+collected for reuse.
+Environmental, Social, and Governance Report 2020 21
+Human capital
+People and communities build the fabric of our company.
+As a growing enterprise, we are dedicated to ensuring the
+health, safety, wellbeing, and professional growth of our
+employees in order to best serve our external stakeholders.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 2222
+At Enphase, we put our people first and foster an environment of innovation, integrity,
+teamwork, quality, and exceptional customer service. We promote and reinforce five core
+values every day we come to work: Customer First, Integrity, Innovation, Teamwork, and
+Quality. These core values are demonstrated in how we work together, how we perform, and
+how we all get rewarded.
+Our workforce is global, bringing diverse ideas and perspectives to our growing teams. As of
+September 30, 2020, we had 789 employees, 41% of which was in North America, including
+Canada and Mexico; while 40% was in India; 12% was in Australia and New Zealand; 5% was in
+Europe; and 2% was in China.
+Headcount*
+India
+Europe
+North America
+China
+Australia and
+New Zealand
+*Percentage of worldwide headcount as of 9/30/20
+Environmental, Social, and Governance Report 2020 23
+HC1. Employee development
+programs and policies
+Successful execution of our strategy is dependent on attracting, developing, and retaining
+key employees and members of our management team. The skills, experience, and industry
+knowledge of our employees significantly benefit our operations and performance. We
+continuously evaluate, modify, and enhance our internal processes and technologies to
+increase employee engagement, productivity, and efficiency.
+Onboarding
+New employees undergo a 30-day onboarding with company-wide trainings, meetings with
+company leaders, presentations by industry experts, and tailored material developed by
+their manager and team. Standard training includes a robust introduction to the company’s
+policies, products, procedures, and expectations. Employees establish development plans with
+their managers and set short-term and long-term goals. Managers are expected to provide
+feedback on a quarterly basis as they review employee achievements against individual goals.
+Training opportunities
+As we grow, we also find opportunities for mentorship, cross-training, and continued
+education. By fostering professional development opportunities for our employees, we gain
+new insights, process improvements, and greater retention. With close to 80 new graduates
+onboarded during 2020 in our India office, we brought in experts from the solar energy
+industry to provide employees with a broad perspective of solar technology. We also offer
+an employee tuition reimbursement program where employees can get sponsored to take
+coursework outside of Enphase.
+Within Enphase, we leverage specialized learning platforms that allow employees all over
+the world to access webinars, trainings, and classes in a variety of subjects. Topics include
+Code of Conduct, Environment, Workplace Safety, Human Resources, Customer Service,
+Pandemic Response, IT, Harassment Prevention, Intellectual Property Protection, Professional
+Development, and more.
+Engagement
+To measure employee engagement and satisfaction, we conduct an annual team member
+survey to assess and track team members’ retention and satisfaction. The 2019 survey
+indicated positive responses particularly around aligning to Enphase’s core values and
+ethics. Responders believed that decisions were being made for the betterment of the overall
+organization and that Enphase has a large focus on customer value. Employees also noted
+high performing teams and satisfaction with rewards as a result. These survey responses
+inform our initiatives, and we track success over time. In 2019, we expanded participation in
+the employee stock purchase plan to include employees outside the U.S. as a result of those
+employees voicing their desire to participate.
+Environmental, Social, and Governance Report 2020 24
+We developed a culture playbook in 2019 to provide our current and future employees with
+an easy-to-read document stating our purpose, core values, and examples of how we work
+together to achieve results. We traveled to all key Enphase sites around the world and worked
+with small groups to capture our collective thinking. We will continue to evaluate the playbook
+annually so that it accurately reflects the cultural transformation journey we are all on
+together.
+We are committed to promoting and cultivating an inclusive and diverse workforce that
+welcomes and celebrates everyone without bias. During 2020, we executed on our culture
+action plan to promote a healthy work environment, employee appreciation, and to incorporate
+regular coaching and feedback. We conduct quarterly all-hands meetings to celebrate our
+success during the past quarter. Along with a global business review, we showcase all new
+employees and those who are celebrating their 5-year and 10-year work anniversaries with
+Enphase. We also encourage managers to have periodic gatherings with their teams
+(in person prior to the COVID-19 pandemic and virtually during the pandemic) for both team
+and community building outside the workplace. In-region activities to recognize local staff are
+also popular, as are quarterly contests designed to illustrate our global culture.
+HC2. Diversity, equity, and inclusion
+“We know that our diversity
+fuels innovation and helps
+We strive to build a community where everyone feels valued and treated equally, regardless
+us better represent our of race, gender, ethnicity, or age. We know that diversity fuels innovation and helps us better
+client base.” represent our client base. With most of our workforce outside of the U.S., we find valuable
+insight and innovation from having international perspectives and multi-stakeholder teams
+that traverse borders. We promote equality and human rights for all people across our value
+chain, guided by internal policies as well as external standards such as the United Nations
+Sustainable Development Goals.
+Enphase is an Equal Opportunity Employer (EOE) that is committed to diversity and inclusion
+in the workplace. We prohibit discrimination and harassment of any kind based on race,
+color, sex, gender, gender expression, religion, sexual orientation, national origin, ancestry,
+disability, medical condition, genetic information, marital status, pregnancy, military or veteran
+status, or any other protected characteristic as outlined by federal, state, or local laws. This
+policy applies to all employment practices within our organization, including hiring, recruiting,
+promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and
+apprenticeship.
+Environmental, Social, and Governance Report 2020 25
+Diversity within Enphase
+Gender diversity*
+Workforce Women Total % Rounded
+Executives 4 25 16%
+Managers 15 130 12%
+Employees 115 634 18%
+Total 134 789 17%
+Ethnic diversity*
+Ethnicity Employees % Rounded
+Caucasian 202 26%
+Asian 289 36%
+African American 3 0%
+Latino/Hispanic 28 4%
+Two or More Races 12 2%
+Native American, Alaskan Native, Hawaiian Native 2 0%
+Not Specified / Not Disclosed 253 32%
+Total 789 100%
+Age diversity*
+Age group Employees % Rounded
+Less than 30 years of age 197 25%
+30-50 years of age 416 53%
+More than 50 years of age 161 20%
+Not Specified / Not Disclosed 15 2%
+Total 789 100%
+*As of 9/30/20
+Environmental, Social, and Governance Report 2020 26
+HC3. Employee health and safety
+We are committed to the health, safety and wellbeing of all our employees. This year has
+presented unprecedented challenges with employees, suppliers, customers, and partners
+affected by the COVID-19 pandemic and climate related disasters. COVID-19 has pushed us to
+work creatively and support each other like never before.
+Early in 2020, we drew upon our ability to communicate openly and rapidly to employees about
+“We are committed to the crisis management related to the pandemic as it was evolving. We developed a task force
+that met every other day, and currently meets as necessary and at least every two weeks, to
+health, safety and wellbeing
+receive updates from each site and to share information regarding the various work-from-
+of all our employees.
+home orders, supply of appropriate personal protective equipment (PPE) and other efforts to
+This year has presented
+protect the safety of our employees, phased office returns, and employee assistance. We have
+unprecedented challenges
+supported employees as needed with work equipment and flexible hours to accommodate
+with employees, suppliers,
+work routines at home. We have taken, and will continue to take, proactive and preventative
+customers, and partners
+measures to help minimize the risk of COVID-19 in our organization and communities.
+affected by the COVID-19
+To help our team members stay apprised of the latest information, we share communication
+pandemic and climate
+resources where they can connect and ask questions about our response to the current
+related disasters.” situation through corporate email addresses and a dedicated internal webpage.
+Enphase employees undergo health and safety and emergency preparedness training on an
+annual basis. We are pleased to have had zero reportable work-related injuries or incidents
+from 2011 to the time of this report. Each site undergoes a quarterly safety inspection. Lab
+researchers are expected to comply with internal protocols and policies such as our Hazard
+Communications/SDS Management Program and Managing Hazardous Materials guide.
+We also encourage worker wellbeing by offering facilities and incentives, including discounted
+gym memberships for health and fitness. In addition, we are currently building out a fitness
+space at our headquarters in Fremont, California.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 2277
+Social
+At Enphase, we recognize and take seriously our responsibility to help
+protect, preserve, and promote human rights around the world.
+For us, this means creating accessible, clean technology for underserved
+communities, ensuring privacy and security for our partners and users,
+and perpetuating ethical practices along our value chain.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 2288
+S1. Access and affordability
+As a company, we believe strongly in the ability to bring safe and clean power to families.
+Our vision has always been to make solar simple and energy smart and to develop advanced
+As Tim Sears, co-founder
+energy systems with solar and storage accessible to all. In December 2019, we achieved a
+of GRID said, “Partnerships
+large milestone of installing our one millionth microinverter system, and we did it alongside
+like this help to make
+one of our long-standing partners, GRID Alternatives (GRID), the nation’s largest nonprofit
+the environmental and
+solar installer.
+economic benefits of the
+clean energy economy
+We work with GRID to help power the United States’ low-income communities at no cost.
+accessible to families and
+With Enphase’s technology, GRID helps individual homeowners who qualify as low-income
+workers across the country.”
+by installing residential solar systems on their single-family homes, as well as working with
+affordable housing developers to install residential solar systems on qualified multi-family
+developments. The engagement extends beyond installation to provide hands-on job training
+for people in low-income communities. Through a combination of donated Enphase products,
+sponsored builds and volunteer hours by Enphase employees, we are able to bring added
+value to thousands of homes each year, and Enphase employees can be engaged and active in
+their communities.
+This partnership has yielded some incredible results. Through the donation of Enphase
+microinverters, GRID has installed more than 29 MW of solar power for low-income
+communities in the U.S., benefitting more than 8,200 families, and has provided job trainees
+and volunteers with approximately 524,000 hours of solar education and training. As Tim
+Sears, co-founder of GRID said, “Partnerships like this help to make the environmental and
+economic benefits of the clean energy economy accessible to families and workers across
+the country.”
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 2299
+S2. Data security and customer privacy
+Data privacy and security have become significant issues in the U.S., Europe, and in many
+other jurisdictions in which we offer our products and services. We are subject to a variety
+“We have made significant
+of foreign, federal, state, and local laws, regulations and rules relating to the collection, use,
+efforts designed to maintain
+storage, retention, security, disclosure, transfer, and other processing of personal information.
+the security, integrity, and
+availability of our energy
+The regulatory frameworks for privacy and security issues are constantly evolving and may
+systems and technology.”
+be subject to differing interpretations. For example, we are subject to both the California
+Consumer Privacy Act (CCPA), which went into effect on January 1, 2020, and the European
+Union’s General Data Protection Regulation (GDPR), which went into effect on May 25, 2018.
+We maintain a significant number of organizational, technical, and physical safeguards
+designed to protect the security, integrity, and privacy of the personal information we process
+and to achieve compliance with applicable regulatory frameworks, privacy policies, and
+contractual obligations. More information on the personal information we collect and how we
+use and protect it is outlined in our Privacy Policy.
+We have made significant efforts designed to maintain the security, integrity, and availability
+of our energy systems and technology. We have implemented substantial security measures
+designed to protect our information systems from traditional “hackers”, malicious code (such
+as malware, viruses, worms, and ransomware), password spraying, phishing attacks, employee
+theft or misuse, and denial-of-service attacks. We continuously evaluate our information
+security measures and identify potential areas of improvement.
+We devote substantial resources designed to prevent information security incidents. These
+methods include, but are not limited to, the following: (i) conducting training about social-
+engineering attacks; (ii) cybersecurity training for new employees; and (iii) presenting to
+executive management regarding product security, escalations, and information technology
+development.
+Environmental, Social, and Governance Report 2020 30
+S3. Supply chain management
+The success of our product would not be possible without suppliers and partners that
+share our values of quality, design, and sustainability. We work closely with all our contract
+manufacturers, from onboarding to client delivery, to ensure that our products are made to the
+highest standards. Suppliers are involved in the development of our products right from
+the onset.
+Vendor assessment
+When selecting a supplier, we conduct an in-depth risk assessment and require an extensive
+questionnaire where suppliers are evaluated on location, management system, technology,
+quality, and risk. If selected as a supplier, these factors carry into ongoing conversations with
+management on both sides to ensure proper alignment and continuous improvement.
+We see our suppliers as partners. We conduct quarterly reviews and audit our high-risk
+suppliers who receive quality scores that factor in their performance discussions. We expect
+that suppliers have management systems and oversight of their own suppliers and are open
+and transparent with us about issues regarding environmental management and ethics.
+If there is an issue, the supplier develops a corrective action plan alongside our supplier
+managers and executive sponsors until the issue is corrected.
+Social supply chain responsibility
+Enphase is committed to protecting human rights, enforcing fair labor practices, and
+addressing the potential risks of forced labor, child labor, human trafficking, and slavery across
+our operations and supply chain.
+Our Code of Conduct sets forth and highlights important legal, ethical, behavioral, and other
+requirements for parties that wish to be Enphase suppliers. Specifically, Section 15 of the
+Code states that suppliers must not support, promote or engage in the practice of slavery
+or human trafficking, and it requires suppliers to comply with all international standards
+and applicable laws regarding slavery and human trafficking. Enphase suppliers are further
+expected to take reasonable and necessary steps to help ensure their sub-contractors and
+sub-suppliers also comply with all international standards and applicable laws regarding
+slavery and human trafficking.
+Enphase provides its suppliers with a Quality Assurance Manual that outlines our Supply
+Chain Expectations and requires suppliers and subcontractors to comply with all international
+standards and applicable laws and regulations regarding slavery and human trafficking. It is
+our expectation that they do not support, promote or engage in slavery and human trafficking
+and that slavery and human trafficking do not exist in their respective organizations and
+supply chains. For more information, please read our California Transparency in Supply Chains
+Act disclosure.
+Environmental, Social, and Governance Report 2020 31
+Supply chain environmental management
+Enphase’s contract manufacturing suppliers are located in different regions to best serve our
+different markets. In 2019, we optimized our logistics management to achieve approximately
+a 63% reduction in the use of air shipping in the fourth quarter, as compared to the fourth
+quarter of 2018.
+Our primary suppliers are located in China and Mexico. We focus heavily on quality and
+innovation as they are highly specialized and play a large role in both the design and execution
+of our microinverters and other products. In order to create further flexibility as we continue to
+grow our business and serve our customers, we began microinverter production in Chennai,
+India in 2020.
+Venlo, Netherlands
+Long Beach, CA, USA
+Futian, Shenzhen, China
+Fuyong, Shenzhen, China
+Guadalajara, Mexico
+Chennai, India
+Sydney, Australia
+Manufacturing Site
+Distribution Center
+One of our primary contract manufacturers has made large strides to reduce their
+environmental footprint. We encourage continuous improvement along the supply chain and
+transparency around social and environmental risks that impact production in our industry.
+In late 2019, a major supplier site in China upgraded their plumbing system with smart leak
+control and changed the underground piping to above ground for early detection and quick
+repairing of any minor leakage. This upgrade led to a 26% reduction in water consumption,
+highlighting the positive impact of incremental changes and innovation.
+Environmental, Social, and Governance Report 2020 32
+S4. Material sourcing and efficiency
+As we bring our eighth-generation family of microinverters with Enphase Ensemble™
+“Enphase is committed technology to market, Enphase will once again demonstrate how we leverage semiconductor
+integration and scalability, a culture of continuous learning, and dedication to high quality in
+to following all materials
+order to build the world’s most advanced software-defined microinverter.
+guidance and environmental
+regulatory compliance
+Enphase is committed to following all materials guidance and environmental regulatory
+requirements in all the
+compliance requirements in all the countries in which it operates and sells. We are compliant
+countries in which it
+with RoHS, REACH, and 7 of our 10 offices are ISO 14001 compliant. A copy of our RoHS
+operates and sells.”
+certification is updated annually on our website.
+One important design target of our batteries that benefits the environment is to make them
+for long-term duration, which can help to decrease battery waste. The long-term duration can
+be achieved by using Lithium Iron Phosphate (LFP) as the energy storage material for our
+batteries. We do not use cobalt in our batteries as this mineral represents an increased risk of
+being sourced from areas that have unfair labor practices.
+We are cognizant that materials such as cobalt present an increased risk of being sourced
+from the Democratic Republic of the Congo (DRC) and other Conflict-Affected Areas
+associated with unfair labor practices. Enphase expects its vendors to source materials and
+operate in a responsible manner consistent with the Organization for Economic Cooperation
+and Development’s (OECD) Due Diligence Guidance for Responsible Supply Chains of Minerals
+from Conflict-Affected and High-Risk Areas. Our SEC disclosure on responsible sourcing is
+updated annually on our website.
+Environmental, Social, and Governance Report 2020 33
+Governance
+We combine strong internal governance with clear
+communication to ensure that stakeholder goals and objectives
+translate into actionable business practices by all Enphase
+employees. To support our commitment to drive the adoption
+of sustainable clean energy solutions for our customers, we
+participate in the development of policies and regulations
+around the world as part of our core governance principles.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 3344
+G1. Business ethics
+At Enphase, we believe that all people should be treated with dignity and respect. We have
+adopted the Enphase Energy Code of Conduct (“Code of Conduct”) that applies to all officers,
+directors, employees, contractors, and consultants. It provides general guidelines to ensure
+proper and ethical behavior, compliance with laws, and compliance with our standards,
+policies, and procedures. Outlined in the Code of Conduct are topics pertaining to anti-
+corruption, insider trading, health and safety, conflicts of interest, competition, and others.
+Enphase is committed to complying with all applicable laws and regulations everywhere that
+we operate.
+We also provide information about our Whistleblower policy, an anonymous platform for
+reporting violations of the Code of Conduct. Concerns are investigated promptly with the
+highest level of confidentiality. Employees also have the option to report any suspicious or
+unethical activity to their manager, human resources, or the legal department, directly.
+G2. Risk management
+We work collectively to mitigate and address all the top risks affecting our company’s ability to
+meet its stated objectives. Our ERM Committee annually identifies and assesses key company
+risks and monitors risk mitigation efforts. To determine risks year-over-year, 80 risk events
+are assessed by approximately 60 cross functional employees. We look at risks associated
+with governance, integrity, employee satisfaction, finance, IT, and business processes. The
+same employees are also asked to provide input on top risks impacting the company. A robust
+methodology then combines risk responses and evaluates risk likelihood, impact, and velocity
+to rank risks by priority.
+Top risks are identified for every business unit and presented to our Board of Directors. Risk
+leaders are identified across the company to help mitigate existing risks and proactively
+address emerging risk factors.
+Important characteristics of our ERM program are the inclusion of risk inputs from all levels
+(all geographies and cost centers - executive, operations, finance, IT, among others) and
+treating risks in the collective. This holistic approach to risk management considers how
+individual risks interrelate and assists in coordinating risk management strategies spanning
+all functions of the company.
+ERM program participants are given absolute assurance that responses are anonymous and
+individual survey responses are held in confidence. The ERM program is designed to deliver
+an aggregation of knowledge sharing from our employees on specific risk topics and to
+accumulate information on areas of opportunity and concern for action by leadership.
+Environmental, Social, and Governance Report 2020 35
+G3. Management of energy infrastructure
+and related regulations
+We track market and regulatory requirements that impact our business and play an active role
+“We believe that cross in the development of new standards for the solar industry. We believe that cross industry
+collaboration is also critical to address challenges in technology development, grid integration
+industry collaboration is
+and systems capacity, and permitting. We collaborate with national labs, government
+also critical to address
+agencies, and university research groups to develop innovative solutions that enable more
+challenges in technology
+efficient and sustainable products.
+development, grid
+integration and systems
+We work closely with the California Solar and Storage Association (CALSSA) to rationalize
+capacity, and permitting.”
+requirements for both commercial and residential energy storage systems. In 2020, we
+collaborated with the California Office of the State Fire Marshal to clarify and harmonize
+the language set forth by the California Fire Code (CFC) and California Residential Code
+(CRC). This language was approved unanimously by the California State Building Standards
+Commission and will be reflected nationally in the next edition of the International Residential
+Code (IRC) and International Fire Code (IFC). We are proud to have influenced this decision
+that fosters alignment in requirements for energy storage limits.
+Enphase identified a significant barrier within the National Electrical Code which would block
+the adoption of Energy Storage Systems (ESS). Through our ongoing participation on the
+National Fire Protection Agency (NFPA) Code Making Panel 4, we successfully submitted
+proposals for the creation of a new section in the 2020 edition of the National Electrical
+Code. This new section acknowledges the ability of Power Control Systems (PCS) to limit
+currents to safe levels, thereby eliminating this impediment to the deployment of ESS.
+Enphase then formed and led a UL Task Group to develop the corresponding product safety
+and performance standard necessary for compliance with the new National Electrical Code
+requirements. The Institute of Electrical and Electronics Engineers (IEEE) and the Electric
+Power Resource institute (EPRI) have both recognized the potential benefits of PCS and the
+scheduling function.
+Enphase also partners with numerous prestigious universities throughout the United States
+to promote technological innovation, conduct research, and engage in development projects,
+including projects funded by the Department of Energy, relating to energy efficiency and
+renewable energy.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 3366
+SASB Index
+According to the SASB Industry Level Materiality Map, the following
+categories are “the most likely material issues for companies”
+in the Solar Technology industry. The following table references
+accounting metrics within this report and other sources.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 3377
+SASB Topic Enphase alignment Section in ESG
+Energy management in Enphase does not manufacture its products and relies on contract Energy management
+manufacturing suppliers and partners who set their own standards and practices for
+energy use. We do collect information from high-spending suppliers who
+have efforts underway to optimize operations and reduce electricity use.
+Water management in With only ten Enphase offices worldwide, our water footprint remains small Supply chain
+manufacturing compared to other industry peers and manufacturers. We follow local, management
+state, and federal regulations for water use and management. Except for
+three small offices with low headcounts, we are ISO 14001 certified for
+seven remaining offices where we follow proper wastewater treatment and
+have management systems in place that are verified by a third party.
+Hazardous waste Enphase does not produce a lot of hazardous waste or material except Waste and
+management for labs conducting research and development. All hazardous material hazardous materials
+will be stored and disposed of as per Occupational Safety and Health management
+Administration (OSHA) requirements.
+Ecological impacts of Enphase also relies on a strong network of distributors and partners in the Access and
+project development installation, upkeep, and use of our microinverters. We work to address affordability
+community and ecological impacts by collaborating with organizations
+such as GRID Alternatives, the largest nonprofit solar provider.
+Management of energy Enphase identifies annually risks pertinent to our business. We also track Management
+infrastructure integration regulations that influence the development and dissemination of solar of energy
+and related regulations technology and influence and advance standards affecting our industry. infrastructure
+integration and
+related regulations
+Product end-of life Innovation is one of our core principles. Sustainability is at our core and our Supply chain
+management and purpose is to advance a sustainable future for all. We work to continuously management and
+materials sourcing make new iterations of our technology that increase efficiency to materials sourcing
+extend our products’ lifecycles. We rely on our strong and long-lasting
+partnerships to carry out sustainable business practices throughout our
+value chain.
+Environmental, Social, and Governance Report 2020 38
+United Nations sustainable
+development goals
+Enphase supports the United Nations Sustainable Development
+Goals (SDGs), and remains committed to driving progress on select
+goals that are closely aligned to our ESG priorities. The following
+table references sections of this report that relate to each such goal.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 3399
+SDG Target Report section Alignment to Enphase
+7.1 Access and Access to reliable, affordable, and modern energy
+7.2 affordability, services is what Enphase offers its customers.
+Product design Enphase microinverters boast maximum reliability,
+and lifecycle and our next generation of off-grid solutions are
+management paving the way for further energy access.
+Ensure access to affordable, As Enphase continues to grow and gain market
+reliable, sustainable and modern share, it is accelerating the positive impact and
+energy for all contribution towards increasing the renewables
+energy mix globally.
+9.4 Supply chain The core business of Enphase contributes directly
+9.5 management, to the “adoption of clean and environmentally
+Material sourcing sound technologies and industrial processes.”
+and efficiency,
+About us Enphase has prioritized the growth of its R&D
+teams globally, including in India which now
+contains 40% of total company employees with a
+Build resilient infrastructure,
+strong emphasis on R&D and innovation.
+promote inclusive and
+sustainable industrialization and
+Our energy storage systems provide resiliency and
+foster innovation
+deliver energy independence.
+11.3 Access and Sustainable urbanization is a priority for both the
+affordability, residential and small commercial applications
+Employee health of Enphase products and services. Additionally,
+and safety Enphase supports this goal through its long-
+standing philanthropic activities that help to
+provide solar energy for low-income communities.
+Make cities and human
+settlements inclusive, safe,
+resilient and sustainable
+13.1 Environment The Enphase storage system helps communities
+around the world be more resilient in the face of
+natural disasters and grid outages, ensuring that
+a home is powered during periods of inclement
+weather, delivering energy independence and peace
+of mind.
+Take urgent action to combat
+climate change and its impacts
+Environmental, Social, and Governance Report 2020 40
+Methodology
+We relied upon the Sustainability Accounting Standards Board (SASB) to help
+us understand the areas that may be most relevant to our U.S. investors and we
+referred broadly to the Global Reporting Initiative (GRI) to help us identify areas
+that we may have missed. We drew upon the subject matter expertise of our
+colleagues throughout Enphase to collect and organize the content relative to
+the areas we identified in our benchmarking. Lastly, we compared our activities
+to the United Nations Sustainable Development Goals (SDGs) to assess how we
+may be contributing to these important goals.
+EEnnvviirroonnmmeennttaall,, SSoocciiaall,, aanndd GGoovveerrnnaannccee RReeppoorrtt 22002200 4411
+Forward-looking statements and non-GAAP measures
+Use of Forward-Looking Statements measures to analyze its operating performance and future prospects,
+develop internal budgets and financial goals, and to facilitate period-
+This report contains forward-looking statements made pursuant to the
+to-period comparisons. Enphase believes that these non-GAAP
+Safe Harbor provisions of the Private Securities Litigation Reform Act of
+financial measures reflect an additional way of viewing aspects of its
+1995, including but not limited to statements regarding our key initiatives;
+operations that, when viewed with its GAAP results, provide a more
+our financial results and business strategies; our operations, logistics
+complete understanding of factors and trends affecting its business.
+and supply chain, including management and efforts to reduce waste,
+consumption, emissions and offsetting of carbon dioxide; the capabilities • As presented in the “Reconciliation of Non-GAAP Financial Measures”
+and performance of our technology and products; our initiatives related page, each of the non-GAAP financial measures excludes one or
+to human capital; our product and data security efforts. Any statements more of the following items for purposes of calculating non-GAAP
+that are not of historical fact, may be forward-looking statements. Words financial measures to facilitate an evaluation of the Company’s
+used such as “anticipates,” “believes,” “continues,” “designed,” “estimates,” current operating performance and a comparison to its past operating
+“expects,” “goal,” “intends,” “likely,” “may,” “ongoing,” “plans,” “projects,” performance:
+“pursuing,” “seeks,” “should,” “will,” “would” and similar expressions are • Stock-based compensation expense. The Company excludes stock-
+intended to identify forward-looking statements, although not all forward- based compensation expense from its non-GAAP measures primarily
+looking statements contain these words. All forward-looking statements because they are non-cash in nature. Moreover, the impact of this
+are based on our current assumptions, expectations and beliefs, and expense is significantly affected by the Company’s stock price at the
+involve substantial risks and uncertainties that may cause results, time of an award over which management has limited to no control.
+performance or achievement to materially differ from those expressed
+• Tariff refunds. This item represents approved tariff refunds by the U.S.
+or implied by these forward-looking statements. Therefore, you should
+Customs and Border Protection that qualify for the tariff exclusion
+not place undue reliance on our forward-looking statements. A detailed
+on Chinese imported microinverter products that fit the dimensions
+discussion of risk factors that affect our business is included in the filings
+and weight limits within a Section 301 Tariff exclusion under U.S.
+we make with the Securities and Exchange Commission (SEC) from time
+note 20(ss)(40) to subchapter III of chapter 99 of the Harmonized
+to time, including our most recent reports on Form 10-K and Form 10-Q,
+Tariff Schedule of the United States. Approved refunds relate to
+particularly under the heading “Risk Factors.” Copies of these filings are
+tariffs previously paid from September 24, 2018 to March 31, 2020
+available on the Enphase website at http://investor.enphase.com/sec.cfm,
+and are excluded from the non-GAAP measures as the refunds are
+or on the SEC website at www.sec.gov. All forward-looking statements in
+non-recurring in nature for tariff costs incurred in the past and are not
+this presentation are based on information currently available to us, and we
+reflective of the Company’s ongoing financial performance.
+assume no obligation to update these forward-looking statements in light
+• Restructuring and asset impairment charges. The Company
+of new information or future events.
+excludes restructuring charges due to the nature of the expenses
+being unplanned and arising outside the ordinary course of
+Non-GAAP Financial Metrics
+continuing operations. These costs primarily consist of fees paid for
+• The Company has presented certain non-GAAP financial measures restructuring-related management consulting services, cash-based
+in this presentation. Generally, a non-GAAP financial measure is a severance costs related to workforce reduction actions, asset write-
+numerical measure of a company’s performance, financial position, downs of property and equipment and lease loss reserves, and other
+or cash flows that either excludes or includes amounts that are contract termination costs resulting from restructuring initiatives.
+not normally excluded or included in the most directly comparable
+• Reserve for non-recurring legal matter. This item represents a charge
+measure calculated and presented in accordance with generally
+taken for the potential settlement cost related to a dispute with a
+accepted accounting principles in the United States of America, or
+vendor. This item is excluded as it relates to a specific matter and is
+GAAP. Reconciliation of each non-GAAP financial measure to the
+not reflective of the Company’s ongoing financial performance.
+most directly comparable GAAP financial measure can be found on
+• Acquisition related expenses and amortization. This item represents
+page 43 of this report. Non-GAAP financial measures presented by
+expenses incurred related to the Company’s acquisition of
+the Company include non-GAAP gross margin, operating expenses,
+SunPower’s microinverter business, which are non-recurring in nature,
+income from operations, and adjusted free cash flow.
+and amortization of acquired intangible assets, which is a non-cash
+• These non-GAAP financial measures do not reflect a comprehensive
+expense. Acquisition related expenses and amortization of acquired
+system of accounting, differ from GAAP measures with the same
+intangible assets are not reflective of the Company’s ongoing financial
+captions and may differ from non-GAAP financial measures with
+performance.
+the same or similar captions that are used by other companies. In
+• Adjusted free cash flow. This item represents cash flows from
+addition, these non-GAAP measures have limitations in that they do
+operating activities excluding payments for the acquisition reported
+not reflect all of the amounts associated with the Company’s results
+in operating activities less purchases of property and equipment. The
+of operations as determined in accordance with GAAP. As such, these
+Company believes the adjusted free cash flow is the best measure of
+non-GAAP measures should be considered as a supplement to, and
+how much cash the business generates after accounting for capital
+not as a substitute for, or superior to, financial measures calculated in
+expenditures.
+accordance with GAAP. The Company uses these non-GAAP financial
+Environmental, Social, and Governance Report 2020 42
+GAAP to non-GAAP reconciliation
+$ in MUSD Q1’18 Q2’18 Q3’18 Q4’18 FY18 Q1’19 Q2’19 Q3’19 Q4’19 FY19 Q1’20 Q2’20 Q3’20
+Gross profit (GAAP) $ 18.3 $ 22.7 $ 25.3 $ 28.2 $ 94.4 $ 33.4 $ 45.3 $ 64.7 $ 77.9 $ 221.2 $ 80.7 $ 48.4 $ 95.0
+Stock-based compensation 0.2 0.4 0.3 0.1 1.1 0.2 0.4 0.5 0.5 1.7 0.6 1.3 1.2
+Tariff refunds - - - - - - - - - - - - (23.0)
+Gross profit (Non-GAAP) $ 18.5 $ 23.1 $ 25.6 $ 28.3 $ 95.5 $ 33.6 $ 45.7 $ 65.2 $ 78.4 $ 222.9 $ 81.3 $ 49.7 $ 73.2
+Gross margin (GAAP) 26.2% 29.9% 32.4% 30.5% 29.9% 33.3% 33.8% 35.9% 37.1% 35.4% 39.2% 38.5% 53.2%
+Stock-based compensation 0.3% 0.6% 0.4% 0.2% 0.3% 0.2% 0.3% 0.3% 0.2% 0.3% 0.3% 1.1% 0.7%
+Tariff refunds - - - - - - - - - - - - (12.9)%
+Gross margin (Non-GAAP) 26.5% 30.5% 32.8% 30.7% 30.2% 33.5% 34.1% 36.2% 37.3% 35.7% 39.5% 39.6% 41.0%
+Operating expenses (GAAP) $ 20.8 $ 23.3 $ 25.6 $ 23.2 $ 92.8 $ 26.2 $ 27.9 $ 31.0 $ 33.4 $ 118.5 $ 36.0 $ 37.5 $ 43.2
+Stock-based compensation (1.4) (3.9) (3.7) (1.4) (10.4) (3.0) (4.2) (5.0) (5.6) (17.8) (6.9) (11.0) (13.1)
+Restructuring and asset
+- - (2.6) (1.5) (4.1) (0.4) (0.7) (0.5) (1.1) (2.6) - - -
+impairment charges
+Reserve for non-recurring legal
+(1.8) - - - (1.8) - - - - - - - -
+matter
+Acquisition related expenses
+- (0.4) (0.7) (0.5) (1.6) (0.5) (0.5) (0.5) (0.6) (2.2) (0.6) (0.5) (0.5)
+and amortization
+Operating expenses (Non-GAAP) $ 17.7 $ 19.0 $ 18.6 $ 19.7 $ 75.0 22.3 22.5 25.0 26.1 $ 95.9 28.5 26.0 29.6
+Income (loss) from operations
+$ (2.5) $ (0.6) $ (0.4) $ 5.0 $ 1.6 $ 7.1 $ 17.4 $ 33.7 $ 44.4 $ 102.7 $ 44.7 $ 10.9 $ 51.8
+(GAAP)
+Stock-based compensation 1.6 4.3 4.1 1.5 11.4 3.3 4.6 5.5 6.2 19.4 7.5 12.3 14.4
+Tariff refunds - - - - - - - - - - - - (23.0)
+Restructuring and asset
+- - 2.6 1.5 4.1 0.4 0.7 0.5 1.1 2.6 - - -
+impairment charges
+Reserve for non-recurring
+1.8 - - - 1.8 - - - - - - - -
+legal matter
+Acquisition related expenses
+- 0.4 0.7 0.5 1.6 0.5 0.5 0.5 0.6 2.2 0.6 0.5 0.5
+and amortization
+Income from operations
+$ 0.9 $ 4.1 $ 7.0 $ 8.6 $ 20.5 $ 11.3 $ 23.2 $ 40.2 $ 52.3 $ 127.0 $ 52.8 $ 23.7 $ 43.7
+(Non-GAAP)
+Cash flows from operating
+$ 3.4 $ 4.1 $ 6.8 $ 1.9 $ 16.1 $ 17.1 $ 14.8 $ 5.0 $ 102.3 $ 139.1 $ 39.2 $ 25.4 $ 67.5
+activities
+Payments for acquisition
+reported in cash flows - - 6.0 4.0 10.0 - - - - - - - -
+from operating activities
+Purchases of property
+(1.0) (0.4) (0.9) (1.8) (4.2) (0.7) (2.5) (4.2) (7.4) (14.8) (3.4) (4.4) (3.9)
+and equipment
+Adjusted free cash flow $ 2.3 $ 3.6 $ 11.9 $ 4.1 $ 22.0 $ 16.4 $ 12.3 $ 0.8 $ 94.9 $ 124.3 $ 35.8 $ 21.0 $ 63.6
+Amounts may not total due to rounding
+Environmental, Social, and Governance Report 2020 43
+©2021 Enphase Energy, Inc. All Rights Reserved.
+Enphase Energy, Enphase, the E logo, Encharge, Encharge 3, Encharge 10, IQ 7+, IQ, Enlighten,
+Ensemble, and other trademarks or service names are the trademarks of Enphase Energy, Inc.
+Other names and marks used herein may be trademarks or services marks owned by third parties.
+Environmental, Social, and Governance Report 2020 44

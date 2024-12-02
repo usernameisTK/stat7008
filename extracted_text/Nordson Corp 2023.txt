@@ -1,0 +1,2151 @@
+Environmental, Social
+& Governance Report
+NOVEMBER 2023
+Table of Contents
+Introduction Fostering an Inclusive and
+• About This Report 2 Engaged Culture 25
+• Message From Our CEO 3 • Talent Management and Development 26
+• About Nordson Corporation 4 • Inclusion and Diversity 31
+• Our Approach to ESG 6 • Workplace Health and Safety 34
+Measuring and Managing Caring for Our Communities 38
+Our Environmental Footprint 7
+Operating With Integrity
+Delivering Responsible Products 15 and Responsibility 43
+• Product Innovation 16 • Corporate Governance 44
+• Product Quality and Safety 20 • Ethics and Compliance 47
+• Supply Chain Responsibility 22 • Cybersecurity 50
+ESG Data Summary 52
+1
+INTRODUCTION
+About This Report
+Thank you for your interest in Nordson Corporation’s
+Environmental, Social, and Governance (ESG) report.
+This report carries forward strategies and commitments from our In preparing this report, we have been influenced by established
+2021 and 2022 ESG publications, provides updates on metrics and ESG reporting standards, ratings organizations, and similar ESG
+progress, and previews areas of expected evolution and maturity frameworks, including the Sustainability Accounting Standards
+going forward. This year marks our third ESG disclosure in this Board (SASB), the Global Reporting Initiative (GRI), the Task
+format and second comprehensive report. There is intentional Force on Climate-related Financial Disclosures (TCFD), and the
+consistency in the way we communicate many of our commitments, United Nations Sustainable Development Goals (UN SDGs).
+accomplishments, and aspirations through an ESG lens, which We are cognizant of emerging global reporting requirements and
+reflects how the underlying elements of ESG have been and remain believe our existing ESG foundation and strategy position us well to
+central to Nordson’s culture and are embodied in our long-standing fulfill these upcoming requirements.
+philosophy and values.
+We welcome your questions and feedback regarding this
+report at corporatecommunications@nordson.com.
+NORDSON Environmental, Social & Governance Report 2
+INTRODUCTION
+Message
+define our culture and fuel our successes,
+and as such, we prioritize ongoing engagement,
+From Our CEO career advancement, and a positive and inclusive work experience
+throughout every phase of the employee life cycle.
+For example, more than 250 leaders from across our global divisions
+Dear Nordson Stakeholders, and support functions have participated in our NBS Next Accelerator
+training program, which facilitates an in-depth understanding of the
+At Nordson, the strength of our organization is reflected in the ways we
+NBS Next business system and strengthens our company culture.
+continue to embrace our values, demonstrate our team-focused culture,
+and execute our vision on behalf of our customers, investors, employees, To recruit and develop our next generation of leaders, we launched our
+communities, and other stakeholders. Our 2023 ESG Report demonstrates Commercial and Finance Leadership Development Programs, which
+these commitments in action and outlines our progress in protecting the rotate recent college graduates through different roles in the Company.
+environment, building Winning Teams, investing in our communities, and In support of employees from all background and circumstances,
+delivering technology solutions that support sustainable development. we introduced new Employee Resource Groups that encourage our
+employees to bring their authentic selves to work every day, and refined
+Supplying products that matter while reducing our policies and benefits to ensure Nordson remains an employer of
+our environmental footprint choice. We also remain vigilant in prioritizing the health and safety
+of all our employees as part of our Journey to Zero initiative aimed at
+Throughout Nordson’s history, we have leveraged our world-class ingenuity
+eliminating all accidents through continuous improvement.
+to develop products that help customers reduce their environmental
+footprint by improving yields, maximizing efficiency, and reducing
+Investing in our communities
+scrap and material waste. We also deliver innovative solutions that
+enable customers to utilize recycled and ecofriendly materials in their Beyond our own operations, we believe in giving back to our
+manufacturing processes and to manufacture products that support communities through philanthropic contributions and participation
+important environmental and social end uses, such as clean energy, medical in volunteer opportunities that reflect the causes we are passionate
+and life sciences, and food security. Our recent acquisition of ARAG Group about. In FY22, Nordson and the Nordson Corporation Foundation
+expands our market share to include sustainable agriculture. donated more than $13 million to programs in our communities. I
+am particularly proud of the ways we expanded our matching gifts
+The emissions reduction and clean energy targets we set last year have program by doubling our employer match to a 2:1 contribution and
+motivated our teams to bring forward various ways to improve our expanding our network to more than 3,000 global nongovernmental
+environmental footprint. Solar panels, insulation upgrades, process organizations that are now eligible to receive matching gifts.
+improvements, and other impactful solutions that emerged position us well
+to achieve our climate targets while also improving operations, providing In closing, thank you for your continued support as we continue to
+long-term cost savings, and engaging our employees. We will continue implement our ESG strategy on behalf of all our stakeholders. I am
+to foster a culture that recognizes the positive interconnection between proud to share the ways that, together, we are leveraging Nordson's
+sustainability and lean manufacturing and uses data-driven frameworks to history of innovation and action to make the world a better place for
+identify and pursue high-impact opportunities for improvement. all those we serve.
+Building Winning Teams
+At its core, the Winning Teams pillar of our Ascend strategy is about Sundaram Nagarajan
+creating an engaging culture that attracts, retains, and develops top talent. President and Chief Executive Officer
+We believe the diverse backgrounds and contributions of our people help
+NORDSON Environmental, Social & Governance Report 3
+INTRODUCTION
+Nordson by the Numbers*
+$2.6
+billion in sales
+7,300
+employees
+About Nordson
+35+
+Corporation countries
+Founded in 1954 and headquartered in
+Westlake, Ohio
+Delivering precision technology solutions to
+help customers succeed worldwide. *For fiscal year ended October 31, 2022
+Nordson Corporation is an innovative precision technology Our values – the principles by which we operate – provide a foundation
+company that serves global customers in a wide variety of non- that reinforces the highest level of ethical behavior across all Nordson
+durable, durable, and technology end markets, including packaging, operations. By integrating these values into every aspect of our business,
+nonwovens, electronics, medical, appliances, energy, transportation, we assure the best for ourselves and our stakeholders.
+construction, and general product assembly and finishing. We
+• Integrity: We are honest with employees, customers, shareholders,
+engineer, manufacture, and market differentiated products used
+the media, and ourselves. We will do what is right. We will not
+for dispensing adhesives, coatings, sealants, biomaterials, and other
+compromise standards.
+materials; for fluid management; for test and inspection; and for UV
+curing and plasma surface treatment. We support our products with • Respect for People: We value employees. We thrive on teamwork,
+direct global sales, service, and application expertise. collaboration, and diversity. We will not compromise safety.
+We communicate openly and honestly. We give back to our
+Our Corporate Philosophy and Values communities.
+Nordson strives to be a vital, self-renewing global organization • Customer Passion: Quality and service come first. We expect more
+that produces and grows wealth for our employees, customers, from ourselves than our customers do.
+shareholders, and communities within the framework of ethical • Excellence: We expect the best from management, co-workers, and
+behavior and enlightened citizenship. Our employees are the engine ourselves. We are not satisfied with work that is “average” or “OK.”
+that drives our progress in this pursuit. We seek innovative approaches to create value.
+• Energy: We approach challenges with an attitude of “lean forward,
+let's get it done.” Enthusiasm drives the pace of our work. We care...
+complacency is worse than our toughest competitor.
+NORDSON Environmental, Social & Governance Report 4
+INTRODUCTION
+Our Growth Strategy for a Stronger Nordson
+In 2021, we introduced our Ascend strategy, which is designed to deliver The Ascend strategy is guided by three interconnected pillars,
+top-tier revenue growth with leading margins and returns. By FY25, with our culture and values serving as the foundation for
+our financial goal is to deliver $3 billion in revenue and a 30% EBITDA everything we do. Our ESG program is intentionally aligned with
+margin through organic and acquisitive growth. We are pursuing the principles of the Ascend strategy and NBS Next framework.
+this goal in a manner consistent with the principles of sustainable
+development, growing the Company in an environmentally and socially
+responsible manner and within a sound governance framework.
+Top-tier growth with leading margins and returns
+NBS Owner Winning
+Next Mindset Teams
+GROWTH FRAMEWORK DIVISION-LED TALENT STRATEGY
+■ Sustain organic growth ■ Data drives action ■ Enhance depth and diversity
+■ Accelerate acquisitions ■ Entrepreneurial, accountable ■ Enrich inclusive culture
+Culture & Values
+NBS Next Owner Mindset Winning Teams
+IMPACT ON HOW Driving profitable growth Creating an agile organization Creating an engaging culture that
+WE MANAGE THE by selecting and investing where our leaders are empowered attracts and retains top people
+BUSINESS OVERALL disproportionately in the best to make growth-focused who are key to delivering on the
+growth opportunities. decisions close to the customer. long-term growth objectives of
+the Company.
+IMPACT ON HOW Applying disciplined, data- Encouraging and enabling Developing a purpose-driven,
+WE APPROACH ESG driven analysis to prioritize division and site leaders to make inclusive, and diverse culture
+improvements and opportunities decisions and execute strategy that helps to create a shared
+with the most beneficial impact. most impactful to their business strategic vision and attract,
+and their stakeholders, within a retain, and motivate top talent.
+centralized framework of guiding
+principles, corporate support,
+and oversight.
+NORDSON Environmental, Social & Governance Report 5
+INTRODUCTION
+Our Approach to ESG
+Guided by our corporate philosophy and values, we are focused on the ESG issues most important
+to our Company and our stakeholders.
+OUR COMMITMENT PRIORITIES AND ACTIVITIES
+Our Footprint – Pursuing capital investments, process improvements, clean energy, and
+Measuring and Managing carbon offsets to reduce our environmental impact and preserve our environment
+our Environmental
+Risks and Opportunities – Monitoring and addressing climate-related risks and
+Footprint
+opportunities
+Product Innovation – Solving customers’ challenges and supporting sustainable
+development goals
+Delivering Responsible
+Products Product Quality and Safety – Uncompromising quality and performance
+Supply Chain Responsibility – Sourcing materials in an ethical and compliant manner
+Talent Management and Development – Recruiting, developing, engaging, and recognizing
+our workforce
+Fostering an Inclusive Inclusion and Diversity – Fostering an inclusive, diverse, and supportive workplace
+and Engaged Culture for all employees
+Workplace Health and Safety – Ensuring the safety of our employees through prevention
+and preparation
+Charitable Giving – Impacting through direct grants and matching gifts programs
+Caring for Our
+Communities Volunteering – Organizing and encouraging volunteer opportunities
+Corporate Governance – Attentive oversight structures with diverse skills, experience, and
+attributes
+Operating With Integrity
+Ethics and Compliance – Unwavering commitment to acting with integrity
+and Responsibility
+Cybersecurity – Protecting through technology controls, training, planning, and incident
+response
+Read about Nordson's approach to ESG oversight in the Corporate Governance section of this report.
+NORDSON Environmental, Social & Governance Report 6
+Measuring and Managing
+Our Environmental Footprint
+IN THIS SECTION
+• Philosophy and Strategy
+• Board and Management Oversight
+• Climate Targets and Performance
+• Risks and Opportunities
+7
+MEASURING AND MANAGING
+OUR ENVIRONMENTAL FOOTPRINT
+Measuring and Managing
+Our Environmental Footprint
+Environmental Responsibility Philosophy
+Nordson is committed to operating safely and efficiently to minimize our environmental footprint,
+improve and protect our environment, serve emerging market opportunities, and reduce risk to our
+business, our communities, and our stakeholders.
+OUR FOOTPRINT OUR PRODUCTS
+Preserving Resources & Procuring and Generating Higher Yield, Less Waste, Environmentally Conscious
+Reducing Consumption Clean Electricity Less Scrap End Uses
+CLIMATE TARGETS DELIVERING RESPONSIBLE PRODUCTS see page 15
+50% reduction net zero 70%
+Achieve a Achieve Procure of electricity
+in net Scope 1 and Scope 2 CO Scope 1 and Scope 2 CO from renewable sources
+2 2
+emissions by 2030* emissions by 2050 by 2050
+39% complete 19% complete 3% complete
+For detailed data, please see the ESG Data Summary.
+* Based on a 2021 gross emissions baseline, adjusted for acquisitions/divestitures NORDSON Environmental, Social & Governance Report 8
+MEASURING AND MANAGING
+OUR ENVIRONMENTAL FOOTPRINT
+Our Climate Strategy
+Nordson’s climate strategy is guided by the emergence of science-based targets and leading frameworks and standards, including
+recommendations from the Intergovernmental Panel on Climate Change and the Science Based Targets initiative to limit global
+warming to within a 1.5° C scenario. Our strategy is comprised of the following tenets and underlying activities:
+INITIATIVE PROGRESS
+Multimillion dollar annual capital allocation for sustainability-related projects.
+Over 30 projects proposed in 2022 and 2023. Read more on page 11.
+External energy consultant and internal corporate subject matter experts
+Operational
+support site leaders in evaluating projects and opportunities.
+Improvements
+and Efficiency
+Cellular manufacturing improvements drive efficiency and reduce waste,
+Enhancements
+providing sustainability, operational, and financial benefits.
+Preserving
+Resources
+Biennial facility survey monitors for best practices, areas of focus, and
+& Reducing
+overall progress.
+Consumption
+Nature-based carbon offsets help sequester carbon emissions, promote
+biodiversity, improve air and water quality, and support local and indigenous
+cultures and communities. Read more on page 12.
+Carbon Offsets
+Carbon offset costs internalize the cost of emissions and keep us accountable
+to our long-term climate goals. Carbon offsets are in parallel to – not in lieu of –
+emissions abatement and clean energy efforts.
+Through the sustainability capital allocation program, four key onsite solar
+generation opportunities emerged in 2023 – at one of our highest-consuming
+sites (Loveland, Colorado, U.S.), at one of our highest-cost sites (Aylesbury,
+Onsite Solar Generation
+UK), at our global headquarters (Westlake, Ohio, U.S.), and at a site expected to
+generate 100% of electricity demand from solar (Bangalore, India). Read more
+Procuring and on page 11.
+Generating
+Clean Energy Increased purchasing of certified renewable energy credits in U.S. and Asia
+during 2022 and 2023.
+Offsite Procurement
+Evaluating in-region or bundled renewable energy credits and local virtual
+power purchase agreement opportunities to support clean energy development
+within the grids in which we consume energy.
+NORDSON Environmental, Social & Governance Report 9
+MEASURING AND MANAGING
+OUR ENVIRONMENTAL FOOTPRINT
+Oversight and Responsibilities
+Our Environmental Policy outlines Nordson’s commitment to Our disciplined, data-driven approach seeks to prioritize and
+conduct business in a manner consistent with the objectives of allocate our resources to the most impactful opportunities and
+sustainable development, carefully balancing economic success with risk mitigation needs.
+environmental stewardship and social progress. We are mindful
+of our role in addressing climate change, and we are committed Nordson’s 2022 Environmental Performance
+to measuring and reducing our impact on the environment in
+In 2022, we significantly decreased our net emissions against our
+alignment with our organizational values.
+2021 baseline, primarily due to continued nature-based carbon
+Consistent with Nordson’s Ascend strategy, we foster an Owner offset purchases and improved emissions factors (i.e., a cleaner
+Mindset that empowers division and site leaders to be proactive grid in certain regions). We recognize the transitional nature
+in managing their business and operations within a framework of this progress and remain committed to pursuing abatement
+of centralized governance, support, and oversight. Division and through facility improvements to reduce consumption and
+site leaders are responsible for local execution, while a centralized increasing clean energy generation and procurement. Our
+team is responsible for Company-wide oversight, support, sustainability capital allocation program began in late 2022,
+and identification of any key risks or negative trends. We share and some projects came online in 2023, though many remain
+information about positive trends, key opportunities, and best in the planning, approval, or installation stage. We therefore
+practices within the Company to enhance employee awareness, did not expect a measurable impact in our 2022 data from our
+drive further adoption, and develop a culture that recognizes sustainability capital allocation program. As projects come
+sustainability and environmental stewardship as important online during the remainder of 2023 and in 2024, we expect
+Company values. Targeted communications and engagement with that our energy and emissions data in future reports will
+site operations and commercial leaders reinforce the availability of reflect their impact. In the meantime, we will continue to
+sustainability-related resources, as well as Company leadership’s invest in nature-based carbon offsets and focus on offsite
+commitment to sustainability and achieving our climate targets. clean energy procurement.
+Learn more about our 2022 environmental performance
+in our ESG Data Summary.
+Our Commitments and Progress
+2021 2022 2023
+• Committed to improving our • Established a Scope 1 and • Focused on the rollout and
+environmental data collection Scope 2 CO emissions baseline execution of our climate
+2
+capabilities to establish and climate-related targets. framework strategy.
+baselines, set targets, and take
+• Introduced Company-wide • Established Governance and
+impactful, data-driven actions to
+climate strategy, including Sustainability Board Committee.
+reduce our own environmental
+sustainability-focused capital Read more in the Corporate
+footprint.
+allocation. Governance section of this report.
+NNOORRDDSSOONN EEnnvviirroonnmmeennttaall,, SSoocciiaall && GGoovveerrnnaannccee RReeppoorrtt 1100
+MEASURING AND MANAGING
+OUR ENVIRONMENTAL FOOTPRINT
+Delivering Diverse Energy and Environmental
+Conserving Water in a High-Risk Region
+Solutions With Our Division-Led, Owner Mindset
+In 2023, our Guaymas, Mexico, facility installed
+Nordson’s division-led, Owner Mindset encourages a wide variety
+a water filtration system expected to save
+of projects based on individual sites’ needs and opportunities,
+approximately 750,000 gallons of water per year in
+within the larger Company-wide framework and climate targets. We
+a geographic area of “extremely high” water risk,
+encourage strategic projects that deliver environmental benefits as
+as defined by the World Resources Institute. We
+well as financial, operational, safety, or other overlapping benefits.
+identified Guaymas’ water consumption as a high-
+impact opportunity in our 2021 facility survey and
+Examples of emerging sustainability improvement opportunities at
+approached the site operations team, who had
+Nordson include:
+previously considered a water filtration solution but
+• Loveland, Colorado, U.S.: We have scoped a large-scale solar
+encountered barriers due to the highly regulated
+ground mount array, and the project is under consideration
+nature of medical device manufacturing at the facility.
+for future implementation. The system would provide With support from a renewed leadership focus on
+approximately 2 million kWh per year of green energy to one of sustainability, the team successfully completed the
+our highest-consuming electricity sites. Loveland implemented installation and qualification. It is a great example
+LED lighting improvements in 2023 and is planning equipment of site operations exercising an Owner Mindset to
+upgrades and other measures to reduce overall energy develop and implement an impactful solution, with
+consumption. the support of a company culture that increasingly
+recognizes the importance of sustainability.
+• Aylesbury, UK: A planned rooftop solar installation is
+expected to provide renewable energy to one of our highest-cost
+electricity sites, helping to reduce our emissions, control costs,
+and reduce summer sun exposure to better control the facility
+temperature and improve employee comfort. The project is
+underway and expected to come online in late 2023 or in 2024.
+• Muenster, Germany: The team is planning to install thermal
+strip curtains to improve building efficiency while loading
+dock doors are open. The strip curtains will serve as insulation
+to retain warm air during the winter and cold air during the
+summer, while allowing forklifts, employees, and trucks to
+move in and out of the loading docks. Muenster installed a
+combined heat and power solution several years ago, among
+other measures to improve building efficiency.
+• Bangalore, India: We have scoped and are reviewing plans
+to replace the facility’s existing roof with insulated roofing to
+better control the facility temperature and improve building
+efficiency, and to install a solar system sized to generate
+approximately 100% of the facility’s annual electricity needs.
+Any excess electricity generated from our solar panels would
+feed back into the grid, providing clean energy to our neighbors
+in the community.
+NORDSON Environmental, Social & Governance Report 11
+MEASURING AND MANAGING
+OUR ENVIRONMENTAL FOOTPRINT
+• Westlake, Ohio, U.S.: At our LEED Silver certified global Investing in Carbon Offsets
+headquarters, plans are scoped to install rooftop solar panels.
+We purchase nature-based carbon offsets in the
+By leveraging all available roof space with bifacial panels and communities and regions where Nordson operates and/or
+a white membrane roof, we expect to offset approximately in areas of recognized high biodiversity. In 2023, we invested
+25% to 30% of facility energy use. We purchased certified in the following nature-based carbon offset projects:
+carbon offsets from the Western Reserve Land Conservancy
+United States
+to protect the Whittlesey Beach Ridge Forest in Northeast
+• St. Elmo Forest Preservation (Tennessee)*
+Ohio equal to 100% of our 2022 emissions from our
+Westlake headquarters. • Anneewakee Forest Preservation (Georgia)*
+• Boyle, Ireland: We improved windows and insulation in • City of Providence (Rhode Island)*
+2023, which solidified the building’s envelope and enhanced • Cold Hollow to Canada (Vermont)*
+efficiency, in addition to improving site security and
+• Two Hearted River Forest Reserve (Michigan)*
+employee comfort.
+• Green Minneapolis (Minnesota)*
+• U.S./Canada Hybrid Cars: In 2023, we began replacing
+• Whittlesey Beach Ridge Forest (Ohio)*
+our gas-powered U.S. and Canadian fleet vehicles with gas/
+electric hybrid alternatives and will continue to do so as • National Forest Recovery (U.S.)
+vehicles cycle out. We expect to transition substantially all
+Brazil
+our U.S. and Canadian fleet to hybrid gas/electric vehicles
+• Reforest the Amazon Basin
+over the next three to five years.
+India
+• Waste Reduction: Throughout 2022 and 2023, we
+• Reforestation of Degraded Land by MTPL in India*
+implemented several waste reduction initiatives, including
+• Trees for Tigers
+a packaging simplification effort in Norwich, Connecticut,
+to reduce corrugated cardboard and the introduction of Kenya
+reusable shipping containers in Swainsboro, Georgia, to • Bore Subsistence Farming
+reduce single-use packaging materials and waste.
+Anneewakee Forest Preservation, Douglas County, Georgia.
+* Indicates a third-party certified project.
+NORDSON Environmental, Social & Governance Report 12
+MEASURING AND MANAGING
+OUR ENVIRONMENTAL FOOTPRINT
+Tracking Performance Understanding Our Climate Change Risks
+and Opportunities
+Successful environmental management and meaningful
+sustainability and efficiency improvements require accurate, Our annual global enterprise risk management (ERM) survey
+complete data, which enables us to set targets, prioritize the most is an important tool in assessing a variety of risks across our
+impactful opportunities, and track our progress. Our utility Company. Our ERM survey includes a question set influenced
+bill management (UBM) system allows us to centrally track and by Task Force on Climate-related Financial Disclosures (TCFD)
+analyze electricity, natural gas, water, and waste data. recommendations pertaining to transition risks and physical risks
+associated with climate change.
+In 2022, we completed the implementation of all global sites into
+our UBM system for electricity and natural gas data and began In addition, on a biennial basis, we survey Nordson facility
+the process of implementation for water and waste consumption operations leaders to gather information and insights into the
+data across our facilities. We have made substantial progress in adoption of sustainability practices and climate-related risks or
+our efforts and are reporting water data for approximately 75% opportunities at a facility level. This information helps us react
+of our sites over 5,000 square feet in this report, with plans to appropriately to emerging trends or business needs.
+implement water data collection for the remainder of our sites
+in 2023 and 2024. Implementing waste data collection from our We believe the increasing focus on counteracting climate change
+sites into our UBM system has proven challenging due to the presents several opportunities for Nordson:
+lack of standardization for waste data and invoicing. We have • Higher precision: Nordson’s precision technology solutions
+successfully onboarded approximately 50% of our sites over support customers who seek efficient and sustainable
+5,000 square feet into our UBM system for waste data and will manufacturing by improving yields, reducing material
+continue to pursue waste data collection throughout our sites. consumption, and delivering innovative capabilities relating
+to material recycling and the use of more sustainable
+materials.
+• Premium quality and durability: Nordson equipment is
+generally designed around a long-lasting core with routine
+wear-and-tear replacement parts, which extends the overall
+product life and reduces waste.
+• Innovative features: Many of our product innovations take
+the form of new accessories, software upgrades, or other
+methods that do not require a full system replacement to
+realize continuous product improvements.
+The BKG® HiCon™ R-Type is ideal for recycling polymer melts from the family
+of olefins and styrenes with a high contamination degree.
+NORDSON Environmental, Social & Governance Report 13
+MEASURING AND MANAGING
+OUR ENVIRONMENTAL FOOTPRINT
+The need for climate change solutions also opens new markets and
+applications for our products. For example, we have developed
+a robust, cross-divisional approach to battery markets serving
+Acquisitions Support
+electric vehicles and the electric grid. We also continue to partner
+Sustainable Innovation
+with customers to provide solutions that enable more sustainable
+manufacturing methods and the capability to incorporate Nordson’s recent acquisition history reflects how
+biomaterials and more environmentally friendly materials into their our growth strategy is consistent with sustainability
+manufacturing processes. Through our Ascend strategy and NBS principles and opportunities. Most recently, in August
+Next growth framework, we will continue to target strategic growth 2023, Nordson completed the acquisition of the ARAG
+segments and apply a disciplined approach to product innovation Group. Originally established in 1976 and based
+and development that anticipates and responds to customer and in Rubiera, Italy, ARAG is a precision agriculture
+market trends, including the increasing focus on environmentally company that offers innovative spraying, dispensing,
+conscious and climate change-related end markets and applications. and software solutions to help customers boost crop
+yields while reducing the usage of fertilizers and
+chemicals. Our acquisitions of NDC Technologies in
+2021 and CyberOptics in 2022 provide innovative
+solutions for quality-related testing, inspection,
+measurement, and control processes that enable
+customers to closely monitor production, optimize
+manufacturing processes, and minimize scrap
+and waste.
+ARAG precision agriculture products at work.
+NORDSON Environmental, Social & Governance Report 14
+Delivering
+Responsible Products
+IN THIS SECTION
+• Product Innovation
+• Product Quality and Safety
+• Supply Chain Responsibility
+1155
+DELIVERING RESPONSIBLE
+PRODUCTS
+Product Innovation
+Nordson is a global leader providing precision technology Bolstering Our Product Offerings
+solutions to solve customer needs in a wide range of Aimed at the Future
+end markets and applications. As customer needs and
+In 2023, Nordson acquired the precision
+market opportunities increasingly involve environmental
+agriculture company, ARAG Group. ARAG
+and social considerations, our product innovations and specializes in precision-based agriculture
+commercialization strategies naturally follow suit. applications and smart control systems,
+which allow farmers to manage their land and
+crops more effectively and sustainably. This
+Delivering Products With Environmental and
+technology is crucial for farmers and our society,
+Social Benefits
+as the dispensing and control systems allow for
+Nordson technology solutions contribute to a diverse array of environmental greater crop yield, increased profitability, and
+and social benefits, including several of the UN Sustainable Development decreased resource usage. With a decreasing
+Goals. The precision, durability, and innovative features of our equipment amount of arable land and an increase in the
+drive resource efficiency and reduce waste, creating value for our customers world’s population, ARAG’s products remain
+and benefits to the environment. Our technology enables methods of all the more important for a stable food supply
+manufacturing by our customers that utilize environmentally friendly while limiting environmental impact.
+materials in everyday items, such as baby diapers, hygiene products, and food
+and beverage packaging. We also deliver products and solutions that support
+growing opportunities in connection with climate change, clean energy,
+and converging environmental topics, such as the advanced battery market,
+plastics recycling, precision agriculture, and the avoidance of solvents
+through powder coating systems.
+The end-use applications of our products deliver a variety of social benefits.
+For example, we contribute to the health and well-being of our communities
+by developing and manufacturing medical devices and components. Our
+product applications in agriculture and food and beverage manufacturing
+and packaging also contribute to food security and production stability.
+Industrial manufacturing using Nordson equipment helps sustain
+productive work and economic growth across our communities and supports
+advancements across international industry, innovation, and infrastructure.
+Products manufactured using Nordson equipment – ranging from
+family care necessities to semiconductors, from construction materials to
+automobiles – help to provide basic services and fulfill essential needs.
+NORDSON Environmental, Social & Governance Report 16
+DELIVERING RESPONSIBLE
+PRODUCTS
+Our Portfolio of Products Delivering Environmental and Social Benefits
+» CLEAN ENERGY AND RECYCLING » MEETING BASIC NEEDS
+Clean Energy and Advanced Battery Advancing the Circular Economy Precision Technology Throughout
+Manufacturing Solutions for Plastics Agriculture and Food and Beverage
+Life Cycle
+Our advanced battery production capabilities As the demand for innovative waste solutions
+play a vital role in increasing the capacity and has increased, Nordson delivers sustainable Nordson products are used throughout the
+adoption of renewable energy, as some forms – and reliable technologies that promote a agriculture, food, and beverage industries,
+such as wind and solar – require extensive energy circular economy. In our Polymer Processing helping to meet basic needs and provide
+storage. Our cross-divisional approach serves the Systems division, we have advanced a line food security and production stability.
+battery market at all stages of manufacturing, of products that targets efficient resource Nordson dispensing equipment is used
+including manufacturing components such use by extending the life and quality of to fabricate cartons and containers, apply
+as anodes and cathodes; cell manufacturing recycled plastic and facilitating the use labels, seal boxes, and other important steps
+with our custom-engineered extrusion and die of bio-based solutions. Products include in delivering food to kitchens and grocery
+systems; and module production and battery BKG®CrystallCut®, BKG®FlexDisc™, BKG® stores. We are continuously innovating to
+pack assembly using our fluid dispensing HiConTM K-SWE-HD/RS, and EDI® find more environmentally conscious and
+systems. Nordson products, such as the AXI Extrusion Die Systems. These and other material-efficient means of production. For
+X-Series x-ray inspection system and the AMI product lines support the recycling and reuse example, our Triple Manifold Dies used in
+D9650 acoustic microscopy system, are used of different plastics, including plastics with multi-layer packaging film provide a better
+throughout the value stream in the manufacture a high degree of contamination that present layer of thickness uniformity compared
+of electric vehicles and green energy production difficult manufacturing challenges. with alternative methods, allowing users to
+technologies, including the manufacture consume less plastic. This product also plays
+and testing of key electronics component an important role in reducing food spoilage
+and subassemblies. Nordson powder coating and waste in the global distribution chain.
+equipment is used to manufacture items for Nordson measurement and control food gauge
+the electric grid infrastructure. solutions are critical for ensuring food quality
+and safety during the preparation, baking, and
+production process.
+NORDSON Environmental, Social & Governance Report 17
+DELIVERING RESPONSIBLE
+PRODUCTS
+Our Portfolio of Products Delivering Environmental and Social Benefits
+» MEETING BASIC NEEDS » HEALTH AND WELL-BEING
+Safe and Sustainable Family Care Life-Saving Medical Devices Healthcare and Life Science
+Manufacturing Equipment
+Nordson’s bonding technologies enable Our biomaterial delivery devices allow surgeons
+the creation of baby products made from to precisely and accurately place biomaterials, In addition to manufacturing medical devices
+natural and plant-based materials. We invest such as injections of bone graft material and components ourselves, we manufacture the
+in technologies such as our TrioTM Variable during spinal and other orthopedic surgeries. equipment that companies use to produce and
+Dispense Slot Applicator, which bonds natural Our fluid management components – package medical devices, personal protective
+materials to form disposable hygiene products. including a range of fittings, couplings, valves, equipment (PPE), and other medical and life
+In addition, these bonding technologies are and other connectors – enable healthcare science products. Nordson equipment is vital
+compatible with other diaper production providers to quickly and safely connect fluid to the manufacture of respiratory equipment
+solutions, including our PureFlowTM hoses, management systems, such as IV and drug such as ventilators. Nordson applicators, such
+which reduce adhesive stress and degradation, delivery components, dialysis equipment, and as the Harmony® Applicators, and gear pumps
+thereby contributing to higher yields and biopharmaceutical manufacturing. These and screen changers are instrumental at different
+less material waste and consumption. Our items played an important role during the stages of producing masks, medical gowns, and
+Harmony® Applicators enable customers to development and production of COVID other PPE and medical supplies. Nordson also
+run precise production at high speeds, and vaccines. We produce leading catheter, cannula, developed solutions that dispense reagents for
+the platform’s tiered product portfolio provides tubing, nitinol, and balloon components, diagnostic test strips, including diabetic test kits,
+options for melting and applying adhesives, and finished devices, many of which enable COVID tests, and more.
+lotions, or fragrances to family and elder minimally invasive and other innovative surgical
+care products. procedures. We are continuously innovating to
+incorporate more environmentally conscious
+materials in our products and to improve
+manufacturing processes to reduce our energy,
+water, and waste.
+Learn more about how Nordson products support
+environmental and social benefits on our website.
+NORDSON Environmental, Social & Governance Report 18
+DELIVERING RESPONSIBLE
+PRODUCTS
+Demonstrating Our Commitment to Sustainability
+Through Product Design
+New regulations in the EU to promote the circular economy have a
+significant impact on packaging practices by requiring a higher proportion
+of recycled content in packaging materials. The use of recycled content
+creates manufacturing challenges for packaging manufacturers because
+there is a higher degree of contaminants in the raw materials than in virgin
+materials. Melt filters are an important aspect of plastics production as they
+filter out those contaminants. With recycled materials, screens used in the
+filters become clogged more quickly and require more frequent changing,
+but they are expensive and changing them can be time-consuming. To
+address this problem, Nordson introduced the BKG® HiConTM K-SWE-HD/RS
+recycling filter, which is specially designed for blown film lines. The product
+uses backflushing to clear screens of contaminants and deposits without
+any pressure loss, which is crucial for blown film applications, significantly
+reducing the need for screen changes and encouraging the use of recyclate
+in production by reducing downtime, increasing yields, and improving
+quality. Read more in our case study.
+BKG® HiCon™ K-SWE-HD/RS Recycling Filter
+for Blown Film Applications.
+Nordson Recognized for Sustainable Packaging Innovation
+Nordson was recently awarded a bronze medal in the Blue Planet
+Sustainable Packaging awards at the International Packaging Innovation
+Forum (IPIF) in Shanghai. The theme of the 2023 IPIF was “gathering
+the whole industrial chain to promote the sustainable development of
+packaging.” Nordson’s award was based on our innovative approach to
+palletization – using precision adhesive dispensing to secure items on
+pallets in a way that significantly reduces other packaging materials,
+such a pallet wrap film or separation inserts.
+Nordson team receiving a bronze medal in the Blue
+Planet Sustainable Packaging awards.
+NORDSON Environmental, Social & Governance Report 19
+DELIVERING RESPONSIBLE
+PRODUCTS
+Product Quality and Safety
+The quality and safety of our products are foundational to our reputation and
+relationships with customers. We source responsibly and evaluate thoroughly to ensure
+that our products meet or exceed the highest standards and regulations.
+Our Approach to Product Quality and Safety
+Nordson’s strategy for regulating the quality and safety of our We are closely monitoring legislation related to cobalt and
+products is twofold. First, we maintain awareness about and oversight per- and polyfluoroalkyl (PFAS) substances that may impact
+of general product content regulations and requirements to ensure our sourcing and products. Nordson’s commitment to safe and
+that we are prepared for our own compliance and to support our ethical product content means that these topics are a priority,
+customers’ compliance. Second, we cascade communication and and we are exploring alternatives and other mitigation approaches.
+resources to the division level through newsletters, meetings, and a We offer divisional resources and training on PFAS and update
+centralized knowledge base accessible to all employees. Each division is our employees whenever new or updated legislation or initiatives
+responsible for disseminating information and managing compliance are announced.
+for their products, with corporate and external subject matter
+expert support.
+The Corporate Product Compliance Council, which consists of cross-
+functional corporate and division representatives, is responsible for
+managing Nordson’s compliance with product content regulations
+and standards. The Council meets quarterly to discuss emerging
+regulations and potential solutions for any impacted products. The
+Council leader also distributes a monthly newsletter regarding these
+regulations to maintain Company-wide awareness. In addition
+to internal resources and expertise, we work closely with outside
+expert advisors to understand current and future requirements and
+regulatory trends.
+In September 2022, Nordson hosted a two-day training event to
+build our knowledge base and foster cross-divisional connections.
+We received positive feedback from the session and anticipate hosting
+periodic future product compliance events to maintain awareness,
+share lessons and best practices, and continue to develop and support
+a strong compliance culture among cross-divisional specialists.
+NORDSON Environmental, Social & Governance Report 20
+DELIVERING RESPONSIBLE
+PRODUCTS
+Compliance With Regulations and Standards
+In order to assemble safe, high-quality products, we must ensure
+that we are in full compliance with regional, national, state, and local Leveraging New Resources to Enhance
+regulations and standards in all countries where Nordson products Due Diligence and Compliance
+are sold. These include the European Union (EU) Registration,
+In early 2023, we engaged a leading third-party
+Evaluation, Authorization, and Restriction of Chemicals (REACH)
+expert provider to streamline and enhance many
+Regulation, and the EU Restriction of Hazardous Substances
+of our in-house product content and product
+(RoHS) Directive, among others. Our adherence to these regulations
+compliance processes across the organization.
+is supported by our Restricted Substances Program. Our Conflict
+The new platform centralizes resources relevant
+Minerals Policy includes our disclosures of due diligence and sourcing
+for conflict minerals, suppliers, and due diligence
+practices concerning the use of “conflict minerals.”
+reporting, among other areas. As a result, we can
+deliver information to our customers quicker,
+Our Restricted Substances Program includes guidance on restricted
+provide more thorough details and data, and
+substance regulations, planning, analysis, and procedural discipline.
+standardize our reporting. We can also offer
+Our Corporate Product Compliance Council developed the program
+supplier training to Nordson’s suppliers, which
+to define, create, and implement effective restricted substance control
+expands our capabilities as we work collaboratively
+policies consistently across operations.
+with our supply chain in several areas, including
+We maintain the quality of our products through: product compliance.
+• Division-specific quality management systems (QMS) that
+document the structure, responsibilities, and procedures
+required to identify, measure, control, and improve core business
+line processes.
+• Quality assurance representatives throughout each division in
+charge of its QMS.
+• Processes to monitor for product safety issues and to
+conduct appropriate investigation, root cause analysis, and
+corrective action.
+Many of our facilities pursue International
+• Reduction or elimination of the Cost of Poor Quality (COPQ),
+Organization for Standardization (ISO)
+which includes defined targets and objectives.
+quality management certifications. Visit
+• Thorough review of new acquisitions to ensure safe operations,
+our ISO Information page for a list of
+including an analysis of substances or chemicals used and
+Nordson’s ISO-certified facilities.
+appropriate substitution of less hazardous chemicals.
+NORDSON Environmental, Social & Governance Report 21
+DELIVERING RESPONSIBLE
+PRODUCTS
+Supply Chain Responsibility
+Nordson is committed to purchasing materials of the highest quality from suppliers and
+vendors who adhere to safe and ethical practices at their own facilities and promote the
+same values throughout their value stream.
+Our Approach to Supply Chain Responsibility After emerging from COVID-related supply chain disruptions –
+and while remaining cognizant of potential logistical, geopolitical,
+Consistent with other areas of our business and our Ascend
+and climate-related supply challenges – we are working to establish
+strategy, Nordson employs a division-led supply chain
+more regional ecosystems for sourcing. Nordson is also continuously
+management program to enable agile, close-to-the-customer
+working to improve the integration and interconnection between
+decision-making within a centralized framework of oversight,
+different key databases to enhance our compliance and monitoring
+support, and cross-divisional collaboration.
+capabilities while also streamlining our sourcing processes.
+We recently focused on consolidating and strengthening
+Our Policies
+relationships with strategic suppliers, especially those with
+a geographic footprint that aligns with Nordson’s. Sourcing Our suppliers are expected to comply with our Code of Ethics for
+personnel at the division and site levels drive decisions around Suppliers and Third-Party Service Providers (Supplier Code), which
+material flow and operational needs, while centralized personnel includes requirements for safe and fair working conditions, ethical
+provide support in managing strategic cross-divisional vendor business practices, continuous improvement, and overall legal and
+relationships. Monthly calls with central and division supply regulatory compliance. In particular, suppliers are expected to:
+leaders provide an opportunity to share solutions, challenges, and
+• Manage their business in an ethical and responsible way with
+resources and to strengthen our overall culture.
+respect to human rights.
+• Manage their business in a sustainable and responsible way,
+meeting all applicable environmental rules, regulations, and
+laws in the countries where they do business.
+• Comply with applicable laws and standards relating to
+hazardous or restricted substances, and cooperate and comply
+with Nordson’s reasonable requests, requirements, and
+instructions relating to hazardous or restricted substances.
+NORDSON Environmental, Social & Governance Report 22
+DELIVERING RESPONSIBLE
+PRODUCTS
+We take appropriate corrective actions against suppliers that violate Supplier Symposium
+our Supplier Code. Where possible, we first try to work collaboratively
+To better collaborate with our suppliers, our
+with noncompliant suppliers to address the issue at hand, thereby Swainsboro, Georgia, facility hosted a Supplier
+improving the supplier’s performance while maintaining our supply Symposium in 2022 for its top strategic suppliers.
+chain. However, where significant issues are identified or issues persist This event showcased the efficiencies we
+without remediation, we will terminate the relationship. We will never are creating with our products and included
+do business with any supplier that we know is in violation of Nordson’s an open forum on how other suppliers and
+standards or applicable laws regarding child labor, slavery, human partners can do the same. The topics discussed
+trafficking, or other human rights issues. included cellular manufacturing and creating
+efficiencies, methods for reducing waste, and
+The Supplier Code incorporates other key human rights and ethics
+simplification of components for increased
+policies, including our Policy Against Human Trafficking & Slavery
+reliability and quality. Through these supplier-
+for Suppliers, which seeks to align with the California Transparency in
+focused collaborations, we simplify our business
+Supply Chains Act of 2010 and the United Kingdom Modern Slavery
+processes and enhance relationships.
+Act. All Nordson employees are assigned annual Code of Conduct
+training that includes content on forced labor prevention. Additionally,
+we recently introduced a more in-depth forced labor prevention
+training for Nordson’s Human Resources and Supply Chain groups.
+The training focuses on potential risk areas, warning signs, and how
+to respond to and report any potential concerns. It also helps Nordson
+personnel understand forced labor from a survivor’s perspective.
+Nordson is aware of the evolving global regulatory landscape with
+respect to forced labor and we are taking steps to fulfill our own
+requirements and to support our customers in fulfilling theirs.
+Our Conflict Minerals Policy outlines our commitment to comply
+with the U.S. Securities and Exchange Commission disclosure
+requirements. We will refrain from knowingly, directly or indirectly,
+taking or supporting any action that contributes to the financing of
+armed groups that are committing human rights abuses in certain
+covered countries. We evaluate our supply chain annually for the
+potential presence of conflict minerals and survey suppliers that may
+have conflict minerals in the products supplied to Nordson.
+Optimizing Our Supplier Locations and
+Shipping Routes
+As part of ongoing efforts to simplify our supply chain, we are
+focused on establishing regional ecosystems of suppliers closer to our
+manufacturing facilities. This involves strategic partnerships with
+global suppliers whose geographic footprint resembles Nordson’s.
+Where a regional source is not possible, we are evaluating regional
+supplier-managed warehousing so that products are more quickly and
+reliably available to our production teams. In addition to strengthening
+our supply chain and manufacturing operations, these initiatives can
+reduce our environmental footprint by shifting our transportation
+method away from air travel and reducing the distance that products
+need to travel overall.
+NORDSON Environmental, Social & Governance Report 23
+DELIVERING RESPONSIBLE
+PRODUCTS
+The Value of Supplier Collaboration
+Engaging With Trusted Suppliers
+We recently collaborated with a supplier to our Norwich,
+We work to thoroughly understand and develop our relationships
+Connecticut, U.S., facility to reduce the number of SKUs
+with suppliers. Our policy for supplier onboarding and risk
+for specific product packaging. The project was initially
+management incorporates both initial due diligence and
+implemented to minimize needed storage space,
+ongoing monitoring:
+decrease the amount of inventory necessary on hand,
+• Third-Party Due Diligence and Risk Evaluation: Before
+and reduce complexity. The initiative also resulted in
+engaging with a new supplier, we perform a credit and risk
+cost savings and significantly reduced waste in our
+report through a third-party partner to assess potential
+warehouse. Additionally, we were able to reduce the
+controversies, including environmental, social, and legal/
+number of corrugate suppliers, which aligns with our
+compliance issues. Our third-party partner monitors active
+overall strategy to simplify our supply chain. As a result,
+suppliers for new controversies and will flag any concerns we can more accurately track our existing stock and
+for Nordson’s review. In 2022, we improved the integration simplify our ordering system.
+between our central planning software system and our
+third-party diligence provider so that supplier due diligence
+information is more readily accessible to our team.
+• Supplier Assessments: New suppliers are required
+to complete our comprehensive supplier assessment
+questionnaire, which covers topics such as ethics, compliance,
+Supplier Diversity
+diversity, human rights, and health, safety, and security.
+• Supplier Evaluation: New suppliers are subject to a formal Our support for diversity extends to our supplier engagements,
+supplier evaluation prior to being added to our approved and supplier diversity is integrated into our Ascend strategy.
+supplier list. Subsequent supplier evaluations are conducted We value inclusive economic growth and aspire to increase our
+on a risk-based frequency, with the intent of evaluating top annual spend with diverse suppliers, which we define in the U.S.
+and critical suppliers on an annual basis. Evaluations cover as a company that is at least 51% owned, controlled, and operated
+topics such as risk management, employee training, health, by a racial or ethnic minority, woman, veteran, disabled person,
+safety, and security, and compliance with our Supplier Code or lesbian, gay, bisexual, or transgender person. We have recently
+and applicable laws and standards. Supplier evaluations are focused on improving our collection of supplier diversity data,
+typically conducted onsite at the supplier’s premises. which we make available internally for divisions to consider in
+their purchasing discussions and decisions.
+NORDSON Environmental, Social & Governance Report 24
+Fostering an Inclusive
+and Engaged Culture
+IN THIS SECTION
+• Talent Management and Development
+• Inclusion and Diversity
+• Workplace Health and Safety
+2255
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Talent Management
+and Development
+Attracting and retaining Winning Teams relies How We Develop and Sustain Winning Teams
+on our ability to offer personal and professional
+• Inspiring trust through clear communication,
+growth opportunities, create a rewarding employee respect, honesty, and authenticity
+experience, and foster an inclusive and diverse
+• Focusing on inclusion, diversity, collaboration,
+workplace. We strive to uphold a culture of shared and a strong community
+knowledge, appreciation, and success.
+• Creating an engaging culture that encourages
+experimentation and embraces change as an
+Winning Teams
+opportunity to create differentiation
+Winning Teams, one of three interconnected pillars of Nordson’s
+Ascend strategy, guides our approach to talent management and
+development. Winning Teams supports – and is supported by –
+an agile and inclusive culture. This drives profitable growth by
+ensuring that everyone at Nordson can learn, adapt, grow, and lead
+inclusively in an increasingly complex and diverse world. Employees
+at all levels should feel empowered and responsible for contributing
+“It is imperative that we invest intentionally in our
+to our goal of fostering Winning Teams.
+people, ensuring that we are building deep and
+diverse teams, developing leaders that inspire
+collaboration and trust, and creating a culture
+Interconnected NBS Next Elements –
+Positive Culture, Sustainable Growth that is inclusive and engaging for all employees
+from all backgrounds. We want everyone to feel
+STRATEGIC DISCIPLINE (drives the focus) safe, valued, and included as part of the Nordson
+team. Without carefully nurturing the right
+culture and engaging all employees, the other
+CUSTOMER SUCCESS pillars of our strategy cannot succeed.”
+PRODUCT INNOVATION
+Sarah Siddiqui
+CONTINUOUS IMPROVEMENT Executive Vice President and
+Chief Human Resources Officer
+ORGANIZATIONAL AGILITY (fostering the culture)
+NORDSON Environmental, Social & Governance Report 26
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Nordson’s Foundational Attributes
+To guide our Winning Teams and maintain an agile and inclusive culture, we have a carefully curated set of
+Foundational Attributes that helps guide our employees and Company toward growth. Embodying these attributes
+builds our strength and resilience, individually and together. Our Foundational Attributes are incorporated into our
+performance management and review process to reinforce their importance.
+Our Foundational Attributes Guide Our Growth
+1 2 3 4 5
+Create a Shared Deliver Results Embrace Build Flexible Teams Inspire Collaboration
+Strategic Vision: Through NBS Next: Innovation and and Organizations: and Trust: Influence
+Align the Remain focused and Change: Proactively Quickly adapt our teams and collaborate with a
+organization nimble to achieve seek improvement and organizational One Nordson mindset
+through actionable, best-in-class results and champion structure to changing by being humble, self-
+strategic guidance customer success priorities and create aware, and transparent
+deep, diverse, agile
+teams
+Our Talent Management Priorities
+RECRUITMENT
+Our talent management strategy encompasses the full employee
+life cycle, attracting top talent, supporting and developing our
+employees, and planning for leadership succession.
+• Strategic Partnerships
+• Scholarships,
+Recruiting Top Talent
+Fellowships, Internships
+• Recruiting and
+Nordson leverages multiple channels and strategies to recruit
+Referral Network
+talent for our organization. We build brand awareness by
+partnering with carefully selected colleges and universities
+in the regions where Nordson operates. We connect with
+promising candidates and future leaders through career fairs, WINNING • Training
+and Education
+• Competitive
+s
+a
+ac
+n
+nh
+d
+do
+o
+ola
+t
+tr
+h
+hs
+e
+eh
+r
+ri p
+o
+in
+pa spn tiod
+tr
+u
+i
+t
+tn
+u
+it one nr itn
+si
+.es Oh
+s
+i
+a
+up
+n
+r
+do pff
+i
+ane rr
+i
+tti iin
+ca
+ig
+t
+pis
+v
+a, teo
+is
+on
+w
+n-c
+i
+ia
+t
+nhm ipp nau
+dr
+us
+t
+nm
+ste
+ra
+r
+y
+r
+s
+k ce ht oin og ls,
+•
+a
+B
+O
+Hn
+e
+opd
+n
+ne
+e
+n
+eIn
+fi
+s
+ac
+tt
+n
+slu ds ive TEAMS •
+•
+aS
+A
+Fe
+nt sr
+es
+de
+i
+d
+gt Cc
+bn
+ah
+am
+r
+c
+eke en
+r
+ts
+D
+associations, community engagement, and philanthropy also Communication Planning E
+V
+helps cultivate a positive reputation and brand awareness that N
+O
+• E ann dga Vg ai ln ug
+e
+C sulture OLE
+support recruiting efforts at all levels of the Company. I P
+T M
+N E
+T
+NE
+E T
+R
+NORDSON Environmental, Social & Governance Report 27
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+In addition to more traditional recruiting methods, such as internal Development, Promotion, and Succession Planning
+recruiters, external search firms, and public job postings, we Nordson is committed to the education, development, and
+encourage employees to refer candidates within their professional advancement of our employees. We monitor the ratio of job
+network for open job postings, with a referral bonus given to the vacancies filled internally versus external hires – seeking a balance
+employee if the candidate is hired. between internal promotions to provide career advancement to
+our employees, stability in our culture, and continuity to our
+To attract high-potential, early-in-career candidates, Nordson
+organization, with external hires who can expand our capabilities
+offers scholarships, internships, and post-graduate leadership
+and provide new perspectives.
+develop programs. These vary across sites and divisions and include
+both corporate-led programs and division- and site-led initiatives. We invest in our employees by offering training, education,
+For example, our corporate leadership development programs stretch assignments, and other development opportunities to help
+are designed to be competitive with other leading post-graduate them enhance their skills and advance in their careers. Annual
+programs, offering attractive compensation, relocation stipends, performance reviews and mid-year check-ins support timely
+and opportunities to rotate between multiple Nordson facilities feedback, recognition, and career development conversations, as
+around the world. well as individualized training and development plans. An annual
+talent review process focused on current and prospective division,
+segment, and executive leaders proactively identifies and develops
+“ready now” leaders and successors within the Company.
+Developing the Next Generation
+of Nordson Leaders
+• Our Financial Leadership
+Development Program
+began in 2021 and recently celebrated its first
+graduating class. The two-year program is designed
+for recent graduates, who rotate through various
+finance-related assignments and interact with
+senior leaders on a career track to a role within the
+Company’s Finance department. A second class
+began in 2022, and our third class recently came on
+board in September 2023.
+• Launched in 2022, our Commercial Leadership
+Development Program offers participants the
+opportunity to rotate among commercial positions
+through two six-month rotations. They are mentored
+by business leaders and other Nordson professionals
+throughout the program and are on a career track
+to employment in a commercial role in their area of
+interest. The first cohort ended in September 2023
+and a second cohort started the program in
+August 2023.
+Nordson leadership development participants.
+NORDSON Environmental, Social & Governance Report 28
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Our learning management system, Nordson University, provides a Advancing Nordson’s Ascend
+dynamic curriculum that includes a wide range of topics, including Strategy Through Employee and
+environment, health and safety, legal compliance, ethics and Leadership Training
+integrity, employee onboarding, inclusion and diversity (I&D), and
+• NBS Next Accelerator training focuses on the
+manager-focused training. The dynamic curriculum is regularly
+NBS Next business system pillar of the Ascend
+refreshed with new courses and materials, and we embed LinkedIn
+strategy. Topics include the development of
+Learning courses within our system. Given the global nature of our
+cellular manufacturing flows, organizational
+Company, we provide courses and materials in multiple languages.
+change management, product innovation
+Manager-level employees at Nordson complete a course on inclusive
+strategy, customer relationship management,
+hiring practices, consistent with our support of I&D.
+and interpreting financial statements. More than
+250 leaders from the U.S., Europe, and Asia have
+We believe learning is a lifelong process and offer tuition
+participated in the training to date.
+reimbursement opportunities for eligible employees to pursue
+degrees, certifications, or new skills and knowledge. We also provide
+• Leadership Excellence and Development (LEAD)
+reimbursement for required professional education certifications in
+training will focus on the Winning Teams pillar of
+some fields, including legal, accounting, and human resources.
+the Ascend strategy. The purpose of this program
+is to develop and enhance well-rounded leadership
+capabilities in our existing and emerging leaders
+through practical application. LEAD training
+will emphasize the importance of coaching,
+development, care, well-being, mental health,
+what and why leadership, accountability, self-
+awareness, and other key leadership skills. The
+program is currently being piloted.
+Nordson employees in NBS Next Accelerator training program.
+NORDSON Environmental, Social & Governance Report 29
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Our average
+global tenure of
+9
+Employee Engagement and Retention reflects the strong engagement
+years of our employees and our
+Nordson’s development opportunities, engagement programs,
+positive workplace culture.*
+and competitive total rewards package are designed to ensure our
+*Data as of October 31, 2022.
+employees feel valued and rewarded for their contributions to
+the Company.
+Employee Engagement
+An environment that is inclusive and encourages open and honest
+engagement helps to establish collective trust and genuine self- Supporting Our Employees
+reflection, empowering employees to pursue their full professional
+We strive to offer and maintain market-competitive total rewards
+potential while respecting diverse personalities, backgrounds, and
+programs for our employees. We maintain equitable standards for pay
+circumstances. To grow as a company, it is important that we are
+and complete a formal pay equity study every two years. In addition, we
+humble and self-aware about potential challenges or shortcomings
+monitor compensation actions as part of normal hiring, promotion, and
+so that we can address and improve in a timely manner.
+annual merit practices. Nordson is committed to the importance of pay
+equity and promptly remediating any disparities that may arise.
+We use surveys to understand employee sentiment and engagement,
+gathering feedback to guide our decisions. We conduct an employee
+We frequently evaluate our benefits programs to ensure that our
+engagement survey on a biennial basis and distribute topic-specific
+offerings are competitive, inclusive, and meet the needs of our
+surveys as needed. Recent surveys highlighted that our employees
+employees. For example, many of our locations offer wellness programs,
+want more visibility into development opportunities and career
+including mental health support and access, telemedicine, and healthy
+pathways at Nordson. In response, we are recalibrating our job and
+lifestyle maintenance. Telecommuting and flexible schedules are
+career frameworks and leveling job roles to help employees more
+available for employees at our sites across the globe, though specifics
+clearly understand their role and see the opportunities available
+vary by role and location.
+across the Company.
+We continue to evolve our benefits for parental leave, reproductive
+Our most recent biennial engagement survey, completed in July
+rights, and LGBTQ+ medical needs. We offer parental leave in
+2023, had strong participation at 87%. Survey results identified
+accordance with legal requirements around the world, with expanded
+positive areas for the Company to nurture, including I&D efforts,
+parental leave in certain areas. For example, we enhanced our parental
+manager effectiveness, and the availability of resources and training.
+leave policies for our employees in the UK and Ireland effective
+It also identified areas for improvement where the Company
+January 1, 2023. The parental leave policy in the U.S. is also being
+has opportunities to strengthen communication of our future
+updated for 2024 to enhance the period of paid leave for both birth
+vision, reinforce culture and values, and expand our approaches to
+and non-birth parents (including adoption/foster), without the
+employee recognition.
+use of vacation time and with no waiting period after initial hire.
+Effective in 2022, we approved medical benefits coverage for infertility
+In addition to surveys, we undertake personal exit interviews with
+treatments and gender-affirming surgery. We also added adoption cost
+employees in leadership roles who choose to leave Nordson. We use
+reimbursement and enhanced travel benefits to support reproductive
+feedback from these experiences to monitor for emerging trends
+rights and other medical procedures.
+and identify areas of improvement.
+Learn more about our benefit offerings and career
+opportunities by viewing our Careers page.
+Nordson supports employee mental health through a variety
+of programs, including mental health coverage through
+medical benefits, flexible work arrangements, employee
+resource groups, and workplace training.
+NORDSON Environmental, Social & Governance Report 30
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Inclusion and Diversity
+Our core value of Respect for People reflects our intention to support an inclusive and diverse culture.
+Fostering an environment that invites and respects all perspectives is an essential component of our
+focus on Winning Teams and shared responsibility for success.
+Our Inclusion and Diversity Strategy and takes many forms, including gender, ethnicity, tenure, age,
+and job function. Diverse interview panels help candidates from
+We aspire to have a workforce that is reflective of the markets
+varying backgrounds relate to their interviewers and to our
+in which we operate, and leadership that is reflective of that
+Company, supporting a more inclusive interview process and
+workforce. A diverse mix of backgrounds, experiences, and
+overall recruitment.
+perspectives supports agility, innovation, and flexibility,
+generating organizational strength and driving our profitable
+Our partnerships with external organizations, such as the
+growth strategy.
+National Society of Black Engineers, Society of Women Engineers,
+and Women in Manufacturing, help us increase the diversity of
+Nordson’s focus has been the development and implementation
+our candidate pools. We also maintain strategic connections with
+of strategies to enhance collaboration and inclusion, as well
+universities near our manufacturing and office facilities in the
+as the diversity of our workforce. Our approach encompasses
+U.S. to build employer brand awareness and attract early-in-career
+awareness and skill-building, intentionality in our recruitment
+talent. For example, we include several historically Black colleges
+and interview processes, and performance management and
+and universities (HBCU) in a limited pool of eligible schools for
+succession planning that recognize the importance of inclusion
+our Leadership Scholars program.
+and diversity (I&D) to our Ascend strategy.
+We regularly reflect on our progress and explore opportunities to
+improve our I&D programs at all levels. The executive leadership
+team specifically dedicates time to I&D strategy building,
+which is shared with the Board of Directors. These leaders, in
+partnership with Human Resources, help our managers cultivate
+an inclusive, diverse work environment within each of their
+respective areas.
+Attracting Diverse Talent
+We structure our talent acquisition efforts to uphold the ideals of
+inclusivity, belonging, and diversity, and a key focus of our I&D
+strategy is to improve our recruitment and interview processes.
+Nordson's President and CEO speaking with a leadership development class.
+We launched an initiative to encourage inclusive and diverse
+interview panels and candidate slates, where possible. Diversity
+on interview panels includes both candidates and interviewers
+NORDSON Environmental, Social & Governance Report 31
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Empowering Our People Through Employee Resource Groups
+Nordson’s employee resource groups (ERGs) strengthen our commitment to fostering an inclusive, diverse workplace where
+everyone feels like they belong. Participation in these groups is open to all employees.
+Launched in 2021, the Nordson Black Employee
+In June 2023, we introduced the Organization for
+Network (NBEN) increased its programming and offered
+Pride and Equality at Nordson (OPEN). OPEN
+webinars on topics related to I&D, as well as mental health.
+aims to empower employees to be their most authentic
+For example, NBEN hosted a workshop led by a clinical
+selves at work, promote allyship and inclusivity, and
+psychologist about the mental health challenges facing
+grow personally and professionally. OPEN is developing
+racial and ethnic minority communities. NBEN also
+programming for the upcoming year, including
+organized activities for Black History Month.
+anticipated reflection and discussion sessions with
+third-party moderators.
+The Women’s Internal Nordson Network (WINN)
+strives to support and empower Nordson women with a
+A fourth ERG, Minds of All Kinds, is in the early
+dynamic internal network, though events and membership
+stages of formation. This ERG is focused on supporting
+are open to all genders. Programs offered by WINN are
+employees of all neurotypes and creating a culture where
+global, regional, and local in scope, and many are offered
+everyone can thrive.
+virtually to encourage all employees to participate.
+A Focus on WINN:
+Supporting the Women of Nordson
+Mentoring Programs POWER Up With WINN and EY
+Mentorship cohorts are a crucial source of support and WINN collaborated with the Professional Women’s Network
+empowerment for women across all our sites. WINN’s at Ernst & Young (EY) to present POWER Up, a five-week
+Americas and Europe, Middle East, and Africa (EMEA) groups leadership development program that focused on helping
+recently concluded their first mentorship cohort program. female employees gain an understanding of key behaviors
+The WINN Americas group launched a fourth cohort in fall that would help accelerate their careers. The program
+2023, available to all genders, and with the support of the served as a means to springboard female professionals
+EMEA group, our WINN chapter in the Asia-Pacific (APAC) with high potential into deep conversations as they seek
+region plans to offer their first cohort this year. the next level of success.
+Employees at a WINN event
+in Carlsbad, California.
+NORDSON Environmental, Social & Governance Report 32
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Creating a Talent Pipeline Providing Meaningful Opportunities
+Through Scholarships for All
+The Nordson Leadership Scholars To expand our Winning Teams with diverse,
+program, launched in 2023, quality candidates eager to contribute their skills,
+aids relationship-building and recruiting with the goals our Nordson MEDICAL facility in Galway, Ireland,
+of attracting diverse talent, building strong connections, partnered with Down Syndrome Ireland, an
+and developing a pipeline of undergraduate students into organization dedicated to providing support and
+future leaders. In partnership with six schools around services to people with Down Syndrome and their
+the U.S., female students or students who come from an families. In June 2023, we successfully hired our
+underrepresented racial/ethnic group and are studying first employee through this partnership as a facility
+business, supply chain, accounting and finance, engineering, assistant, which has brought positive energy to the
+economics, or liberal arts are encouraged to apply for facility and valuable learning experiences for our
+scholarships. The program provides scholarship recipients employee and his colleagues.
+with exposure to career pathways at Nordson as a way of
+developing a multistage talent development pipeline. In
+2023, we awarded scholarships to 12 students.
+A Nordson Leadership Scholarship recipient.
+NNOORRDDSSOONN EEnnvviirroonnmmeennttaall,, SSoocciiaall && GGoovveerrnnaannccee RReeppoorrtt 3333
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Workplace Health and Safety
+At Nordson, a healthy and safe workplace means that our employees leave in the same condition
+as they arrive. Prioritizing health and safety is a cornerstone of our responsibility as an employer.
+This commitment is demonstrated through our leadership support, employee engagement, and our
+Journey to Zero initiative.
+Our EHS Vision: Journey to Zero Journey to Zero’s Guiding Principles:
+Nordson continuously evaluates and enhances our environmental, • Embrace the mindset that all incidents are preventable:
+health, and safety (EHS) program to advance our safety culture. By proactively identifying risks, hazards, and threats, we can
+In recent years, we have placed an increased emphasis on more integrate defensive measures and encourage safe behaviors.
+timely and robust data collection and analysis, leveraging digital
+• Support our timeless value, Respect for People: We are
+tools to help our sites better understand their safety performance
+making our people and planet the priority and taking the
+and opportunities for improvement. By collecting and analyzing
+initiative to make adjustments in our daily operations.
+data near real-time, we can more quickly identify negative trends
+• Strengthen commitment and engagement: Employees at all
+and take remedial action.
+levels of the organization are responsible for safety. We must be
+Our Journey to Zero program reinforces our belief that all dedicated to working together to promote a safe, secure, and
+incidents are preventable through continuous improvement in our healthy environment for all employees, shareholders, customers,
+behaviors and risks. This program is a key building block of both and communities.
+Nordson’s Ascend strategy and NBS Next Accelerator training.
+• Persist for continuous improvement: Journey to Zero is a
+multiyear focus on a safe and environmentally friendly workplace.
+Zero represents an ideal state against which we can measure to
+drive continued improvements.
+In addition to our guiding principles, Journey to
+Zero is characterized by six elements that support
+our pathway to a safer workplace: EHS ASSESSMENTS
+& AUDITS
+CONTINUOUS
+EHS TRAINING & IMPROVEMENT
+DEVELOPMENT
+EHS OBSERVATIONS
+EHS PERFORMANCE &
+INCIDENT MANAGEMENT
+MANAGEMENT
+& EMPLOYEE
+ENGAGEMENT
+NORDSON Environmental, Social & Governance Report 34
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Each element includes specific key performance indicators (KPIs) and Implementation in Action
+milestones, some of which are established at a corporate level based on Journey to Zero is an ongoing initiative across our global
+global requirements and best practices. Others are established at the facilities through which we are refining and continuously
+division or site level based on localized considerations. This approach improving Nordson’s EHS programs. Key elements of the
+is designed to enable an Owner Mindset with respect to site safety, led program include:
+by personnel with the best visibility of “on-the-ground” conditions,
+• Leadership commitment to and formal endorsement of the
+within a centralized framework of governance and oversight.
+importance of EHS
+Our Journey to Zero and EHS vision includes our contractors and • Formation of site EHS Committees with regular agendas,
+vendors, who are required to review and adhere to our Contractor/ actions, and follow-ups
+Vendor Safety Program. This document details Nordson’s
+• Development and implementation of EHS performance
+requirements to permit a contractor or vendor to perform work or
+metrics that are posted and communicated out
+conduct business at a Nordson facility. Additionally, all Nordson
+suppliers and vendors are expected to adhere to our Code of • An EHS-focused message board posted in a visible
+Ethics for Suppliers and Third-Party Service Providers, which location and routinely updated
+includes workplace safety standards and expectations. Our supplier • Injury communications and a posted summary for
+onboarding and risk review process includes consideration of employees
+suppliers’ workplace health and safety programs and incidents.
+• Personal protective equipment policy visibly posted in
+relevant areas and enforced
+• Confirmation that aisleways and egress paths are clearly
+marked and unobstructed
+Journey to Zero Dashboards • Verification that safety equipment areas (e.g., fire
+extinguisher, eyewash station) are clearly marked and
+Enhance Accountability
+unobstructed
+We believe everyone is responsible for upholding a
+• An EHS observation program and walk-through processes
+culture where safety is a priority. Many of our sites across
+to identify and report potentially unsafe conditions
+the globe display Journey to Zero data on dashboards
+in common areas for all to see. The dashboards often
+include EHS meeting minutes, new initiatives, safety
+tips, and reminders. We plan to incorporate Journey to Read more about our Journey to Zero initiative on our
+Zero Self-Assessment information on the dashboards to Workplace Health and Safety page.
+encourage individual accountability.
+NORDSON Environmental, Social & Governance Report 35
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+Our Health and Safety Policy Statement EHS Observation Programs Encourage
+Engagement and Ownership
+We document our commitment to maintaining the highest standards
+of health and safety in our Environmental, Health, and Safety Policy We designed our EHS Observation Program to
+Statement. This statement reinforces our commitment to EHS engage employees in the process of identifying
+excellence through strong compliance, effective communications, and correcting hazards, with the goal of preventing
+consistent engagement, informative training, and executive incidents from occurring. Employees may submit
+leadership support. observations by name or anonymously.
+Nordson’s EHS Observation Program continues to
+Reinforcing Our Focus on Health and Safety
+grow, and in line with our Journey to Zero initiative,
+Our Environmental, Health, and Safety Management System each site is tasked with completing a monthly internal
+(EHSMS) is designed to empower each facility to implement and safety assessment. The accompanying checklist
+adhere to the safety processes and controls that deliver effective encourages sites to take ownership of the assessment
+outcomes by considering unique circumstances at each facility along process, which should be a joint effort led by the site
+with general best practices. Our EHSMS provides standards and with support from corporate EHS.
+supporting documents to empower each facility to take ownership
+Nordson managers and leaders periodically
+of its safety culture, recognizing that the exact requirements for each
+conduct Gemba Walks to assess processes on
+site will vary depending on the nature of the work performed at the
+an operational level, streamline operations, and
+site and applicable local laws and regulations. Our global training
+identify opportunities for continuous improvement.
+programs include content on local regulations and are offered in local
+Additionally, employees are required to complete a
+languages. We actively monitor site progress centrally based on the six
+Safety Basics Self-Assessment each quarter as part
+elements, KPIs, and milestones associated with our Journey to Zero.
+of Journey to Zero. We developed and implemented
+To further strengthen our EHSMS, we hold quarterly calls with a customized training in 2023 to ensure consistent
+commercial, operational, and executive leaders across our U.S. sites program execution. In addition, members of
+to discuss safety data and dashboards. Each business segment also our central corporate EHS team perform virtual
+holds a quarterly EHS meeting with managers, division leaders, walkthroughs with EHS leaders from our international
+and executive officers. These meetings provide the opportunity for sites, which continue the connections made possible
+by technology during the COVID-19 pandemic.
+standardized training and discussion of safety-related topics. Division
+EHS leaders who attend are responsible for implementing the policies
+and procedures discussed at their respective businesses. Executive
+leaders’ presence and participation establish a tone from the top and
+create a culture in which the environment, health, and safety are
+considered executive-level priorities.
+EHS Committees
+Every major Nordson manufacturing site in the U.S. has a
+cross-functional EHS Committee. The purpose of these committees
+is to establish a safe and secure workplace where employees take
+ownership of their own safety, the safety of their peers, and
+continuous improvement practices. The EHS Committee provides
+a forum to communicate, identify, and resolve issues related to
+workplace health, safety, security, and environmental management.
+Sites that do not have a formal EHS Committee designate a local EHS
+point of contact, who provides appropriate resources and support.
+NORDSON Environmental, Social & Governance Report 36
+FOSTERING AN INCLUSIVE AND
+ENGAGED CULTURE
+EHS Committees meet monthly, and representative teams Our Safety Performance
+periodically conduct internal inspections, ensuring compliance We record the number of workplace injuries and illnesses that
+with corporate standards and regulatory requirements. Inspection require professional medical treatment beyond first aid. This
+items include housekeeping, egress, emergency response equipment information is reported in the U.S. as Total Recordable Incident
+and procedures, hazardous waste accumulation and storage areas, Rate (TRIR) and Days Away, Restrictions, and Transfers
+and recordkeeping. EHS-related processes, procedures, and written (DART) Rate. For our international locations, injury and notice
+programs are regularly reviewed for accuracy and updated as needed of violation data is collected from sites with 10 or more employees.
+to address any changes in regulatory, corporate, or site standards.
+Each site is encouraged to implement a process for employees to As we continue to enhance our culture of safety, we are shifting
+identify and report unsafe conditions. our focus to be more proactive and reflect observations that can be
+corrected on the front end.
+Emergency Preparedness
+Our security mission is to protect Nordson’s personnel and its
+assets. Each U.S. location has an Emergency Action Plan that
+meets the requirements of the Occupational Safety and Health
+Conserving Noise – and Employees’
+Administration (OSHA). A centralized, cross-functional
+Workplace Threat Response team comprised of personnel from Hearing – in Chippewa Falls
+Security, Human Resources, and Legal evaluates, investigates, and
+Although Nordson’s noise levels are generally low
+helps site leaders and other employees navigate incidents related to
+across sites, we regularly conduct noise testing to
+workplace violence around the world. ensure that our levels are below 85 decibels (the
+threshold that would require a noise conservation
+All U.S. employees receive workplace threat training, which
+program). We routinely conduct these tests on new
+outlines what to do if an incident occurs, including Run–Hide–
+equipment or processes as part of our efforts to
+Fight. U.S.-based managers receive more detailed training on
+maintain a safe and healthy workplace environment
+behavior recognition and working with local incident commanders.
+for our employees.
+These locations use an emergency notification software system to
+notify employees of threats, inclement weather, utility outages, and For example, our Extrusion Dies Industries (EDI)
+other emergencies that may impact a facility. Site-specific evaluation facility in Chippewa Falls, Wisconsin, U.S.,
+and shelter-in-place plans exist at all U.S. sites, with periodic drills manufactures extrusion and fluid coating die
+and information sessions to ensure continued awareness. We systems used by processors and converters
+regularly test and inspect all emergency equipment. worldwide. After identifying an area at our site
+that had the potential to produce unsafe noise
+Similar policies and procedures are in place in non-U.S. locations
+levels, our team implemented a project to reduce
+and are managed locally. We are working toward bringing non-U.S.
+noise and bring the decibel level below a
+locations under more centralized oversight while retaining primary
+safety threshold.
+responsibility for site-specific preparedness and response plans at
+the local level, with corporate resources and support as needed.
+NORDSON Environmental, Social & Governance Report 37
+Caring for Our Communities
+IN THIS SECTION
+• Charitable Giving
+• Volunteering Our Time
+• Partnerships and Priorities
+3388
+CARING FOR OUR COMMUNITIES
+$13M+ donated by Nordson and
+the Nordson Corporation
+Foundation in FY22
+Caring for Our Communities
+Nordson has a long and proud history of investing in the communities where our employees live and work.
+We believe it is our social responsibility to share our success with our communities. By encouraging our
+employees to support the causes that matter most to them, the Nordson Impact benefits people and
+organizations across the globe.
+Our Commitment to Community Support
+Investing in our communities has been an integral part of our Our global impact priorities include:
+business since our founding in 1954. Our growth as a company over
+• Continue to grow national charitable programs and
+the years has allowed us to expand and enhance our positive impact.
+expand our reach
+This is evident through the founding of the Nordson Corporation
+• Distribute larger, more impactful grants that support
+Foundation in 1989, the long-standing nonprofit partnerships we
+students and partner organizations
+have developed, our employees’ engagement in their communities,
+and the growth of our charitable giving. • Identify and implement additional opportunities to support
+causes that matter to our employees
+The primary source of funding for the Nordson Corporation
+Foundation is our contribution of 5% of U.S. pretax profits, which Giving to the communities where we live and work is strongly
+is then dispersed for charitable activities. We are committed to the ingrained in our history and culture. Our Ascend strategy has
+sustainability and growth of our nonprofit partners and proudly led to continued, profitable growth, which better positions us to
+provide consistent support to organizations that have proven to be deliver a bigger impact through our charitable endeavors.
+the backbone of our communities.
+Enhancing Our Matching Gifts Program to Amplify and Expand Our Impact
+Through our Matching Gifts program, Nordson matches the monetary contributions employees make to eligible nonprofits
+or charitable organizations. In 2022-23, we made three important enhancements to our Matching Gifts program.
+1 2 3
+Increased our standard Expanded our program Transitioned to a monthly
+donation match from 1:1 to internationally to allow all donation match, which
+2:1 for all donations global employees to donate accelerates the impact of our
+to more than 3,000 approved charitable contributions
+organizations
+NORDSON Environmental, Social & Governance Report 39
+CARING FOR OUR COMMUNITIES
+The Nordson Impact
+We encourage all employees to make a difference in ways that are meaningful to them.
+The Company provides opportunities to get involved through six community engagement
+programs that collectively create The Nordson Impact.
+Nordson Corporation Foundation is dedicated to were given to Nordson’s valued and long-standing partners, such as
+enhancing the quality of life in our communities by Boys & Girls Clubs of America local chapters, Junior Achievement
+improving educational outcomes that enable individuals local offices, National Inventors Hall of Fame, and TECH
+to become self-sufficient, active participants. The Foundation, CORPS. The Foundation conducts an annual review of current
+which is primarily funded through 5% of Nordson’s pretax profits, and potential partnerships to ensure strategic alignment and aid in
+awards grants to global nonprofits. More than $152 million has been prioritizing fund allocation.
+awarded since 1989.
+Time ‘n Talent represents Nordson’s employee
+Our employees take an active role in supporting the Foundation volunteer efforts worldwide, including general and
+with direct employee engagement during the process of reviewing skills-based volunteering, participation in our major
+grant applications, determining how to distribute Foundation funds “Big Build” construction projects, and nonprofit board service.
+to local causes, and evaluating progress and impact. Grant requests We encourage employees to take advantage of Nordson’s volunteer
+for Human Welfare, Arts & Culture, and Civic organizations release time, which provides U.S. employees with up to 16 hours of
+are reviewed by a local Community Affairs Committee, which is paid time off to volunteer at Nordson-sponsored events. Nordson
+comprised of non-Foundation employees in select locations across also supports employees who volunteer with an organization for
+the globe. The local Community Affairs Committee then meets at least 40 hours in a year by awarding a $500 “Dollars for Doers”
+quarterly to vote on grant allocations. Our Ireland location will be grant to that organization.
+joining this committee in 2023.
+A Time to Give is our annual employee giving
+In addition, employees support the Foundation through donations
+campaign in the U.S. Teams of Nordson volunteers
+during our annual “A Time to Give” campaign and participation
+across the country plan localized campaigns, including
+on our Community Affairs Committees. Our current distribution
+pledge drives, fundraising events, and volunteer events through
+targets 65% funding to education and 35% funding to arts and
+Time ‘n Talent. Nordson matches all funds raised during the
+culture and human welfare. In 2022, the Foundation awarded
+campaign, doubling its impact. The 2022 campaign raised more
+477 grants, totaling approximately $8 million. Many of these grants
+than $380,000 for our communities by combining the corporate
+match with employee donations.
+“The fact that this section is named Caring for Our Communities says it all. That community is
+made up of our employees, nonprofits, and the surrounding communities where we live and
+work. It’s a special part of our culture. The pride that Nordson employees have in working for
+a company that values commitment to our communities is apparent every day. We often hear
+that our involvement in communities is what drew an employee to Nordson or why they stay.”
+Cecilia Render
+Executive Director, Nordson Corporation Foundation
+NORDSON Environmental, Social & Governance Report 40
+CARING FOR OUR COMMUNITIES
+Nordson BUILDS Scholarships support college students Celebrating 10 Years of Nordson
+residing or attending college near a Nordson facility and Tech Time
+pursuing majors related to manufacturing. Our goal is
+Nordson offers a variety of K–12 education
+to help students from our communities build brighter futures, while
+programs in schools across the U.S. to introduce
+aiming to develop a diverse, highly skilled talent pool for the future.
+students to science, technology, engineering,
+In 2022, 125 students received scholarships totaling $767,000. Of the
+arts, and mathematics (STEAM) careers. In 2022,
+recipients, 46% were women and 55% were racially/ethnically diverse.
+we celebrated 10 years of our Nordson Tech
+Time program, which challenges middle school
+Matching Gifts amplifies the donations Nordson employees students to research, analyze, and create a project
+or retirees make to qualifying nonprofits across the globe. on a STEAM topic. Each participating school holds
+Nordson provides a 2:1 match for any donation of $25 an assembly to showcase student work, and the
+or more to qualified educational, cultural, civic, or human welfare Nordson Tech Team leads fun, hands-on activities.
+organizations, up to a total of $10,000 per calendar year per individual. Over 17,000 students participate in the program
+The matches are enhanced to 3:1 matches during specified time periods each year.
+for certain affinity, disaster relief, and other defined causes. Recent
+examples of enhanced 3:1 matches include Pride Month and Juneteenth,
+disaster relief following the earthquake in Turkey and Syria, and support
+for organizations in Ukraine. Gifts of securities, real estate, and other
+tangible property are eligible for matching funds when their current
+market value is clear.
+Nordson Corporate Donations support programs around
+the world that fall outside the priorities or eligibility of the
+Foundation. Corporate donations from Nordson fund
+our BUILDS scholarships, international giving, Time ‘n Talent events,
+and matching gifts programs. They also support meaningful for-profit
+organizations in our communities and may include sponsorships that
+promote awareness of Nordson.
+Nordson President and CEO participating in the American Red
+Cross blood drive.
+Employees from Carlsbad, California, participate in beach cleanup.
+Nordson employees tying blankets to donate
+to local community organizations.
+NORDSON Environmental, Social & Governance Report 41
+CARING FOR OUR COMMUNITIES
+Providing Global Support for Providing Support for Elyria, Ohio,
+Our Neighbors Robotics Teams
+Nordson encourages employees at locations around the world to With sponsorship from Nordson, students in grades 7–12
+invest in their local communities, whether through time, talent, of the Elyria City Schools system in Northeast Ohio have
+or money. We provide a framework and process to help our the opportunity to join the Elyria Robotics Team and learn
+employees identify opportunities for service, engage with local about everything from mechanics to coding to social media
+nonprofit organizations to understand their needs, and make and promotion. Students on the team learn from teachers
+recommendations for philanthropy and volunteerism based on and mentors about the VEX Robotics System; design, build,
+what they learn. The Nordson Corporation Foundation executive program, and drive robots; and participate in tournaments
+director advises and supports each team through this process and against other teams. Elyria sent multiple teams to local,
+empowers them to employ an Owner Mindset in managing their regional, and national tournaments during the 2022–2023
+local philanthropy. academic year, including an all-female team.
+Our Ongoing Partnership with the
+Second Harvest Food Bank
+For more than 30 years, Nordson and our employees have
+provided support for the Second Harvest Food Bank of
+North Central Ohio. In addition to monetary support, our
+teams regularly volunteer at the food bank to pack and
+organize meal boxes. In 2023, Nordson’s President and
+CEO served as the Honorary Chair of the Second Harvest
+Food Bank’s annual Harvest for Hunger food and funding
+drive, and Nordson made a $500,000 contribution to the
+organization. We are proud to continue providing support
+for Second Harvest as the food bank advances its fight
+against food insecurity in our local communities.
+Nordson employees preparing food supplies (top) and tying
+blankets to donate to a local community organization (bottom).
+Nordson President and CEO attending a Harvest for Hunger Event.
+NNOORRDDSSOONN EEnnvviirroonnmmeennttaall,, SSoocciiaall && GGoovveerrnnaannccee RReeppoorrtt 4422
+Operating With Integrity
+and Responsibility
+IN THIS SECTION
+• Corporate Governance
+• Ethics and Compliance
+• Cybersecurity
+43
+OPERATING WITH INTEGRITY
+AND RESPONSIBILITY
+Corporate Governance
+The founders of Nordson adopted a corporate philosophy by which the Company strives to be a vital,
+self-renewing, worldwide organization within the framework of ethical behavior and enlightened
+citizenship. Today, that ethical foundation remains the bedrock of our corporate governance practices,
+as our executive officers and Board of Directors set the strategic direction of the Company, manage risk,
+and define our values and culture.
+Board of Directors
+Our Board of Directors oversees the management of the business that the Board requires to be effective. Our directors reflect
+and affairs of the Company in accordance with all applicable the Board’s efforts to achieve diversity with respect to gender,
+laws and regulations. Our directors possess proven and relevant race, and ethnicity. As of October 31, 2023, our Board was
+business experience, maintain high ethical standards and composed of nine directors, including three women (33%) and
+behavior, and demonstrate commitment to strong corporate two racially or ethnically diverse men (22%), representing 56%
+governance and appropriate oversight across the Company. overall diversity (with rounding). It is the Board’s policy to
+include, and to request that any search firm it engages include,
+We believe in the importance of Board membership that
+women and racially or ethnically diverse persons in the pool of
+collectively reflects the diverse nature of the business environment
+candidates from which director nominees are chosen.
+in which the Company operates with a combination of
+background, skills, experience, independence, and knowledge
+Nordson Corporation's Board of Directors (from left to right): John A. DeFord, Frank M. Jaehnert, Ginger M. Jones, Sundaram Nagarajan,
+Jennifer A. Parmentier, Michael J. Merriman, Jr., Milton M. Morris, Victor L. Richey, Jr. Not pictured: Mary Puma, who retired from the Board effective
+November 1, 2023, after 22 years of service.
+NORDSON Environmental, Social & Governance Report 44
+OPERATING WITH INTEGRITY
+AND RESPONSIBILITY
+Our Board recognizes the importance of periodic refreshment to ensure that directors BOARD INDEPENDENCE
+possess a composite set of skills, experience, and qualifications necessary to provide
+1
+insightful leadership and effective oversight of our strategic priorities. We do not enforce
+a specific limit for the overall length of time an independent director may serve; however, Independent
+Non-Independent
+we believe that the tenure spectrum of our directors should provide an effective mix of
+deep knowledge and new perspectives. We periodically rotate the chairs of each of our 8
+committees to ensure continued diverse perspectives. The majority of our directors
+have a tenure of 0 to 5 years on our Board. Our Corporate Governance Guidelines
+BOARD DIVERSITY*
+provide that a director is expected to retire on or before the annual meeting immediately
+following a director’s 72nd birthday. The Company does not grant exceptions to the
+mandatory retirement age for Board members.
+Diverse
+44% 56%
+Non-Diverse
+MIX OF SKILLS, EXPERIENCE & ATTRIBUTES
+Accounting & Financial 6
+Additional Public Boards 6
+BOARD TENURE
+Business Strategy & Operations 8
+Corporate Governance 9
+1
+Ethnic, Gender, National Origin, 5 0-5 Years
+or Other Diversity 2 6-10 Years
+Global Business 9 11-15 Years
+5
+>15 Years
+Industry & End Market Expertise 2 1
+Mergers & Acquisitions 8
+Public Company & C-Suite 9
+Technology 3
+Governance Highlights
+100% 75%
+Board, committee, and peer
+self-assessments
+independent or greater
+committee members and attendance at Board and committee conducted on a regular basis
+committee chairs meetings by each director
+8 Hedging/pledging Share ownership
+transactions guidelines
+years
+Strict policy of no pledging or hedging Directors – 5x cash retainer
+average tenure
+of Company shares by directors or CEO – 5x base salary
+executive officers CFO – 3x base salary
+Other executive officers – 2x base salary
+*Includes women and racially and ethnically diverse individuals
+Source: 2023 Proxy Statement
+NORDSON Environmental, Social & Governance Report 45
+OPERATING WITH INTEGRITY
+AND RESPONSIBILITY
+Board Committees and ESG Oversight
+In 2023, we renamed our Governance & Sustainability
+Nordson’s Board of Directors is led by our independent Chair. All
+Committee (formerly Governance & Nominating Committee)
+directors other than our CEO are independent as defined by our
+and updated the committee’s charter to better reflect the
+Corporate Governance Guidelines and the Nasdaq Stock Market
+important work already being executed by the committee with
+regulations. The Board and Board committees play an important
+respect to Board-level ESG oversight. While all committees
+role in the oversight of Nordson’s ESG program, goals, and related
+contribute to our ESG efforts, this change designates primary
+activities, with additional responsibilities and oversight carried out
+ownership to one committee.
+by Company leadership and employees. The Company’s progress
+on ESG goals is part of the performance evaluation for our Chief
+At the Company level, Nordson’s Executive Vice President and
+Executive Officer to ensure our leadership is held accountable for
+General Counsel is the executive sponsor of Nordson’s ESG
+making responsible business decisions.
+working group, which is comprised of a cross-functional team
+from Operations; Environmental, Health, and Safety (EHS);
+The Board’s three chartered committees are comprised entirely of
+Legal; Finance; and Corporate Communications. The working
+independent directors and include the following responsibilities:
+group coordinates global ESG efforts and is supported by
+• Audit Committee: Oversees the policies, guidelines, and subject matter experts from Human Resources, Supply Chain,
+processes by which management assesses and manages the Product Compliance, EHS, IT/IS, Audit, Product Innovation,
+Company’s risks, including its financial, cybersecurity, Legal, and Continuous Improvement. The working group
+environmental, and other risk exposures; reviews the reports several times per year to an executive steering committee
+Company’s compliance with applicable laws and regulations that includes Nordson’s President and Chief Executive Officer,
+and the Company's Code of Business Conduct and Ethics. Chief Financial Officer, Chief Human Resources Officer, and
+other executive leaders.
+• Governance & Sustainability Committee: Responsible for
+oversight of the Company’s ESG strategy; oversees corporate
+governance practices and procedures, including identifying
+Read more about the Board and its committees in our
+best practices; determines the qualifications, qualities, skills, Corporate Governance Guidelines and 2023 Proxy Statement.
+and other expertise required to be a director and to develop,
+and recommend to the Board for its approval, criteria to be
+considered in selecting nominees for director; responsible for
+and committed to an inclusive director search process.
+• Compensation Committee: Reviews executive
+compensation, executive talent management, equity-
+based compensation plans, and oversight of the Company-
+sponsored tax-qualified plans that are subject to the Employee
+Retirement Income Security Act; reviews executive talent and
+succession planning on an annual basis; provides oversight
+of the Company’s diversity, equity, and inclusion strategy
+including any related initiatives, metrics, or goals.
+NORDSON Environmental, Social & Governance Report 46
+OPERATING WITH INTEGRITY
+AND RESPONSIBILITY
+Ethics and Compliance
+We have an unwavering commitment to a strong culture of ethics, integrity, and responsible business
+conduct. Our ethical practices stem from our founders’ steadfast commitment to treat all stakeholders –
+shareholders, customers, suppliers, communities, and, most importantly, our fellow employees – the right
+way. Our values of Integrity, Excellence, Customer Passion, Energy, and Respect for People reflect the
+behaviors we strive to include in every aspect of the way Nordson conducts business.
+Integrity and Ethical Behavior
+As a global company, Nordson operates in over 35 countries form that they have read and understand the Code. All employees,
+with diverse cultures and ever-changing laws and practices. including management, are assigned and expected to complete
+We conduct ourselves with integrity at all times and operate in annual training on the Code, including anti-corruption and fair
+full compliance with the laws and regulations that govern our competition elements, among others, and certify that they have
+global business activities. completed and understood the training. This also applies when
+we acquire a new company – Code of Ethics & Business Conduct
+Our Code of Ethics & Business Conduct and training is a priority action during our acquisition integration
+Company Oversight process. A senior member of our Legal department who is a
+Our Code of Ethics & Business Conduct (Code) promotes Certified Compliance & Ethics Professional typically leads
+ethical business practices and provides the guidelines needed to the training.
+understand our responsibilities in conducting business on behalf
+of Nordson and making ethical decisions. The Audit Committee of
+our Board of Directors is responsible for monitoring and evaluating
+the effectiveness of the Code. Our Executive Vice President and
+General Counsel serves as our Ethics and Compliance Officer.
+Compliance and ethics practices are implemented and monitored
+As part of our commitment to ethics, integrity,
+by our Ethics and Compliance Officer, Global Trade Compliance
+Group, Product Compliance Council, Environmental, Health and and responsible business conduct, we strive to
+Safety (EHS) Group, and other departments, including Internal avoid any actual or apparent conflict of interest or
+Audit, Legal, Human Resources, and Communications. situation where we might have to choose between
+doing what is best for Nordson and what is best for
+The Code of Ethics & Business Conduct applies to all Nordson
+us personally or for a member of our family.
+employees, management, executive officers, and our Board of
+Directors. The Code outlines expected behavior on a full range
+of ethical considerations and is a global policy available in 12
+languages. New employees are required to sign an acknowledgment
+NORDSON Environmental, Social & Governance Report 47
+OPERATING WITH INTEGRITY
+AND RESPONSIBILITY
+Nordson’s Code of Ethics & Business Conduct is periodically Fundamental Principles and Rights at Work, the Organisation for
+reviewed and was recently expanded and enhanced to reflect Economic Co-operation and Development (OECD) Guidelines
+a renewed focus on Nordson’s values. Additional topics, such for Multinational Enterprises, and the United Nations Guiding
+as cybersecurity, social media, responsible sourcing, human Principles on Business and Human Rights.
+trafficking, child labor and forced labor prevention, corporate
+We comply with all applicable laws, rules, and regulations
+citizenship, and environmental initiatives, were added to the Code,
+governing human rights in the countries and jurisdictions where
+as well as a refreshed Q&A section. The entire Code was redesigned
+we do business, including those that address labor, safety, health,
+to provide a more interactive, modern, and user-friendly experience
+anti-discrimination, and other workplace laws. We expect all
+with features such as updated graphics and active links.
+Nordson employees will work to reduce the risk of potential human
+Working with responsible and ethical third parties is an important rights violations by identifying risks, monitoring those risks, and
+element of our overall compliance and ethics program. We remediating any noncompliance. For more information, visit our
+undertake due diligence on third parties with which we work Human Rights page.
+in different ways depending on the nature of the relationship
+and corruption risk assessment. Whenever supplying Nordson Compliance and Training
+with products or services or operating on our behalf, Nordson’s
+Nordson's compliance and training programs are designed
+representatives, agents, suppliers, service providers, vendors,
+to comply with the laws around the world that apply to our
+distributors, and consultants are expected to uphold standards
+business, including:
+corresponding to the Code, which are outlined in our Code of
+Ethics for Suppliers and Third-Party Service Providers. Suppliers • U.S. Export Administration Regulations
+to Nordson undergo an initial evaluation and subsequent periodic • European Union Registration, Evaluation, Authorization
+evaluations, and are subject to ongoing screening for any new and Restriction of Chemicals (REACH) initiative
+controversies or adverse information. Read more in the Supply
+• International Traffic in Arms Regulations (ITAR)
+Chain section of this report.
+• Restriction of Hazardous Substances Directive (RoHS)
+Nordson’s policies and practices for distributors, sales
+• California Transparency in Supply Chains Act of 2010
+representatives, and other third-party sales organizations require
+that they undergo an initial background check, are subject to a • UK Modern Slavery Act
+written agreement, and receive periodic compliance education
+Our facilities also comply with the Automated Export Systems
+and reminders as appropriate. We recently enhanced our processes
+(AES), which is used by U.S. exporters to electronically declare
+around the onboarding, due diligence, and ongoing monitoring of
+their international exports. These export declarations are known
+third-party sales organizations. In particular, we launched an online
+as Electronic Export Information (EEI) and are reported to the
+portal that will continuously screen third-party sales organizations
+Census Bureau to help compile U.S. export and trade statistics.
+for adverse media or other ethical or compliance concerns. This
+This information is also shared with the Bureau of Industry and
+continuous screening is in addition to a mandatory background
+Security Directorate of Defense Trade Controls and other federal
+check prior to initial onboarding and other due diligence
+agencies involved in monitoring and validating U.S. exports.
+precautions. The online portal will also enable better training and
+compliance-related communications with our third-party sales Nordson’s Global Trade Compliance Policy, Conflict Minerals
+organization partners. Policy, and Supplier Code of Conduct supplement our adherence
+to the aforementioned regulations. Each year, we conduct global
+Human Rights
+compliance training to address our policies and codes, including
+Nordson is committed to promoting and protecting human rights human rights training, with an enhanced training launched in 2022
+throughout our business in a manner consistent with human rights
+principles set forth in the Universal Declaration of Human Rights,
+the International Labour Organization’s (ILO) Declaration on
+NORDSON Environmental, Social & Governance Report 48
+OPERATING WITH INTEGRITY
+AND RESPONSIBILITY
+for targeted job roles. Additional online training modules include telephone line or the internet. Web-based reporting is offered in 25
+topics such as Intellectual Property, Insider Trading, International languages, and telephone-based reporting is offered in more than
+Trade Compliance, Ethical Choices: Thinking Things Through, 150 languages. Web-based reporting includes the capability for
+Workplace Health & Safety, Workplace Harassment for Employees anonymous back-and-forth correspondence between the individual
+and Managers, Antitrust and Competition Law, and Social Media: making the report and the Nordson employee responsible for
+Sharing Responsibly. conducting the ensuing investigation, which enables more effective
+fact-gathering and investigation.
+We compile and retain records of all employee training sessions,
+due diligence efforts, and internal investigations and compliance We take all reports seriously, investigate all reports of suspected
+reviews, as well as accurate books and records that fairly reflect violations, and take action as necessary. If misconduct is identified,
+our transactions. We have a detailed process and approval we are committed to evaluating and remediating any root cause
+requirements for all expenses, including travel, entertainment, and/or systemic issues, if present. Employees are never subject to
+and gifts. Our Audit department maintains a thorough system disciplinary or retaliatory action for reporting, in good faith, a
+of internal accounting controls and conducts risk-based audits possible violation of our Code or applicable law or for cooperating
+of our transactions to ensure compliance with our policies in any investigation of a possible violation.
+and requirements.
+Through digital signage, posters, and other corporate
+Nordson’s internal audit group conducts an annual enterprise risk communications initiatives, we have enhanced emphasis and
+management (ERM) process during which employees throughout education on how to report an issue or potential violation.
+the Company participate in interviews and online surveys designed Employee engagement with the EthicsPoint hotline has more than
+to collect a range of perspectives on emerging and ongoing potential doubled since a renewed Company-wide awareness effort began in
+risks. The Company’s executive leadership and Board of Directors 2021, which we view as a positive development demonstrating a
+receive a report of the findings. We recently adjusted the process strong compliance culture and broad understanding of resources
+to include a Certified Compliance & Ethics leader from the Legal available in case of any concerns. We track metrics related to our
+department alongside Internal Audit. The distinct perspectives ethics helpline activity and any investigations of noncompliance
+and closer collaboration between Internal Audit and the Legal with our Code of Ethics & Business Conduct and provide quarterly
+department achieve a more robust examination of compliance and reports to the Audit Committee.
+ethics risks faced by Nordson.
+For more information, visit our Ethics & Responsibility page.
+Reporting Ethical Concerns
+Nordson is committed to maintaining an environment of open
+and honest communications. Our employees are encouraged
+and expected to report all suspected policy or ethics violations,
+including incidents of harassment, discrimination, or safety
+concerns, directly to their manager, Human Resources, or the
+Ethics and Compliance Officer. Through our third-party helpline,
+EthicsPoint, we also provide employees, suppliers, and other internal
+and external stakeholders with confidential, anonymous reporting,
+which is available 24 hours per day, 7 days per week via a toll-free
+NORDSON Environmental, Social & Governance Report 49
+OPERATING WITH INTEGRITY
+AND RESPONSIBILITY
+Cybersecurity
+Protecting the confidentiality, integrity, and reliability of Nordson’s systems, networks, and information
+is essential to our business and our customers. We have a defined cybersecurity roadmap and employ a
+continuous improvement approach to safeguarding our systems.
+Nordson’s Cybersecurity Roadmap FIRST LINE
+and Oversight Technology Controls and Due Diligence
+Nordson’s cybersecurity roadmap includes multiyear investments Nordson’s cybersecurity approach is based on the National
+aimed at protecting data, managing and improving privacy controls, Institute of Standards and Technology (NIST) framework. On
+and increasing maturity. Our defined program has been in place for a routine basis, we self-assess our maturity with respect to the
+many years with the Audit Committee of the Board of Directors following areas of focus: identify, protect, detect, respond, and
+providing primary oversight. With input from management, the recover. Every two years, we conduct external cybersecurity
+Audit Committee identifies, assesses, and monitors the Company’s maturity assessments to measure our progress, using the results to
+cybersecurity and other information technology risks and threats drive investments in areas of potential risk or weakness.
+and the measures implemented to mitigate and prevent cyberattacks.
+Nordson remains focused on strengthening our systems against
+Our Head of Information Technology provides regular
+potential risks and outside threats. Throughout 2022 and 2023,
+cybersecurity reports to the Audit Committee.
+we have reinforced protection controls on systems and devices
+to limit and/or more closely monitor accessibility to sensitive
+Nordson’s Three Lines of Defense company information. As part of our roadmap maturity
+assessment, we retired legacy authentication methods and fully
+implemented multifactor authentication (MFA).
+FIRST LINE Technology Controls
+and Due Diligence In addition, when engaging a third party who will provide
+software or cloud-based services, Nordson conducts due diligence
+on the prospective vendor’s cybersecurity controls and negotiates
+appropriate contractual protections relating to cybersecurity,
+audit rights, data privacy and protection, disaster preparedness,
+SECOND LINE Cybersecurity Training and/or other topics relevant to the nature of the engagement.
+and Testing
+THIRD LINE Threat and Incident
+Response Planning
+NORDSON Environmental, Social & Governance Report 50
+OPERATING WITH INTEGRITY
+AND RESPONSIBILITY
+SECOND LINE THIRD LINE
+Cybersecurity Training and Testing Threat and Incident Response Planning
+In addition to technology controls, we are focused on training Threat and incident response planning is another important
+employees to recognize and prevent cybersecurity threats. We have aspect of our cybersecurity program. In 2022, our executive
+also improved our planning and response processes to manage any leadership team engaged in a tabletop incident response exercise,
+threats or incidents quickly and effectively. facilitated by a leading independent audit firm. The exercise
+simulated a potential malware attack and was designed to test
+Upon hire, and then annually, all Nordson employees with network
+and improve our leadership’s prevention and response strategies.
+access are required to complete mandatory cybersecurity training.
+Additionally, a group of key site leaders participated in an online
+Our training program includes incident response procedures and
+cybersecurity incident response planning session similar to the
+learning modules on topics such as recognition of phishing attacks,
+executive leadership’s tabletop exercise. We have recently taken
+how to keep information secure, and best practices to protect assets.
+steps to strengthen relationships with key third-party service
+Additional modules are available to employees through our learning
+providers to ensure a state of readiness in case of a cyber incident.
+management system, Nordson University, and may be assigned based
+This reduces administrative hurdles that can otherwise delay time-
+on job roles.
+sensitive responses.
+Nordson also conducts bimonthly phishing tests to reinforce
+training and help employees identify potential threats. In 2022, the
+Company implemented targeted “spear fishing” testing to groups
+with more sensitive data access, such as Human Resources, Legal,
+and Finance.
+Nordson is a proud founding member of the Northeast
+Ohio CyberConsortium (NEOCC). NEOCC is focused
+on building an active, trusted network of public and
+private organizations across industries to enhance
+cybersecurity resilience and response, better protect
+digital and physical assets, create safer and stronger
+communities, and advance the technology leadership
+of the region.
+NORDSON Environmental, Social & Governance Report 51
+ESG DATA SUMMARY
+ESG Data Summary1
+MEASURING AND MANAGING OUR ENVIRONMENTAL FOOTPRINT2
+20213 2022 Targets
+Scope 1 CO emissions (mT CO) 6,257 6,388
+2 2
+Natural gas and other onsite fuel consumption (gigajoules) 94,218 96,144
+Natural gas and other onsite fuel CO emissions (mT CO) 4,726 4,831
+2 2
+Owned/lease fleet vehicle emissions (mT CO) 1,531 1,557
+2
+Owned/lease fleet vehicle energy usage (gigajoules)4 21,519 21,951
+Facility electricity consumption (gigajoules) 294,634 298,147
+Facility electricity consumption (mWh) 81,845 82,819
+Scope 2 CO emissions (mT CO) 30,380 30,478
+2 2
+Total facility and fleet energy consumption (gigajoules)5 410,371 416,242
+Total gross Scope 1 and Scope 2 CO emissions (mT CO) 36,637 36,866
+2 2
+Gross Scope 1 and Scope 2 CO emissions intensity 15.51 14.23
+2
+(mT CO / million revenue)6
+2
+Forest conservation and reforestation carbon offsets (mT CO) 7,323 7,157
+2
+Net Scope 1 and Scope 2 emissions (mT CO)7 29,314 29,709 (1) 50% reduction by 2030
+2
+against 36,877 mT CO
+2
+gross emissions baseline
+(39% complete)
+(2) Net zero by 2050
+(19% complete)
+Net Scope 1 and Scope 2 CO emissions intensity 12.41 11.47
+2
+(mT CO / million revenue)6
+2
+Electrical power and/or energy from renewable sources 0% 2% (3) 70% by 2050 (3% complete)
+Electricity from grid 100% 100%
+Water (thousands of gallons)8 Not reported 42,069
+FOSTERING AN INCLUSIVE AND ENGAGED CULTURE
+2020 2021 2022
+Talent Management and Development
+Employee average global tenure (years)9 10 10 9
+Voluntary employee turnover rate10 6.0% 10.4% 11.5%
+Inclusion and Diversity
+Board composition - women (value/percentage)11 3 / 33% 3 / 33% 3 / 33%
+Board composition - racially/ethnically diverse (value/ 2 / 22% 2 / 22% 2 / 22%
+percentage)11
+Board combined gender and racial/ethnic diversity 56% 56% 56%
+(percentage)11
+Women in global leadership position - manager level and 18% 20% 21%
+above (percentage)
+Women in global senior leadership position- vice president 28% 26% 25%
+and above (percentage)
+Female workforce diversity - global (percentage) 28% 29% 30%
+Minority workforce diversity - U.S. only (percentage) 33% 36% 39%
+Workplace Health and Safety
+U.S. total recordable incident rate12 1.8 1.6 2.3
+U.S. days away, restricted or transferred rate12 1.3 1.2 1.4
+Workplace fatalities13 0 0 0
+This table contains a significant amount of references that are located in the footnotes section that follows the second table.
+1 All data is calendar year (January-December), unless otherwise noted. Data has not been audited by an independent third party nor subject to assurance. Refer to the statement on
+page 54 for additional context.
+2 Scope 1 and Scope 2 emissions information reflects actual data collected from utility bills for sites equal to or greater than 5,000 sq. ft. Sites for which actual data was not available and sites below
+5,000 sq. ft. are included in Nordson's consumption and emissions data using estimated values based on site characteristics such as square footage, climate/geographical region, and facility type
+(office, manufacturing, or warehouse) using actual data from comparable sites in Nordson's portfolio and/or anonymized data from other clients of Nordson's utility bill management vendor.
+3 Nordson is adjusting the 2021 data to remove January through October consumption / emissions data for the sites acquired when Nordson completed its purchase of NDC Technologies in
+November 2021; the full-year site data originally included in our prior report is being updated to reflect only the post-completion November and December data. Nordson is also
+adding U.S./Canada fleet vehicle CO emissions, which were not included in the prior report.
+2
+4 U.S./Canada fleet vehicles only.
+5 Facility fuel, facility electricity, and U.S./Canada fleet vehicles.
+6 Based on fiscal year (November-October) revenue.
+7 The baseline for Nordson's 2030 target is based on our 2021 emissions data, adjusted for acquisitions/divestitures, and will continue to be adjusted with new acquisitions/divestitures.
+8 Based on actual invoice data for approximately 75% of sites over 5,000 square feet. Not intended as a baseline.
+9 As of October 31 for each respective year.
+10 Does not include retirees.
+11 As of the proxy record date for each year (e.g., the 2022 numbers are based on a Dec. 30, 2022 proxy record date).
+12 Inclusive of COVID-19 related incidents.
+13 In 2021, there were zero non-COVID fatalities. One workplace fatality was recorded due to an apparent workplace COVID transmission. Following the submission of Nordson's report,
+OSHA conducted an onsite inspection and issued no citation related to the incident. Nordson took steps to reiterate and reinforce all COVID-related safety protocols.
+NORDSON Environmental, Social & Governance Report 52
+ESG DATA SUMMARY
+ESG Data Summary 1
+(cont'd)
+CARING FOR OUR COMMUNITIES
+2022
+Donations through Nordson and the Foundation since 1989 ($ amount) $152+ million
+Total giving through Nordson and the Foundation ($ amount) $13 million
+Volunteer hours since 1989 114,000+
+Foundation grants awarded (value/$ amount) 477 / $8 million
+Nordson BUILDS scholarships (value/$ amount) 124 / $766,840
+OPERATING WITH INTEGRITY AND RESPONSIBILITY2
+2022
+Board independence - independent/non-independent 8 / 1
+Board independence - Committee members and Committee chairs (percentage) 100%
+Attendance at Board and Committee meetings by each director (percentage) 75% or greater
+Board average tenure of independent directors (years) 8
+1 All data is calendar year (January-December), except revenue, which is fiscal year (November-October).
+2 Data as of our proxy record date, Dec. 30, 2022.
+NORDSON Environmental, Social & Governance Report 53
+FORWARD-LOOKING STATEMENTS
+Forward-Looking Statements
+This ESG Report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements
+may be identified by terminology such as “may,” “will,” “should,” “could,” “expects,” “anticipates,” “believes,” “projects,” “forecasts,” “outlook,” “guidance,”
+“continue,” “target,” “seeks,” “target,” “design,” “strive,” “objective,” “ambition,” “goals,” or the negative of these terms or comparable terminology. All
+statements in this report, other than those relating to historical information, facts, or current conditions, are forward-looking statements, including, but not
+limited to: the Company’s targets, objectives, commitments, ambitions, designs, and goals regarding environmental, social, and governance (ESG) matters;
+expectations regarding strategies, plans, prospects, and opportunities; advancement of strategic or sustainability initiatives; expected market and industry
+conditions with respect to the Company’s products and services; the Company’s ability to develop innovative and sustainable solutions; acquisitions and
+divestitures and anticipated results thereof; goals, aspirations, and targets; and our roll-out of sustainability and renewable projects. Although these forward-
+looking statements reflect management’s current expectations, they are subject to assumptions, risks, and uncertainties, many of which are beyond our
+control, which could cause actual results to differ materially from those expressed, implied, or anticipated by the forward-looking statements. As such, these
+statements are inherently uncertain and you are cautioned not to place undue reliance on any forward-looking statement. The risks and uncertainties and
+other events or circumstances that could cause actual results to differ materially from those in the forward-looking statements include, but are not limited to:
+changes in laws, regulations, or public policy; the evolution of technology relating to energy and environmental management; the complexity of commodity
+supply chains; recycling and waste management infrastructure and capabilities in local markets; the volatility of markets for raw materials, recycled materials,
+and energy; the available supply of clean energy technology; the capital and operating cost of implementing clean energy, water reduction, recycling, and waste
+management technologies; competitive pressures on product pricing and services; success, impact, and timing of our business strategies; the performance of
+third-party service providers in connection with energy and environmental management; general global economic, market, and business conditions; interest
+rates, supply chains and the global economy generally; our ability to execute on our strategies related to ESG matters, and achieve related expectations; and the
+risks, uncertainties, and other factors discussed in Item 1A (Risk Factors) and elsewhere in the Company’s most recently filed Annual Report on Form 10-K for the
+year ended October 31, 2022 and any subsequently filed Quarterly Reports on Form 10-Q filed with the Securities and Exchange Commission, which should be
+reviewed carefully.
+This ESG Report and related information made available on or through our website does not cover all information about our business. The inclusion of
+information or references in this report, including the use of “materiality” or similar terms, should not be construed as a characterization regarding the
+materiality of such information to our business or financial results or that such information is necessarily material to investors or other stakeholders for
+purposes of U.S. federal securities laws.
+The Company’s targets, objectives, commitments, ambitions, designs, and goals presented in this ESG Report or made available on or through our website are
+aspirational and not guarantees or promises that the targets, objectives, commitments, ambitions, designs, and goals will be met. New risks, developments,
+and changes to the targets, objectives, commitments, ambitions, designs, and goals emerge from time to time, and it is not possible for management to
+predict all risks, developments, and changes, nor can management assess the impact of all factors on the Company’s targets, objectives, commitments,
+ambitions, designs, and goals or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained
+in any forward-looking statements the Company may make. In addition, historical, current, and forward-looking information included in this ESG Report may
+be based on standards, methodology, and practices for measuring progress that are still developing, internal controls and processes that continue to evolve,
+and assumptions that are subject to change. Accordingly, historical, current, and forward-looking information, including goals, targets, and commitments
+and underlying assumptions and data, may be subject to modifications in future reports due to developing standards, methodology, practices, and controls
+and processes. In light of the significant uncertainties in these forward-looking statements, investors should not regard these statements as a representation
+or warranty by the Company or any other person that the Company will achieve its targets, objectives, commitments, ambitions, designs, and goals in any
+specified time frame or at all. The forward-looking statements in this ESG Report are made as of the date it was first published and the Company undertakes no
+obligation to update or revise any forward-looking statement in this report.
+NORDSON Environmental, Social & Governance Report 54
+28601 Clemens Road Westlake, Ohio 44145-4551 www.nordson.com

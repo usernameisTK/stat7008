@@ -16,8 +16,8 @@ else:
     print("GPU is not available. Training on CPU")
 
 # 1. 读取数据
-df = pd.read_csv('esg.csv', encoding='ISO-8859-1')
-texts = df['ESG Report'].tolist()
+df = pd.read_csv('ESG_Score_Conclusion.csv', encoding='ISO-8859-1')
+texts = df['ESG Report Conclusion'].tolist()
 labels = df['ESG Rating'].tolist()
 
 # 2. 编码类别

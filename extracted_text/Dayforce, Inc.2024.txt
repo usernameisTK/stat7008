@@ -1,0 +1,1829 @@
+2024 ESG REPORT
+Impact Through
+Innovation
+Contents
+A Message from our CEO 03
+Our Company 04
+2023 Performance Highlights 05
+Our Goals 06
+Our People 08
+Governance and Trust 15
+Tech for Good 20
+Environment 23
+Our Communities 27
+Appendix and Key Data 28
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+A Message from our CEO
+By nearly every measure, 2023 was a The goal of this report — Impact through
+tremendously successful year for Dayforce. Innovation — is to highlight our performance
+Our industry-leading innovation and strong last year across each of the five pillars of our
+value proposition allowed us to reach several sustainability strategy: Our People, Governance
+major, new milestones. This included $1.5 and Trust, Tech for Good, Our Communities,
+billion in annual revenue, nearly 6,400 and the Environment. As you read through
+customers, and over 6.8 million employees it, you’ll see the many ways in which we’re
+live on the Dayforce platform. working to maintain our commitment to long-
+term value creation through acting responsibly
+These accomplishments required strong and operating sustainably.
+execution, the ability to drive market
+leadership and differentiation, and delivering While we recognize that much more work
+quantifiable value to our customers. But lies ahead of us, we are deeply proud of the
+importantly, achieving them was only progress that we’ve made. Positive feedback
+possible because of our organization’s unique from key stakeholders as well as new
+combination of dynamism, drive, and integrity. recognitions from JUST Capital, Newsweek, USA
+TODAY, Forbes, CDP, and others are signs that
+Dayforce has the heart of a startup and the we’re getting some of the important things right.
+footprint and reach of a global company. We
+are guided by the six values we call Our Way: We’re grateful for your interest in learning
+Customer Focus, Shared Ambition, Agility, more about the latest chapter of our
+Equity, Optimism, and Transparency. The talent sustainability journey.
+and dedication of our community of more than
+9,000 Daymakers makes all that we do possible.
+They work tirelessly each and every day to fulfill
+our brand promise to make work life better.
+While financial metrics are incredibly
+important, they are far from the only way we David Ossip
+define and measure success. Chair and CEO
+22002244 DDaayyffoorrccee EESSGG RReeppoorrtt 33
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Our Company
+Our Way Business Performance
+Our values at Dayforce are core to our culture and the essence of our beliefs. They Dayforce innovations delivered simplicity at scale to help customers create better experiences,
+are the basis for success, the guiding standards for how we run both as teams and as a strengthen compliance, and embrace an open and connected approach to work. In 2023, we
+global organization – and they include always acting ethically. They provide a road map delivered strong revenue growth rates, a record level of operating cash flow, and improvements
+for delivering our brand promise. We call these values “Our Way.” across all key measures of profitability.
+Financial and Customer Data
+Customer Focus Shared Ambition
+97 36.3
+We put the customer at the We win, learn, and grow %+ %+
+center of everything we do. together. We’re individually
+Dayforce customer gross Dayforce recurring revenue
+We deliver quantifiable value and collectively accountable revenue retention¹ annual growth
+through actionable insights. and empowered.
+$1.25B
+$1.5B (+20%)
+Optimism Transparency (+21.5%)
+Cloud annualized recurring
+Total revenue and annual growth
+Optimism drives success. We are open, honest,
+revenue and annual growth
+Preparation leads to and respectful.
+knowledge, knowledge leads
+to confidence, and confidence
+6.8M
+27.1
+leads to optimism. %+
+Equity Global employees live on the
+Adjusted EBITDA margin
+Dayforce platform¹
+We are building a culture of
+Agility
+diversity, inclusion, and belonging.
+We are a global enterprise We ensure all employees – of any
+6,393 1,860
+(+6.7%) (+28%)
+company with the heart race, ethnicity, age, gender, sexual
+of a startup that embraces orientation, identity or expression, Dayforce customers live and Customers signed onto Dayforce
+innovation, doesn’t fear change, religion, or ability status – can annual growth¹ Wallet and annual growth
+and values adaptability. achieve their full potential.
+1. Excluding the 2021 acquisitions of Ascender and ADAM HCM.
+2024 Dayforce ESG Report 4
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+2023 Performance Highlights
+Our Pillars
+Our People
+Established internal
+50 employee Net 92% global equity and
+and external pay
+Promoter Score (eNPS) inclusion score Our People
+transparency
+Employee Wellness and Engagement
+Diversity, Equity, and Inclusion (DEI)
+Governance and Trust Developed our
+Artificial Intelligence BitSight for Dayforce Suite Risk Recon Learning and Development
+(AI) Governance 790 – Advanced A (9.9/10)
+Framework
+Governance and Trust
+Ethics and Transparency
+Tech for Good
+Surpassed $2 billion in earned wages Data Security and Privacy
+Launched Dayforce Career Explorer
+delivered through Dayforce Wallet
+Business Continuity and Resilience
+Tech for Good
+Environment
+Responsible AI
+Launched our Reduced Scope 1 and Reduced Scope 3
+Earned a first-
+Responsible 2 (location-based) economic emissions A New World of Work
+ever ''B'' from
+Sourcing emissions by 65% intensity by 30%+
+CDP
+Initiative (RSI) since 2019 since 2019
+Environment
+Climate Change
+Our Communities Our Communities
+Achieved 50% of employees giving and Doubled annual employee volunteer
+volunteering annually hours to 10,000
+Giving and Volunteering
+2024 Dayforce ESG Report 5
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Our Goals
+Environment 2023 Our Communities 2023 Tech for Good 2023
+Reduce absolute Scope 1 and
+Increase the percentage
+2 emissions from Dayforce’s Increase the percentage of People Analytics customers
+-98% of employees giving and 50% 13%
+operations by 42% before using Dayforce DEI Dashboards to 15% by 2026
+volunteering to 50% by 2025
+2030 from a 2019 baseline
+The ongoing consolidation of our physical footprint We exceeded our annual target and achieved The Dayforce Talent team refined this goal to focus on access to DEI Dashboards. This
+continues to drive meaningful reductions of our a 50% employee giving and volunteering rate is informed by prioritization at Dayforce of meeting the high and growing demand for
+Scope 1 and 2 emissions. Since 2019, we have seen globally. This is attributed to the expansion of DEI reporting and analytics capabilities from customers. They decided that the best
+a 65% decline in combined Scope 1 and Scope our annual volunteer campaign from a week to a way to enable our customers was to include DEI Dashboards in our People Analytics
+2 (location-based) emissions. Total reductions full month, an increase in the number of several package, which allows immediate access to valuable DEI data. Given this, the
+since that year reach 98% when accounting for our in-person and virtual volunteering opportunities, customer use metric for this goal area is now defined as the percentage of customers
+annual purchasing of renewable energy attribute and the incorporation of new tactics during our with People Analytics that access DEI Dashboards at least once annually. The team
+certificates (EACs), which are part of the company’s annual giving campaign. plans to achieve the goal of 15% by 2026 by continuing to enable customers through
+100% renewable electricity commitment. the People Analytics package, which simplifies adoption and deployment.
+2024 Dayforce ESG Report 6
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Our People 2023
+Achieve gender parity (50/50) in senior management
+35.9%
+roles globally by 2028²
+Increase underrepresented minority (URM) representation
+10.4% URM
+in management roles in the U.S. by 50% by 2028³
+Governance and Trust 2023
+Although we did not see progress in pursuit of our workforce diversity goals, the DEI team
+implemented a number of new initiatives to set us up for success in 2024. This included
+doubling the number of annual cohorts for the Achieving Corporate Equity (ACE) program,
+Increase Dayforce's uptime to 99.99% by 2025 99.95%
+launching a required inclusive hiring training for all people managers in the U.S., and
+expanding the executive mentorship program and leadership lecture series to further
+empower diverse talent. They are also introducing a new leadership dashboard for the
+executive team to track department-level performance against our two workforce diversity
+Although we did not see progress in achieving this goal last year, the Cloud Operations team
+goals on a monthly basis.
+took several steps last year to improve service availability in 2024. This includes infrastructure
+standardization, infrastructure automations, and aggressively eliminating customer-impacting
+problems from our products.
+Maintain our employee Net Promoter Score (eNPS) at
+50
+or above 40 annually through 2025
+Maintain zero material data breaches annually through 2025⁴ 0
+We exceeded our annual target with an eNPS score of 50, which is a 13-point increase from
+the previous year. This is consistent with strong performance in other key metrics — including
+our Leadership Net Promoter Score (LNPS) and Employee Intent to Stay. Overall, this data We achieved this annual goal by successfully preventing all external attacks from becoming
+and other insights from our annual survey reflect high employee satisfaction, pride in the material breaches. The Information Security team continued to mature the cybersecurity
+company and its values, and confidence in our senior leadership team. program that is consistently rated best-in-class within our peer group.
+2. Senior management roles are defined as vice president-level roles and above.
+3. Management roles are defined as manager-level roles and above. At Dayforce, URM (underrepresented minorities) are defined as Black and African American, Hispanic and Latino, American Indian and Alaska Native, and Native Hawaiian and Pacific Islander.
+4. A material breach is defined as a security event in which an unauthorized third party obtains access to personal data and that has a material impact on Dayforce's business.
+2024 Dayforce ESG Report 7
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Our People
+Global North America EMEA APJ
+9,084
+North America
+4,563
+Canada Germany
+China
+Europe, Middle East, and Africa (EMEA)
+1,615
+Japan
+Asia Pacific and Japan (APJ)
+2,906
+Philippines
+United Kingdom
+Malaysia
+Vietnam
+United
+India
+States
+Australia
+Thailand
+Singapore
+Mauritius
+Mexico New Zealand
+Data as of 12/31/2023
+2024 Dayforce ESG Report 8
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Connection and Engagement
+Encouraging a shared sense of community and connection among our
+colleagues is integral to our success as an organization and what we
+stand for. In 2023, our Employee Experience team took new actions
+focused on designing and delivering innovative programs that meet the
+needs of our people and support our business objectives.
+This included:
+Launching a Flexible Work Location program to allow employees
+seeking to explore working abroad with an opportunity to be
+temporarily based in one of 17 countries globally.
+Forming Connect @ Dayforce committees in all countries in
+which we operate to foster greater collaboration and a sense
+of community.
+Developing a Team Refresh program to empower senior
+executives across the organization to provide up to eight days off
+annually to their teams so they can rest and recharge together.
+Launching a people-first framework called Life at Dayforce
+that delivers programs to enhance our people’s development,
+empowerment, and sense of belonging.
+The results of these efforts are reflected in the very positive feedback
+we’re received from our employees. This includes a phenomenal
+eNPS score of 50 — which exceeds our annual target of 40 — as well
+as notable improvements across nearly every index and category
+compared to results in 2022.
+22002244 DDaayyffoorrccee EESSGG RReeppoorrtt 99
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Learning and Development Talent and Succession Planning
+Organizations have a responsibility to Dayforce is committed to creating,
+help their people grow and develop as developing, and retaining a diverse pipeline
+professionals. At Dayforce, we aim to of talent who will deliver profitability and America's Most Loved Workplaces 2023
+create a culture of continuous learning and innovation and grow our competitive
+empowerment in which our people are advantage. Our strategic approach to
+provided many opportunities to enhance their talent planning in 2023 resulted in more
+skills. Last year, we launched more than 150 than 90% of employees reviewed as part
+programs to help our employees succeed both of our talent assessment, and actionable Global Most Loved Workplaces 2023
+in their current roles as well as others in the development planning throughout the
+future. This included delivering more than 300 organization. Last year, almost 100 high
+hours of professional skills training, providing performing employees, identified through
+more than 5,000 hours of leadership talent assessments, participated in our
+development, and facilitating more than 700 Global Development Program, an immersive UK’s Top 100 Most Loved Workplace 2023
+hours of team effectiveness workshops. In 10-month business and organizational
+total, Dayforce colleagues from around the leadership education initiative for senior
+globe participated in over 200,000 hours of leaders. More than 300 employees have
+professional and career development learning participated in top talent programs, and we
+and growth opportunities in 2023. In addition, plan to expand our offerings to include mid-
+we relaunched and expanded our multi-track level leaders in 2024. In addition, we have
+career development program that focuses on completed succession planning for all roles
+the engagement, exploration, and leadership on our senior leadership team, and we will Canada's Best Employers 2023
+development of our people through job continue our efforts to do the same for all
+shadowing and job rotations. critical roles across the organization.
+Best Places to Work in IT 2023
+2024 Dayforce ESG Report 10
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Pay Equity and Transparency Benefits Wellness and Safety
+We believe that our employees deserve We believe in supporting our people not just as employees, but as individuals, In addition to providing benefits that our
+to be paid fairly and equitably for their spouses, parents, and caregivers. Last year, our Total Rewards team added a employees need and deserve, we continue to
+contributions to our company’s success. In number of new offerings to the robust suite of benefits and policies we provide focus on safeguarding our employees’ physical
+that spirit, we took two new steps over the to many of our employees. and mental health in other critical ways. Last
+past year to provide our people with more year, we added new employee-led Health
+information about how Dayforce approaches and Safety Committees in our Kuala Lumpur
+Cleo provides a digital support system to working families who are navigating
+compensation for current and prospective and Manila locations. Our Health and Safety
+a variety of topics, including birth plan development, return to work
+employees. The first was starting to post team also more effectively integrated internal
+transitions, finding childcare, eldercare and financial planning for college.
+salary ranges for all open roles in the U.S. data with our partner AlertMedia to allow
+and Canada. The second was to provide all instantaneous, multi-channel communication
+current employees in the U.S. and Canada with colleagues who may be impacted by
+RethinkCare gives parents access to tools and resources to help them
+with information on their job’s pay grade natural disasters and other events. In addition,
+better understand, teach and communicate with children who have
+and salary range. This work builds on our they completed the development of a new
+learning and developmental disabilities.
+pay equity analyses and market adjustments support program to provide employees
+in 2021 and 2022 to reduce or eliminate impacted by crisis events with temporary
+known disparities based on gender and race housing, paid leave, benefits support, and
+Vori Health grants access to specialized doctors and therapists to address
+within our workforce. other types of assistance offerings. We also
+musculoskeletal pain and ailments.
+hosted our second annual Mental Health
+Summit last year, with more than 700
+employees in 15 countries participating.
+Visana Health is a comprehensive virtual women's health clinic that
+provides medical care and integrated whole person support for a wide
+range of women's health conditions.
+Oshi Health provides gastrointestinal care with personalized support
+from a dedicated team of GI providers.
+↗
+Twin Health helps individuals living with prediabetes and type 2 diabetes Please visit the Benefits section of the
+achieve normal blood sugar levels, lose weight and reduce or eliminate appendix to review the list of offerings
+condition-specific medications. that we provide to our employees.
+2024 Dayforce ESG Report 11
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Diversity, Equity, and Inclusion (DEI)
+Programs
+One of Dayforce’s Our Way values is Equity, and our DEI team worked tirelessly over the past
+year to turn that intention into reality. They strengthened several of our existing programs to better
+foster a sense of inclusion, belonging, and empowerment within our workforce.
+This included:
+Increasing the number of annual cohorts in our award-winning Achieving
+Corporate Equity (ACE) program. The initiative helps high-potential talent from
+underrepresented and underserved communities rise within our organization, with
+two-thirds of participants receiving promotions last year.
+Expanding our executive mentorship program and leadership lecture series for
+diverse talent to equip them with new skills to successfully advance in their careers
+both at Dayforce and beyond.
+Widening the focus of our employee resource groups (ERGs) to include skill-building
+workshops, certifications and trainings, and other career development opportunities,
+all with the goal of boosting internal mobility for employees from diverse backgrounds.
+2024 Dayforce ESG Report 12
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Dayforce DEI
+Overall, the DEI program saw notable Workforce Diversity
+progress in several key areas. Over 1,200
+employees participated in our in-person LGBTQ+ employees and allies
+Building a diverse and inclusive workforce is both the right
+and virtual DEI workshops that covered
+thing to do and the smart thing to do. That’s why we have
+psychological safety, cultural awareness
+two ambitious goals to increase the number of women
+Ignite
+and understanding, and other topics. In
+and underrepresented minorities⁵ in management roles
+our annual Dayforce Speaks survey, 88%
+Asian employees and allies within our company. Although we have not yet realized
+of employees shared they can be their
+the progress we hoped for, we took new steps last year
+authentic selves at work, and over 92%
+that we believe will help us meaningfully move the needle
+said that the company treats people from Impact in the coming months and years.
+all backgrounds fairly and equitably. Our
+Employees with disabilities, caregivers, and allies
+company earned a number of recognitions
+This included:
+for the DEI team’s efforts, such as being
+named one of Canada's Best Employers for
+Illuminate
+Diversity by Forbes, special recognition for A leadership dashboard for our executive team to
+our ACE program from Seramount, and the Native and Indigenous employees and allies track department-level performance against our
+two workforce diversity goals on a monthly basis.
+inclusion of Dayforce in both the Bloomberg
+Gender Equality Index, and the Alliance for
+Empower
+Global Inclusion Index.
+A mandatory training for all people managers so
+Women employees and allies
+they can more effectively hire diverse talent.
+Unite
+Greater participation by our recruiters at
+Latin and Hispanic employees and allies
+conferences featuring diverse talent, including
+Elevate Festival and Queer Tech.
+Embrace
+Parent and caregiver employees and allies
+Partnering with Arizona State University, Georgia
+Institute of Technology, and Virginia Tech to
+increase visibility for open roles as Dayforce with
+Rise
+candidates from communities of color.
+Black employees and allies
+5. At Dayforce, URM (underrepresented minorities) are defined as Black and African American, Hispanic and Latino, American Indian and Alaska Native, and Native Hawaiian
+and Pacific Islander. Senior management roles are defined as vice president-level roles and above. Management roles are defined as manager-level roles and above.
+2024 Dayforce ESG Report 13
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Talent
+In this era of profound workplace Impact In Mauritius
+transformation, the ability to effectively
+attract and retain top talent is perhaps more
+important to organizational success — and
+more challenging — than ever before. To
+meet this moment, our Talent Acquisition Nigeria
+India
+team matured our Early Talent Program
+with a nearly 50% annual increase in interns
+Cameroon
+hired globally. In addition, they partnered
+with York University’s Lassonde School
+of Engineering to provide students in its Uganda
+Work Integrated Learning (WIL) program an Ghana
+opportunity for real-world work experience
+at Dayforce while pursuing their studies.
+Kenya
+I joined Dayforce soon Zimbabwe
+after I arrived from
+Botswana
+Cameroon in search
+of better professional
+opportunities. It’s a
+South Africa
+diverse and empowering
+workplace that has
+allowed me to advance
+my career and fulfill my
+passion for learning new
+technologies.
+„ Another area of note is our company's ongoing participation in the government of
+Mauritius’ Occupational Permit (OP) program. The initiative gives foreign nationals from
+around the world the chance to develop new skills, improve their career development,
+Dimitri Egolo Ntsoli
+and contribute to the local economy. In total, nearly four dozen employees from nine
+Senior Software Developer
+countries have joined the Dayforce team through the program.
+2024 Dayforce ESG Report 14
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Governance and Trust
+A Culture of Ethics Training and Awareness
+Operating ethically and transparently is critical to our current and future success as a company. Last year, we deployed new trainings for
+Our broad array of stakeholders — including our employees, our customers, our business partners, our Code of Conduct, Anti-Corruption,
+and our investors — rightfully expect that our actions reflect our ongoing commitment to remain and Insider Trading and Tipping policies
+a responsible organization. Over the past year, our Legal team has relentlessly focused on that presented critical information to our
+maturing our already strong Ethics and Compliance program. This includes improving efficiency by employees in a more user-friendly and
+automating pre-clearance procedures for key compliance processes and ensuring that our policy accessible way. They covered topics
+processes and overall governance framework meet the demands of a fast-growing global business. including business ethics, anti-competitive
+practices, corruption and bribery, among
+several other areas. We also developed a
+Policy Enhancement
+new ethics toolkit specifically for managers,
+increased management's visibility into Maintaining the highest
+training completion rates, and we hosted a
+We revamped our Code of Conduct to include expanded sections on government interactions, standards of corporate
+company-wide fireside chat on ethics and
+usage of artificial intelligence, responsible innovation, and human rights. In addition, we
+governance is one of
+compliance with our General Counsel.
+developed new policies and enhanced others that cover key areas of activity by our business
+our company’s top
+and our employees.
+priorities. Stakeholders
+rightly believe we should
+This included:
+always act ethically and
+responsibly, and we work
+Corporate Use of Public AI Tools Policy Insider Trading and Tipping Policy
+tirelessly to meet their
+expectations and preserve
+Delegation of Authority Policy Records Retention Policy their trust in us.
+„
+↗
+Please visit the Governance section of the Sarah Burt
+Disclosure Policy Sanctions Compliance Policy
+appendix to review relevant governance
+Senior Legal Counsel
+data, policies, and principles.
+2024 Dayforce ESG Report 15
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Responsible AI
+AI Ethics Principles
+We believe that artificial intelligence (AI) in
+general and machine-learning (M/L) specifically
+Social Good
+have the potential to fundamentally transform
+We develop technology that empowers and
+human capital management. In this new era
+helps people.
+of innovation, we aim to deploy advanced
+data capabilities that deliver not only greater
+efficiency at scale for our customers, but also
+improved outcomes for their employees. That’s
+Privacy and Security
+why we implemented a new AI Governance
+Privacy and security are always top of mind.
+Framework last year that evaluates the potential
+use of AI through all key stages of the product
+development lifecycle. From ideation to release,
+internal leaders leverage a scoring rubric and
+Transparency
+other tools to assess the benefits and tradeoffs
+of the proposed use across the following criteria: All technology must be explainable and
+understandable.
+Generative AI and machine learning will drive
+Legal Compliance transformational change in many organizations and across
+User Need the entire global workforce. We recognize our profound
+Inclusion
+Data Quality and Limitations responsibility to develop and deploy these technologies in
+We strive to always prevent bias and
+ways that minimize risk, mitigate bias, and always put the
+Inclusion of Diverse Expertise
+provide technology for all to use.
+outcomes of people first. „
+Bias Reduction
+Risk and Audit
+David Lloyd
+Reliability
+Societal Implications
+Chief Data Officer
+We prioritize dependability in our
+technology services.
+This rigorous internal process continues as we
+regularly review post release models led by our
+Product organization and supported by our AI
+Accountability
+and Data Science team, conducted in partnership
+We act with integrity at all stages of our
+with Customer Success, Legal, and Information
+development lifecycle.
+Technology. We also engage third-party audit
+services as an additional validation point.
+2024 Dayforce ESG Report 16
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Data Security Privacy
+Effective stewardship of customer data is We achieved best-in-class security scores Safeguarding data privacy is one of our most
+our highest priority as an organization. Our from third-party ratings agencies (BitSIght important responsibilities as a business,
+Data Security team is relentlessly focused and Risk Recon). and Dayforce customers trust us to handle
+on preventing data breaches and stopping some of their employees’ most sensitive
+cyberattacks from being successful or personal information. In 2023, our Privacy
+impacting our business. In 2023, they worked team further strengthened our policies and
+to meet this challenge by making strategic practices in several new ways.
+investments in new tools and technologies,
+This included:
+expanded expertise, and improving already
+strong internal processes and procedures.
+Securing certification to the EU-US Data
+Privacy Framework, the UK Extension to
+This included:
+the EU-US Data Privacy Framework, and
+the Swiss-US Data Privacy Framework.
+Conducting four tabletop exercises
+with executive leadership, the board of
+directors, and global functional leaders. Appointing a Data Privacy Officer (DPO)
+in the United Kingdom.
+Building a new threat intelligence program
+Strengthening control assurance by
+in partnership with Threat Connect.
+expanding the application of privacy-by-
+design assessments and reviews across
+business processes and offerings.
+Leveraging expertise from CyberGRX
+to establish a new supply chain risk
+management program.
+Launching an inaugural Data Privacy
+Awareness Week to raise awareness
+across the organization and supplement
+Growing the Data Security Team by 20%.
+our annual mandatory employee training.
+↗
+Continuing to invest in cybersecurity at a
+Please visit the Data Security section
+rate of 1.5% of revenue.
+of the appendix to review our overall ↗
+program strategy as well as relevant Please visit the Privacy section of the appendix to review our overall program strategy as well as
+policies and certifications. relevant policies and certifications.
+2024 Dayforce ESG Report 17
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Enterprise Risk Management (ERM)
+We believe that successful management of enterprise risk is a requirement for our company to
+operate effectively and achieve our business’ key objectives. Through our fact-based, globally
+integrated model, our approach to ERM is built on the twin goals of continuous improvement as well
+as execution of a rigorous risk identification, analysis, and mitigation process. Last year, our team
+made significant progress in ensuring global consistency, maturing existing controls and procedures,
+and increasing our employees’ awareness of this work and the critical role they play in its success.
+This included:
+Globalizing our Enterprise Risk Management Policy.
+Ensuring key stakeholders have greater clarity of their roles and responsibilities.
+Maturing our scoring rubric to provide a more standardized, consistent, and objective
+approach to risk identification and assessment.
+Integrating stronger assessment scoring and intake capabilities into our tooling,
+including real-time and continual conversations with risk owners.
+Deploying an employee training to improve understanding of their responsibilities as
+part of an effective ERM program — with a completion rate of more than 80%.
+↗
+Please visit the Enterprise Risk Management (ERM) section of
+the appendix to review our overall program strategy.
+2024 Dayforce ESG Report 18
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Business Continuity and Resilience
+Our approach to operational resilience ensures the continuity of business-critical processes in
+response to natural disasters, cybersecurity events, technology failures, and other disruptive
+incidents. This provides our customers confidence that they will have uninterrupted availability of
+the necessary products and services they rely on. The team that leads our Business Continuity
+Management Program (BCMP) took several actions last year to further strengthen our company’s
+operational resilience.
+They conducted a three-part series of cross-functional tabletop exercises consisting of crisis
+management, technology, and cybersecurity incident scenarios that included leaders from Product
+and Technology, Information Technology, Global Managed Services, Payroll Trust, Facilities,
+Human Resources, Cybersecurity and Enterprise Risk Management. In addition, they performed
+a tabletop exercise with senior leaders and members of the Audit Committee of our Board of
+Directors that was a culmination of the scenarios included in the cross-functional exercises. They
+also matured the resilience of critical money movement and tax and payment business processes.
+As part of this work, the team developed new or updated existing:
+24 business impact assessments.
+business continuity plans covering 20 potential scenarios, with 22 actively
+22
+deployed in response to incidents.
+disaster recovery plans covering 37 separate applications were documented,
+25
+tested, and approved.
+The work of our ERM and Business Continuity and Resilience teams is overseen by our Chief Risk ↗
+Officer Todd Simmons in coordination with our senior leadership team. This brings together a Please visit the Business Continuity and Resilience section
+cross-disciplinary group of leaders to establish management accountabilities and direct initiatives. of the appendix to review our overall program strategy.
+2024 Dayforce ESG Report 19
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Tech for Good
+Dayforce Wallet
+The results showed:
+High inflation, interest rates, and energy
+costs have prevented millions of workers
+Over 90% of users said having access
+and their families from enjoying the financial
+to money quickly through Dayforce
+wellness and freedom they deserve. From
+Wallet when there is an emergency is
+paying for groceries and filling up with
+important to them — with over 80%
+gas, to covering unplanned or emergency
+saying that it’s very important.
+expenses, Dayforce Wallet provides people
+fast access to their earned pay on demand
+whenever they need it most. Its clear
+financial wellness benefits are one of several
+Over 80% said that the product
+reasons that we’ve seen significant growth in
+helps them both buy enough food
+Dayforce Wallet is
+its use for businesses and their employees.
+for their families as well as pay most
+Last year, we saw a 28% increase in the total a powerful tool that
+of their other bills on time.
+number of customers currently signed up promotes financial wellness
+for Dayforce Wallet, a 31% increase in the
+and gives employees the
+percentage of Dayforce Wallet customers
+flexibility and choice they
+live, and surpassed $2 billion in earned 70% of users said that it helps them
+deserve. Our research
+wages delivered through Dayforce Wallet pay for medicine and healthcare for
+their families, with 67% saying the shows that on-demand
+since its launch.
+same for covering childcare costs. pay helps them pay their
+We engaged SSRS last year to conduct bills, reduce their debt,
+third-party research to better understand and put more money into
+how our product is tangibly helping Two-thirds said that Dayforce
+savings each month.
+„
+employees and their families. Wallet not only helps them pay off
+some of their credit card debt, but
+Deepa Chatterjee
+also decreases the likelihood of
+Chief Operations Officer,
+them borrowing money from friends
+Dayforce Wallet
+and family.
+2024 Dayforce ESG Report 20
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Dayforce Career Explorer Dayforce Engagement
+In today’s world of work, businesses The saying is as trite as it is true: you
+recognize that attracting and retaining can’t manage what you can’t measure.
+top talent is essential to their success. Equity, inclusion, and wellness are
+Prospective candidates and current front and center in conversations about
+workers expect that any employer should today's world of work, and organizations
+provide them meaningful ways to learn need accurate and effective tools
+new skills, grow as professionals, and to understand how effective — or
+rise internally into more senior roles. ineffective — their strategies are for
+That’s exactly why we developed Career ensuring their employees feel heard,
+Explorer — a new Dayforce module seen, and supported. Our Dayforce
+Leader in the Gartner Magic Quadrant™ for Cloud HCM that gives people greater autonomy to Talent team has developed new features
+Suites for 1,000+ Employee Enterprises develop new skills and identify their within Dayforce Engagement to do just
+next career step within the organization. that. Rather than follow a traditional
+Powered by the Dayforce Skills Engine, annual cadence, this tool allows leaders
+Career Explorer gives employees access to evolve beyond just the traditional
+Ranked #1 for the North American Compliance Suite 1,000+ Employees Use Case
+to data-driven career pathing, provides annual cadence and use event-based
+job notifications for open internal roles triggers to measure sentiment at key
+that match their interests and abilities, moments in any employee’s journey. This
+Ranked #1 for the North American Compliance Suite 2,500+ Employees Use Case and creates more equitable opportunities capability is strengthened by advanced,
+and actionable steps to help them new pre-built surveys on financial
+reach their career goals. We believe wellness, belonging, and other topics
+this product will help organizations that help organizations build a culture of
+Co-ranked #1 for Overall Product Satisfaction
+foster a stronger culture of learning and inclusion, respect, and appreciation.
+development and ensure that employees
+feel empowered and engaged.
+22002244 DDaayyffoorrccee EESSGG RReeppoorrtt 2211
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Work Energy Dashboard
+Dozens of surveys over the past year
+have all pointed to a systemic problem
+that countless businesses are currently
+facing: their employees are experiencing
+burnout. This can directly contribute to
+increased employee dissatisfaction, reduced
+productivity, and increased turnover. That’s
+why we have built a new Dayforce module
+to help managers identify their employee’s
+work energy and how best to address it.
+Our dashboard features an organization-
+wide view of workforce energy trends, giving
+you a glance into where in your organization
+employees may be having different
+experiences, with the ability to pinpoint by
+department, tenure, gender, or location.
+Suggested ideas for how to improve
+exhaustion and efficacy are also included.
+This dashboard gives managers the insight to
+measure how effective, or ineffective, their
+strategies are to address root causes and
+create a healthier workplace with improved
+outcomes for employees.
+2024 Dayforce ESG Report 22
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Environment
+Every employee deserves
+a workplace that supports
+Direct Operations
+their health, fosters
+strong connections with
+We take our responsibility to help safeguard footprint by over 250,000 square feet in 2023,
+colleagues, and operates
+the planet very seriously. That’s why our resulting in a more than 740,000 square-foot
+sustainably, regardless of
+Sustainability team worked cross-functionally reduction since 2019.
+physical location. We're
+over the past year in taking several new actions
+to further reduce the overall environmental Importantly, we further embedded green proud of the strides we've
+impacts of our direct operations. This included leasing principles into our facility selection and made in providing this
+a new Environmental Sustainability Policy renewal processes, with prioritization given environment to more
+to guide Facilities, IT, Cloud Infrastructure, to buildings with regional sustainable building
+employees, whether in
+and other departments in improving energy certifications. One result of this effort to operate
+our physical offices or
+efficiency, reducing consumption, and managing more efficiently and decrease our environmental
+remote settings, all while
+waste. This was supplemented by a new impacts was right-sizing our workspaces and
+company-wide employee training to highlight a shift to more sustainable buildings in Ebene, improving efficiency
+their responsibilities to make our organization Mauritius and Sydney, Australia. and reducing our
+more sustainable and the ability of every person
+environmental footprint.
+to make a meaningful difference.
+„
+Judy Rozal
+Through the implementation of these initiatives,
+Vice President, Facilities
+we made significant progress last year in
+and Capital Budget
+decreasing the overall environmental impact of
+our direct operations. This included the near-
+Nearly 150 rooftop solar panels
+complete phase-out of direct print operations
+Ebene
+Rainwater capture for restroom use
+in North America. Print operations closed at
+Mauritius
+three facilities in 2023, with the final location Submeters to monitor and track electricity consumption
+set to close in 2024. We also closed a large,
+multi-use facility in Atlanta that accounted
+for approximately 36% of our entire global
+Sydney Climate Active Carbon Neutral Standard for
+electricity consumption last year. With these
+Australia Buildings Certification by NABERS
+changes alongside the closure of several other
+office facilities globally, we reduced our physical
+2024 Dayforce ESG Report 23
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Addressing Climate Change We made progress in reducing our carbon
+footprint last year, and we have continued to
+drive significant reductions since 2019.
+We know that climate change poses an
+existential threat to the health and well-being
+This included:
+of humanity today and for future generations.
+That’s why we are fundamentally committed
+to doing our part to address it. We have
+A 20% annual reduction in Scope 1
+been actively working toward meeting our
+and 2 (location-based) emissions.
+Scope 1 and 2 emissions reduction target,
+and we also took a number of additional
+steps over the past year that reflect our
+ambitions to decarbonize our value chain.
+A 65% reduction in Scope 1 and 2
+They included: (location-based) emissions since 2019.
+Setting a new near-term Scope 3
+emissions reduction target.
+Our decarbonization strategy
+A 30%+ reduction in Scope 3 economic
+emissions intensity since 2019. focuses on where we can
+make the greatest impact,
+Committing to having our targets
+including pursing aggressive
+validated by the Science Based
+Our climate strategy and progress has led us near-term emissions reduction
+Targets Initiative (SBTi).
+to be recognized as one of America’s Greenest
+targets, sourcing 100%
+Companies by Newsweek, one of America’s
+renewable electricity annually
+Climate Leaders in 2023 by USA TODAY, and
+for our global operations, and
+Maintaining 100% renewable earned us our first-ever “B” from CDP (formerly
+electricity for our global operations launching a new procurement
+the Carbon Disclosure Project).
+in 2023.6 program to drive value chain
+We have developed a strong plan to meet emissions reductions.
+„
+our new near-term Scope 3 emissions target.
+This includes advancing our decarbonization
+Megan Parker
+strategy through the implementation of two
+Senior Manager, Sustainability
+new programs that address two of our largest
+climate impact areas: our supply chain and
+business travel.
+6. Achieved 100% renewable electricity in 2023 through purchasing 10,697 MWh of Energy Attribute Certificates (EACs).
+22002244 DDaayyffoorrccee EESSGG RReeppoorrtt 2244
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Responsible Sourcing Initiative (RSI)
+The first program is our new Responsible Sourcing Initiative, known as RSI, that we believe will drive further
+supply chain emissions reductions and help us achieve our near-term Scope 3 emissions target. We believe that
+sustainable supply chains are more resilient and efficient — that building them is not only the right thing to do,
+but the smart thing to do. As a company, we want to align ourselves with other businesses that make labor and
+human rights, diversity and inclusion, and environmental stewardship organizational priorities. The overall goal
+of RSI is to work with current vendors and select new ones that are consistent with the following four principles:
+Safeguard labor and human rights in their operations and supply chain.
+Reduce greenhouse gas (GHG) emissions and improving their environmental impacts.
+Improve workforce gender diversity globally and racial and ethnic diversity in the U.S.
+Are owned and operated by diverse leaders from underserved and underrepresented groups.
+We’re focused on building a supply chain that’s efficient,
+resilient, and sustainable. Our priority is finding and
+partnering with vendors that are safeguarding human
+rights, advancing diversity and inclusion, and meaningfully
+reducing their climate impact.
+„
+Sharita Elston
+Vice President, Procurement
+22002244 DDaayyffoorrccee EESSGG RReeppoorrtt 2255
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Internal Carbon Price
+Last year, we took a number of steps to integrate the RSI program into every stage of the The second program supporting our Scope 3 emissions reduction target is the creation of an
+procurement life cycle. internal price on carbon for business travel emissions. We now charge $50 per ton of emissions,
+with proceeds used to fund new carbon removal projects in the coming year. Our new business
+This included: travel booking portal displays the carbon impact of flight and hotel choices to employees when
+they book their travel to enable better purchasing decisions upfront.
+Developing a new Environmental Sustainability Policy that guides how
+departments across the business should select vendors that meet specific criteria.
+Strengthening our Vendor Code of Conduct that sets out new expectations and
+requirements for all of our vendors to follow.
+Adding vendor performance on RSI priorities into the RFP (request for proposal)
+process to guide how we choose new vendors and new language to vendor
+contracts highlighting new expectations.
+Expanding our Global Sourcing and Procurement Policy and training our vendor
+managers to evaluate RSI data so they can incorporate sustainability performance
+into their evaluation processes.
+Beginning collecting key data annually from all current and new vendors to evaluate
+their current performance and where they needed to improve in the future.
+In the coming year, we aim to use last year’s performance baseline to set quantitative and
+timebound targets to increase our overall spend – both as a percentage as well as total dollars
+spent – with suppliers that meet our standards in our four priority areas.
+2024 Dayforce ESG Report 26
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+In 2023, our volunteering surged to a new level. We expanded our
+cornerstone volunteer event to a month of in-person and virtual
+activities globally, and integrated volunteering year-round. It was
+uplifting to join so many colleagues for a park clean-up day in the
+community where I grew up and still live. „
+Our
+Rajesh Kulkarni
+Communities IT Leader, Asia
+Giving and Volunteering
+One of our missions at Dayforce is Alongside these efforts is a robust program
+to be a force for positive change. to encourage our people to give their time
+Through corporate donations as well as and resources to impactful organizations
+harnessing the passion and generosity around the world. Last year, nearly 50% of
+of our employees, every day we try to our workforce donated or volunteered for
+make a meaningful difference in the over 1,200 causes on five continents. Over
+communities where our employees live 1,500 more employees participated this year
+and work. One significant way we do this than in 2022, and the number of volunteer
+is through Dayforce Cares, our employee- hours doubled from 5,000 to 10,000. This
+driven foundations in North America included nearly 130 in-person and nearly 30
+and Mauritius. Since its inception, we’ve virtual volunteer events to support schools,
+provided more than $6.5 million in direct food pantries, park cleanups, and other
+grants to over 4,500 families in the U.S. meaningful causes. Our teams also actively
+and Canada to help cover their basic supported various relief initiatives around
+needs and improve their quality of life. In the world, including helping the victims of Village of Hope Lalbagh Park Children's Environmental
+addition, our foundation in Mauritius helps Typhoon Doksury in the Philippines, massive Lawrenceville, Georgia Bengaluru, India Awareness and Action
+underprivileged children and families by earthquakes in Turkey, Syria, Afghanistan and Foundation (CEAAF)
+supporting local NGOs and schools. Morocco, and the Israel-Hamas war. Manila, Philippines
+2024 Dayforce ESG Report 27
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Appendix
+Stakeholder Engagement
+Our Approach Stakeholder Groups
+At Dayforce, we define stakeholder As a large and fast-growing global organization,
+engagement as our efforts to incorporate we have a wide array of stakeholder groups.
+the opinions and perspectives of individuals
+and organizations that are impacted by These include:
+our activities as a business into our overall
+Customers Employees
+corporate strategy. We believe that they
+deserve an opportunity to express their
+point of view, and it is our responsibility to NGOs Partners
+ensure their voices are heard. Ultimately,
+learning from the unique insights and Government agencies
+feedback of our stakeholders will make
+us a stronger, more resilient business that
+Industry and financial analysts
+can make a positive difference for people,
+society, and the planet.
+Some examples of how feedback from
+stakeholders is regularly solicited include
+monthly conversations with our industry
+analysts, quarterly email surveys of our
+employees, and annual stockholder
+engagement meetings with many of our
+largest investors. Because transparency
+and accountability are so important to us,
+we are exploring the formation of a new
+stakeholder advisory panel this year that
+would inform our overall ESG strategy and
+would include representatives from some
+of the above groups.
+2024 Dayforce ESG Report 28
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+SASB Table Accounting Metric SASB Code 2020 2021 2022 2023
+97,137 GJ; 68,595 GJ; 49,148 GJ; 39,190 GJ;
+(1) Total energy consumed, (2) percentage grid
+Environmental Footprint TC-SI-130a.1 88%; 89%; 91%; 98%;
+electricity, (3) percentage renewable
+0% 0% 0% 0%
+(1) Total water withdrawn TC-SI-130a.2 17 TCM 7 TCM 6 TCM 9 TCM
+Discussion of the integration of environmental
+considerations into strategic planning for data TC-SI-130a.3 Environment
+center needs
+Data Privacy and Freedom Description of policies and practices relating to
+TC-SI-220a.1 Privacy
+of Expression behavioral advertising and user privacy
+Number of users whose information is used for
+TC-SI-220a.2 This information was not tracked.
+secondary purposes
+Total amount of monetary losses as a result of No material
+TC-SI-220a.3 No material monetary losses. $3.49 million7
+legal proceedings associated with user privacy monetary losses.
+(1) Number of law enforcement requests for Law Enforcement Law Enforcement Law Enforcement
+user information, (2) number of users whose This information was Requests Reports: Requests Reports: Requests Reports:
+TC-SI-220a.4
+information was requested, (3) percentage not tracked. June 2021 and January-June 2022 and January-June 2023 and
+resulting in disclosure December 2021. July-December 2022. July-December 2023.
+List of countries where core products or services
+are subject to government-required monitoring, TC-SI-220a.5 None
+blocking, content filtering, or censoring
+7. In 2022, Dayforce reached a class action settlement of approximately $3.49 million relating to Illinois’ Biometric Information Privacy Act (“BIPA”).
+2024 Dayforce ESG Report 29
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+SASB Table Accounting Metric SASB Code 2020 2021 2022 2023
+(1) Number of data breaches, (2) percentage
+TC-SI-230a.1
+Data Security involving personally identifiable information (PII), No material data breaches.
+SV-PS-230a.3
+(3) number of users affected
+Description of policies and practices relating to
+collection, usage, and retention of SV-PS-230a.2 Privacy
+customer information
+Description of approach to identifying and
+TC-SI-230a.2
+addressing data security risks, including use of Data Security
+SV-PS-230a.1
+third-party cybersecurity standards
+Recruiting and Managing a Global, Percentage of employees that are (1) foreign
+TC-SI-330a.1 1.8%; 21.1% 2.8%; 23.1% 0.32%; 48.7% 0.42%; 50.5%
+Diverse, and Skilled Workforce nationals and (2) located offshore8
+TC-SI-330a.2
+Employee engagement as a percentage 76% 75% 74% 77%
+SV-PS-330a.3
+Percentage of gender and racial/ethnic group
+TC-SI-330a.3
+representation for (1) management, (2) technical Representation
+SV-PS-330a.1
+staff, and (3) all other employees
+Total amount of monetary losses as a result of
+Intellectual Property Protection
+legal proceedings associated with anticompetitive TC-SI-520a.1 No material monetary losses.
+and Competitive Behavior
+behavior regulations
+Managing Systemic Risks from Number of (1) performance issues and (2)
+TC-SI-550a.1 17; 143 18; 182 30; 267 31; 241
+Technology Disruptions service disruptions
+Description of business continuity risks related to
+TC-SI-550a.2 Enterprise Risk Management
+disruptions of operations
+Description of approach to ensuring
+Professional Integrity SV-PS-510a.1 Governance and Trust
+professional integrity
+8. 2022 data includes Ascender and Excelity employees for the first time.
+2024 Dayforce ESG Report 30
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Materiality Assessment
+In 2021, Dayforce partnered with the
+nonprofit BSR to lead our first-ever third-
+party materiality assessment. We sought to
+understand the key material environmental,
+social, and governance issues that are
+most important to our business success
+and our key stakeholders. From the outset,
+it was imperative that a broad array of
+stakeholders was included to provide
+feedback and insight on this work and our
+direction as a company. For that reason,
+the team conducted stakeholder interviews
+and surveys with customers, investors,
+nongovernmental organizations (NGOs),
+Importance to business success
+2024 Dayforce ESG Report 31
+sredlohekats
+ot
+ecnatropmI
+w
+o
+L
+hgiH
+Dayforce's 2021 Materiality Matrix
+Employees/social
+Trust/governance
+Environment
+hgiH
+including Oxfam America and the World
+Benchmarking Alliance, dozens of senior
+leaders at Dayforce, and hundreds of
+our employees globally. In addition, BSR
+Data privacy and security
+consulted a number of other sources in its
+assessment, including prominent reporting
+standards and frameworks such as the IFRS
+Financial wellness Ethical business practices Foundation's SASB Standards. The Global
+Future of work Reporting Initiative (GRI), and the United
+Nations Sustainable Development Goals.
+Business continuity and resilience Workforce development
+Following the completion of the project,
+Diversity, Equity,
+Dayforce evaluated the results and built a
+Emerging technology and ethics and Inclusion
+new ESG strategic framework with five key
+Energy and climate Tech for good Employee health, safety, pillars and 10 priority topics.
+and well-being
+Universal
+Digital divide Dayforce is a member of
+human rights
+Responsible
+innovation and
+Freedom of product use
+expression
+Relationships with
+law enforcement
+Water and waste
+agencies
+management
+Supplier diversity
+Sustainable procurement
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+U.N. Sustainable Development Goals
+Dayforce's commitment to the five pillars of our ESG
+strategic framework and our goals will help ensure
+that we always act responsibly and sustainably. It is our
+road map to continue being a leading corporate citizen
+as well as a thoughtful and accountable partner to key
+stakeholders. Successful performance on each of most
+materials topics will result in some progress toward
+achieving several United Nations SDGs.
+2024 Dayforce ESG Report 32
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Board of Directors
+Board Composition Committee Structure
+9 total members Acquisition and Finance
+89% are independent Audit
+25% of board committees are chaired by women Compensation
+5 new directors since 2018 Corporate Governance and Nominating
+62 average age of directors
+6.7 years average board tenure
+100% of board committees are fully comprised of independent directors
+44% are women or people of color
+Areas of Expertise
+Corporate finance
+C-Suite or senior management leadership
+Cybersecurity
+Enterprise risk management
+ESG
+Financial literacy
+Global business background
+Human resources and talent management
+Industry background
+Mergers and acquisitions
+Public company board service
+Strategic transformation leadership
+Technology or software experience
+2024 Dayforce ESG Report 33
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+ESG Oversight
+The Board’s Corporate Governance and (ii) Chair of our Corporate Governance
+Nominating Committee provides oversight and Nominating Committee; and/or (iii)
+of Dayforce policies and programs on key members of our management team
+issues of overall corporate governance, participated in meetings with stockholders
+social responsibility, and environmental holding approximately 63.8% of the
+sustainability. It is committed to best-in- outstanding Common Stock of the Company
+class governance, and it is highly engaged as of June 30, 2023.
+in ensuring that Dayforce creates long-
+term value for all of its stakeholders. On a
+In addition to the above meetings, our
+quarterly basis, its members receive updates
+executive team regularly met with investors
+about the company’s ongoing ESG efforts
+and stakeholders throughout 2023 to
+and provide direct feedback and guidance
+discuss company performance, corporate
+to leadership about the path ahead.
+governance, and ESG initiatives. These
+meetings offer investors and stakeholders
+a forum to engage in constructive
+Stockholder Engagement
+conversations with management around the
+and Feedback aforementioned topics.
+Stockholder engagement is a key part of Our Board continues to value stockholder
+our oversight efforts and good corporate input and tries to incorporate the feedback
+governance practices. Over the past year, received from stockholders directly into its
+we reached out to stockholders holding decision-making. As of our 2024 Annual
+approximately 84.2% of our outstanding Meeting of Stockholders, we will have
+Common Stock as of June 30, 2023, in implemented majority voting for the election
+order to better understand their feedback of directors and fully transitioned to annual
+on executive compensation, corporate director elections. In addition, all of our
+governance, and ESG matters. Our (i) Lead directors served on three or fewer additional
+Director and Chair of our Audit Committee; public company boards as of the end of 2023.
+2024 Dayforce ESG Report 34
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Governance
+Size of board 9 Annual board and committee evaluations Yes
+Number of independent directors 8 New director orientation program Yes
+Percentage of directors who are independent 89% Anti-Corruption Policy Yes
+Fully independent committees Yes Anti-Fraud Standards Yes
+Independent lead director Yes Corporate Records Retention Policy Yes
+Average age of directors 62 Delegation of Authority Policy Yes
+Average director tenure 6.7 Disclosure Policy Yes
+Mandatory retirement age No Insider Trading and Tipping Policy Yes
+Number of female directors 3 Sanctions Compliance Policy Yes
+Number of ethnically diverse directors 1
+Number of board and committee meetings in 2023 31
+Policies and Principles
+Number of directors attending less than 80% of meetings in 2023 0
+Periodic executive sessions Yes Anti-Corruption Policy
+Annual election of directors Yes Anti-Fraud Standards
+Majority voting in director elections Yes Code of Conduct
+Poison pill No Corporate Records Retention Policy
+Stockholder ability to call special meeting No Delegation of Authority Policy
+Stockholder right to act by written consent No Disclosure Policy
+Compensation recovery (“clawback”) policy Yes Human Rights Statement
+Annual say-on-pay vote Yes Insider Trading and Tipping Policy
+Stock ownership guidelines for directors and executive officers Yes Modern Slavery Statement
+Corporate governance guidelines Yes Sanctions Compliance Policy
+Director “overboarding” guidelines Yes Vendor Code of Conduct
+Related person transactions policy Yes AI Ethics Principles
+2024 Dayforce ESG Report 35
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Trust
+Privacy Strategy
+We recognize that maintaining stakeholder trust is essential to our license to operate and our
+success as a business. That is why we maintain a robust global privacy management program that
+allows us to meet these high expectations. In addition to a commitment of continuous improvement,
+our areas of focus include:
+Clear policies, guidance, and procedures that foster accountability in our enterprise
+and that reflect legal requirements and best practices
+Ongoing workforce training and communication to ensure an always-on privacy mindset
+Privacy by Design assessments of our operations and offerings
+Ongoing monitoring of privacy posture and risk
+Integration of metrics and scorecards
+Third-party processor management
+B2B customer management
+Transparency and management of individual rights
+↗ Global Privacy Statement ↗ Cookie Statement ↗ Biometric Statement
+2024 Dayforce ESG Report 36
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Data Security Strategy Certifications and Attestations
+Cloud Security
+At Dayforce, we believe that effective security Leveraging cloud posture management solutions to meet compliance and security The Dayforce data security program
+detection and response depends upon the requirements and exceed industry benchmarks for cloud security, and investing in attack closely aligns with a variety of industry
+deployment of analytics, automation, and surface management solutions to monitor and secure our Dayforce cloud footprint. standard frameworks. This is reinforced by
+highly skilled professionals. We know that a requirement to have independent reviews
+strong data governance and data-centric of our supporting controls and provides the
+needed transparency for our customer to have
+security are also critical to maintaining our Identity and Access Management
+confidence we take the protection of their data
+already high levels of compliance, privacy, Security starts with strong access controls, and Dayforce continues to invest in phish
+very seriously. The following certifications and
+and customer protection. resistant multi-factor authentication, access governance solutions to limit entitlements, and
+attestations are in place for Dayforce:
+the management and security of non-human identities that are a growing attack vector.
+To combat a growing number of data
+security threats and an enhanced level of ISO/IEC 27001 ISO/IEC 27017
+sophistication, Our Data Security team Product Security
+ISO/IEC 27018 ISO/IEC 27701
+is focused on six priority areas in the Security and privacy by design are at the core of our product development life cycle.
+intermediate term. Beginning with ideation all the way to implementation, security and privacy are completely
+ISO/IEC 27036 ISO/IEC 22301
+embedded into our research and development processes.
+SOC 1 Type 2 SOC 2 Type 2
+NIST 800-171 (SOC for Cyber)
+Advanced Analytics and Automation
+Safeguarding data across our cloud applications and endpoints starts with understanding
+the data. Our advanced analytics enable automated processes and improve our data
+Our ISO 27001 certification had no
+security capabilities.
+major or minor nonconformities
+Our NIST attestation had no controls
+that were considered not met
+Risk-Aware Workforce
+Equipping our employees with the proper education through ongoing security awareness
+Our SOC 2 Type 2 audit report had no
+training is essential to our practice. Reducing the risk of social engineering and phishing is of
+exceptions found
+paramount importance in today’s cyber landscape.
+To ensure effective oversight and management
+of our data security program, our Chief
+Strong Data Governance Information Security Officer Colin Anderson
+Managing data throughout the entire life cycle is a core business objective. This includes strong briefs the senior leadership team twice a
+↗ Information Security statement data retention policies and practices, as well as enabling customers to self-manage their data. quarter and the Audit Committee of the Board
+of Directors on a quarterly basis.
+2024 Dayforce ESG Report 37
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Enterprise Risk Management
+(ERM) Strategy
+Effective risk management is a critical Our Enterprise Risk Framework guides the Our Enterprise Risk Process outlines our Our overall ERM program has three
+component of Dayforce’s success as an overall direction and operations of the program. lifecycle and method of identifying, assessing intermediate-term priorities:
+organization. We have deeply embedded and prioritizing, and responding to enterprise
+our Enterprise Risk Management (ERM) It features an enterprise risk taxonomy for risks to successfully achieve our strategic
+program into company-wide decision- categorizing risks and developing actionable organizational goals and objectives, minimizing Ongoing cross-functional evaluation
+and prioritization of mission-critical
+making and how we approach performance insights for leaders and departments across any potential negative impact should they be
+risks at the enterprise level to
+improvement, encourage innovation, and the organization. It focuses on 12 capability- realized. It also includes our collaborative risk
+ensure accuracy of Dayforce’s global
+pursue our strategic goals and objectives. based enterprise risk themes: assessment process. Frequent touchpoints
+risk profile.
+Our program is based on two global throughout the year are conducted through
+Business and Operational Resilience
+standards — the COSO Enterprise Risk interviews with identified SMEs from each Quarterly discussions around
+Management Framework and ISO 31000 — functional group within the business to identify emerging and significant risk
+Commercial Strategy
+and it aims to do the following: emerging risks that could impact our ability exposure identification and review
+of controls, mitigation strategies, and
+to meet our strategic goals and objectives as
+Cybersecurity Resilience response effectiveness, along with
+a company, specifically in the following four
+Identify and assess risk across the action to mitigate in a timely manner.
+impact categories:
+organization, prioritizing mitigation
+Data Governance and Stewardship
+efforts to address mission-critical
+Financial Ongoing review of our global ERM
+enterprise risks.
+Environmental Stewardship program and opportunities for
+continual improvement and maturation.
+Legal/Compliance
+Assess current controls and capabilities
+Financial Performance and Accountability
+to protect and increase stakeholder
+value, promoting continuous, Operational
+sustainable improvement across the Global Strategy, Readiness and Execution
+To ensure effective oversight and management
+organization globally.
+Strategic
+of our risk management program, our Chief
+Human Capital/People
+Risk Officer Todd Simmons briefs the senior
+Ensure decisions are made with
+sufficient awareness and transparency leadership team regularly and the Audit
+Legal and Compliance
+around risk and opportunity. Committee of the Board of Directors on a
+(Corporate, Product, Operational)
+quarterly basis.
+Our strategy has two core components: Money Movement/Tax and Payment
+our Enterprise Risk Framework and our
+Enterprise Risk Process. Product and Technology Innovation
+Third-Party and Partner Reliance
+2024 Dayforce ESG Report 38
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Business Continuity and Resilience
+Strategy
+The Business Continuity Management The Emergency Response discipline is Our Disaster Recovery (DR) discipline
+Program (BCMP) contributes to Dayforce’s responsible for the first 20 minutes of an aims to ensure the continuity of critical
+overall resiliency and ability to continue incident with a primary focus on life safety. business technology in the event of a
+delivery of products or services at It is the immediate and coordinated initial disruptive incident, such as natural disasters,
+acceptable, predefined levels following a response to an unexpected or potentially cyber-attacks, or equipment failures. Our
+disruptive incident and ensure that critical dangerous situation or event. The goal of disaster recovery plans are designed to
+functions and processes are continually emergency response is to ensure employee minimize downtime, ensure the integrity
+evaluated and improved upon. The Dayforce safety, communicate with employees to and availability of critical data during and
+BCMP provides the necessary steps to develop situational awareness, coordinate after a disaster, and comply with industry
+be taken to prepare to respond, recover, required resources, and evaluate facility regulations and compliance standards.
+restore, and return to normal operations safety when applicable.
+following a significant business disruption.
+Incident Management
+The program has four disciplines:
+The Business Continuity discipline is
+responsible for the recovery of all critical
+We have a Major Incident Management
+business processes to an acceptable
+Crisis Management team at Dayforce that works to enhance
+degraded level until the situation returns to
+the company's resilience, protect its assets,
+normal. Business continuity considerations
+and ensure the continuity of operations.
+Emergency Response are evaluated immediately after the initial Their aim is to effectively respond to and
+response of an unpredicted event, and
+resolve significant incidents related to
+Business Continuity Plans (BCP) outline the
+technology, privacy and cybersecurity that
+Business Continuity actions taken to minimize impact and continue
+can have a severe impact on operations,
+business function operations following
+services, or reputation. This can minimize
+a disruptive event by enacting business
+the impact of such incidents by restoring
+Disaster Recovery
+continuity plans that detail the recovery steps,
+normal operations as quickly as possible
+controls, and resources required.
+while ensuring effective communication,
+The Crisis Management discipline is coordination, and decision-making
+responsible for the process of preparing throughout the incident response process.
+for, responding to, and recovering from
+an unexpected event or situation that
+poses a significant threat to Dayforce, its
+stakeholders, or the public.
+2024 Dayforce ESG Report 39
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Human Capital Metrics
+Our People Annual Required Employee Training Courses Offered to All Employees
+Global employees 9,084 Code of Conduct
+North America employees 4,563 Anti-Corruption
+APJ employees 2,906 Creating a Respectful Workplace (including anti-discrimination, harassment, and workplace violence topics)
+EMEA employees 1,615 Diversity, Equity, and Inclusion
+2023 new employee hires 2,215 Information Security and Cybersecurity
+Percent of open positions filled by internal candidates 16.7% Privacy Essentials
+Voluntary employee turnover rate 10.3% Insider Trading and Tipping
+Average training hours per employee 20.26
+Leadership Development and Professional Development Courses Offered to Employees
+Average amount spent per FTE on training and development $82.55
+Activate: Required 2-day program for people leaders including performance management, effective
+Percent of FTE <30 years old 21.56%
+communications and coaching, and promoting DEI.
+Percent of FTE 30-50 years old 57.4%
+Cultivate: Required 2-day program for leaders of leaders including leading high-performance teams,
+Percent of FTE >50 years old 21.1% ethical leadership, and talent and personal development.
+Percent of workforce covered by trade unions/collective agreements 0% Catalog of available professional development courses are available on-demand to all employees.
+Total Recordable Incident Rate (TRIR)9 0 Team development workshops offered at request of teams.
+Data as of 12/31/2023
+9. TRIR is defined as the total number of recordable incidents at the company per 200,000 hours worked (equivalent to 100 full-time employees annually).
+2024 Dayforce ESG Report 40
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Benefits
+Benefits U.S. Canada Benefits U.S. Canada
+Basic Life Insurance Yes Yes Employee Stock Purchase Plan Yes Yes
+Optional Life Insurance Yes Yes Time Away From Work Yes Yes
+Basic AD&D Yes Yes Sick Time Program10 Yes Yes
+Optional AD&D Yes Yes Holidays Yes Yes
+Health Insurance Yes Yes Bereavement Yes Yes
+Dental Insurance Yes Yes Voting Time Off Yes Yes
+Vision Insurance Yes Yes Flexible Working Hours Yes Yes
+Health Savings Account Yes N/A Working-from-home Arrangements Yes Yes
+Flexible Spending Account Yes N/A Paid Parental Leave11 Yes Yes
+Flex Benefit Program N/A Yes Backup Child Care Yes No
+Health Care Spending Account N/A Yes Dependent Care Reimbursement Yes N/A
+Short-Term Disability Yes Yes Adoption Reimbursement Yes Yes
+Long-Term Disability Yes Yes Fertility/Family Building Benefit Yes Yes
+Employee Assistance Program Yes Yes Breastfeeding/Lactation Facilities Yes Yes
+Critical Illness Insurance Plan Yes Yes Fitness Benefit Yes Yes
+Hospitalization Indemnity Plan Yes N/A Business Travel Accident Yes Yes
+Accident Insurance Plan Yes No Pet Insurance Yes Yes
+Virtual Expert Medical Consultations Yes No Home/Auto Insurance Yes Yes
+Diabetes Reversal Program Yes No Legal Plan Yes No
+Nicotine Cessation Programs Yes No Dave McKay Volunteer Day Yes Yes
+Cancer Support Programs Yes No Scholarship Program Yes Yes
+Behavioral Health Programs Yes No Tuition Reimbursement Yes Yes
+Retirement Yes Yes Ergonomics Assessments Yes Yes
+10. Dedicated 80 hours of sick leave provided
+11. For primary and non-primary caregivers in excess of the minimum legal requirement. For new and expecting parents, our paid parental
+leave policy includes 17 weeks for all foster, adoption, and biological parents, regardless of their gender or caregiver status.
+2024 Dayforce ESG Report 41
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Representation | All Employees
+Employee level Female Male
+Senior management 35.9% 64.1%
+2023
+Management and above 43.8% 56.2%
+Tech 37.1% 62.9%
+All employees 49.8% 50.2%
+Employee level Female Male
+Senior management 38.0%
+2022
+62.0%
+Management and above 43.7% 56.1%
+Tech 36.0%
+63.8%
+49.4% 50.4%
+All employees
+Employee level Female Male
+Senior management 37.6% 62.2%
+2021
+Management and above 43.4% 56.6%
+Tech 36.9% 63.1%
+All employees 48.9% 51.1%
+Data as of 12/31 of corresponding year
+2022 and 2023 data includes Ascender and Excelity employees
+2024 Dayforce ESG Report 42
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Representation | U.S. Employees
+American Indian or Alaska Native Asian Black or African American Hispanic or Latino
+Employee level 2021 2022 2023 2021 2022 2023 2021 2022 2023 2021 2022 2023
+Senior management — — — 12.8% 19.0% 15.6% 7.0% 5.3% 5.2% — 2.1% 3.1%
+Management and above 1.1% 0.6% 0.4% 10.2% 12.4% 11.4% 6.7% 6.4% 5.4% 4.5% 4.6% 4.6%
+Tech 0.1% 0.2% 0.2% 17.3% 24.4% 18.7% 16.6% 10.7% 11.2% 4.5% 6.0% 7.1%
+All employees 0.3% 0.2% 0.2% 10.8% 15.0% 12.4% 13.9% 11.8% 11.4% 5.9% 6.2% 6.3%
+Two or More Races Native Hawaiian or Pacific Islander White No Answer
+Employee level 2021 2022 2023 2021 2022 2023 2021 2022 2023 2021 2022 2023
+Senior management 2.3% 2.1% 3.1% — — — 74.4% 71.6% 71.9% 3.5% — 1.0%
+Management and above 1.5% 1.7% 2.4% — — — 73.4% 73.3% 72.7% 3.0% 1.0% 3.0%
+Tech 2.9% 2.6% 2.8% 0.4% 0.3% 0.3% 56.0% 52.7% 57.9% 2.2% 3.1% 1.9%
+All employees 2.4% 2.3% 2.7% 0.4% 0.3% 0.2% 64.5% 62.3% 64.7% 2.0% 2.0% 2.1%
+Data as of 12/31 of corresponding year
+2024 Dayforce ESG Report 43
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+EEOCStandardForm100(SF100)
+U.S.EQUALEMPLOYMENTOPPORTUNITYCOMMISSION (EEOC) Revised08/2023
+EMPLOYER INFORMATIONREPORT (EEO-1 COMPONENT 1) OMBControlNumber:3046-0049
+Expiration Date: 08/31/2024
+SECTIONA–TYPEOFREPORT
+SECTIONB–EMPLOYERIDENTIFICATION
+OFSCOMPANYID EMPLOYERNAME
+ADDRESS CITY/TOWN STATE ZIPCODE
+SECTIONC–HEADQUARTERSORESTABLISHMENT-LEVELIDENTIFICATION(ifapplicable)
+HQ/ESTABLISHMENT-LEVELUNITID HEADQUARTERSORESTABLISHMENT-LEVELNAME
+HEADQUARTERSORESTABLISHMENT-LEVELADDRESS CITY/TOWN STATE ZIPCODE
+SECTIOND–EMPLOYERIDENTIFICATIONNUMBER(EIN)
+SECTIONE–EMPLOYERFILINGELIGIBILITY
+□ YES (EmployerIs Eligible to File)□NO (EmployerIs Not Eligible to File) □ EMPLOYERNOLONGERINBUSINESS
+SECTION F –FEDERAL CONTRACTOR DESIGNATION (ifapplicable)
+Unique Entity ID(UEI):
+□ YES(Single-EstablishmentEmployerisFederalContractor)□ YES(Multi-EstablishmentEmployerisFederalContractor)
+□YES (Headquarters is Federal Contractor) □ YES(Non-HeadquartersEstablishmentisFederalContractor)
+□YES (One orMore Non-Headquarters Establishments is Federal Contractor)
+SECTIONG–NAICSINFORMATION
+SECTIONH–WORKFORCEDEMOGRAPHICDATA
+JA Race/Ethnicity
+Hispanic NotHispanicor Latino
+orLatino Male Female
+Row
+JOBCATEGORIES Total
+2024 Dayforce ESG Report 44
+elaM elameF etihW
+nacirfA
+rokcalB
+naciremA naisA
+ro
+naiiawaH
+evitaN
+rednalsIcificaPrehtO
+ronaidnInaciremA
+evitaN
+aksalA
+secaReroMroowT
+etihW ro kcalB
+naciremAnacirfA
+naisA
+ro
+naiiawaH
+evitaN
+rednalsIcificaPrehtO
+ronaidnInaciremA
+evitaN
+aksalA
+secaReroMroowT
+EEO-1
+EEOCStandardForm100(SF100)
+U.S.EQUALEMPLOYMENTOPPORTUNITYCOMMISSION (EEOC) Revised08/2023
+2022 2022EMPLOYER INFORMATIONREPORT (EEO-1 COMPONENT 1) OMB Control Number: 3046-0049
+ExpirationDate: 08/31/2024
+SECTIONK–OFFICIALCERTIFICATIONOFSUBMISSION
+CONSOLIDATED REPORT EMPLOYERIDENTIFICATION
+OFSCOMPANYID EMPLOYERNAME
+7359044 Ceridian HCM Inc.
+7359044 Ceridian HCM Inc. ADDRESS CITY/TOWN STATE ZIPCODE
+3311 East Old Shakopee Road MINNEAPOLIS MN 55425
+3311 East Old Shakopee Road MINNEAPOLIS MN 55425
+CERTIFICATIONCOMMENTS(optional)
+No Certification Comments Provided
+593228107
+X
+Not Applicable
+541511 - Custom Computer Programming Services
+Executive/SeniorLevelOfficialsandManagers 1 1 52 1 9 0 0 1 22 5 6 0 0 1 99
+First/Mid-LevelOfficialsandManagers 7 13 159 7 29 0 0 6 173 21 18 0 2 3 438
+Professionals 38 50 383 69 86 1 0 16 468 131 108 1 1 25 1377
+Technicians 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 CERTIFICATIONSTATEMENT
+SalesWorkers 10 6 106 4 5 0 0 4 83 7 1 0 0 5 231 “Icertifythatthe information, including any workforce demographic data, providedinthisreportiscorrect and truetothe bestofmy knowledge
+AdministrativeSupportWorkers 8 18 33 18 14 2 0 5 81 41 19 1 1 0 241 and was prepared in conformity with the directions set forth in the form and accompanying instructions.”
+CraftWorkers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Knowinglyandwillfully false statements on thisreportare punishablebylaw,USCode, Title 18, Section 1001.
+Operatives 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+LaborersandHelpers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 DATEOFCERTIFICATION
+ServiceWorkers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1/5/2024 11:43 AM [EST]
+CURRENT 2022 REPORTING YEAR TOTAL 64 88 733 99 143 3 0 32 827 205 152 2 4 34 2386
+EMPLOYER’SCERTIFYINGOFFICIAL
+NameofEmployer’sCertifyingOfficial TitleofCertifyingOfficial
+PRIOR 2021 REPORTING YEAR TOTAL 53 83 679 97 121 4 2 25 821 225 125 4 4 30 2273
+SECTIONI–WORKFORCESNAPSHOTPERIOD Donnebra McClendon VP, Diversity, Equity and Inclusion
+10/1/2022 - 10/31/2022
+SECTIONJ–HEADQUARTERSORESTABLISHMENT-LEVELCOMMENTS(optional) EmailAddressofCertifyingOfficial TelephoneNumberofCertifyingOfficial
+Not Applicable
+PRIMARYPOINTOFCONTACT(POC) FOR EEO-1COMPONENT1REPORTING
+NameofPrimaryPOC TitleandEmployerofPrimaryPOC
+Donnebra McClendon VP, Diversity, Equity and Inclusion
+Ceridian HCM
+EmailAddressofPrimaryPOC TelephoneNumberofPrimaryPOC
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Environmental Data
+% Change % Change
+2019 2020 2021 2022 2023
+from 2019 from 2022
+Megawatt hours (MWh) 29,402 23,846 16,896 12,459 10,689 -64% -14%
+Electricity
+Gigajoules (GJ) 105,847 85,846 60,825 44,852 38,480 -64% -14%
+Renewable Electricity (MWh) 0 0 0 12,459 10,689
+Total Energy (GJ) 125,738 97,137 68,595 49,148 39,190 -69% -20%
+Diesel (Gallons) 135 154 132 1,590¹² 82 -39% -95%
+Energy
+Natural Gas (Therms) 179,806 106,831 73,476 38,512 6,182 -97% -84%
+Refrigerants (lbs) 397 276 226 200 212 -47% 6%
+Scope 1 and 2: Total 13,119 10,341 7,840 340 265 -98% -22%
+• Scope 1 1,241 731 525 340 265 -79% -22%
+• Scope 2: Location-based 12,128 9,695 7,026 5,434 4,334 -64% -20%
+• Scope 2: Market-based 11,877 9,610 7,315 0 0 -100% 0%
+Scope 3: Total 51,272 37,721 31,273 42,818 54,639 7% 28%
+• Scope 3: Purchased Goods and Services 31,979 28,950 23,645 32,738 36,454 14% 11%
+Emissions (mtCO2e) • Scope 3: Fuel- and Energy-Related Activities 2,931 2,264 2,377 1,837 1,543 -47% -16%
+• Scope 3: Upstream Transportation and Distribution 252 209 161 160 615 144% 284%
+• Scope 3: Waste Generated in Operations 1,078 286 119 103 148 -86% 44%
+• Scope 3: Business Travel 3,692 582 316 2,877 10,474 184% 264%
+• Scope 3: Employee Commuting 10,210 2,704 1,006 779 1,175 -88% 51%
+• Scope 3: Remote Work 768 2,503 3,348 4,150 4,022 424% -3%
+• Scope 3: End-of-Life Treatment of Sold Products 362 223 301 174 208 -43% 20%
+Water Water Withdrawals (Gallons) 16,643,250 4,407,813 1,843,516 1,632,177 2,304,343 -86% -41%
+Waste Total Tonnage (U.S. Tons) 2,074 549 230 199 385 -81% 93%
+12. Total diesel usage in 2022 was significantly higher than in previous years due to the need for emergency generators during a power outage that affected one facility.
+This year, Dayforce used the Watershed climate platform to calculate its 2023 annual greenhouse gas (GHG) emissions. This included updated calculations for its Scope 3 emissions from Purchased Goods and Services emissions for 2019 - 2022
+Our total Scope 3 upstream GHG emissions in 2023 were 54,431 mtCO2e and total Scope 3 downstream GHG emissions in 2023 were 208 mtCO2e..
+2024 Dayforce ESG Report 45
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+STATEMENT Verification Criteria Assurance Opinion
+• World Resources Institute (WRI)/World Business Council for Sustainable Development Based on the verification process conducted by DNV, we provide a Limited Assurance of the
+(WBCSD) Greenhouse Gas Protocol, Corporate Accounting and Reporting Standard (Scope 1 GHG Emissions Inventory for Dayforce. DNV found no evidence that the assertion:
+Introduction
+& 2)
+DNV Business Assurance USA, Inc. (DNV) has been commissioned by the management of • is not materially correct;
+• World Resources Institute (WRI)/World Business Council for Sustainable Development
+Dayforce, Inc. (Dayforce) to carry out an independent verification of its GHG emissions (Scope 1, • is not a fair representation of the GHG emissions information; and
+(WBCSD) Greenhouse Gas Protocol, Corporate Value Chain (Scope 3) Accounting and
+2 and 3). These assertions are relevant to the 2023 calendar year. • is not prepared in accordance with the Reporting Criteria
+Reporting Standard
+Dayforce has sole responsibility for preparation of the data and external report. DNV, in
+• ISO 14064-3:2019: Greenhouse gases - Part 1: Specification with guidance at the
+performing our assurance work, is responsible to the management of Dayforce. Our assurance Independence
+organization level for quantification and reporting of greenhouse gas emissions and
+statement, however, represents our independent opinion and is intended to inform all
+stakeholders including Dayforce.
+removals
+DNV was not involved in the preparation of any part of Dayforce’s data or report. We adopt a
+balanced approach towards all stakeholders when performing our evaluation.
+Verification Objective Verification Protocols
+The objective of this verification is to verify conformance with applicable verification criteria, • ISO 14064-3:2019 Greenhouse gases - Part 3: Specification with guidance for the verification
+DNV Business Assurance USA, Inc.
+including the principles and requirements of relevant standards or GHG programmes, within and validation of greenhouse gas statements
+April 04th, 2024
+the scope of the verification; The organization's GHG inventory of GHG emissions; any
+significant changes in the organization's GHG inventory since the last reporting period; and the
+Operational Boundary
+organization's GHG-related controls.
+• Operational control
+Verification Scope • Global sites Lead Verifier Technical Reviewer
+• Reporting Period: 1 January 2023 to 31 December 2023
+2023 Greenhouse Gas (GHG) emissions inventory Scope 1, 2, and 3 (Category 1 – Purchased Kyle Silon Ke Karl Song
+Goods and Services, Category 3 – Fuel and Energy Related Activities, Category 4 – Upstream
+Transportation and Distribution, Category 5 – Waste Generated in Operations, Category 6 Data Verified
+– Business Travel, Category 7 – Remote Working, Category 7 – Employee Commuting, The purpose of the DNV group of companies is to promote safe and sustainable futures. The USA & Canada Sustainability team is part of DNV
+Greenhouse Gas Emissions Business Assurance, a global provider of certification, verification, assessment and training services, helping customers to build sustainable
+Category 12 – End-of-life Treatment of Sold Products)
+Scope 1 Emissions 265 MtCO2e business performance. www.dnv.com/sustainability
+Scope 2 Emissions (Location based) 4,333 MtCO2e
+Scope 2 Emissions (Market based) 0 MtCO2e
+Verification Level of Assurance
+Scope 3 Emissions
+The verification was conducted by DNV to a limited level of assurance with the qualification
+reported in the below Verification Conclusions. o Category 1 – Purchased Goods and Services 36,454 MtCO2e
+o Category 3 – Fuel and Energy Related Activities 1,543 MtCO2e
+Materiality Level o Category 4 – Upstream Transportation and Distribution 615 MtCO2e
+Errors / omissions which represent, single or aggregated, the 5% of total emissions are o Category 5 – Waste Generated in Operations 148 MtCO2e
+considered material.
+o Category 6 – Business Travel 10,474 MtCO2e
+o Category 7 – Remote Working 4,022 MtCO2e
+o Category 7 - Employee Commuting 1,175 MtCO2e
+o Category 12 – End-of-life Treatment of Sold Products 208 MtCO2e
+DNV Business Assurance USA, Inc., 1400 Ravello Drive, Katy, TX 77449
+STATEMENT NO. DNV-2024-ASR-685285 Page 1 of 3
+DNV Business Assurance USA, Inc., 1400 Ravello Drive, Katy, TX 77449 DNV Business Assurance USA, Inc., 1400 Ravello Drive, Katy, TX 77449
+STATEMENT NO. DNV-2024-ASR-685285 Page 2 of 3 STATEMENT NO. DNV-2024-ASR-685285 Page 3 of 3
+2024 Dayforce ESG Report 46
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Independent Assurance Report ScopeandApproachContinued BasisofOurConclusionContinued ResponsibilitiesofDayforce
+cW oe n p cll uan sin oe nd ,sa on td hp ae tr tf ho erm rise kd oo fu tr hw iso cr ok nt co luo sb iot nai bn et ih ne ge inv i ed re rn oc re is w ree dc uo cn es did be ure td non te rc ee dss ua cr ey dt to op vr eo rv yid loe wa .b Aas ‘ris eafo sor no au br la es ls eu vr ea ln ’c oe f • Reviewingthattheevidence,measurementsandthescopeprovidedto usby andDNV
+assurancewouldhaverequiredadditionalworkatheadquartersandsitelevelstogainfurtherevidencetosupportthebasisof DayforcefortheSelectedPerformanceInformationis preparedinlinewiththe
+DNVBusinessAssuranceUSA,Inc.(DNV)hasbeencommissionedbythemanagementofDayforce,Inc.(Dayforce)tocarryoutan ourassuranceconclusion.DNV’sassuranceengagementsarebasedontheassumptionthatthedataandinformationprovided agreed-uponproceduresandcriteria Dayforcehassoleresponsibilityfor:
+independentlimited-levelassuranceengagementofSelectedPerformanceInformationforcalendaryear2023.Theassurancewas bytheclienttousaspartofourreviewhavebeenprovidedingoodfaith.Thisincludes,butisnotlimited to,salesand • ReadingtheReportandnarrative accompanyingtheSelectedPerformance • Preparingandpresentingthe
+Informationwithinitwithregardtothecriteria SelectedInformationin
+carriedoutduringJanuary-April2024. acquisitions,square footage,occupancyrates,datacoverage, propertytype,and financial/ operationalcontrol.Financialdata, accordancewiththecriteria
+includingfinancialdatathatfeedsintothecalculationoftheSelectedPerformanceIndicators,isoutsideofthescopeofthe
+assurance. Inadditiontotheabove,specifictotheenvironmentalindicators,thefollowing • Designing,implementing,and
+stepswereconductedfortheWaterandWaste: maintainingeffectiveinternal
+OurConclusion: DNVexpressly disclaimsanyliabilityorco-responsibility foranydecisionapersonoranentitymaymakebasedonthis controlsovertheinformationand
+Basedontheprocedureswehaveperformed andtheevidencewehaveobtained,nothinghascome to IndependentAssuranceStatement. Water: data,resultinginthepreparation
+ourattentionthatcausesustobelievethattheSelected Performance Informationis notfairly stated • Reviewofthewaterwithdrawalmethodology; oftheSelectedInformationthatis
+andhasnotbeenprepared,inallmaterialrespects,inaccordancewiththecriteriastated.This AssuranceMethodology • Reviewofcalculationsandwaterper-capitaassumptions. freefrommaterialmisstatements
+conclusionrelatesonlytotheSelected PerformanceInformationandistobe readinthecontextof this The environmentalfootprintinventorieshave beenevaluatedagainstthe followingreportingcriteria: • Measuringandreportingthe
+AssuranceReport,inparticular,theinherentlimitationsexplainedbelow. • WorldBusinessCouncilforSustainableDevelopment (WBCSD)/WorldResourcesinstitute(WRI)Greenhouse GasProtocol, Waste SelectedInformation
+CorporateAccountingStandardREVISEDEDITION • Review ofthewasteestimationmethodology; • Contentsandstatements
+• WBCSD/WRICorporateValueChain(Scope3)AccountingandReportingStandard(Scope3) • Reviewof calculationsandwaste per-capitaassumptions. containedwithintheReportor
+ScopeofAssurance DNVusedarisk-basedapproachthroughouttheassuranceengagement,concentratingontheareasthatwebelievearemost websites
+materialforbothDayforceanditsstakeholders.DNVappliedamaterialitythresholdoffivepercentforGHG(Scope1and2) AssuranceOpinion
+• ReportingBoundary-AllglobaloperationsunderDayforce'soperationalcontrolpertheoperationalcontroldefinitionofThe emissions,energyconsumption,waterwithdrawal,andwastegenerated.Thefivepercentmaterialitythresholdforassurance Basedontheprocessesandproceduresperformed,DNVfoundnoevidencethatthe Inperformingourassurancework,our
+GHGProtocol,ACorporateAccountingandReportingStandard,RevisedEdition. doesnotapplytototalScope3emissions. claims and assertions listed are not materially correct and are not a fair responsibilityistothemanagementof
+• TimePeriod–Calendaryear2023 representationofdataandinformationandhavenotbeenpreparedinaccordance Dayforce;however,ourassurance
+2023EnvironmentalData Verified withthereportingcriteriaandcalculationmethodreferenced. r oe pp ino ir ot nre ap nr des isen ints teo nu dr ei dnd te op ie nn fod re mnt all
+SelectedPerformanceInformation stakeholders. DNVwasnotinvolvedin
+The scopeandboundaryofourworkisrestricted tothefollowingperformance indicators(the Selected Performance 2023Energy Independence thepreparationofanystatementsor
+Information): TotalEnergyConsumption 39,190GJ dataincludedintheReportorwebsite
+DNV’sestablishedpoliciesand exceptforthisAssuranceStatement.
+EnvironmentalDataVerifiedforJanuary1sttoDecember31st, 2023 Ourcompetence,independence, FootprintSubcategory QuantityUnit p thr ao tce Dd Nu Vre ,s itsar pe erd se os nig nn ee ld anto d,e wns hu er re e
+and qualitycontrol Diesel 82Gallons applicable,othersaresubjectto
+2 • • 20 02 23 3T FooE Wotn a t ae pl tr E r eg in n ry e tr Sg uy bC co an tesu gom rp iet sion p aD D prN No pV Vc lie’ , cs d i ate u bss r lp et ea e ,sb r osali tos r heh n ee nd rd e se ls ap ai rgo n enl di ec s,i d ue w bs t h jo ea e cn e r ted n ts ourethat N Ela et cu trr ia cl itG yas 10,66 81 88 ,7M 97M kB WTU
+h
+p a rin ened qdre s uop m irne ean n did e nle btan yo ic nf re eo i lt n er he d veq aer nu pe ti er n ne et dm ti ht eie ine cn cs at e ls of w(i Dn hNc el rVu e)ding F K Ao a pr t ry ia l,n 0Td 4e to x ha ,n s 2b 0e 2h 4alfofDNVBusinessAssuranceUSA,Inc. D DNN VV BB uu sis ni en se ss As sA sus rs au nr ca en isce
+aglobal
+• TotalWaterWithdrawals independencerequirements(including requirements. Thisengagementwork providerofcertification,verification,
+personnelofotherentitiesofDNV)and OtherSources 44MMBTU wascarriedoutbyanindependent assessmentandtrainingservices,
+2 •023 ToW taa ls Wte
+asteGenerated
+m bya rin et lea vin anin td ee tp he icn ad le rn ec qe uirw eh me ere ntr se .q Tu hir ie sd t pe ra om feso sif os nu as lt sa .inabilityassurance h be ul sp inin eg sscu ps et ro fom rmer as nt co e.buildsustainable
+engagementworkwascarriedoutbyan 2023Water
+independentteamofsustainability https://www.dnv.us/assurance/
+ScopeandApproach assuranceprofessionals.DNVwasnot TotalWaterWithdrawal 2,304,343Gallons KyleSilon KarlSong
+involvedinthepreparationofanypartof
+Weperformedalimited levelassuranceengagementinaccordancewiththe LeadVerifier TechnicalReviewer
+Dayforce'sdataorreport.Thisisour
+InternationalStandardonAssuranceEngagements(ISAE)3000–‘Assurance
+EngagementsotherthanAuditsandReviewsofHistoricalFinancialInformation’ fourthyearofprovidingassurancefor 2023Waste
+Dayforce.Weadoptabalancedapproach
+(revised),issuedbythe InternationalAuditingandAssuranceStandardsBoard.This
+towardsallstakeholderswhen TotalWasteGenerated 385UStons
+s thta en ad sa sr ud rare nq ceui ere ns gath ga et mw ee ntco tom op bly taw init lh ime it th ei dc a al sr se uq ru ai nr ce em .entsandplanandperform performingourevaluation. ThisStatementisforthesoleuseandbenefitofthepartycontractingwithDNVBusinessAssuranceUSA,Inc.toproducethis
+Statement(the“Client”).AnyuseoforrelianceonthisdocumentbyanypartyotherthantheClientshallbeatthesoleriskofsuch
+DNVappliesitsownmanagementstandardsandcompliancepoliciesforquality BasisofOurConclusion party.Innoeventwill DNVor anyofitsparentoraffiliatecompanies,ortheirrespectivedirectors, officers, shareholders,employees
+control,inaccordancewith ISO/IEC17029:2019-ConformityAssessment Wearerequiredtoplanandperform ourworkinordertoconsidertheriskofmaterialmisstatementoftheSelected orsubcontractors,beliable toanyotherpartyregardinganystatements,findings,conclusionsorothercontentinthisStatement,or
+Requirementsforbodiesprovidingauditandcertificationofmanagement PerformanceInformation;ourworkincluded,butwasnotrestrictedto: foranyuseof,relianceon,accuracy,oradequacyofthisStatement.
+systems, andaccordinglymaintainsacomprehensivesystemofqualitycontrol • ConductinginterviewswithDayforce'smanagementtoobtainanunderstandingofthekeyprocesses,systemsandcontrols
+includingdocumentedpoliciesandproceduresregardingcompliancewithethical inplaceto generate,aggregateandreporttheSelectedPerformanceInformation;
+requirements,professionalstandardsandapplicablelegalandregulatory • PerforminglimitedsubstantivetestingonaselectivebasisoftheSelectedPerformanceInformationtocheck thatdatahad
+requirements. beenappropriatelymeasured,recorded,collatedandreported;
+StatementNo.DNV-2024-ASR-685285 StatementNo.DNV-2024-ASR-685285 StatementNo.DNV-2024-ASR-685285
+2024 Dayforce ESG Report 47
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+Use of Non-GAAP Financial Measures
+We use certain non-GAAP financial We define these non-GAAP financial EBITDA is net income before interest, taxes, depreciation, and amortization, and Adjusted
+measures in this report including cloud measures as follows: EBITDA is EBITDA, as adjusted to exclude share-based compensation expense and related
+annualized recurring revenue (“ARR”), employer taxes, and certain other items. Adjusted EBITDA margin is determined by calculating
+annual Dayforce revenue retention rate, and Cloud ARR is calculated by starting with the percentage that Adjusted EBITDA is of total revenue.
+Adjusted EBITDA margin. We believe that recurring revenue at year end, excluding
+these non-GAAP financial measures are revenue from Ascender, subtracting the The following table presents a reconciliation of the GAAP results to the non-GAAP financial
+useful to management and investors as an once-a-year charges, annualizing the measures EBITDA, adjusted EBITDA, and Adjusted EBITDA margin:
+indicator of customer satisfaction and future revenue for customers live for less than a full
+revenues and as supplemental measures to year to reflect the revenue that would have
+Year Ended December 31, 2023
+evaluate our overall operating performance been realized if the customer had been live
+including comparison across periods and for a full year, and adding back the once- Depreciation
+Interest Income tax Share-based Adjusted Net profit Adjusted
+Net income and EBITDA Other13
+with competitors. These non-GAAP financial a-year charges. We have not reconciled expense, net expense compensation EBITDA margin EBITDA margin
+amortization
+measures are not required by, defined Cloud ARR because there is no directly
+(Unaudited, Dollars in millions)
+under, or presented in accordance with, comparable GAAP financial measure.
+accounting principles generally accepted
+$54.8 $36.1 $41.2 $132.5 $264.6 $137.1 $8.5 $410.2 3.6% 27.1%
+in the U.S. (“GAAP”), and should not be
+considered as an alternative to our results Annual Dayforce revenue retention rate
+as reported under GAAP, have important is calculated as a percentage, excluding
+limitations as analytical tools, and our use Ascender, where the numerator is the
+of these terms may not be comparable to Dayforce ARR for the prior year, less the
+similarly titled measures of other companies Dayforce ARR from lost Dayforce customers
+in our industry.. Our presentation of non- during that year; and the denominator is the
+GAAP financial measures should not be Dayforce ARR for the prior year. We have
+construed to imply that our future results not reconciled Annual Dayforce revenue
+will be unaffected by similar items to those retention rate because there is no directly
+eliminated in this presentation. Please refer comparable GAAP financial measure.
+to Dayforce’s full financial results, including
+further discussion of non-GAAP financial
+measures, on the Investor Relations portion
+of its website at investors.dayforce.com.
+13. The Other column includes $4.7 million of restructuring consulting fees, $4.3 million related to the impact of the fair value adjustment for contingent consideration related to the
+2021 acquisition of certain assets and liabilities of DataFuzion HCM, Inc., $0.1 million related to the net impact of certain leased facilities, and $0.6 million of foreign exchange gain.
+2024 Dayforce ESG Report 48
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+About the
+Report
+Reporting Year and Scope Third-Party Assurance Forward-Looking Statements
+Unless otherwise specified, this report Dayforce engaged DNV for third-party This report contains statements, estimates, of operations, plans, objectives, future
+focuses primarily on activities during verification of our Scope 1, 2, and relevant or projections that constitute “forward- performance, and business. Forward-
+calendar year 2023. All references to a Scope 3 GHG emissions, water withdrawals, looking statements” as defined under U.S. looking statements are subject to certain
+“year" refer to calendar years. Dayforce’s waste tonnage, and energy usage for 2023. federal securities laws. All statements other risks and uncertainties that could cause
+fiscal years coincide with calendar years; Seven Scope 3 categories were included— than statements of historical fact or relating Dayforce’s actual results to differ materially
+therefore, information relating to financial Purchased Goods and Services, Fuel- to present facts or current conditions from its historical experience and present
+performance is referring to calendar and and Energy-related Activities, Upstream included in this report are forward-looking expectations or projections, including those
+fiscal years, which are the same. Transportation and Distribution, Waste statements. These statements may include risks discussed in Dayforce’s filings with
+Generated in Operations, Business Travel, words such as “anticipate,” “estimate,” the Securities and Exchange Commission
+Unless otherwise specified, the scope of this Employee Commuting and Virtual Work, “expect,” "assume", “project,” “seek,” “plan,” (the “SEC”), which are available from the
+report refers to the entirety of Dayforce’s and End-of-Life Treatment of Sold Products. “intend,” “believe,” “will,” “may,” “could,” SEC. For the reasons described above, you
+global business operations. Dayforce has The firm completed its limited assurance “continue,” “likely,” “should,” and other words should not rely on any forward-looking
+acquired a number of companies over the verification in April 2024, and a copy of its and terms of similar meaning in connection statements. Any forward-looking statement
+past few years, including Riteq in 2019, letter is available in this report’s Appendix. with any discussion of the timing or nature made by Dayforce in this report speaks only
+Excelity in 2020, and Adam HCM, Ascender, of future operating or financial performance as of the date on which it is made. Dayforce
+DataFuzion assets, and Ideal in 2021, or other events, but not all forward-looking undertakes no obligation to publicly update
+among others. Wherever applicable, data statements contain these identifying words. or revise any forward-looking statement,
+from their activity is included from their Forward-looking statements give Dayforce's whether as a result of new information,
+acquisition date onward. In several sections, current expectations and projections future developments or otherwise, except as
+information is presented relating only to relating to its financial condition, results may be required by law.
+Dayforce’s U.S. companies and those are
+referenced accordingly.
+2024 Dayforce ESG Report 49
+☰
+Our Goals Our People Governance and Trust Tech for Good Environment Our Communities Appendix and Key Data
+About Dayforce
+Dayforce is a global human capital
+management (HCM) software company.
+Dayforce, our flagship cloud HCM platform,
+provides human resources, payroll,
+benefits, workforce management, and
+talent management capabilities in a single
+solution. Our platform helps you manage the
+entire employee life cycle, from recruiting
+and onboarding, to paying people and
+developing their careers. Dayforce provides
+solutions for organizations of all sizes, from
+small businesses to global organizations.
+Makes Work Life Better
+The Dayforce brand promise is to make
+work life better. It is our purpose, and it
+embodies who we are, what we believe,
+and what we stand for. We live our promise
+and purpose by aiming to improve the work
+lives of our customers, their employees, and
+our own teams at Dayforce every day and
+with everything we do.
+2024 Dayforce ESG Report 50
+DDaayyffoorrccee mmaakkeess wwoorrkk lliiffee bbeetttteerr.. EEvveerryytthhiinngg wwee ddoo aass aa
+gglloobbaall lleeaaddeerr iinn HHCCMM tteecchhnnoollooggyy iiss ffooccuusseedd oonn iimmpprroovviinngg
+wwoorrkk ffoorr tthhoouussaannddss ooff ccuussttoommeerrss aanndd mmiilllliioonnss ooff eemmppllooyyeeeess
+aarroouunndd tthhee wwoorrlldd.. OOuurr ssiinnggllee,, gglloobbaall ppeeooppllee ppllaattffoorrmm ffoorr HHRR,,
+ppaayyrroollll,, ttaalleenntt,, wwoorrkkffoorrccee mmaannaaggeemmeenntt,, aanndd bbeenneefifittss eeqquuiippss
+DDaayyffoorrccee ccuussttoommeerrss ttoo uunnlloocckk tthheeiirr ffuullll wwoorrkkffoorrccee ppootteennttiiaall aanndd
+ooppeerraattee wwiitthh ccoonnfifiddeennccee.. TToo lleeaarrnn hhooww DDaayyffoorrccee hheellppss ccrreeaattee
+qquuaannttiififiaabbllee vvaalluuee ffoorr oorrggaanniizzaattiioonnss ooff aallll ssiizzeess aanndd iinndduussttrriieess,,
+vviissiitt ddaayyffoorrccee..ccoomm..
+ddaayyffoorrccee..ccoomm
+↗
+Contact Us
+responsibility@dayforce.com
+dayforce.com/who-we-are/corporate-responsibility
+3311 East Old Shakopee Road
+Minneapolis, MN 55425-1640
+Phone: (952) 853-8100
+©© 22002244 DDaayyffoorrccee

@@ -1,0 +1,1864 @@
+2020
+Environmental, Social
+and Governance
+REPORT
+This document contains “forward-looking statements” as defined in the Private Securities Litigation Reform Act of 1995. When Welltower uses words
+such as “may,” “will,” “intend,” “should,” “believe,” “expect,” “anticipate,” “project,” “pro forma,” “estimate” or similar expressions that do not relate
+solely to historical matters, Welltower is making forward-looking statements. Forward-looking statements, including statements related to Funds
+From Operations guidance, are not guarantees of future performance and involve risks and uncertainties that may cause Welltower’s actual results to
+differ materially from Welltower’s expectations discussed in the forward-looking statements. This may be a result of various factors, including, but not
+limited to: the successful completion of the transactions; the duration and scope of the COVID-19 pandemic; the impact of the COVID-19 pandemic
+on occupancy rates and on the operations of Welltower and its operators/tenants; actions governments take in response to the COVID-19 pandemic,
+including the introduction of public health measures and other regulations affecting Welltower’s properties and the operations of Welltower and its
+operators/tenants; uncertainty regarding the implementation and impact of the CARES Act and future stimulus or other COVID-19 relief legislation; the
+effects of health and safety measures adopted by Welltower and its operators/tenants related to the COVID-19 pandemic; increased operational costs as
+a result of health and safety measures related to COVID-19; the impact of the COVID-19 pandemic on the business and financial condition of operators/
+tenants and their ability to make payments to Welltower; disruptions to Welltower's property acquisition and disposition activity due to economic
+uncertainty caused by COVID-19; general economic uncertainty in key markets as a result of the COVID-19 pandemic and a worsening of global economic
+conditions or low levels of economic growth; the status of capital markets, including availability and cost of capital; issues facing the health care industry,
+including compliance with, and changes to, regulations and payment policies, responding to government investigations and punitive settlements and
+operators’/tenants’ difficulty in cost effectively obtaining and maintaining adequate liability and other insurance; changes in financing terms; competition
+within the health care and seniors housing industries; negative developments in the operating results or financial condition of operators/tenants,
+including, but not limited to, their ability to pay rent and repay loans; Welltower’s ability to transition or sell properties with profitable results; the failure
+to make new investments or acquisitions as and when anticipated; natural disasters and other acts of God affecting Welltower’s properties; Welltower’s
+ability to re-lease space at similar rates as vacancies occur; Welltower’s ability to timely reinvest sale proceeds at similar rates to assets sold; operator/
+tenant or joint venture partner bankruptcies or insolvencies; the cooperation of joint venture partners; government regulations affecting Medicare and
+Medicaid reimbursement rates and operational requirements; liability or contract claims by or against operators/tenants; unanticipated difficulties and/or
+expenditures relating to future investments or acquisitions; environmental laws affecting Welltower’s properties; changes in rules or practices governing
+Welltower’s financial reporting; the movement of U.S. and foreign currency exchange rates; Welltower’s ability to maintain Welltower’s qualification as a
+REIT; key management personnel recruitment and retention; and other risks described in Welltower’s reports filed from time to time with the SEC. Finally,
+Welltower undertakes no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events or
+otherwise, or to update the reasons why actual results could differ from those projected in any forward-looking statements.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES i
+Table of Contents
+1 Letter from the CEO 20 Stakeholder Engagement
+23 Industry Association Memberships
+2 COVID-19 Leadership Efforts
+24 Social
+3 About Welltower
+25 Corporate Citizenship
+5 2020 ESG Leadership
+26 The Welltower Charitable Foundation
+26 Welltower’s Human Capital
+6 A Deep Commitment
+27 Employees: Recruitment, Retention, and Development
+8 Climate Change and Risk Management
+28 Workforce Diversity and Equal Opportunity
+8 Strategy
+29 Employee Network Groups
+8 GRI Alignment
+31 Total Compensation
+8 SASB Alignment
+31 Supporting our Military
+9 Materiality
+31 Employee Demographics
+10 Sustainability Management System
+32 Health, Safety, and Wellness
+11 Environmental Impact 33 WELL+Being Program
+12 Our Goals
+34 Governance
+13 Energy and GHG Emissions
+35 ESG Governance
+15 Water Efficiency
+35 Risk Management
+15 Waste Management
+35 Cybersecurity
+16 2020 Environmental Performance Metrics
+37 Anti-Corruption
+17 Sustainable Purchasing and Supply Chain
+37 Employee Ethics
+18 Building Certifications
+18 New Development 38 Disclosures
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES ii
+Letter from the CEO
+102-12 | 102-14 | 102-20
+While the challenges of 2020 were beyond the scope of any stress
+test imaginable, glimpses of cautious optimism across the globe were
+visible as the year closed. With great conviction, we maintained our
+focus on the health and wellness of the aging population and our
+commitment to developing a more sustainable health care delivery
+infrastructure continues.
+Despite the enormous disruption caused by COVID-19 around the
+globe, we remained steadfast in our prioritization of being an exemplar
+corporate citizen. Our investors value it, our employees are driven by
+it and it is core to our value proposition. The reflection of our success
+continues to be recognized by the most prestigious environmental,
+social and governance (ESG) ratings agencies as we once again were
+admitted to the Dow Jones Sustainability World and North American
+Indices, the Bloomberg Gender-Equality Index, and the S&P Global
+Sustainability Yearbook. And, the recognition does not stop there. In
+2020, we prioritized increasing our sustainability dataset by working
+in partnership with medical office teams and senior housing operators
+to better drive energy efficiency across our portfolio and help track
+In sharing Welltower’s 2020 Environmental, Social and Governance
+progress towards our sustainability goals for a 10% reduction in
+Report I want to thank the Welltower team members around the
+greenhouse gas emissions, energy and water use by 2025. As a result
+world whose talent and commitment to our mission drove the
+of these efforts, we were honored for the second time as an ENERGY
+impact we made this past year despite the challenges posed by a
+STAR® Partner and a Green Lease Leader Gold Recognition for the
+global pandemic. I look forward to a period of long-term growth
+execution of our continued commitment to high performing and
+in the better days ahead while maintaining our commitment to the
+sustainable buildings.
+highest ESG standards.
+While we are proud of these accomplishments, our work here
+is ongoing, and our goals are ambitious. As I’ve said in the past,
+the diversity of our employee base, our leadership team and our
+Board continues to be a priority at Welltower. This is not only a key
+Shankh Mitra
+component of good governance, but it is a proven driver of higher
+CEO and CIO, Welltower Inc.
+returns to shareholders.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 1
+COVID-19 Leadership Efforts
+As a health care REIT, the impact of COVID-19 on the health and well- Medical Office Building (MOB) Essential Employees
+being of our senior living residents, employees, medical office tenants
+• Regularly conducted outreach to our MOB tenants to monitor and
+and visitors and the broader population has been a primary focus for
+respond to needs including implementing protocols that support
+Welltower. Since 2018, Welltower has engaged with the University of
+social distancing
+California, San Francisco Health System to advise our operating partners
+on the most current evidence-based patient and caregiver flu protocols. • Provided COVID training, enhanced PPE, and employee
+In 2020, this collaboration expanded to focus on the COVID-19 response healthcare monitoring
+and served as a key pillar of support to our employees and operators • Implemented alternative work schedules and procedures to
+as the world navigated through this unprecedented viral outbreak. Our
+increase social distancing
+response to the pandemic prioritized the health of our stakeholders and
+• Deferred non-essential activities, adjusted facility critical and
+emphasized infection control through the following measures:
+maintenance work to non-business hours and enhanced monitoring of
+mechanical plant and equipment remotely, limiting exposure between
+Seniors Housing Operators
+individuals while maintaining support of both patient care and
+• Distributed over 1.7 million units of personal protective equipment
+building operations
+(PPE) to over 25 seniors housing and post-acute operators and
+three health systems MOB Properties
+• Hosted informational sessions for our operators to hear experts provide
+• Increased custodial scopes to proper cleaning procedures built from
+best practice guidance on topics including COVID testing, inter-facility
+EPA and CDC guidance on approved products and methods
+transfers, use of PPE, therapeutics, and the vaccine pipeline
+• Enhanced facility performance following detailed guidance issued by
+• Distributed our “ENERGY STAR® Senior Living – Energy Matters for
+ASHE and ASHRAE on increased ventilation, filtration, cleaning, air
+Resident Health” resource to our seniors housing operators so they
+distribution and HVAC operations
+would be better informed on how maintenance decisions affect the
+• Temporarily suspended amenities with high contact frequency or
+health and comfort of residents
+replaced them with alternatives
+Corporate Employees • Placed signage to provide guidance and enhance social distancing
+• Shifted to a flexible working schedule that included work from home
+arrangements and a $300 equipment stipend for corporate employees
+• Distributed employee engagement surveys to review and establish best
+practices for our workforce and establish a return to office strategy
+• Shifted to a hybrid model for a return to the office, as the result of
+employee surveys, where employees both work from home and in
+the office
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 2
+ABOUT
+Welltower
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 3
+About Welltower
+World’s largest health and
+102-1 | 102-2 | 102-3 | 102-4 | 102-5 | 102-6 | 102-7 | 201-1 | 203-2
+wellness real estate platform
+Welltower is a Real Estate Investment Trust (REIT) that provides
+$41B $4.6B $1.6B
+real estate capital to leading seniors housing operators, post-acute
+care providers, and health systems. Headquartered in Toledo, Ohio, ENTERPRISE IN 2020 IN STRATEGIC
+Welltower has become known for its unparalleled relationship network VALUE REVENUE INVESTMENTS
+and premier-quality health care real estate portfolio. Owning the finest
+assets and working with the best health care providers is simple in 1,300+ 368
+concept but demanding in execution. Over more than 40 years of
+SENIORS HOUSING OUTPATIENT
+investing exclusively in health care real estate, Welltower has built unique COMMUNITIES MEDICAL FACILITIES
+capabilities and the industry’s best team.
+84% 9% 7%
+By delivering a built environment focused on maintaining and enhancing
+the social determinants of health for aging and other at-risk populations, LOCATED IN LOCATED IN LOCATED IN
+THE U.S. CANADA THE U.K.
+Welltower is successfully delivering on a long-term plan that achieves
+industry leading financial performance and builds shareholder value while
+21% 500 BBB+/Baa1
+positively impacting some of today’s most pressing societal challenges
+as we witness exponential growth in the 80+ year old population. FIVE YEAR S&P STRONG
+TOTAL RETURN BALANCE SHEET
+199
+CONSECUTIVE QUARTERLY DIVIDEND PAYMENTS TO
+SHAREHOLDERS SINCE INCEPTION
+20.2M+ 232K+
+OUTPATIENT SENIORS HOUSING
+MEDICAL VISITS RESIDENTS
+$223.5M 108K+
+PROPERTY TAXES HEALTH CARE
+PAID IN 2020 PROFESSIONALS
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 4
+2020 ESG LEADERSHIP
+SUSTAINABILITY WORLD INDEX
+Since 2018 PARTNER OF THE YEAR
+Since 2019
+NORTH AMERICAN INDEX
+Since 2016
+GREEN LEASE LEADER GOLD LEVEL
+GENDER EQUALITY INDEX
+2020
+Since 2019
+by the Institute for Market Transformation
+and the U.S. Department of Energy’s Better
+Buildings Alliance, after several prior years of
+repeated recognition
+2020 EDITION OF THE
+SUSTAINABILITY YEARBOOK
+Since 2018
+TOP 20 PERCENT OF
+AMERICA’S MOST RESPONSIBLE
+PART OF THE FTSE4Good INDEX
+COMPANIES LIST
+Since 2012
+Since 2019
+a series of investment stock indices that
+measure the performance of companies
+demonstrating strong ESG practices
+21ST ANNUAL 100 BEST
+MAINTAINED PRIME STATUS CORPORATE CITIZENS LIST
+UNDER THE ISS-ESG Since 2019
+CORPORATE RATING
+Since 2019
+MANAGEMENT BAND LEVEL WORKPLACE HEALTH
+“B” SCORE ACHIEVEMENT INDEX
+for taking coordinated action Since 2018
+on climate issues
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 5
+A DEEP
+Commitment
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 6
+A Deep Commitment
+Providing the infrastructure to promote health
+102-16 and wellbeing for all ages, including the growing
+80+ demographic served by our valued operating
+partners across our senior living communities.
+Our journey and success to date are based on a deep commitment
+that embedding environmental, social and governance strategies and
+best practices into our business are critical to retaining the standard Empowering women in the workplace
+of excellence of our portfolio and driving value for all Welltower through creative programs that build
+stakeholders. In 2020, Welltower expanded our ESG goals to extend networks, provide mentorship, and offer
+to executive leadership team performance and increased ESG team career building training opportunities.
+staffing through the addition of a full time ESG Analyst to support
+the AVP of Sustainability and ESG. Our increased ESG staffing has
+Providing equitable job opportunities across the
+contributed to the improved sustainability data coverage across our
+country throughout Welltower operations as
+portfolio and the development of a Sustainability Management System
+well as the many vendors, suppliers, and health
+and ESG dashboard to continuously track and monitor our progress.
+care professionals that work in our buildings.
+We are proud to align with the leading industry standards, such
+as the United Nations Sustainable Development Goals (SDGs), Developing modern and resilient properties
+Global Reporting Initiative (GRI), Sustainable Accounting Standards that are sustainable for the environment and
+Board (SASB), and the Task Force on Climate-related Financial incorporate strategies for improved occupant
+Disclosures (TCFD), that help guide and ensure our continued growth, health and wellness.
+accountability, and transparency.
+The UN SDGs provide an important universal call for action with their Reducing the amount of waste sent to
+17 Goals to Transform Our World. Our ESG commitment and work landfills through recycling programs and
+aligns seamlessly with six of these goals, while helping us to deliver responsible purchasing.
+excellence, improve lives, and protect the environment.
+Increasing efficiency, reducing consumption,
+and using green power.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 7
+CLIMATE CHANGE AND RISK MANAGEMENT 102-15 | 201-2 Transitional Risk
+Transitional risks for Welltower include increasing energy and carbon
+Welltower is committed to identifying,
+policy and legislation across the U.S., Canada, and the U.K. as well as
+mitigating, and managing the risks of
+reputational risk and evolving customer and investor preference for
+climate change. This requires strategic
+doing business with companies that are more sustainable. Welltower
+oversight, evaluation, action, and transparency. As such, Welltower is
+mitigates policy risk by reviewing annually the policy and legislative
+aligned with the Task Force on Climate-related Financial Disclosures
+requirements for the portfolio and ensuring compliance. We also work
+(TCFD) to help guide our climate risk strategy to identify, manage, and
+to proactively reduce energy usage and GHG emissions in our buildings
+disclose climate risks and opportunities. The TCFD Index can be found
+while increasing building value for our stakeholders.
+on page 39.
+Governance and Risk Management Process Metrics and Targets
+To ensure Welltower’s Board of Directors and Company management The key metric and target related to Welltower’s climate related risks
+play a role in assessing and managing climate-related risks and
+includes the tracking of Scope 1, Scope 2, and Scope 3 greenhouse
+opportunities, Welltower has an established Enterprise Risk Management
+gas emissions for the entire portfolio, estimating usage data where it is
+(ERM) program that includes a committee made up of cross-functional
+not feasible to collect. Welltower has a goal to reduce greenhouse gas
+management personnel. This team reaches out consistently to each
+emissions, energy, and water usage 10% by 2025 over a 2018 baseline.
+functional team, including ESG, about their most relevant risks and
+conducts meetings with them to discuss the magnitude of the risk and
+GRI ALIGNMENT
+related mitigation strategies. Once a strategy is prepared, it is presented
+to the Board of Directors for its ultimate oversight. The Assistant
+This ESG Report has been prepared in accordance with
+Vice President of Sustainability and ESG is actively involved in the
+the GRI Standards: Core option. Welltower’s dedication
+risk identification process, participation in the ERM program, and the
+to furthering our ESG program includes alignment in this
+presentation of climate risk information to the Board of Directors.
+globally recognized reporting framework utilized by the
+world’s largest companies. The GRI Index can be found
+STRATEGY
+on pages 43-51.
+Physical Risk
+Key physical risks related to climate change that have been identified to SASB ALIGNMENT
+date include extreme variability in weather patterns, increased severity
+Welltower also ensures this ESG report is in alignment
+of weather events, and the impacts of rising sea levels. All these risks
+with the Sustainability Accounting Standards Board
+carry the potential impact of property damage/loss. An inherent strategy
+for mitigating climate risk is the diversified footprint of the Welltower (SASB) to ensure financial responsibility on issues
+portfolio. As such, there is limited exposure to coastal and other high- material to our Company and our mission. The SASB
+risk areas, indicating a low level of climate change risk for the portfolio. Index can be found on pages 40-42.
+In addition to having a diversified portfolio that helps mitigate climate-
+related risks, our portfolio-level assessment helps inform our long-term
+strategy and we have begun conducting climate risk assessment at the
+individual asset level.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 8
+MATERIALITY
+102-12 | 102-21 | 102-42 | 102-43 | 102-44 | 102-45 | 102-46 | 102-47 | 102-56
+ECONOMIC
+Priority Topics List of GRI Indicators Aspect Boundary
+Based on our existing comprehensive analysis, we
+Economic 201-1 Direct economic value Within organization
+ensure continued alignment with the expectations of our
+performance generated and distributed
+stakeholders, the demands of our business, and enhanced
+Anti-corruption 205-3 Confirmed incidents of Within organization
+sustainability reporting. We identified a wider range of priority
+corruption and actions taken
+topics in comparison to previous years, a move which reflects
+the inclusivity of our stakeholder engagement process and
+our desire to report in a transparent manner. To ensure the
+completeness of our materiality assessment, we reached
+out to a wide variety of internal and external stakeholders
+to gather a broad oversight of sustainability topics relevant
+ENVIRONMENTAL
+to Welltower and our industry. We leveraged our in-house
+Priority Topics List of GRI Indicators Aspect Boundary
+sustainability expertise, consulted with our technical staff,
+Energy 302-1 Energy consumption within Common areas of
+senior management, employees, and external consultants,
+the organization properties with
+and undertook desk-based assessments of industry trends,
+operational control
+Water 303-1 Water withdrawal
+reporting mechanisms, and peers in the REIT industry. We
+by source
+integrated observations from internal engagements with the
+views of our external stakeholders through a series of formal
+and informal mechanisms, including collecting feedback from
+tenants and operating partners through regular meetings
+and interactions, periodic surveys, and our Welltower
+Collaborative, which is an exclusive forum that brings our SOCIAL
+operating partners together on an annual basis to share Priority Topics List of GRI Indicators Aspect Boundary
+best practices and present new ideas and technologies. The
+Occupational 403-1 Workers' representation in Within organization and
+output of this process was a broad list of topics relevant to the health and safety formal joint management-worker tenants
+economic, environmental and social impacts of our business. health and safety committees
+We undertook a prioritization process, drawing on internal Training and 404-1 Average hours of training Within organization
+and external expertise to define a list of priority topics. For education per year per employee
+these topics, objectives have been set to support continued Socio-economic 419-1 Non-compliance with laws Within organization
+management and improved performance in these areas. The compliance and regulations in the social and
+economic area
+topics identified through this process are:
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 9
+SUSTAINABILITY MANAGEMENT SYSTEM
+Welltower established a Sustainability Management System (SMS)
+as the framework to drive value and results through improved
+ESG performance while mitigating many risks such as regulatory
+compliance, functional obsolescence, climate, reputational, and
+down cycle valuation. The SMS is part of our commitment to
+continuous process improvement in ESG best practices most
+fundamental to our business strategy, our employees, investors,
+tenants, and key stakeholders in the communities in which we
+reside and invest. This SMS has been designed and implemented
+in general alignment with the International Organization for
+ACT PLAN
+Standardization (ISO) 14001 & 50001 standards in addition to the
+ENERGY STAR® Guidelines for Energy Management and follows
+the “Plan-Do-Check-Act” model:
+• PLAN: Making a commitment, assessing current sustainability
+performance status, setting ESG goals and creating a
+CONTINUOUS
+comprehensive ESG strategy and action plan
+IMPROVEMENT
+• DO: Implementing the action plan that includes
+ESG training, sustainability project pilots, roll out of proven
+projects, stakeholder communication, and the Welltower
+Performance Playbook
+CHECK DO
+• CHECK: Evaluating progress to track and monitor
+performance results, including benchmarking in ENERGY
+STAR® Portfolio Manager® and ESG dashboard
+• ACT: Recognizing achievements and celebrating successes
+while identifying areas for improvement and adjusting course
+as needed
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 10
+ENVIRONMENTAL
+Impact
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 11
+Environmental Impact
+103-1 | 103-2 | 103-3 | 302-1 | 302-3 | 302-4 | 305-1 | 305-2 | 305-3 | 305-4 | 305-5
+There is a critical interdependence between human health and the health of
+our planet, driving our deep commitment to incorporating environmentally
+friendly strategies, technologies, and best practices in our real estate
+portfolio. We strive to reduce our environmental impact through tracking
+utility consumption, implementing efficiency measures and projects to
+reduce consumption and GHG emissions, and incorporating renewable
+energy strategies such as green power purchasing.
+OUR GOALS
+In 2020 we increased data coverage across our portfolio in order to further
+support our environmental goals with an evolved, comprehensive dataset
+that better reflects Welltower’s portfolio and program evolution. Improved
+data collection capabilities are possible through our valued partnership
+with our seniors housing operators and medical office building teams who
+support this effort. Our environmental goals provide a broader and more
+inclusive representation of our portfolio:
+10% Reduction in Greenhouse Gas Emissions and
+Energy and Water Usage by 2025 over a 2018 Baseline
+Our reporting framework for these goals is based on a financial control
+boundary and includes all outpatient medical properties and all seniors
+housing communities owned and operated under a joint venture.
+Welltower-owned senior living communities and medical office buildings
+operating under a triple-net lease structure will be considered out of the
+financial control boundary and included as Scope 3 emissions data only.
+Data is collected from all properties and estimated where collection is
+not feasible.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 12
+ENERGY AND GHG EMISSIONS 302-5 | 305-7
+Welltower is committed to reducing our energy usage and greenhouse Belmont Village Senior Living
+gas emissions through the direct operations of our outpatient medical
+facilities and operational influence of our seniors housing portfolio. We
+utilize ENERGY STAR® Guidelines for Energy Management to facilitate
+continuous improvement as part of our commitment to excellence in
+energy performance.
+Welltower is a proud ENERGY STAR® partner
+and was named a 2020 ENERGY STAR®
+Partner of the Year for the second year in a
+row, EPA’s signature recognition that
+distinguishes corporate energy management programs which
+demonstrate a commitment to organization-wide environmental best
+practices and energy savings. This recognition demonstrates our ongoing
+commitment to excellence in energy performance and our dedication to
+the development of extraordinary homes for seniors and sustainable
+health care infrastructure.
+Welltower facilitated the feature of one of our operating
+A key strategy for driving successful outcomes that help us meet our
+partners, Belmont Village Senior Living, in Argentum’s
+reduction goals is tracking environmental performance. We utilize
+ENERGY STAR® Senior Living Toolkit that was released
+ENERGY STAR® Portfolio Manager® to benchmark our outpatient
+in 2020. Argentum is the leading national association
+medical properties under operational control and we highly encourage
+dedicated to supporting companies operating professionally
+our senior living operating partners to utilize the tool to benchmark
+managed senior living communities. The case study features
+their performance as well. We are currently updating our benchmarking
+one of our properties, West University, and its success as
+processes for our managed medical office portfolio and increasing
+an ENERGY STAR® certified community for the past five
+training for our medical office property teams so that when the ENERGY
+years. The case study explains how ENERGY STAR® Portfolio
+STAR® medical office building certification is relaunched in 2021, our
+Manager® is critical for helping Belmont Village monitor
+proactive benchmarking efforts will allow us to certify several buildings.
+property-by-property progress towards their energy, water,
+and waste reduction goals. The case study also features that
+In 2020, Welltower's ESG team hosted engagement sessions with both
+on average, Belmont Village’s buildings are using 35% less
+our seniors housing operators and our medical office property teams.
+energy compared to similar buildings.
+The ESG team trained operators and the medical office property team on
+how to use ENERGY STAR® Portfolio Manager®, the benefits of using the
+platform, and provided additional materials for training support.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 13
+Efficiency Upgrades
+In addition to benchmarking performance, we strategically invest in
+Renewable Energy Buyers Alliance
+energy reduction projects that make good business sense for our
+outpatient medical portfolio. We provide sustainable purchasing
+throughout our seniors housing portfolio so we can create exceptional
+spaces for tenants and residents while helping the environment.
+One of the most significant efficiency upgrades directly associated
+with reduced GHG emissions is our LED Retrofit program. In addition
+to the environmental benefits, LED retrofits provide enhanced lighting
+for patients and visitors in our outpatient medical facilities as well
+as for our senior living residents. With a focus on increasing lumens
+when necessary, eliminating shadowing, and putting the right color
+temperatures in the right spaces, this program has the potential to
+not only reduce costs and our environmental footprint, but also to
+improve daily lives of senior living residents. Working with supplier and
+partner Greenleaf Energy Solutions, Welltower has facilitated 367 LED
+retrofit projects to date totaling over $35M in investment, generating an
+estimated $7.2M in operational cost savings with a return on investment
+In 2020 Welltower joined the Renewable Energy Buyers
+of under five years.
+Alliance (REBA), which was founded with support from
+some of the largest companies in the United States to
+help large energy buyers drive the transition towards
+Procurement and Renewables
+a zero-carbon energy system with a viable path for
+every organization to procure clean energy. Through its
+We treat energy as a controllable expense resulting in our active
+efforts, REBA intends to bring more than 60 gigawatts of
+management and negotiation of energy rates and considerable efforts to
+renewables online in the United States by 2025. Welltower
+reduce our environmental impact through the procurement of renewable
+is proud to join REBA and the largest group of corporate
+energy. Welltower is an EPA Green Power Partner, showcasing our efforts
+renewable energy buyers in the United States and
+to use renewable energy, support of the development of new renewable
+contribute to the mission of creating an easy, cost-effective
+generation capacity throughout the U.S. and protect the environment.
+path to buying renewable energy in a resilient carbon-free
+Through green power contracts and on-site solar generation, we used
+energy system.
+over 33,00,000 kilowatt-hours of green power across our portfolio last
+year, which is the equivalent to over 58.7 million miles driven by the
+average passenger vehicle.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 14
+WATER EFFICIENCY
+Green Bond
+103-1 | 103-2 | 103-3 | 303-1 | 303-5
+Since becoming the first U.S. health
+care REIT to successfully complete a
+Welltower manages water use through a responsible model that consists public green bond offering, Welltower
+of benchmarking usage, monitoring usage trends, and utilizing low-flow has begun expanding green projects
+and high-efficiency fixtures and equipment. While our strategy includes all from the offering's net proceeds in
+properties within our financial control boundary, our strong relationships order to add sustainable value across
+with operating partners outside of our operational control allow us to our portfolio. Eligible projects are
+encourage and support them in their water management efforts. selected by members of Welltower’s
+Green Bond Committee, consisting
+Efficiency Projects of sustainability, capital markets,
+investments, and treasury functions and in compliance with our
+Water use throughout our portfolio primarily consists of domestic
+water and irrigation. Recent projects to address water efficiency include third-party reviewed Green Bond Framework. Our first Green Bond
+planting drought tolerant landscaping, installing drip irrigation systems, Allocation Report on proceeds utilized to date of $104.5 million
+and installing leak detection technology, allowing us to: include these eligible project highlights:
+• Monitor domestic water and irrigation leaks through slow leak and
+• Financing or refinancing of properties which have or
+high usage alerts
+are anticipating high-level green building certification or
+• Check equipment and fixtures to resolve leaks in a timely manner
+energy rating
+• Avoid extra costs on water bills because of early leak detection
+• Energy and water efficiency upgrades designed to have
+25% or higher efficiency gain, including LED lighting,
+WASTE MANAGEMENT HVAC and chiller replacements, irrigation systems, and
+installation of low flow fixtures
+103-1 | 103-2 | 103-3 | 306-2
+USE OF PROCEEDS
+Welltower is committed to comprehensive waste management through
+numerous ongoing efforts, such as reducing landfill waste, increasing
+recycling capabilities and rates, and making responsible purchasing
+decisions that consider product lifecycle. All medical office buildings
+within our operational control have recycling programs, and we continue Green Buildings Water Efficiency Energy Efficiency
+to engage our senior living operating partners to educate and encourage
+responsible waste management and diversion.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 15
+2020 ENVIRONMENTAL PERFORMANCE METRICS
+4.9% SCOPE 1 AND 2 GHG EMISSIONS REDUCTION OVER 2018 BASELINE
+Our benchmarking efforts, ongoing assessment of property
+performance, and implementation of energy and water efficiency and
+waste reduction strategies contribute to our goals of reducing energy 3.5% CONTROL BOUNDARY ENERGY SAVED OVER 2018 BASELINE
+and water consumption and costs, landfill waste, and greenhouse gas
+emissions. The full disclosure of all performance data and metrics can
+be found on pages 52-53. 12.1% CONTROL BOUNDARY WATER SAVED OVER 2018 BASELINE
+367 LED RETROFIT PROJECTS COMPLETED TO DATE
+Waste and Recycling Generation (tons)
+(Control Boundary)
+$7.2M ESTIMATED ENERGY SAVINGS FROM LED RETROFITS TO DATE
+2018 2019 2020
+Waste 33,573 30,023 26,449
+307 ENERGY, WATER, AND WASTE EFFICIENCY PROJECTS IMPLEMENTED
+Recycling 7,258 6,055 5,998
+Intensity Metrics
+% CHANGE OVER % CHANGE FROM
+2018 2019 2020
+2018 BASELINE 2019 TO 2020
+Scope 1 & 2 GHG Emissions* (MTCOe/1,000 sqft) 6.40 6.44 6.08 -4.9% -5.6%
+2
+Total Portfolio Energy (kBtu/sqft) 83.05 84.04 84.32 1.5% 0.3%
+Total Energy in Control Boundary (kBtu/sqft) 81.63 80.08 78.79 -3.5% -1.6%
+Total Portfolio Water (gallons/sqft) 50.00 53.00 50.00 0.1% -5.6%
+Total Water in Control Boundary (gallons/sqft) 40.00 38.00 36.00 -12.1% -7.2%
+* The floor area used to calculate the Scopes 1 & 2 emissions intensities and the total portfolio energy intensity is weighted for the time each property was operational during that reporting year.
+For example, if an asset was purchased in March 2020, we would estimate its energy consumption for the days owned between March 2020 and 12/31/2020, not the whole year. By applying the
+same coefficient (days owned in year / days in year) to the floor area, we are adjusting for properties that were acquired or disposed throughout the year.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 16
+SUSTAINABLE PURCHASING AND SUPPLY CHAIN
+102-9 | 102-10 | 308-1 A Beneficial Partnership
+Strategic supplier partnerships help Welltower drive
+Purchasing is an important piece of our responsible waste sustainability throughout its portfolio, reduce supply chain
+management strategy. Through prioritizing purchases that have various risk, and facilitate purchasing of environmentally preferred
+environmentally friendly characteristics, there is an embedded reduced products. A great example is the partnership with Shaw
+environmental impact as well as a greater opportunity for responsible Flooring. Welltower has partnered with Shaw to purchase
+end of life disposal. Welltower has developed partnerships with key Cradle to Cradle (C2C) carpet products that are 100%
+vendors in our supply chain who have inherent sustainable business recyclable with guaranteed collection and recycling by Shaw,
+models, which provides great opportunities for utilization of sustainable have no C2C banned list ingredients, and do not contain
+products throughout our medical office portfolio. In 2020, Welltower any chemicals known to pose risk to human health and the
+surveyed 13 of our top suppliers. Out of the suppliers who responded to greater ecosystem.
+our questionnaire, no risks were identified.
+To further Welltower’s commitment to responsible purchasing, these MEASURABLE PURCHASING IMPACTS
+relationships have been extended to the seniors housing operating 332,838 sq ft C2C Carpet Tile in 2020
+partners through the Welltower Advisory Services program, an initiative totaling 1,123,110 sq ft since 2017
+created to actively seek services on behalf of our operating partners to
+lower costs, improve services, reduce risk, and improve sustainability
+throughout the entire Welltower portfolio. By selecting sustainable 202,900 Pounds
+vendors offering superior pricing and/or services, Welltower drives
+OF CARPET DIVERTED FROM LANDFILL IN 2020
+participation and utilization. This collaborative effort helps to ensure that
+our senior living communities have these sustainable vendors available to
+2,350 Gallons
+them at a preferred price point while simultaneously helping Welltower
+and the vendors meet sustainability goals. OF GAS SAVED
+ENOUGH TO DRIVE AN AVERAGE CAR FOR 50,300 MILES
+100% purchasing of ENERGY STAR® computers
+46,100 Pounds
+$306,879 sustainable building supply OF CO EMISSIONS PREVENTED
+2
+purchases, 14% of total spend EQUIVALENT TO PLANTING 17 ACRES OF TREES
+58% of office supply spend is eco-friendly
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 17
+BUILDING CERTIFICATIONS NEW DEVELOPMENT
+103-1 | 103-2 | 103-3 203-1 | 304-2
+Providing high-quality and affordable health care to an aging global
+population requires vast investments and infrastructure development.
+Providing new development financing is a key investment strategy to
+6 LEED® attain this goal, so Welltower works closely with partners to fund the
+certified properties construction of properties.
+While Welltower’s control over new development project criteria
+is often limited, Welltower strives to build state-of-the-art facilities
+that are environmentally friendly and promote health and wellness
+for occupants. We seek to develop in large metro areas, allowing us
+4 BREEAM® Property
+to take advantage of existing infrastructure and minimize effects on
+certifications
+surrounding biodiversity. Additionally, regardless of their location,
+our development projects assess and strive to conserve and maintain
+the biodiversity/ecosystem so that our impact is minimized. Through
+Welltower's Building Standards program, we incorporate energy and
+water efficient equipment like high-efficiency lighting and low-flow
+23 IREM® Certified Sustainable
+fixtures in our new developments. We also consider human health and
+Property certifications
+wellbeing in our spaces, including measures such as using materials and
+finishes that are low emitting to enhance indoor air quality.
+31 ENERGY STAR®
+certified properties
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 18
+The Balfour at Brookline
+Located in the historic 1896 colonial/classical revival style building now known as
+Mitton House, The Balfour at Brookline will open in 2023 in Brookline, Massachusetts.
+Attention to the smallest of details will be paid when it comes to integrating locally
+inspired, award-winning design into this community’s accommodations, amenities, and
+services in a continuum of care for seniors in the Brookline and Metropolitan Boston
+area. The Balfour at Brookline is pursuing LEED Gold certification through innovative
+design that integrates environmental and health benefits throughout the construction
+process. Sustainable attributes include:
+• High efficiency HVAC, appliances, and plumbing fixtures that save energy and water
+• Solar ready rooftop built with renewable energy in mind
+• 40% of open space with native plants and pollinator-friendly landscaping
+• 15% of parking equipped with electric vehicle charging stations, above the
+2% requirement
+• Subsidized public transportation and employee shuttles to the nearest subway station
+Creating an Inclusive Local Economy
+Our development firm partners are committed to the growth and development of
+Minority owned and Women owned business enterprises (MBE/WBE) through the
+implementation of an effective outreach and engagement plan and policies and
+procedures in the procurement and delivery of preconstruction and construction
+management services on The Balfour at Brookline project. This includes setting
+objectives with measurable outcomes to utilize MBE/WBE in the Greater Boston
+area through their Partner Accelerator Program. This program incorporates a
+defined outreach plan with existing and new contacts including the Brookline
+Office of Diversity, Inclusion and Community Relations, and other local and statewide
+government offices, nonprofits, and trade associations committed to supporting the
+economic enfranchisement of minority groups and women. As part of the
+engagement process the project team offered trade partner training, development,
+and support, including additional assistance for contractors needing preparation for
+MBE/WBE certification if they did not already have it.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 19
+STAKEHOLDER
+Engagement
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 20
+Stakeholder Engagement
+102-40 | 102-42 | 102-43
+Welltower works together with both internal and external stakeholders to understand and implement the most effective engagement strategy for each
+stakeholder group to meet their expectations. The following chart outlines how we engage with each stakeholder group in order to best gather and
+incorporate stakeholder views when reviewing operational issues, identifying material topics, and developing our services.
+STAKEHOLDER ENGAGEMENT METHOD
+Employees • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Financial data and reports, Welltower Code of
+Business Conduct and Ethics, white papers)
+• Communication and engagement tools (i.e., Periodic employee surveys, dedicated internal communication platform, all staff
+meetings, New Hire Onboarding on ESG, and periodic podcasts that communicate accomplishments, current projects, and
+helpful tips)
+• Reporting channels (i.e., Whistleblowing, Governance Hotline)
+• Workshops and training sessions
+Tenants and • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Quarterly Newsletters, Financial data and reports,
+Operating Green tenant improvement guidelines)
+Partners • Utilization of green lease
+• Communication and engagement tools (i.e., newsletters and the Performance Playbook - an innovative and comprehensive
+efficiency tool for seniors housing operating partners)
+• Events throughout year around a variety of topics (i.e., energy efficiency, waste reduction and water conservation)
+• Joint initiatives (i.e., Welltower Advisory Services – a mechanism that brings our operating partners together to share best
+practices, build networks and plans for the future)
+Investors • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Financial data and reports, press releases,
+and Financial white papers)
+Community • Periodic face-to-face discussions and meetings, conferences, and roadshows
+• Reporting channels (i.e., Governance Hotline)
+• Participation in investor ESG surveys and responding to ESG-related requests
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 21
+STAKEHOLDER ENGAGEMENT METHOD
+Supply Chain • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Financial data and reports, press releases,
+white papers)
+• Quarterly business review meetings with key national suppliers
+• U.K. Modern Slavery and human trafficking statement
+• Communication and engagement tools
+• Sustainability Survey, the biennial Vendor Evaluation questionnaire to measure vendor risk and opportunities
+Local • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Financial data and reports, press releases,
+Community white papers)
+Partners • Participation in events (i.e., use of Welltower’s properties for local community events)
+Agents and • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Financial data and reports, press releases,
+Consultants white papers)
+• Periodic face-to-face discussions and meetings
+Government • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Financial data and reports, press releases,
+Agencies white papers)
+• Responding to Government consultations
+• Meeting municipality requests which result in cost savings for Welltower and operators
+• Advisory panels and focus groups (i.e., working with regulatory bodies, local authorities, officers and members on a wide range
+of topics, such as local and state planning and policy development)
+Industry Peers • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Financial data and reports, press releases,
+white papers)
+• Participation in multi-stakeholder forums and roundtables
+• Participation and presentations at industry-wide events and conferences
+• Participation in industry joint initiatives
+• Trade and industry association leadership
+Sustainability • Publications and Policies (i.e., ESG website, Annual Welltower ESG report, Financial data and reports, press releases)
+Ranking • Participation in ESG indices (such as CDP, DJSI, and GRESB)
+Organizations • Responding to ESG rating (ISS, MSCI, and Sustainalytics)
+Any grievances relating to stakeholder engagement may be raised and communicated to: sustainability@welltower.com.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 22
+A Performance Playbook INDUSTRY ASSOCIATION MEMBERSHIPS
+To engage our seniors housing operators we
+102-13
+utilize the "Performance Playbook: A Guide for
+Seniors Housing Efficiency and Excellence,"
+user-friendly tool and resource to help our As an industry leader, we value our roles and affiliations with key
+senior living operators find ways to reduce industry organizations and partners that challenge us, educate us, and
+utility costs, increase NOI, and enhance the provide meaningful engagement with peers. Welltower is a member of
+comfort of residents, visitors, and staff. the following industry associations at both the company and employee
+level, including donations of time and membership funds totaling over
+In 2020, we finalized tailored versions of the $550,000 in 2020.
+Playbook for our seniors housing properties in the United Kingdom, and
+plan to finalize a version for all medical office building properties. Each
+section contains a simple overview, links to additional resources, and a
+printable Action Plan to implement effective strategies at their community.
+When new managers or operators join us, we provide customized training
+on benchmarking their properties in ENERGY STAR® Portfolio Manager®
+and access to the Playbook resource so they can get involved with our
+efficiency initiatives immediately. In 2020, we continued to distribute our
+Playbook for our operators to utilize and further created an international
+version that was shared with our operators in the U.K. Engaging our
+managers and operators to track and analyze energy, water, and waste
+data for our medical office buildings and senior living communities allows
+us to increase benchmarking efforts for properties within and outside
+our control, creating a more holistic picture of performance across our
+portfolio.
+Connecting through Virtual Trivia Nights
+With the onset of COVID-19 and the subsequent shift to a work-from-
+home setting, Welltower’s Cultural Committee launched Trivia Nights
+to boost employee engagement and enhance connectivity. Employees
+from all of our offices were invited to form teams and partake in a night
+of fun, with each member of the winning group taking home a prize
+and bragging rights. The Trivia Nights were hosted in partnership with
+Welltower’s wellness program, WELL+Being, and questions were focused
+on promoting health and wellness knowledge among employees.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 23
+SOCIAL
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 24
+Social
+103-1 | 103-2 | 103-3
+Wellness Focused through welltowerLIVING™
+In 2020 we fully launched welltowerLIVING™, a wellness focused
+CORPORATE CITIZENSHIP housing concept for residents aged 55 and over aimed to fulfill the
+unmet need for purpose-built wellness and social focused private-
+103-1 | 103-2 | 103-3 pay housing that is affordable for moderate income seniors, many
+of whom will be Medicare eligible. The growing population of
+aging adults is expected to create significant demand for housing
+Over 70% of seniors live on an income of less than $50,000 per year. By
+options across all income levels, and welltowerLIVING delivers
+delivering a built environment focused on maintaining and enhancing
+a long-term solution through a a wellness-oriented, congregate
+the social determinants of health for aging and other at-risk populations,
+living community model designed with ADA compliant features,
+Welltower is delivering on a long-term plan that achieves industry
+community gathering spaces, and affordable monthly rents.
+leading financial performance and builds shareholder value while
+positively impacting some of today’s most pressing societal challenges,
+including affordable housing and accessible healthcare for seniors.
+Welltower is addressing societal issues for
+senior citizens, including isolation,
+homelessness, and access to care.
+Initiatives include
+• Facilitate Provider Sponsored Health Plans to enable a
+comprehensive clinical and social wellness platform in the
+residential setting
+• Encourage and connect providers to enable on-site wrap-around
+clinical and social offerings geared towards a 65+ age group
+• Provide education and opportunities for low-deductible and low-
+premium health insurance options for fixed-income residents
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 25
+THE WELLTOWER CHARITABLE FOUNDATION 413-1 WELLTOWER’S HUMAN CAPITAL
+Welltower’s employees are our greatest asset. We are committed to
+We believe that improving society’s existing value system regarding the
+the success of our people and the unique combination of skills and
+elderly and their care will positively transform the quality of life of an
+experiences they bring to achieving Welltower’s mission. Development
+aging population. From the people, resources, and organizations who
+through the talent pipeline, recognizing and rewarding performance, and
+provide planning, services, and care for the elderly, to influential thought
+providing opportunities for continued growth are the cornerstones of our
+leaders and policy makers, to those directly affected by aging, society
+Human Capital strategy.
+simply does not know where to turn when suddenly faced with the
+realities of aging or caring for senior citizens. The Welltower Charitable
+Since 2016 we have engaged employees in our “Walk the Walk” campaign
+Foundation is dedicated to answering this and related challenges.
+educating and engaging our employees to be leaders in sustainability, and
+we encourage our tenants to do the same. We utilize numerous tools and
+Since early 2016, Welltower and the Welltower Charitable Foundation have
+strategies to engage employees in advancing sustainability, such as:
+provided more than $42 million in cash and in-kind support to programs
+and communities that align with our philanthropic priorities. In 2020, the
+• “The Now,” our strongly subscribed podcast which includes
+Foundation announced a new structure to include employee matching
+ESG topics
+and corporate charitable grant initiatives, as well as an allocation of funds
+• Weekly sustainability updates to the Finance, Capital Markets and
+to each of the Employee Network Groups (ENGs) to make charitable
+contributions to 501(c)(3) organizations of their choice. With in-person Accounting teams
+activities limited, we incorporated (Virtual) Days of Giving during 2020 • Welltower team and new hire ESG training
+so our employees could collaborate to make an impact on our local
+• Internal instant messaging and social media posts
+communities such as building care packages to send to a seniors housing
+• Social media posts
+community. We plan to continue this tradition beyond 2020.
+Welltower Award
+$151,581
+We acknowledge and reward the hard work and contributions of
+IN 2020 CHARITABLE GIVING THAT INCLUDES, Welltower employees who support and further the Company’s
+BUT IS NOT LIMITED TO,
+strategic goals through the Welltower Award based on innovation,
+THE FOLLOWING ORGANIZATIONS
+leadership, value creation, and customer focus. Relaunched in
+The Black Swamp Observatory
+2020, multiple employees have received a Welltower Award over
+NAACP Legal Defense and Educational Fund the past year, which includes company-wide recognition and a
+monetary prize.
+Thurgood Marshall College Fund
+Toledo Museum of Art
+United Way of Greater Toledo
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 26
+EMPLOYEES: RECRUITMENT, RETENTION, AND DEVELOPMENT 103-1 | 103-2 | 103-3 | 201-3 | 401-1 | 401-2 | 401-3 | 404-1 | 404-2 | 404-3
+Robust Employee Benefits: Performance Management
+• Health care We sustain a high-performance culture
+• Short and long-term disability coverage by measuring performance, recognizing
+Welltower offers employees
+employee achievements, and identifying
+• Life insurance
+benefits, resources, trainings, areas of development
+• Parental and extended care giver leave
+and tools designed to develop • Student loan repayment
+Employee Development
+• An employee stock purchase plan
+future leaders, advance careers,
+Employees and their managers work
+• Retirement plan options
+and attract and retain the best together to identify the plans and
+resources necessary to support future
+Development Programs
+and brightest talent.
+professional growth
+• Education Assistance
+Training and Education
+• Rotational Associate Program
+$294,497 • Manager Development Program In 2020, we invested over $290,000 in
+• Internship Program our workforce through instructor led
+INVESTED IN EMPLOYEE TRAINING IN 2020
+• Mentorship Program programming, web-based self-study,
+tuition assistance, and support to attend
+• Free membership to EPIC, a Toledo-
+$787.43
+based young professionals' organization conferences and seminars
+SPENT ON AVERAGE PER FULL TIME EQUIVALENT
+(FTE) ON TRAINING AND DEVELOPMENT
+93% Hours of Training by Category Training by Gender
+OF EMPLOYEES RECEIVED ESG SPECIFIC TRAINING Non- Manager 1,698.7 Male 1,872.8
+Manager 845.5 Female 1,143.8
+8 AVP/Director 205.4
+AVERAGE TRAINING HOURS PER FTE VP 221.2 2020 Retention Rate
+SVP/Executive 45.8 86.57%
+$79,600
+OF TUITION REIMBURSEMENT PROGRAM Voluntary Employee Turnover
+2015 2016 2017 2018 2019 2020
+8.9% 8.2% 10.7% 14.4% 9.2% 6.1%
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 27
+WORKFORCE DIVERSITY AND
+EQUAL OPPORTUNITY
+102-8 | 103-1 | 103-2 | 103-3 | 401-1 | 405-1 | 405-2 | 412-2
+At Welltower, diversity and inclusion is not only the right thing to do,
+but it is also directly connected to our history of strong, sustained
+performance. We differentiate ourselves as industry leaders by
+championing gender equity and diversity in our boardrooms, C-suites,
+leadership teams, and employee base, including approximately 40%
+of our Leadership Team made up of women and minorities. Welltower
+understands that fostering diversity and inclusion allows us to benefit
+from understanding, appreciating, and leveraging our differences in order
+to give our organization a global business advantage. We are committed
+to making Welltower a diverse and inclusive workplace, as well as valuing
+our people for who they are as much as what they contribute.
+As an industry and community leader, Welltower has demonstrated
+a firm commitment to the expansion and support of Justice, Equity, The Diversity and Inclusion Council’s mission is to foster a shared
+Diversity, and Inclusion (JEDI) across multiple different categories in the culture at Welltower that promotes the goals of accepting,
+workplace. Welltower’s Diversity & Inclusion Council (Diversity Council) respecting, and valuing differences that include attributes such
+carries out Welltower’s core values by celebrating and harnessing as age, race, gender, ethnicity, religion, sexual orientation, gender
+the strengths of our diverse organization. Our diversity efforts allow expression, sexual identity, ability, language, family circumstances,
+Welltower employees to build a sense of community by expanding and cultural backgrounds.
+networks beyond our offices, functions, and teams in a complex
+organization such as ours. The Diversity Council benefits Welltower's
+stakeholders and continued success by:
+• Attracting and retaining talent with a broad variety of skills, a key
+87%
+attribute to the Welltower talent experience
+OF EMPLOYEES PARTICIPATED IN A
+• More effectively addressing the market, tenant, and resident needs "BUILDING AN INCLUSIVE WORKPLACE" TRAINING
+• Growing our footprint by winning new business
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 28
+EMPLOYEE NETWORK GROUPS DIVERSITY THROUGH OUR
+DEVELOPMENT PROGRAMS
+Welltower has encouraged and expanded our focus on demographic
+Our Rotational Associate, Mentorship, and Manager Development
+diversity within the workplace through the successful launch of several
+programs bolster diversity and inclusion by creating leadership paths
+Employee Network Groups (ENG), with ENG leaders participating in the
+for underrepresented groups through targeted engagement. For
+Diversity Council. Our ENGs include:
+example, our Rotational Associate Program has seen increased diversity
+• Af-Am ENG representation by meeting with minority groups at the universities where
+we recruit. Through these programs, we are able to develop a robust
+• Armed Forces ENG group of future leaders while championing Welltower’s commitment to
+fostering a welcoming, diverse workplace.
+• Hispanic ENG
+Welltower offers civil treatment and unconscious bias training to its
+• LGBTQI+ ENG managers, stressing the importance of diversity and inclusion related
+topics. Our training enables Welltower leaders with knowledge and
+• Parents ENG
+insight to create more inclusive environments for our workforce.
+• South Asian ENG
+• WELL+CORE Women’s ENG
+• Young Professionals ENG
+In addition to issuing a public Call for Peace and Understanding,
+Welltower hosted a 2020 Welltower Diversity Forum, a WELL+CORE
+Corporate Social Responsibility Forum, as well as multiple employee-
+led small group conversations on equity and justice. Welltower honors
+multiple days and months across the company for JEDI aligned
+education and remembrance, including: Black History Month, Juneteenth,
+Martin Luther King Day, Memorial Day, Women’s History Month, and
+Pride Month. Employees also participate in WELL-READ, Welltower’s
+book club, founded with the mission of promoting diversity and inclusion
+through discussion of books that have been picked by our ENGs.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 29
+An Accepting Workplace
+Welltower marked the 51st anniversary of Pride Month and its
+celebration of rejecting intolerance and building an equitable future
+for all. We aim consistently to be a strong ally of the LGBTQIA+
+community beyond Pride Month by supporting and celebrating
+the power of diversity, equity, and inclusion that Welltower fosters
+through our accepting workplace. Though in-person events were
+limited this year, Welltower regularly serves as a proud sponsor of
+the annual Toledo Pride Parade, Northwest Ohio’s largest and most
+recognized event for the LGBTQIA+ community
+Championing Gender Equity
+Welltower is extremely proud of our strong commitment to
+gender equality, including continuing to achieve 1:1 gender parity
+across the organization. This further affirms our long-standing
+commitment to achieving gender equality and empowering
+women in our workplace. Our actions span from our internal
+WELL+CORE women’s network that seeks to accelerate the
+development and advancement of women at Welltower, a CORE
+Women’s ENG Corporate Responsibility Forum, to a number
+of industry-wide honors for our work to champion women in
+leadership. For the second time, Welltower was among a global
+group of 325 companies selected to the 2020 Bloomberg Gender-
+Equality Index for promoting gender equality across four separate
+areas – company statistics, policies, community engagement, and
+products and services.
+On the 100th anniversary of the 19th Amendment and women’s
+constitutional right to vote, Welltower honored the 2020
+centennial marker of all the courageous women who never gave up
+the fight for equality. We celebrate the contributions of our female
+colleagues through our participation in the global International
+Women’s Day (IWD) recognizing the social, economic, cultural, and
+political achievements of women.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 30
+EMPLOYEE DEMOGRAPHICS TOTAL COMPENSATION
+We annually evaluate and benchmark the consistency and
+New Hires by Gender 2020 New Hires
+competitiveness of our compensation programs to ensure fair pay
+that are Minorities
+practices that reward performance.
+SVP/Executive .80 to 1
+47% 53%
+18%
+Director/Assistant VP & VP .94 to 1
+Manager .84 to 1
+• •
+FEMALE MALE
+Non Manager .89 to 1
+• •
+Employees by Gender Employees Age FEMALE MALE
+<30 13%
+Female 201
+30-50 58%
+Male 213
+>50 29%
+Gender Breakdown by Level
+Supporting our Military
+Female Male
+Non- Manager 49% 51% At Welltower we hold all
+members of the military in
+Manager 60% 40%
+the highest esteem and are
+AVP/Director 38% 62%
+a signatory of the Employer
+VP 34% 66%
+Support of the Guard & Reserve (ESGR) Statement of
+SVP/Executive 18% 82% Support pledging our support for employees serving in the
+Board 50% 50% military. In addition to our employees who are members
+of the guard and reserve, we have numerous veterans
+Employees by Race/Ethnicity throughout our over 1,300 seniors housing properties who
+have served our country with valor in World War II, the
+Asian 5%
+Korean War and the Vietnam War. We honor them and are
+Black or African American 7%
+grateful for their service every day.
+Hispanic/Latino 7%
+Other 1%
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 31
+HEALTH, SAFETY, AND WELLNESS
+Safety Committee
+103-1 | 103-2 | 103-3 | 403-1 | 403-2 | 403-3 | 403-4
+Our safety committee is representative of various functional
+403-5 | 403-6 | 403-9 | 404-1 | 404-2 | 404-3 departments across the organization. The committee’s
+objective is to support our safety program and promote
+We focus on safety and wellness for our employees, tenants, and visitors employee participation in the safety process. This forum
+as a priority in safeguarding the health of our people. Providing safe work empowers employees to take ownership of their safety and
+environments is not only material to our success and bottom line, but it the safety of those around them, building trust between
+also protects our valued stakeholders throughout our properties. We have
+management and employees and leading to reduced injury,
+a number of programs in place that ensure a culture of safety. We measure
+accident, and near miss rates.
+success through monitoring the number of employees that received
+safety training, measuring progress towards our goal of zero lost time for
+incidents, and aligning with WELL+Being program goals.
+Safety Training
+Lost Time Incident Rate Our safety program utilizes training as a vital part of educating
+employees on recognizing common safety risks and the
+Welltower's lost time incident rate continues to be below the industry
+actions they can take to mitigate those risks. Through regular
+average. In 2020, we had a lost time incident rate of 3.89 lost days on
+training, employees learn how to put safety first throughout
+average for every 100 employees, below industry averages due to our
+organization-wide safety measures. Welltower had zero work-related their workday.
+fatalities for employees and contractors in 2020.
+Safety Inspections
+Thorough safety inspections of our properties assess a
+variety of operational factors for potential risks. These routine
+inspections provide recommendations on how to minimize
+risks and enhance safety.
+Contractor Safety
+Engaging external stakeholders is imperative in delivering
+excellence through all aspects of our business activities. We
+require contractors to follow applicable regulations and to
+work in a safe manner when completing projects for Welltower.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 32
+WELL+BEING PROGRAM
+We believe in empowering our employees with the knowledge and tools
+to make healthy and positive lifestyle decisions through our signature
+wellness program, WELL+Being. Our program focuses on mental and
+physical health challenges that commonly affect employees, and offers
+tools such as fitness classes, gym membership reimbursements, healthy
+meal options, stress relief programs, seminars, and health screenings to
+address those issues. With employees shifting to work from home, we
+leveraged the WELL+Being program to encourage our employees to be
+active, such as providing at-home wellness challenges and trivia nights to
+educate employees about health and wellness.
+Increased participation in our employee health screening program leads
+to year over year improvements in our employees' health.
+Spotlight on WELL+Being
+181 employees participated
+in wellness challenges
+$48,000 in gym
+membership reimbursements
+77 flu shots provided
+38.1M steps recorded from 305 entries taking steps towards building a culture
+of health and wellness in the workplace
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 33
+GOVERNANCE
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 34
+Governance
+102-15 | 102-18 | 102-19 | 102-20 | 102-22 | 102-23 | 102-29 | 102-30 | 102-31 | 102-32 | 102-33 | 102-35
+RISK MANAGEMENT
+Welltower is dedicated to adopting the best corporate governance
+practices that meet the dynamic needs of the corporate governance
+Welltower’s Board of Directors regularly reviews Welltower’s significant
+environment. We are a member of the Chief Executives for Corporate
+risk exposure, including operational, strategic, financial, legal,
+Purpose (CECP) coalition and our CEO presented our second long-term
+environmental sustainability and regulatory risks. The effectiveness of
+plan to top business leaders who are committed to tackling society's
+our enterprise risk management procedures is regularly analyzed and
+challenging problems as part of their 8th Annual CEO Investor Forum.
+communicated with our Board. Welltower evaluates climate change
+Welltower adopted Corporate Governance Guidelines to promote the
+through climate risk assessments that measure impacts to properties
+effective functioning of the Board of Directors and its committees. These
+throughout our portfolio. Our risk assessment process informs the
+Guidelines, along with the Certificate of Incorporation, By-Laws, and
+development of our policies and the training we deliver to our employees
+Board committee charters, provide the framework for the governance of
+around anti-corruption, business ethics, and climate action.
+Welltower.
+ESG GOVERNANCE CYBERSECURITY
+Welltower’s sustainability and ESG governance structure has evolved Welltower’s Management team identifies and assesses the
+and strengthened our ESG program and commitment in the past several information security risks using the industry practices aligned to
+years. Since appointing our first Assistant Vice President of Sustainability the recommendation from the National Institute of Standards and
+and ESG in 2019, the ESG team grew in 2020 with the hiring of a full time Technology (NIST) and engages independent security firms to review
+ESG Analyst to support the AVP of Sustainability and ESG and focus and assess cybersecurity capabilities and preparedness. Welltower has
+on sustainability data and benchmarking. The AVP position is located not experienced any material information security breaches and has not
+within Welltower’s Finance Department and has a direct line to the Chief incurred any material expenses related to such in the last three years.
+Financial Officer, who reports to the Chief Executive Officer. This allows
+for regular flow of information not only to the Chief Executive Officer, The Audit Committee regularly receives a cybersecurity update from
+but also to the Board of Directors. Additionally, our executive leadership management, including the status of projects to strengthen Welltower’s
+team performance requirements have expanded to include ESG goals security systems and improve cyber readiness as well as on existing
+that flow down to all employees in order to span organization wide and emerging threat landscapes. Welltower provides mandatory annual
+ESG engagement. cybersecurity training for all employees with network access. Welltower
+also maintains a security risk insurance policy.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 35
+BOARD DIVERSITY
+Welltower’s Independent Director leadership on the Board of Directors Welltower was named to the 2020 Bloomberg
+includes 80% female and minority representation, putting us at the very Gender-Equality Index (GEI) for the second
+top of all S&P 500 companies for Board diversity. In 2020, Welltower consecutive year. Welltower joined a global group
+increased its racial and gender diversity on the Board through its of 325 companies that were included in the year's
+appointments of a racially diverse independent Chairman, and women GEI by setting an example to advance women
+or ethnically diverse individuals to leadership positions on four Board
+in the workplace. We are pleased to surpass the
+Committees. This diversity also extends to the Board's skill set as our
+average 20% female board representation and
+Board brings vertical expertise in areas such as health care, health
+achieve gender parity at 50% female Directors.
+insurance, real estate, cyber security, and hospitality. We found when you
+recruit board members based on skills and experience, it is easy to end
+up with a diverse group whose strengths challenge our management
+team in positive ways.
+Kenneth J. Bacon
+CHAIRMAN AND Karen B. DeSalvo Jeffrey H. Donahue Philip L. Hawkins Shankh Mitra
+INDEPENDENT DIRECTOR INDEPENDENT DIRECTOR INDEPENDENT DIRECTOR INDEPENDENT DIRECTOR DIRECTOR
+Sharon M. Oster Diana W. Reid SSeerrggiioo DD.. RRiivveerraa Johnese M. Spisso Kathryn M. Sullivan
+INDEPENDENT DIRECTOR INDEPENDENT DIRECTOR IINNDDEEPPEENNDDEENNTT DDIIRREECCTTOORR INDEPENDENT DIRECTOR INDEPENDENT DIRECTOR
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 36
+ANTI-CORRUPTION EMPLOYEE ETHICS
+102-17 | 103-1 | 103-2 | 103-3 | 102-25 | 205-1 | 205-2 | 415-1 Providing regular training to employees is part of our dedication to
+ethical behavior and business practices. These trainings facilitate
+employee awareness and understanding of our policies, anti-corruption
+Integrity and ethical compliance with all applicable laws, regulations, and
+laws and regulations, and clarify behavioral expectations when
+policies is the standard of conduct required by our directors, officers, and
+conducting business. These trainings provide employees additional
+employees. Our Code of Business Conduct and Anti-Corruption Policies
+resources and information on what is considered unethical behavior and
+detail the responsible business conduct we expect from our employees
+how they should respond when confronted with situations that deviate
+and those doing business on behalf of Welltower. These documents
+from Welltower's ethical standards as a business leader.
+outline policies and resources employees have if they have questions or
+concerns. We also distribute the Anti-Corruption Policy upon hire and All of Welltower's governance documents are publicly available
+annually in our employee handbook and intranet. Our General Counsel on our website, including a Governance Hotline for anyone who has a
+provides oversight for the Code of Business Conduct and Anti-Corruption concern regarding questionable accounting, internal accounting controls,
+Policy. These documents are reviewed annually and updated as necessary. or auditing matters relating to Welltower Inc.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 37
+DISCLOSURES
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 38
+Disclosures
+TCFD Disclosures
+PAGE NUMBER
+GOVERNANCE
+Board's oversight of climate-related risks and opportunities 8
+Management role in assessing and managing climate-related risks and opportunities 8
+STRATEGY
+Climate-related risks and opportunities we have identified over the short, medium and long term 8
+Impact of climate-related risks and opportunities on the organizations business, strategy, and financial planning 8
+Resilience of the organization's strategy taking into consideration different climate-related scenarios, including a 2 degrees C 8
+or lower scenario
+RISK MANAGEMENT
+Organizational processes for identifying assessing and managing climate-related risk 8
+Organizational process for managing climate-related risks 8
+Process for identifying, assessing, and managing climate-related risks as integrated into the organization's overall risk 8
+management.
+METRICS AND TARGETS
+Metrics used to assess climate-related risks and opportunities in line with strategy and risk management process 8, 16, 52
+Scope 1 and 2 Greenhouse Gas Emissions and related risks 8, 16, 52
+Targets used by the organization to manage climate-related risks and opportunities and performance against targets 8, 16, 52
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 39
+SASB Disclosures
+UNIT OF MEASURE TOTAL CODE RESPONSE PAGE
+ENERGY MANAGEMENT
+Energy consumption data coverage Percentage (%) 100% IF-RE-130a.1 52
+as a percentage of total floor area, by by floor area
+property subsector
+(1) Total energy consumed by Gigajoules (GJ), (1) 10,866,635 GJ IF-RE-130a.2 52
+portfolio area with data coverage, (2) Percentage (%)
+(3) 1.1%
+percentage grid electricity, and (3)
+percentage renewable, by property
+subsector
+Percentage of eligible portfolio that Percentage (%) (1) 27.6% of portfolio IF-RE-130a.4 18
+(1) has an energy rating and by floor area
+(2) 2% of seniors housing
+(2) is certified to ENERGY STAR®,
+by property subsector
+Description of how building energy To help our managers and operators successfully benchmark their IF-RE-130a.5 21
+management considerations are buildings and improve energy efficiency, we utilize the Welltower
+integrated into property investment Performance Playbook: A Guide for Seniors Housing Efficiency
+analysis and operational strategy and Excellence. Through the Playbook, operators and managers
+can learn about industry-standard maintenance best practices,
+no-and low-cost efficiency projects, project resources, and
+action plans for managing energy, water, and waste. When new
+operators join us, we share the Playbook and a recording of the
+benchmarking training with them so they can get involved with
+our efficiency initiatives immediately. We also continued our LED
+retrofit initiative across our portfolio.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 40
+SASB Disclosures
+UNIT OF MEASURE TOTAL CODE RESPONSE PAGE
+WATER MANAGEMENT
+Water withdrawal data coverage as a Percentage (%) by floor (1) 49% IF-RE-140a.1 52
+percentage of (1) total floor area and area
+(2) floor area in regions with High or
+Extremely High Baseline Water Stress,
+by property subsector
+(1) Total water withdrawn by portfolio Thousand cubic meters (1) 11,804,713 m3 IF-RE-140a.2 52
+area with data coverage and (2) (m3), Percentage (%)
+percentage in regions with High or
+Extremely High Baseline Water Stress,
+by property sector
+Description of water management Welltower uses a sustainable model to monitor water usage, IF-RE-140a.4 15
+risks and discussion of strategies and including benchmarking, high-efficiency fixtures, and low-flow
+practices to mitigate those risks plumbing. Recent projects to address water efficiency include
+planting drought tolerant landscaping, installing drip irrigation
+systems, and installing leak detection technology, allowing us to
+monitor domestic water usage and leaks, check equipment to
+resolve leaks in a timely manner, and avoid extra costs on water
+bills due to leak detection.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 41
+SASB Disclosures
+UNIT OF MEASURE TOTAL CODE RESPONSE PAGE
+MANAGEMENT OF TENANT SUSTAINABILITY IMPACTS
+Discussion of approach to measuring, Welltower provides new tenants with a copy of our Tenant 21
+incentivizing, and improving Improvement Guidelines where we encourage the use of ENERGY
+sustainability impacts of tenants STAR® labeled products. We also engage potential tenants with
+our standard green lease, which includes language on data
+sharing, benchmarking in ENERGY STAR® Portfolio Manager®, and
+the ability to recover costs for capital projects that lower building
+operating costs. To date in 2020, we have executed 580 green
+leases representing over 1.66 million square feet of medical office
+space. Because of our widespread implementation of this green
+leasing initiative, we were named a 2020 Green Lease Leader at
+the gold level by the Institute for Market Transformation and the
+Better Buildings program. We were first awarded the Green Lease
+Leader distinction in 2017, and we are eligible to reapply every
+three years.
+CLIMATE CHANGE ADAPTION
+Description of climate change Welltower’s Board of Directors regularly reviews Welltower’s IF-RE-450a.2 8
+risk exposure analysis, degree of significant risk exposure, including operational, strategic, financial,
+systematic portfolio exposure, and legal, environmental sustainability and regulatory risks. The
+strategies for mitigating risks effectiveness of our enterprise risk management procedures is
+regularly analyzed and communicated to our Board. Welltower
+evaluates climate change through climate risk assessments that
+measure impacts to properties throughout our portfolio. Our risk
+assessment process informs the development of our policies and
+the training we deliver to our employees around anti-corruption,
+business ethics, and climate action.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 42
+GRI 102: General Disclosures
+RESPONSE PAGE
+ORGANIZATIONAL PROFILE
+102-1 Name of the organization 4
+102-2 Activities, brands, products, and services 4
+102-3 Location of headquarters 4
+102-4 Location of operations 4
+102-5 Ownership and legal form 4
+102-6 Markets served 4
+102-7 Scale of the organization 4
+102-8 Information on employees and other workers 27
+102-9 Supply chain 17
+102-10 Significant changes to the organization and its supply chain 17
+102-11 Precautionary Principle or Approach 8
+102-12 External initiatives 9
+102-13 Membership of associations 23
+STRATEGY
+102-14 Statement from senior decision-maker 1
+102-15 Key impacts, risks, and opportunities 8, 35
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 43
+GRI 102: General Disclosures
+RESPONSE PAGE
+ETHICS AND INTEGRITY
+102-16 Values, principles, standards, and norms of behavior 1
+102-17 Mechanisms for advice and concerns about ethics 37
+GOVERNANCE
+102-18 Governance structure 35
+102-19 Delegating authority 35
+102-20 Executive-level responsibility for economic, environmental and social topics 1, 35
+102-21 Consulting stakeholders on economic, environmental and social topics 9
+102-22 Composition of the highest governance body and its committees 36
+102-23 Chair of the highest governance body 36
+102-24 Nominating and selecting the highest governance body 9 (2020 Proxy Statement)
+102-25 Conflicts of interest 37
+102-26 Role of highest governance body in setting purpose, values and strategy 1 (2020 Proxy Statement)
+102-27 Collective knowledge of highest governance body 2 (2020 Proxy Statement)
+102-28 Evaluating the highest governance body's performance 10 (2020 Proxy Statement)
+102-29 Identifying and managing economic, environmental and social impacts 35
+102-30 Effectiveness of risk management processes 35
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 44
+GRI 102: General Disclosures
+RESPONSE PAGE
+102-31 Review of economic, environmental and social Our Corporate Governance Guidelines and 2020 Proxy Statement provide information
+topics on how the results of the enterprise risk management process are communicated to
+the Board. Through this process, a number of important long-term emerging risks
+have been identified, including but not limited to:
+• Cybersecurity incidents, which could disrupt the business and result in the loss
+of confidential information. Welltower employs a number of measures to prevent,
+mitigate and detect cybersecurity risks. These include, but are not limited to,
+routine IT risk assessments to review the environment and proactively remediate
+vulnerabilities; robust authentication mechanisms to prevent unauthorized
+access to our systems and data; and mandatory employee awareness training to
+inform and educate our personnel about cyber threats and attacks. We establish,
+document and enforce controls, policies and procedures that govern and protect
+the Company’s data and information systems.
+• Ownership of property outside of the U.S. that may subject Welltower to different,
+or greater, risks than those associated with domestic operations. This includes
+operations in the UK, accounting for 10% of Welltower’s total revenue as of
+December 31, 2020.
+102-32 Highest governance body's role in sustainability reporting 36
+102-33 Communicating critical concerns 36
+102-34 Nature and total number of critical concerns There were no critical concerns
+in 2020.
+102-35 Remuneration policies 35
+102-36 Process for determining remuneration 8 (2020 Proxy Statement)
+102-37 Stakeholders involvement in remuneration 8 (2020 Proxy Statement)
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 45
+GRI 102: General Disclosures
+RESPONSE PAGE
+102-38 Annual total compensation ratio 14 (2020 Proxy Statement)
+102-39 Percentage increase in annual total compensation ratio 14 (2020 Proxy Statement)
+STAKEHOLDER ENGAGEMENT
+102-40 List of stakeholder groups 21-22
+102-41 Collective bargaining agreements As of December 31, 2020,
+no Welltower employees
+are subject to a collective
+bargaining agreement
+102-42 Identifying and selecting stakeholders 9, 21-22
+102-43 Approach to stakeholder engagement 9, 21-22
+102-44 Key topics and concerns raised 9
+REPORTING PRACTICES
+102-45 Entities included in the consolidated financial statements 9
+102-46 Defining report content and topic boundaries 9
+102-47 List of material topics 9
+102-48 Restatements of information 12
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 46
+GRI 102: General Disclosures
+RESPONSE PAGE
+102-49 Changes in reporting 12
+102-50 Reporting period This report covers
+calendar year 2020
+102-51 Date of most recent report 2019 calendar report
+published July 2020
+102-52 Reporting cycle Reports issued annually
+102-53 Contact point for questions regarding the report 58
+102-54 Claims of reporting in accordance with the GRI standards 43-51
+102-55 GRI content index 43
+102-56 External assurance 54-57
+GRI 103: Management Approach
+RESPONSE PAGE
+ORGANIZATIONAL PROFILE
+103-1 Explanation of the material topic and its boundary 12-19, 25-33, 35-36
+103-2 The management approach and its components 12-19, 25-33, 35-36
+103-3 Evaluation of the management approach 12-19, 25-33, 35-36
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 47
+GRI 200: Economic
+RESPONSE PAGE
+GRI 201: ECONOMIC PERFORMANCE
+201-1 Direct economic value generated and distributed 4
+201-2 Financial implications and other risks and opportunities due to climate change 8
+201-3 Defined benefit plan obligations and other retirement plans 27
+201-4 Financial assistance received from government In 2020, the US Department of Health and Human Services allowed for senior
+living facilities to apply for CARES Act Provider Relief Fund in which Welltower
+and our partners applied for Phase 2 and Phase 3 amounts. These grants were
+supplied by the government to offset some of the COVID financial impacts
+at our communities. We received a portion of these funds in 2020 with the
+remaining flowing through in 2021.
+GRI 203: INDIRECT ECONOMIC IMPACTS
+203-1 Infrastructure investments and services supported 18
+203-2 Significant indirect economic impacts 4
+GRI 205: ANTI-CORRUPTION
+205-1 Operations assessed for risks related to corruption 37
+205-2 Communication and training about anti-corruption policies and procedures 37
+205-3 Confirmed incidents of corruption and actions taken Welltower did not incur any fines or settlements related to anti-
+competitive practices, no incidents of corruption, and no breaches
+against our code of conduct during the reporting year.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 48
+GRI 300 Environmental
+RESPONSE PAGE
+GRI 302: ENERGY
+302-1 Energy consumption within the organization 12-14, 52
+302-2 Energy consumption outside of the organization 12-14, 52
+302-3 Energy intensity 12-14, 52
+302-4 Reduction of energy consumption 12-14, 52
+302-5 Reductions in energy requirements of products and services 13-14, 52
+GRI 303: WATER AND EFFLUENTS
+303-1 Interactions with water as a shared resource 15, 52
+303-5 Water consumption 15, 52
+GRI 304: BIODIVERSITY
+304-2 Significant impacts of activities, products, and services on biodiversity 18
+GRI 305: EMISSIONS
+305-1 Direct (Scope 1) GHG emissions 12, 52
+305-2 Energy indirect (Scope 2) GHG emissions 12, 52
+305-3 Other indirect (Scope 3) GHG emissions 12, 52
+305-4 GHG emissions intensity 12, 52
+305-5 Reduction of GHG emissions 12, 52
+305-7 Nitrogen oxides (NOX), sulfur oxides (SOX), and other significant air emissions 13, 16, 52
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 49
+GRI 300 Environmental
+RESPONSE PAGE
+GRI 307: ENVIRONMENTAL COMPLIANCE
+307-1 Non-compliance with environmental laws and regulations Welltower is compliant with
+all material environmental laws
+and regulations.
+GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT
+308-1 New suppliers that were screened using environmental criteria 18
+GRI 400 Social
+RESPONSE PAGE
+GRI 401: EMPLOYMENT
+401-1 New employee hires and employee turnover 27-37
+401-2 Benefits provided to full-time employees that are not provided to temporary or part-time employees 27
+401-3 Parental leave 27
+GRI 403: OCCUPATIONAL HEALTH AND SAFETY
+403-1 Occupational health and safety management system 32
+403-2 Hazard identification, risk assessment, and incident investigation 32
+403-3 Occupational health services 32
+403-4 Worker participation, consultation, and communication on occupational health and safety 32
+403-5 Worker training on occupational health and safety 32
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 50
+GRI 400 Social
+RESPONSE PAGE
+403-6 Promotion of worker health 32
+403-9 Work-related injuries 32
+GRI 404: TRAINING AND EDUCATION
+404-1 Average hours of training per year per employee 27, 32
+404-2 Programs for upgrading employee skills and transition assistance programs 27, 32
+404-3 Percentage of employees receiving regular performance and career development reviews 27, 32
+GRI 405: DIVERSITY AND EQUAL OPPORTUNITY
+405-1 Diversity of governance bodies and employees 28-31
+405-2 Ratio of basic salary and remuneration of women to men 28-31
+GRI 406: NON-DISCRIMINATION
+406-1 Incidents of discrimination and corrective Welltower is an equal opportunity employer and had no legal matters relating
+actions taken to discrimination where corrective actions were required to be taken.
+GRI 412: HUMAN RIGHTS ASSESSMENT
+412-2 Employee training on human rights policies or procedures 28
+GRI 413: LOCAL COMMUNITIES
+413-1 Operations with local community engagement, impact assessments, and development programs 26
+GRI 415: PUBLIC POLICY
+415-1 Political contributions Page 5 of our Code of Business Conducts and Ethics states that “no Welltower funds
+may be given directly to political candidates”. This statement is supplemented with a
+“Political Contribution Policy” that can be found on our website.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 51
+TOTAL CONSUMPTION 2020 DATA COVERAGE
+Data
+% % Coverage
+Change Change Data Data Total as a % of
+over from Coverage Coverage Total Portfolio Total Floor
+2018 2019 to Floor Area Building Portfolio Building Area
+2018 2019 2020 baseline 2020 Total Count Floor Area Count (% sq ft)
+GHG EMISSIONS
+Emissions Totals (MTCOe)
+2
+Emissions Totals
+875,122 891,830 856,905 -2.1% -3.9% 129,447,141 1,698 129,447,141 1,698 100%
+(Location-Based)
+Scope 1 & 2 GHG Emissions1 426,434 506,332 478,844 12.3% -5.4% 85,152,805 909 85,152,805 909 100%
+Emissions by Scope (MTCOe)
+2
+Scope 12 115,845 137,120 126,656 9.3% -7.6% 85,152,805 909 85,152,805 909 100%
+Scope 2 (location-based)2 310,589 369,212 352,188 13.4% -4.6% 85,152,805 909 85,152,805 909 100%
+Scope 2 (market-based)2 296,630 369,096 342,355 15.4% -7.2% 85,152,805 909 85,152,805 909 100%
+Scope 33 448,688 385,498 378,061 -15.7% -1.9% 44,294,336 789 44,294,336 789 100%
+ENERGY PERFORMANCE
+Energy (Kbtu)
+Total Energy (kBtu) 9,642,522,349 10,185,060,302 10,299,582,773 6.8% 1.1% 129,447,141 1,698 129,447,141 1,698 100%*
+Energy Total (control) 5,440,856,976 6,292,235,224 6,202,614,250 14% -1.4% 85,152,805 909 85,152,805 909 100%
+Energy Total (non-control) 4,201,665,374 3,892,825,077 4,096,968,523 -2.5% 5.2% 44,294,336 789 44,294,336 789 100%
+Renewable Energy/Offsets (kWh)
+Total Renewable Energy (kWh) 32,467,274 19,907,690 33,317,211 2.6% 67.4% 2,954,478 18 129,447,141 1,698 2%
+Green Power Purchases (kWh) 32,373,434 19,518,924 32,747,692 1.2% 67.8% 1,477,239 15 129,447,141 1,698 1%
+Live Solar Generation (kWh) 93,840 388,766 569,519 506.9% 46.5% 1,477,239 3 129,447,141 1,698 1%
+WATER PERFORMANCE
+Water (gallons)
+Total Water (gallons) 3,005,498,364 1,738,607,180 3,118,475,375 3.8% 79.4% 63,107,334 949 129,447,141 1,698 49%
+Water Total (control) 1,645,504,620 826,583,046 1,401,059,505 -14.9% 69.5% 40,260,432 508 85,152,805 909 47%
+Water Total (non-control) 1,359,993,744 912,024,134 1,717,415,870 26.3% 88.3% 22,846,902 441 44,294,336 789 52%
+* Includes 55% of actual data collected and 45% estimated data to account for the entire Welltower portfolio.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 52
+TOTAL CONSUMPTION 2020 DATA COVERAGE
+Data
+% % Coverage
+Change Change Data Data Total as a % of
+over from Coverage Coverage Total Portfolio Total Floor
+2018 2019 to Floor Area Building Portfolio Building Area
+2018 2019 2020 baseline 2020 Total Count Floor Area Count (% sq ft)
+WASTE PERFORMANCE
+Waste (tons)
+Total Waste (tons) 49,223 32,416 27,902 -43.3% -13.9% 9,567,968 140 129,447,141 1,698 7%
+Waste Total (control) 33,573 30,023 26,449 -21.2% -11.9% 8,432,503 120 85,152,805 909 10%
+Waste Total (non-control) 15,650 2,393 1,453 -90.7% -39.3% 1,135,465 20 44,294,336 789 3%
+Total Recycling (tons) 10,610 6,146 6,144 -42.1% 0.0% 6,203,360 89 129,447,141 1,698 5%
+Recycling Total (control) 7,258 6,055 5,998 -17.4% -0.9% 5,855,672 81 85,152,805 909 7%
+Recycling Total (non-control) 3,352 90 146 -95.6% 62.0% 347,688 8 44,294,336 789 1%
+Total Diversion Rate 17.7% 15.9% 18.0% 1.8% 13.2%
+EXPLANATIONS
+1. The floor area used to calculate the Scopes 1 & 2 emissions intensities and the total portfolio energy intensity is weighted for the time each property was operational
+during that reporting year. For example, if an asset was purchased in March 2020, we would estimate its energy consumption for the days owned between March 2020
+and 12/31/2020, not the whole year. By applying the same coefficient (days owned in year / days in year) to the floor area, we are adjusting for properties that were
+acquired or disposed throughout the year.
+2. The floor area used to calculate the Scope 1 and Scope 2 (location- and market-based) emissions intensities is the sum of gross floor area for buildings that are within
+Welltower's control boundary, not under construction, and owned in that reporting year. This means properties within Welltower's financial control boundary and
+considered stable or in lease-/fill-up for the reporting year are included.
+3. The floor area used for Scope 3 emissions intensity calculations, as well as for any intensity and data coverage for "non-control" properties, is the sum of the gross floor
+area for buildings that are not in Welltower's control boundary, not under construction, and owned in that reporting year. This means properties outside of Welltower's
+financial control boundary and considered stable or in lease-fill-up are included.
+CEO LETTER COVID-19 ABOUT COMMITMENT IMPACT STAKEHOLDERS SOCIAL GOVERNANCE DISCLOSURES 53
+LR Independent Assurance Statement
+LReRla tIinngd toe Wpeelltnowdeer nIntc. AGHsGs Eumriassniocnse a Sndt Sautsetaminaebinlitty Data for the
+Calendar Year 2020
+Relating to Welltower Inc. GHG Emissions and Sustainability Data for the
+TChaisl Aessnudraancre YSteataemr e2n0t h2a0s b een prepared for Welltower Inc. in accordance with our contract.
+Terms of Engagement
+This Assurance Statement has been prepared for Welltower Inc. in accordance with our contract.
+Lloyd’s Register Quality Assurance (LR) was commissioned by Welltower Inc. (Welltower) to provide independent
+assurance of its assertion/ greenhouse gas (GHG) emissions inventory and Sustainability Data (“the Report”) for
+Terms of Engagement
+calendar year (CY) 2020 against the assurance criteria below to a limited level of assurance and at the materiality of
+Lloyd’s Register Quality Assurance (LR) was commissioned by Welltower Inc. (Welltower) to provide independent
+the professional judgement of the verifier using LR’s verification procedure and ISO 14064 - Part 3 for GHG data.
+assurance of its assertion/ greenhouse gas (GHG) emissions inventory and Sustainability Data (“the Report”) for
+calendar year (CY) 2020 against the assurance criteria below to a limited level of assurance and at the materiality of
+Our assurance engagement covered Welltower’s operations and activities for their properties in United States (US),
+the professional judgement of the verifier using LR’s verification procedure and ISO 14064 - Part 3 for GHG data.
+Canada (CA) and the United Kingdom (UK) using the financial control reporting method and specifically the following
+requirements:
+Our assurance engagement covered Welltower’s operations and activities for their properties in United States (US),
+• Verifying conformance with:
+Canada (CA) and the United Kingdom (UK) using the financial control reporting method and specifically the following
+Welltower’s reporting methodologies for the selected datasets; and
+requiremoents:
+World Resources Institute/World Business Council for Sustainable Development Greenhouse Gas
+• Verifoying conformance with:
+Protocol: A corporate accounting and reporting standard, revised edition (otherwise referred to as the
+Welltower’s reporting methodologies for the selected datasets; and
+o
+WRI/WBCSD GHG Protocol) for the GHG data1.
+World Resources Institute/World Business Council for Sustainable Development Greenhouse Gas
+o
+• Reviewing whether the Report has taken account of:
+Protocol: A corporate accounting and reporting standard, revised edition (otherwise referred to as the
+• Service sector guidelines.
+WRI/WBCSD GHG Protocol) for the GHG data1.
+• Evaluating the accuracy and reliability of data and information for only the selected indicators listed below:
+• Reviewing whether the Report has taken account of:
+Direct (Scope 1) and Energy Indirect (Scope 2) GHG emissions;
+•o Service sector guidelines.
+Other Indirect (Scope 3) GHG emissions:
+• Evaluoating the accuracy and reliability of data and information for only the selected indicators listed below:
+▪ Scope 3 GHG emissions were limited to: Business Travel, Employee Commuting, and Waste
+Direct (Scope 1) and Energy Indirect (Scope 2) GHG emissions;
+o
+Generated in Operations for approximately 7% of properties, based on property sq. ft.;
+Other Indirect (Scope 3) GHG emissions:
+o
+Scope 1 &2 GHG Emission Intensity;
+o ▪ Scope 3 GHG emissions were limited to: Business Travel, Employee Commuting, and Waste
+Energy use Intensity;
+o Generated in Operations for approximately 7% of properties, based on property sq. ft.;
+Water consumption for approximately 49% of properties, based on property sq. ft.;
+o Scope 1 &2 GHG Emission Intensity;
+o
+Water Use Intensity;
+o Energy use Intensity;
+o
+Waste generated and Recycling; and
+o Water consumption for approximately 49% of properties, based on property sq. ft.;
+o
+Workforce Diversity and Remuneration Data.
+o Water Use Intensity;
+o
+Waste generated and Recycling; and
+o
+Our assurance engagement excluded the data and information of Welltower’s direct fugitive GHG emissions from
+Workforce Diversity and Remuneration Data.
+o
+Refrigeration and Air Conditioning equipment, on the basis of their de minimis contribution to the GHG emissions
+inventory.
+Our assurance engagement excluded the data and information of Welltower’s direct fugitive GHG emissions from
+Refrigeration and Air Conditioning equipment, on the basis of their de minimis contribution to the GHG emissions
+LR’s responsibility is only to Welltower. LR disclaims any liability or responsibility to others as explained in the end
+inventory.
+footnote. Welltower’s responsibility is for collecting, aggregating, analysing, and presenting all the data and
+information within the Report and for maintaining effective internal controls over the systems from which the Report
+LR’s responsibility is only to Welltower. LR disclaims any liability or responsibility to others as explained in the end
+is derived. Ultimately, the Report has been approved by, and remains the responsibility of Welltower.
+footnote. Welltower’s responsibility is for collecting, aggregating, analysing, and presenting all the data and
+information within the Report and for maintaining effective internal controls over the systems from which the Report
+is derived. Ultimately, the Report has been approved by, and remains the responsibility of Welltower.
+1 http://www.ghgprotocol.org/
+1 http://www.ghgprotocol.org/
+Page 1 of 4
+Page 1 of 4
+LR’s Opinion
+Based on LR’s approach nothing has come to our attention that would cause us to believe that Welltower has not, in
+all material respects:
+LR’s Opinion
+• Met the requirements of the criteria listed above; and
+Based on LR’s approach nothing has come to our attention that would cause us to believe that Welltower has not, in
+• Disclosed accurate and reliable performance data and information as summarized in Tables 1, 2 and 3 below.
+all material respects:
+T• he oMpeitn tiohne erexqpureirsesmede nist sfo orfm thede ocrnit tehreia b laisstiesd o fa ab olivmei;t aendd le vel of assurance2 and at the materiality of the professional
+j•u dgDemiscelnots eodf t ahcec vueraritfeie ar.n d reliable performance data and information as summarized in Tables 1, 2 and 3 below.
+The opinion expressed is formed on the basis of a limited level of assurance2 and at the materiality of the professional
+Table 1. Summary of Welltower’s GHG Emissions for CY 2020:
+judgement of the verifier.
+Tonnes
+Table 1. Summary of Welltower’s GHSGco Epme iosfs iGoHnGs feomr CisYs i2o0n2s0 :
+CO e
+2
+Direct GHG emissions (Scope 1) 1T2o6n,n65e6s
+Scope of GHG emissions
+Energy indirect GHG emissions (Scope 2 Location-Based)1 35C2O,12e8 8
+Direct GHG emissions (Scope 1) 126,656
+Energy indirect GHG emissions (Scope 2 Market-Based)1 342,355
+Energy indirect GHG emissions (Scope 2 Location-Based)1 352,188
+Scope 3 (properties outside of financial control direct and
+Emnaerrkgeyt ibnadsireedc,t b GuHsiGn eesms ifslisgiohntss, (eSmcopploey 2e eM caorkmemt-Buatisnegd, )w1 aste 334728,,305651
+generated)
+Scope 3 (properties outside of financial control direct and
+m1. a Srckoepte b2,a Msaerdk,e tb-buassiende asrse fdleigfihnetds ,i ne tmhep GloHyGe Per octoocmolm Scuotpine g2 ,G wuiadasntece document3 78,061
+generated)
+Table 2. Summar 1y
+.
+o Sf
+c
+W ope
+e
+l 2l ,t Mo aw rke er t’ -bs
+a
+E sen dv ai rr eo dn em fine en
+d
+t ina tl
+h
+D
+e
+a Gt Ha
+G
+f Po ror
+t
+C ocY
+o
+l2 S0 c2 op0 e:
+2 Guidance document
+Environmental Data
+Table 2. Summary of Welltower’s Environmental Data for CY 2020:
+Electricity Use (kWh) 1,850,646,772
+Natural Gas Use (Therms) Environmental Data 39,617,816
+Electricity Use (kWh) 1,850,646,772
+Propane Use (Therms) 240,919
+Natural Gas Use (Therms) 39,617,816
+Water Use (gallons) 3,118,475,375
+Propane Use (Therms) 240,919
+Waste (US tons) 27,902
+Water Use (gallons) 3,118,475,375
+Recycling (US tons) 6,144
+Waste (US tons) 27,902
+Water Use Intensity (gallons/sq.ft.) 50
+Recycling (US tons) 6,144
+Electric & Natural Gas Use Intensity
+24.66
+W(kaWther/ sUqs.fet .I)n tensity (gallons/sq.ft.) 50
+ESlceocptrei c1 && N2a GtHurGa lE Gmaiss sUiosen sIn Intetnensistiyt y
+264.0.686
+((kMWTCh/Os2qe.f/t .1), 000sq.ft.)
+Scope 1 & 2 GHG E missions Intensity
+6.08
+(MTCO2e/ 1,000sq .ft.)
+2 The extent of evidence-gathering for a limited assurance engagement is less than for a reasonable assurance engagement.
+Limited assurance engagements focus on aggregated data rather than physically checking source data at sites. Consequently, the
+level of assurance obtained in a limited assurance engagement is lower than the assurance that would have been obtained had a
+2 The extent of evidence-gathering for a limited assurance engagement is less than for a reasonable assurance engagement.
+reasonable assurance engagement been performed.
+Limited assurance engagements focus on aggregated data rather than physically checking source data at sites. Consequently, the
+level of assurance obtained in a limited assurance engagement is lower than the assurance that would have been obtained had a
+reasonable assurance engagement been performed.
+Page 2 of 4
+Page 2 of 4
+Table 3. Summary of Welltower’s Employee Demographics for CY 2020:
+Human Capital1
+Table 3. Summary of Welltower’s Employee Demographics for CY 2020:
+Ratio
+Compensation equity by level
+(Male/Female)
+Human Capital1
+Assistant Vice President & Director / Vice President 1 R/ a0 t.9 io4
+Compensation equity by level
+Manager (Mal1e//0F.e8m4 ale)
+A Ns os nis -t Ma an nt aV gic ee r President & Director / Vice President 1 1/ /0 0. .9 84 9
+M Sea nn ia og
+r
+e Vr
+i ce President / Executive
+1 1/ /0 0.8 .84
+Non-Manager Employee Ethnic Diversity 1/0.89
+S He isn pio ar
+n
+V ici c oe
+r
+P Lr ae ts inid oe nt / Executive 71 ./ 00 5. %8
+Employee Ethnic Diversity
+Asian 4.53%
+H Bli asp cka n oi rc A o fr r iL ca at nin Ao m erican 7 7. .0 35 0% %
+A Os ti ha en r s 4 1. .5 23 6% %
+B Wl ha ic tk e or African American 77 9. .3 80 5% %
+Others Number of Employees by Age and Level 1.26%
+W Agh ei t <e
+3 0
+79. 58 25 %
+Number of Employees by Age and Level
+Age 30-50 240
+A Ag ge e < >3 50 0 15 22 2
+AGgeen d30e-r5 B0r eakdown by Level Male 240 F emale
+ANgoen >M5a0n ager 122 122 118
+Manager 40 59
+Gender Breakdown by Level Male Female
+Assistant Vice President /Director 18 11
+Non Manager 122 118
+Vice President 19 10
+Manager 40 59
+Senior Vice President /Executive 14 3
+Assistant Vice President /Director 18 11
+1V.i ceT hPer Heusmidaenn Cta pital data in this table includes all employees, in all c1o9un tries, except fo1r0
+Employee Ethnic Diversity which is reported only for the US.
+Senior Vice President /Executive 14 3
+1. The Human Capital data in this table includes all employees, in all countries, except for
+LR’s Approach Employee Ethnic Diversity which is reported only for the US.
+LR’s assurance engagements are carried out in accordance with our verification procedure. The following tasks were
+undertaken as part of the evidence gathering process for this assurance engagement:
+LR’s Approach
+• interviewing relevant employees of the organization responsible for managing GHG emissions and
+LR’s assurance engagements are carried out in accordance with our verification procedure. The following tasks were
+Sustainability data and records;
+undertaken as part of the evidence gathering process for this assurance engagement:
+• assessing Welltower’s data management systems to confirm they are designed to prevent significant errors,
+• interviewing relevant employees of the organization responsible for managing GHG emissions and
+omissions, or mis-statements in the Report. We did this by reviewing the effectiveness of data handling
+Sustainability data and records;
+procedures, instructions, and systems, including those for internal quality control; and
+• assessing Welltower’s data management systems to confirm they are designed to prevent significant errors,
+• verifying historical GHG emissions and Sustainability data and records at an aggregated level for CY 2020.
+omissions, or mis-statements in the Report. We did this by reviewing the effectiveness of data handling
+procedures, instructions, and systems, including those for internal quality control; and
+•O bs ve er rv ifa yt inio gn hs
+is torical GHG emissions and Sustainability data and records at an aggregated level for CY 2020.
+Further observations and findings, made during the assurance engagement, are:
+• Welltower should consider including the estimated fugitive GHG emissions from refrigerated equipment;
+Observations
+• Welltower should ensure that all outpatient medical buildings within Welltower’s control boundary enter their
+Further observations and findings, made during the assurance engagement, are:
+data into Portfolio Manager.
+• Welltower should consider including the estimated fugitive GHG emissions from refrigerated equipment;
+• Welltower should ensure that all outpatient medical buildings within Welltower’s control boundary enter their
+data into Portfolio Manager.
+Page 3 of 4
+Page 3 of 4
+LR’s Standards, Competence and Independence
+LR implements and maintains a comprehensive management system that meets accreditation requirements for ISO
+14065 Greenhouse gases – Requirements for greenhouse gas validation and verification bodies for use in accreditation
+LR’s Standards, Competence and Independence
+or other forms of recognition and ISO/IEC 17021 Conformity assessment – Requirements for bodies providing audit and
+LR implements and maintains a comprehensive management system that meets accreditation requirements for ISO
+certification of management systems that are at least as demanding as the requirements of the International Standard
+14065 Greenhouse gases – Requirements for greenhouse gas validation and verification bodies for use in accreditation
+on Quality Control 1 and comply with the Code of Ethics for Professional Accountants issued by the International Ethics
+or other forms of recognition and ISO/IEC 17021 Conformity assessment – Requirements for bodies providing audit and
+Standards Board for Accountants.
+certification of management systems that are at least as demanding as the requirements of the International Standard
+on Quality Control 1 and comply with the Code of Ethics for Professional Accountants issued by the International Ethics
+LR ensures the selection of appropriately qualified individuals based on their qualifications, training, and experience.
+Standards Board for Accountants.
+The outcome of all verification and certification assessments is then internally reviewed by senior management to
+ensure that the approach applied is rigorous and transparent.
+LR ensures the selection of appropriately qualified individuals based on their qualifications, training, and experience.
+The outcome of all verification and certification assessments is then internally reviewed by senior management to
+ensure that the approach applied is rigorous and transparent.
+Signed Dated: 16 June 2021
+Signed Dated: 16 June 2021
+Neville Dias
+LR Lead Verifier
+On behalf of Lloyd’s Register Quality Assurance, Inc.,
+Neville Dias
+1330 Enclave Parkway, Suite 200, Houston, TX 77077
+LR Lead Verifier
+On behalf of Lloyd’s Register Quality Assurance, Inc.,
+UQA00000909
+1330 Enclave Parkway, Suite 200, Houston, TX 77077
+Lloyd's Register Group Limited, its affiliates and subsidiaries, including Lloyd’s Register Quality Assurance, Inc., and their respective officers,
+UQA00000909
+employees or agents are, individually and collectively, referred to in this clause as 'Lloyd's Register'. Lloyd's Register assumes no responsibility
+and shall not be liable to any person for any loss, damage or expense caused by reliance on the information or advice in this document or
+Lloyd's Register Group Limited, its affiliates and subsidiaries, including Lloyd’s Register Quality Assurance, Inc., and their respective officers,
+howsoever provided, unless that person has signed a contract with the relevant Lloyd's Register entity for the provision of this information or
+employees or agents are, individually and collectively, referred to in this clause as 'Lloyd's Register'. Lloyd's Register assumes no responsibility
+advice and in that case any responsibility or liability is exclusively on the terms and conditions set out in that contract.
+and shall not be liable to any person for any loss, damage or expense caused by reliance on the information or advice in this document or
+howsoever provided, unless that person has signed a contract with the relevant Lloyd's Register entity for the provision of this information or
+The English version of this Assurance Statement is the only valid version. Lloyd’s Register Group Limited assumes no responsibility for versions
+atrdavnisclea taendd i innt oth oatth cears lea nagnuya rgeesps.o nsibility or liability is exclusively on the terms and conditions set out in that contract.
+TThheis EAnsgsulirsahn vceer sSitoante omf ethnits i sA sosnulrya vnacleid S wtahteenm peunbt liiss hthede wonitlhy tvhaeli dR evpeorsrito tno. wLlhoiycdh’ ist Rreefgeirsst.e Irt Gmraoyu po nLliym biete rde parsosduumceesd n ino irtess epnotnirseitbyi.l ity for versions
+t ranslated into other languages.
+Copyright © Lloyd's Register Quality Assurance Limited, 2021. A member of the Lloyd’s Register Group.
+T his Assurance Statement is only valid when published with the Report to which it refers. It may only be reproduced in its entirety.
+Copyright © Lloyd's Register Quality Assurance Limited, 2021. A member of the Lloyd’s Register Group.
+Page 4 of 4
+Page 4 of 4
+4500 Dorr Street
+Toledo, Ohio 43615
+For more information, contact:
+sustainability@welltower.com

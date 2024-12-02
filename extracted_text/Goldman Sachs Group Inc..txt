@@ -1,0 +1,1535 @@
+Note: The following is a redacted version of the original report published May 2, 2022 [73 pages].
+Research
+EQUITY RESEARCH |
+May 2, 2022 | 2:04AM EDT
+ESG of the FUTURE
+A forward look at corporate greenhouse gas emissions, potential ESG Improvers
+We expect increased focus on corporate emissions of greenhouse gases as ESG markets become more forward-looking and in
+response to both rising regulations including proposals from the SEC and carbon pricing considerations. Following the introduction
+of our analysts' estimates for Green Capex and Green Revenue in 2021, we introduce our analysts' estimates for Scope 1 and 2
+greenhouse gas emissions for select companies in seven critical sectors. Our forecasts through 2025 imply that corporate
+emissions will remain below 2019 levels, but the reduction in corporate emissions intensity does not appear consistent with
+a path that limits global temperature rise to 1.5°C – as laid out in the Carbonomics analysis. We expect an ESG investor
+shift From Aspiration to Action to lead to valuation premiums over time for leaders in corporate decarbonization with
+favorable corporate returns.
+Brian Singer, CFA Enrico Chinello, Ph.D. Michael Hao Wu, CFA Derek R. Bingham
++1 212 902-8259 +1 212 357 3398 +1(917)343-1137 | +1 415 249-7435
+brian.singer@gs.com enrico.chinello@gs.com michael.h.wu@gs.com derek.bingham@gs.com
+Goldman Sachs & Co. LLC Goldman Sachs & Co. LLC Goldman Sachs & Co. LLC Goldman Sachs & Co. LLC
+Evan Tylenda, CFA Sharmini Chetwode, Ph.D. Brendan Corbett Emma Jones Madeline Meyer
++44 20 7774-1153 +852-2978-1123 +1(415)249-7440 +61 2 9320-1041 +44(20)7774-4593
+evan.tylenda@gs.com sharmini.p.chetwode@gs.com brendan.corbett@gs.com emma.jones@gs.com madeline.r.meyer@gs.com
+Goldman Sachs International Goldman Sachs (Asia) L.L.C. Goldman Sachs & Co. LLC Goldman Sachs Australia Pty Ltd Goldman Sachs International
+Goldman Sachs does and seeks to do business with companies covered in its research reports. As a result, investors should be aware that
+the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single
+factor in making their investment decision. For Reg AC certification and other important disclosures, see the Disclosure Appendix, or go to
+www.gs.com/research/hedge.html. Analysts employed by non-US affiliates are not registered/qualified as research analysts with FINRA in
+the U.S.
+The Goldman Sachs Group, Inc.
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Table of Contents
+PM Summary 3
+Putting corporate emissions in context: Highly concentrated but minority of total emissions 9
+Implications for overall corporate emissions: Flattish through 2025 vs. 2020 12
+Corporate emissions vs. Consumer emissions: Where could initial impact be the greatest? 16
+Green Capex mosaic provides opportunities to reduce corporate emissions and consumer emissions 23
+Why emissions could begin to impact stock performance in select sectors 27
+Emissions intensity projected paths through 2025 by sector vs. Carbonomics Net Zero carbon models 32
+Methodologies to forecast GHG emissions 50
+Disclosure Appendix 51
+The following is a redacted version of a report originally published May 2, 2022. All company references in this note
+are for illustrative purposes only and should not be interpreted as investment recommendations
+2 May 2022 2
+Goldman Sachs GS SUSTAIN: ESG of the Future
+PM Summary
+ESG of the Future represents the shift we see from predominantly backwards-looking ESG metrics towards
+integrating a forward view — we now add forecasts for select corporate Scope 1 and Scope 2 emissions. We see ESG
+investor focus on corporate decarbonization continuing to become more forward-looking due in part to new rules proposed
+by regulators in the US, Europe and Asia as well as a broader thematic investor shift From Aspiration to Action, further
+accelerated by the Russia/Ukraine war. We add greenhouse gas emissions to our forecasting tools to help investors consider
+the medium term direction of Scope 1 and 2 emissions on a macro and micro basis for companies in critical sectors. This
+should further help to identify ESG Improvers, complementing our forecasting tools for Green Revenue mix, Green Capex
+mix and select volumetric mix shifts (electricity generation, autos, steel, etc) introduced in our November 2021 ESG of the
+Future report.
+Macro and micro bottom line. While our new greenhouse gas forecasts do not paint a full picture of overall emissions, our
+forecasts imply Scope 1 emissions from companies in seven historically high-emitting sectors will remain below 2019
+levels through 2025, implying a 1%-2% annualized decline vs. a 2019 base. Emissions intensity is declining for each of
+the sectors we forecast, though there is no sector where the percentage reduction in emissions intensity through 2025
+appears consistent with a path to a 1.5°C temperature rise (laid out by our colleagues’ Carbonomics analysis) for covered
+companies. Emissions intensity is declining at the fastest pace for Electric Utilities and Oil & Gas Producers by 2025 vs.
+2019 (intensities are referred to Scope 1 for Electric Utilities and Scope 1+2 for Oil & Gas Producers).
+We continue to believe that equity investors focused on Sustainability and ESG issues will become more
+forward-looking in the coming years, a function of regulation, new sustainability bond issuance, focus on whether we are
+on track to meet key UN Sustainable Development Goals like decarbonization and understanding supply chain risks. Our
+November 2021 ESG of the Future report laid out analysts’ forecasts for companies in 19 sectors for Green Revenue mix,
+Green Capex mix and select key volumetric indicators in an effort to track mix shift towards sustainable use case alignment,
+Green Capex and how transformational sectors like autos and power generation will become. As we highlighted, this was a
+first step given in part limited disclosures and basis for forecasting.
+In this report, we take a first step at integrating forecasts for greenhouse gas emissions. We believe this will also
+become more in focus for both macro and micro reasons — to determine how companies are aiding the decarbonization
+effort and whether companies are on track to meet targets. We have asked analysts to forecast their covered companies
+Scope 1 and Scope 2 emissions annually in seven historically high-emitting sectors — Airlines, Chemicals, Construction
+Materials, Mining & Metals, Oil & Gas, Steel and Utilities. Together Scope 1 emissions from these sectors in 2019 represent
+89% of overall Scope 1 emissions from the near 7,000 companies in our GS SUSTAIN database. As we discuss further, we
+2 May 2022 3
+Goldman Sachs GS SUSTAIN: ESG of the Future
+also view this as a start, because: (a) Not all corporates disclose emissions; (b) Scope 1 emissions from those that do
+represent a minority of total global emissions; (c) our analysts do not cover all the companies in the sectors we are focused
+on; and (d) there is need for further basis for analyst forecasts for some covered companies. Importantly, our analysts’
+forecasts do not include corporate Scope 3 emissions — emissions from consumers and suppliers. At the country level, we
+address where focus on consumer emissions vs. corporate emissions could have greater initial impact later in the report.
+Key takeaways:
+1. We do not see corporate emissions in the seven high-emitting sectors we forecast moving back up to 2019 levels
+through 2025, and our forecasts imply a relatively flattish emissions profile post-2021 with 2025 down 9% vs. 2019.
+2. We see a more material reduction in emissions intensity, with median sector down 15% (on a market cap-weighted
+average basis — range -3% to -20%) in 2025 vs. 2019 levels (excludes Chemicals due to insufficient data).
+3. Sectors where our analysts’ forecasts imply the greatest reduction in emissions intensity in 2025 vs. 2019 are Electric
+Utilities, Oil & Gas Producers, Diversified Metals & Mining and Aluminum (intensities refer to Scope 1 emissions for
+Electric Utilities and Scope 1+2 for other sectors). We have compared the percentage reduction in emissions intensity
+through 2025 to the path needed longer term for a <2 degrees and 1.5°C temperature rise scenario laid out by our
+colleagues’ Carbonomics reports. While there is no sector where the percentage emissions intensity reductions through
+2025 appears consistent with a 1.5°C temperature rise scenario, based on our analysts’ estimates, we see the
+percentage reduction in emissions intensity through 2025 most consistent with well below 2°C and 2°C scenarios for
+Electric Utilities, Steel, Aluminum, Chemicals and Diversified Metals & Mining.
+Importantly, ESG ownership among these seven sectors is limited... ESG funds are 33% underweight on average the
+seven most emitting sectors on a market cap weighted basis when including all companies in our GS SUSTAIN database. We
+attribute this largely to the higher emissions intensity and the predominant focus of overweight positions in sectors levered
+to solar, water and wind.
+... but we see rising interest over time among investors in ESG Improvers. As ESG investor focus shifts from Aspiration
+to Action, we believe investors will begin to consider owning companies that have historically been high emitters where
+there is confidence in a meaningful reduction in emissions or where their products contribute to meaningful avoidance of
+emissions relative to their emissions profiles. However, this requires sufficient engagement to forecast emissions and future
+product impact. Ultimately, company guidance of emissions targets is not enough; understanding pathways and drivers will
+be important for funds to make credible cases for impact to their investors, particularly if portfolios are being measured by
+their carbon footprint.
+2 May 2022 4
+Goldman Sachs GS SUSTAIN: ESG of the Future
+We note there are multiple limitations to our analysis which is why we view the work as a starting point. Our focus
+only goes through 2025 as most of our analyst teams’ earnings models do not extend later. Much of the emissions intensity
+and potential absolute emissions reductions to meet Net Zero pathways are expected to accelerate beyond 2025, beyond
+where our analysts make annual financial forecasts. We note for those looking beyond 2025, our colleagues’ Carbonomics
+report in October 2021 focused on management teams’ long-term targets for emissions and implied emissions pathways for
+select companies to meet targets in select sectors. Additionally, our analysis focuses on Scope 1+2 emissions and not
+emissions by consumers/suppliers (Scope 3). As we highlight, overall corporate Scope 1 emissions from companies in all
+sectors in our GS SUSTAIN universe represents a minority of total global emissions as emissions from individuals,
+governments and privately-held companies are not included.
+Exhibit 1: All key sectors included in our analysis are forecast to have emissions intensities on the decline by 2025E vs. 2019 — Electric Utilities are
+forecast to see the largest decrease
+Change in absolute emissions and emissions intensities for key sectors in our analysis by 2025E vs. 2019
+Change in absolute emissions in 2025E vs. Change in Emissions Intensities in 2025E
+GS SUSTAIN Sector
+2019 vs. 2019
+Airlines 9% -5%
+Aluminum -8% -14%
+Chemicals 10% -12%
+Construction Materials 2% -12%
+Diversified Mining & Metals -6% -14%
+Oil & Gas Producers -8% -16%
+Oil Refiners -10% -10%
+Steel -3% -8%
+Utilities - Electric -17% -20%
+Total -9% -15%
+Emissions intensities are calculated dividing Scope 1+2 emissions (Scope 1 only for Electric Utilities) by the corresponding activity metric as specified in our Energy team’s Carbonomics reports. Total emissions intensity
+change is a weighted average calculated on a market cap-basis for companies included in our analysis.
+Source: Company data, FactSet, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 5
+Exhibit 2: We see aggregate Scope 1 emissions from seven key sectors flattish with 2020
+levels through 2025, down vs. pre-pandemic levels
+Sector breakdown for Scope 1 emissions from corporates included in our analysis.
+4.0
+Airlines
+3.5
+Chemicals
+3.0
+Utilities
+2.5
+2.0 Oil & Gas
+1.5
+Metals &
+Mining
+1.0
+Steel
+0.5
+Construction
+Materials
+0.0
+2019 2020 2021E 2022E 2023E 2024E 2025E
+Implications for stocks: Finding ESG Improvers
+We believe that over time ESG investors will look more towards impact themes and there will be rising willingness to invest
+in ESG Improvers — companies that may not traditionally have scored well on ESG metrics but where there could be
+recognition for a significant improvement towards Sustainable Development Goals. It is for this reason we have worked with
+our analysts to quantify improvement. While there are ultimately many different ways to measure improvement, in our ESG
+of the Future reports, we have focused on:
+n Green Revenue and Green Capex: Companies with rising or high and rising percentages of Green Capex or Green
+Revenue as a percentage of the total. In our November 2021 ESG of the Future report, we introduced stock-specific
+estimates for Green Revenue and Green Capex mix for 19 sectors key in the Green Capex mosaic. Our takeaway was
+that we see the Green Capex and Green Revenue mix rising at a rate of about 1.0-1.5 percentage points per year.
+n Greenhouse Gas emissions: Companies that are meaningfully lowering their emissions intensity. In this report, we
+introduce analysts’ estimates for Scope 1 and Scope 1+2 annual greenhouse gas emissions for companies in 7
+high-emitting sectors with a goal of assessing direction of overall corporate emissions but also in identifying companies
+helping to advance decarbonization goals by lowering their own emissions footprint on an intensity basis.
+dettime
+qe-2OC
+fo
+notG
+Goldman Sachs GS SUSTAIN: ESG of the Future
+As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the covering
+analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. Sectors as defined in our GS SUSTAIN
+sector classification.
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 6
+Goldman Sachs GS SUSTAIN: ESG of the Future
+When will investors reward ESG Improvers? Over time, we expect a rising focus on ESG Improvers as more investors
+look to drive and measure impact. This is catalyzed both by: (1) a shift in stage of the ESG life cycle towards the
+Measurement phase as addressed in our PM’s Guide to the ESG Revolution report; and (2) a shift From Aspiration to Action
+among ESG investors on the back of multiple energy reliability events over the last 18 months. However, Fear of Misaligned
+Exposure (FOME) among ESG investors could be a headwind to the timing and pace of focus on ESG Improvers. We focus
+this report on seven high emitting sectors that are largely underweight in ESG funds. Because of the wide range of focus
+among ESG funds, the timing of a shift towards improvers is somewhat opaque. Nevertheless, the increased focus on
+achieving goals like Net Zero, Infrastructure and Clean Water will likely over time lead to a greater diversification of
+investments across the supply chain that includes companies driving impact through improvement.
+2 May 2022 7
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Source: Goldman Sachs Global Investment Research
+2 May 2022 8
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Putting corporate emissions in context: Highly concentrated but minority of total emissions
+The seven sectors comprised in our analysis account for almost 90% of corporate Scope 1 emissions within GS
+SUSTAIN coverage. Corporate-level Scope 1 emissions are highly concentrated in a handful of sectors, which largely
+represent our focus for forecasts. The seven sectors we consider are: Airlines, Chemicals, Construction Materials, Mining
+& Metals, Oil & Gas (separated in Oil & Gas Producers and Oil Refiners), Steel and Utilities (broken down into Electric
+Utilities, Gas Utilities, Multi-Utilities and Water Utilities). Among those sectors, publicly listed companies from the corporate
+universe covered by GS SUSTAIN (about 7,000 publicly listed companies globally) account for 8.4 bn tons of CO -eq in 2019,
+2
+representing 89% of emissions from publicly listed companies in GS SUSTAIN coverage.
+Importantly, however, reported corporate Scope 1 emissions only account for 18% of total global GHG emissions.
+Global GHG emissions in 2019 — including land-use change and forestry — were about 51 bn tons of CO -equivalent —
+2
+calculated from 2018 global total GHG emissions from Emissions Database for Global Atmospheric Research (EDGAR), to
+which we apply the 2010-2018 average p.p. contribution of CO to total GHG to derive total global GHG emissions in 2019.
+2
+We estimate that disclosed Scope 1 emissions from the corporate universe covered by GS SUSTAIN accounted for 18% of
+those GHG emissions in 2019 — or about 9.4 bn tons of CO -eq, of which as mentioned above almost 90% come from the
+2
+seven sectors of our focus. We see companies focused on electricity/heat generation, transportation and buildings as the
+areas accounting for the highest share of emissions not captured by GS SUSTAIN coverage, per sector breakdown as
+reported by Climate Watch.
+Our equity research teams cover 70% of total Scope 1 disclosed emissions from the seven key sectors. Companies
+covered by our Global Investment Research teams account for about 6 bn tons of CO -eq in 2019, corresponding to 70% of
+2
+total emissions from publicly listed corporates in GS SUSTAIN coverage in the seven key sectors, or 11% of global total GHG
+emissions. The remaining portion of emissions from corporates in the seven key sectors (5% of total global GHG emissions)
+come from companies not covered by our equity research teams.
+2 May 2022 9
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 3: Among the ~7,000 companies in our GS SUSTAIN database, the 7 key sectors we Exhibit 4: Out of global GHG emissions, the seven sectors considered account for only 16%
+consider in our analysis represent almost 90% of reported Scope 1 emissions of the total. Covered companies for which estimates have been provided cover 46% of those
+Sector breakdown of global Scope 1 emissions from corporates in our GS SUSTAIN coverage (2019 — or c.7% of total GHG emissions
+data) Breakdown of global GHG emissions in 2019 with respect to the scope of coverage in our analysis
+Other sectors Co Sm Up Sa Tn Aie INs (c eo xv . . 7 b y From covered From covered
+sectors) companies by GIR companies
+Mining & Metals Utilities w/oforecasts covered by GIR
+Chemicals
+7%
+Companies
+Airlines cov. by
+82% 16% SUSTAIN in 4%
+Construction
+Materials 5%
+Global GHG
+Emissions,ex. 7 From companies
+Steel sectors and not covered by
+Oil & Gas SUSTAIN GIR
+Sectors as defined in our GS SUSTAIN sector classification. Oil & Gas comprises Oil & Gas Producers and Oil Refiners. Utilities Data refers to 2019 global GHG emissions
+comprises Electric Utilities, Gas Utilities, Multi-Utilities and Water Utilities.
+Source: EDGAR, Goldman Sachs Global Investment Research
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+Our new bottom-up forecasts reflect a subset of companies in these seven sectors where our analysts see sufficient
+basis for forecasting. Companies for which we received GHG emissions forecasts represent 65% of emissions from
+corporates covered by our equity research teams in the seven key sectors, or 3.8 bn tons of CO -eq — corresponding to 7%
+2
+of global total GHG emissions in 2019. While the overall percentage of both disclosed corporate Scope 1 emissions and
+emissions from companies where we have forecasts is low, we nevertheless believe the directional takeaways are
+important. We expect to grow the percentage of emissions forecasted over time.
+Response rates from our analysts are the highest for Oil & Gas and the lowest for Chemicals. As highlighted in Exhibit
+5, the number of estimates we received varied widely among sectors and regions. On a Scope 1-basis, response rates were
+the highest for the Oil & Gas sector (66% on average). We also note response rates for Utilities were 46% on average —
+48% for Electric Utilities, 29% for Gas Utilities, 59% for Multi-Utilities and 44% for Water Utilities. The Chemicals sector is
+where response rates were the lowest — 10%, globally — due to a combination of (1) limited company disclosures
+regarding decarbonization pathways and (2) difficulty in forecasting emissions trajectories by our analysts, in our view.
+2 May 2022 <0
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 5: Response rates for Scope 1 emissions estimates were the highest for Oil & Gas and
+Utilities, and vary significantly among regions of coverage — the highest in Europe (53%) and
+the lowest in Asia (24%), on a weighted average basis
+Breakdown of response rates for Scope 1 emissions estimates by sector and region of coverage.
+Airlines 28 Scope 1
+Chemicals 94
+Construction Materials 23
+Mining & Metals 55
+Oil & Gas Producers 68
+Oil Refiners 30
+Steel 36
+Utilities - Electric 71
+Utilities - Gas 17
+Utilities - Multi 17
+Utilities - Water 9
+448
+Total
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Americas Europe Asia Pacific
+Inputs are counted in the response rate calculation when at least 2 years of estimates have been provided. Vertical dashed lines
+correspond to the weighted average response rates by region using number of companies in the sector as weights.
+Source: Goldman Sachs Global Investment Research
+2 May 2022 <<
+Implications for overall corporate emissions: Flattish through 2025 vs. 2020
+Our work suggests stabilization in absolute emissions across the seven key sectors considered post-2020, still down
+from pre-pandemic levels. The companies in our analysis accounted for 3.8 billion tons of CO -eq emitted in the
+2
+atmosphere in 2019, with the Oil & Gas and Utilities sectors representing the majority of the total (39% and 25% of the
+total, respectively). As we detail in Exhibit 6, COVID-related disruptions resulted in a steep decline in 2020 — down 10% YoY.
+Our analysts’ estimates imply a slight pickup in overall Scope 1 emissions from the companies in our analysis in 2021E and
+2022E, followed by a modest decline / stabilization in subsequent years, with 2025E down 9% vs. 2019 and up 1% vs. 2020.
+We note overall Scope 1 emissions for corporates in our survey are estimated to amount to 3.4 billion tons of CO -eq by
+2
+2025E, implying a 1.6% annualized reduction vs. 2019 levels. Notably, however, to stay on track with Net Zero goals, we
+would need to see a more meaningful acceleration in the pace of decarbonization post-2025E. Commentary from
+managements of companies with Net Zero or broader decarbonization goals suggests a more back-end loaded emissions
+decline, so our results through 2025 does not suggest we are definitively off track.
+Exhibit 6: We see aggregate Scope 1 emissions from key sectors flattish with 2020 levels
+through 2025, down vs. pre-pandemic levels
+Sector breakdown for Scope 1 emissions from corporates included in our analysis.
+4.0
+Airlines
+3.5
+Chemicals
+3.0
+Utilities
+2.5
+2.0 Oil & Gas
+1.5
+Metals &
+Mining
+1.0
+Steel
+0.5
+Construction
+Materials
+0.0
+2019 2020 2021E 2022E 2023E 2024E 2025E
+Among the seven sectors, we see absolute emissions from Steel, Mining & Metals, Oil & Gas and Utilities declining
+by 2025E vs. 2019. While overall Scope 1 emissions from corporates in our analysis are estimated to decline by 9% by
+dettime
+qe-2OC
+fo
+notG
+Goldman Sachs GS SUSTAIN: ESG of the Future
+As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the covering
+analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. Sectors as defined in our GS SUSTAIN
+sector classification.
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 <2
+Goldman Sachs GS SUSTAIN: ESG of the Future
+2025E vs. 2019 base, the sector-by-sector outlook is mixed, with 4 of the 7 key sectors projected on the decline and 3 on the
+rise. In particular, our estimates indicate a downward trajectory for absolute Scope 1 emissions from Steel, Mining & Metals,
+Oil & Gas and Utilities — down 6%, 10%, 10% and 23% by 2025E vs. 2019 base. Scope 1 emissions for the remaining 3
+sectors — Airlines, Chemicals and Construction Materials — are estimated to be on the rise by 2025E vs. 2019 base.
+Our analysis — even if partial — indicates significant discrepancies in overall emissions among regions. We note
+absolute Scope 1 emissions from companies in the seven key sectors in Americas and Europe are estimated to follow a
+similar trajectory, declining by about 14%-15% by 2025E vs. 2019 (see Exhibit 8 and Exhibit 9) — despite different
+sector-by-sector outlooks for Chemicals, Metals & Mining and Steel. Absolute emissions in Asia Pacific are estimated to
+follow a different trajectory, increasing by 7% by 2025E vs. 2019 (Exhibit 10) — in particular, emissions from Chemicals,
+Construction Materials, Oil & Gas and Utilities are forecast on the rise among Asia Pacific companies. In our view, this stems
+in part from different positions on the cost abatement curve for Americas/Europe/Asia Pacific companies.
+While our work provides views on only a part of corporate emissions, we believe this could be extrapolated to derive
+trends and trajectories. We recognize that companies in our analysis accounted for only 7% of global GHG emissions and
+46% of global GHG emissions from publicly traded corporates in our GS SUSTAIN database — based on 2019 data. However,
+the importance of the seven key sectors we selected — which accounted for almost 90% of total direct GHG emissions
+from corporates in 2019 — jointly with the footprint of corporates covered in our analysis where we have forward-looking
+GHG emissions forecasts gives us confidence that our work could provide visibility into the trajectory of emissions among
+the seven sectors we focus on.
+2 May 2022 <3
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 7: Absolute Scope 1 emissions are projected to decrease for 4 of the 7 key sectors Exhibit 8: Among Americas companies where our analysts are estimating future greenhouse
+considered — Steel, Oil & Gas, Mining & Metals and Utilities — by 2025E vs. 2019, and to gas emissions, Scope 1 emissions from Oil & Gas, Construction Materials and Utilities are
+increase for the remaining 3 — Airlines, Chemical and Construction Materials forecast to decline meaningfully
+Overall Scope 1 emissions for the seven sectors considered, indexed to 2019 as base-year Trajectory of Scope 1 emissions for Americas companies in our analysis, broken down by sector.
+Indexed vs. 2019 base.
+130% 130% Steel
+Chemicals Mining &
+120% Construction 120% Metals
+110% Materials Airlines 110%
+Airlines
+Steel
+100% 100% Chemicals
+Mining &
+90% Metals 90% Total
+Total
+80% 80% Oil & Gas
+Oil & Gas
+70% 70%
+60% 60% Utilities
+Utilities Construction
+50% 50% Materials
+40% 40%
+30% 30%
+2019 2020 2021E 2022E 2023E 2024E 2025E 2026E 2019 2020 2021E 2022E 2023E 2024E 2025E 2026E
+As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the
+covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. Sectors are defined based covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. Sectors are defined based
+on GS SUSTAIN sector classification — Oil & Gas includes Oil & Gas Producers and Oil Refiners, Utilities includes Electric Utilities, on GS SUSTAIN sector classification — Oil & Gas includes Oil & Gas Producers and Oil Refiners, Utilities includes Electric Utilities,
+Gas Utilities, Multi-Utilities and Water Utilities Gas Utilities, Multi-Utilities and Water Utilities
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 <4
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 9: Among EMEA companies where our analysts are estimating future greenhouse Exhibit 10: Among Asia Pacific companies where our analysts are estimating future
+gas emissions, the Construction Materials, Mining & Metals, Oil & Gas, Utilities and Steel greenhouse gas emissions, the Mining & Metals sector is forecast to have declining Scope
+sectors are forecast to have declining Scope 1 emissions by 2025E 1 emissions by 2025E
+Trajectory of Scope 1 emissions for Europe companies in our analysis, broken down by sector. Trajectory of Scope 1 emissions for Asia Pacific companies in our analysis, broken down by sector.
+Indexed vs. 2019 base. Indexed vs. 2019 base.
+130% Airlines 130% Gas Utilities
+120% 120% Oil & Gas
+110% Construction 110% Construction
+Materials Materials
+100% 100%
+Chemicals
+Mining &
+90% Metals 90%
+80% Total 80% Total
+Oil & Gas
+70% 70%
+Mining & Metals
+60% 60%
+Steel Utilities
+50% 50%
+40% 40%
+30% 30%
+2019 2020 2021E 2022E 2023E 2024E 2025E 2026E 2019 2020 2021E 2022E 2023E 2024E 2025E 2026E
+As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the
+covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. Sectors are defined based covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. Sectors are defined based
+on GS SUSTAIN sector classification — Oil & Gas includes Oil & Gas Producers and Oil Refiners, Utilities includes Electric Utilities, on GS SUSTAIN sector classification — Oil & Gas includes Oil & Gas Producers and Oil Refiners, Utilities includes Electric Utilities,
+Gas Utilities, Multi-Utilities and Water Utilities Gas Utilities, Multi-Utilities and Water Utilities. Airlines and Steel sectors not depicted due to no estimates/limited estimates.
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 <5
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Corporate emissions vs. Consumer emissions: Where could initial impact be the greatest?
+We believe consideration of emissions intensity of corporates vs. emissions intensity of countries can be helpful to
+determine where investors and policy-makers should prioritize resources to drive the greatest impact. As we have
+written, we are seeing a greater focus of regulation in Europe, the US and Asia on disclosure of Scope 1, 2 and 3 emissions.
+There is an intense focus among policymakers, investors and other stakeholders in lowering corporate emissions. This has in
+part led to, as we have written, a transition catalyzed by lower supply that leads to underinvestment and higher prices of
+commodities. We believe greater focus on consumer demand can also play an important role in driving decarbonization. We
+believe an all-in approach towards lowering consumer and corporate emissions will be needed to achieve Net Zero goals —
+focused on finding ways to mitigate both corporate and consumer emissions. At the same time, our analysis suggests the
+initial weighting of focus on corporate vs. consumer emissions may drive greater impact if varied by country, depending on
+whether the outsized emissions intensity lies with corporates or consumers.
+Electricity consumption per capita is highest in the US, followed by Japan and EMEA with China on the rise. Overall
+electricity demand on a per capita basis is greatest in developed countries, but even among developed countries the US is
+meaningfully above Japan which is meaningfully above EMEA. The global weighted average is meaningfully lower, a function
+of many countries and populations with more limited access or affordability for electricity consumption. We believe
+advancement towards No Poverty Sustainable Development Goals likely means that the global average for electricity
+consumption per capita will be on the rise in future years. This is another reason for financial market and policymaker
+consideration for corporate vs. consumer emissions. For some countries like Canada, the higher electricity consumption per
+capita is in part driven by severe weather — i.e., a greater number of population-weighted heating and cooling degree days.
+This is less the case based on IEA data for the US and Japan.
+2 May 2022 <6
+Exhibit 11: Higher-income countries consume much more energy than lower-income countries on a per-capita basis
+Per-capita electricity consumption by country
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+)hWM(
+atipac
+rep
+sruoh
+ttawageM
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Canada
+US
+Australia
+Japan
+OECD Europe
+China
+World
+India
+Source: IEA, Goldman Sachs Global Investment Research
+2 May 2022 <7
+Exhibit 12: While countries with more extreme weather have greater heating and/or cooling needs, this does not fully explain the greater electricity
+intensity in the US, Japan and Australia as examples
+Number of population-weighted heating degree days and cooling degree days, 2019; heating degree days based on 16°C, cooling degree days based on 18°C
+4,500
+4,000
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+0
+Corporate emissions intensity on a revenue basis is greatest in emerging markets or those more dominated by
+energy-intensive industries. Exhibit 13 shows corporate level Scope 1+2 emissions per dollar of revenue by country. To
+derive this, we apply a company’s overall emissions intensity to a country based on what percent of revenue each company
+sells in a given country. So if a company sells 50% of its product into country A and 50% of its product into country B, both
+countries would be allocated half the company’s emissions and half the company’s revenue towards calculating country-level
+corporate emissions intensity. Looking at corporate emissions intensity in this way, countries like Saudi Arabia, India and
+Russia have the highest corporate emissions intensity. Corporate emissions intensity is lowest in Western European
+syad
+eerged
+dethgiew
+noitalupoP
+aissuR adanaC EAU yawroN dnaliahT aibarA
+iduaS
+eropagniS nedewS aidnI dnalreztiwS airtsuA aisenodnI aeroK
+htuoS
+anihC dnaloP SU ynamreG napaJ yekruT lizarB KU muigleB dnalerI sdnalrehteN ecnarF ylatI eceerG niapS aibmoloC elihC anitnegrA ocixeM ailartsuA dnalaeZ
+weN
+acirfA
+htuoS
+lagutroP
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Heating degree days
+Cooling degree days
+Source: IEA, Goldman Sachs Global Investment Research
+2 May 2022 <8
+Goldman Sachs GS SUSTAIN: ESG of the Future
+countries (Switzerland, UK, Ireland, France among them), Japan and the US. We have also looked at the emissions intensities
+by country of domestically domiciled companies, which in most cases are above the corporate average for the country
+overall (with a few exceptions, largely where energy imports are meaningful in the overall economy). We note that not every
+company discloses emissions, and our dataset looks only at emissions at disclosed publicly traded companies (with select
+high-emitting private companies that disclose emissions also included).
+2 May 2022 <9
+Exhibit 13: Emissions intensities for publicly listed corporates based on our revenue-allocation method are higher in emerging markets
+Publicly traded company Scope 1+2 emissions intensities, tons of CO2 per $ of revenue allocated to country of sales, 2019. Sorted from highest (left) to lowest
+(right); domestic emissions intensity reflects in-country emissions intensity from companies headquartered in-country
+1,600
+1,400
+1,200
+1,000
+800
+600
+400
+200
+0
+Overall emissions intensity by country does not fully overlap with corporate emissions intensity by country. When
+looking at country-level emissions per dollar of GDP, the ranking/positioning of countries is not consistent with those with
+highest/lowest corporate emissions. As an example, the US and India both have similar levels of overall emissions per dollar
+of GDP (about the global average) even as India’s corporate emissions intensity is among the highest and the US’s corporate
+--
+eunever
+fo
+nm
+$
+rep
+2OCnot
+,ytisnetnI
+noissimE
+2+1
+epocS
+egarevA
+dethgieW
+acirfA
+htuoS
+aibarA
+iduaS
+aidnI elihC aissuR aisenodnI dnaloP anihC eceerG aibmoloC EAU aeroK
+htuoS
+dnaliahT anitnegrA ailartsuA ocixeM yekruT adanaC yawroN nawiaT lizarB lagutroP muigleB niapS ylatI sdnalrehteN eropagniS ynamreG setatS
+detinU
+nedewS airtsuA dnalaeZ
+weN
+ecnarF napaJ KU dnalerI dnalreztiwS
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Developing Economies
+Developed Economies
+Domestic emission intensity
+South Africa’s domestic emissions intensity is implied at about 1,980 tonCO2 / $ mn
+Source: Thomson Reuters, FactSet, Bloomberg, Refinitiv, United Nations, Company data, Goldman Sachs Global Investment Research
+2 May 2022 20
+emissions intensity is among the lowest. Japan’s overall emissions are slightly below the global average, while its corporate
+emissions are among the lowest. Only Switzerland and Ireland have among the lowest both corporate emissions and overall
+emissions intensities, while Russia, South Africa and Saudi Arabia are among the higher emissions intensities on a corporate
+and overall basis.
+Exhibit 14: Overall country emission intensity of GDP is greatest in lower-income resource-producing countries
+CO2 emissions intensity per $ of GDP and GDP per capita by country, 2019; top 10 countries based on GDP are bold
+0.9
+Turkmenistan
+0.8
+South Africa
+0.7
+Ukraine
+Kazakhstan
+0.6
+Iran
+Bahrain
+Russia
+0.5
+China
+0.4 Saudi Arabia Qatar
+Canada
+Australia
+India
+Japan US
+0.3
+UAE Germany
+0.2 Italy Netherlands
+Norway
+UK Denmark Ireland
+0.1 Brazil
+France
+Sweden Singapore
+DR Congo Switzerland
+0.0
+$0 $10,000 $20,000 $30,000 $40,000 $50,000 $60,000 $70,000 $80,000 $90,000
+We believe this suggests the initial focus of investors and policy-makers towards decarbonization should be varied
+depending on the country to have the greatest impact. Our analysis suggests that there may be greater impact focusing
+in the United States and Japan on the consumer vs. the corporate, while there may be greater impact in India and Eastern
+PDG
+fo
+$
+rep
+)2OCgK(
+snoissime
+2OC
+latoT
+Goldman Sachs GS SUSTAIN: ESG of the Future
+GDP per capita (US$)
+Source: World Bank, United Nations, Global Carbon Atlas, Goldman Sachs Global Investment Research
+2 May 2022 2<
+European countries focusing more on the corporate than the consumer. In Exhibit 15 we have created an indicative index
+where policy/investor focus may initially be better directed towards the corporate vs. the consumer or equally to both.
+Exhibit 15: Our indicative index that divides country emissions intensity per $ of GDP by corporate emissions intensity per dollar of revenue suggests
+potential greater initial impact from focusing decarbonization efforts on consumers in the US and Japan and on corporates in India and other emerging
+markets
+Country emissions intensity index / corporate emissions intensity index, 2019
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+ytisnetni
+snoissime
+etaroproC
+/
+yrtnuoC
+)xedni
+etaroproc
+/
+xedni
+yrtnuoC(
+SU napaJ dnalaeZ
+weN
+adanaC ailartsuA airtsuA ynamreG KU anihC aissuR dnalerI aeroK
+htuoS
+sdnalrehteN muigleB ecnarF ylatI yekruT ocixeM dnalreztiwS acirfA
+htuoS
+niapS lizarB lagutroP dnaliahT EAU eceerG dnaloP anitnegrA nedewS yawroN eropagniS aisenodnI aibarA
+iduaS
+elihC aidnI aibmoloC
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Consumer
+emissions
+Corporate
+emissions
+intensity
+Index values calculated by dividing a country’s overall/corporate emissions intensity values by the median values of the comparison set. Dark blue bars represent developed countries, light blue bars represent developing
+countries, and stripped bars represent countries with more than 3500 degree days in 2019.
+Source: Goldman Sachs Global Investment Research
+2 May 2022 22
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Green Capex mosaic provides opportunities to reduce corporate emissions and consumer emissions
+We continue to believe Green Capex will be the multi-year secular theme driving the next wave of infrastructure as
+focus rises to decarbonize the world — in addition to meet Clean Water and Infrastructure goals. As we detailed in our
+Green Capex: Making Infrastructure Happen report, we see the need for $2.8 trillion incremental annual investment on
+average this decade vs the 2016-20 average on path towards Net Zero, Infrastructure and Clean Water goals. As a result,
+Green Capex would need to step up to a total of $6 tn annually in the 2020s. Green Capex for those three focus areas has
+been about $3.2 trillion annually within 2016-2020, which represents about 15% of average global gross capital formation
+during 2016-19. Incremental Green Capex will be needed from a combination of governments, private companies and public
+companies, and will involve, in our view, an all-in approach across multiple sectors that will be critical or needed on path to
+Net Zero, Infrastructure and Clean Water goals (see Exhibit 16).
+Net Zero goals will require annual investments to step up to $3.0 trillion annually and will involve multiple
+technology verticals, in our view. We expect achieving Net Zero goals will require a step-up in investments to $3.0 tn
+annually in the 2020s, up $1.8 tn from the 2016-2020 annual average of $1.2 tn. In our view, Green Capex needed on path to
+Decarbonization goals will embrace multiple technology verticals, from generation — e.g., Renewables, among others — to
+utilization — e.g., Electrification, among others. In addition, as detailed in Exhibit 16, we also see mitigation — such as
+Carbon Capture Utilization & Storage — as well as energy storage technologies — e.g., Hydrogen and Battery Storage — as
+instrumental on path to Net Zero goals, to balance intermittency in energy supply from renewables assets.
+We believe higher commodity prices could strengthen investor focus on energy reliability, particularly on Hydrogen
+and Energy Storage. As we recently described in our Supply-driven oil price spike: Sustainability implications report, we
+believe rising commodity prices could accelerate technology innovation and/or fuel transition — similarly to past spikes in oil
+price. While we do not view an inflationary commodities environment hampering Green Capex growth, we anticipate
+heightened focus on energy reliability and storage, potentially. Additional catalysts could be recent temporary power outages
+in major economies worldwide — namely, Texas, California, Europe and China — and the ongoing Russia/Ukraine conflict.
+The incorporation, in a limited way, of natural gas and nuclear into the EU Taxonomy at the beginning of 2022 is recognition of
+the need for Energy reliability to complement transition to clean energy. As such, we see Battery Storage and Hydrogen
+likely to receive greater focus given they are instrumental to address the intermittency of solar and wind. To this regard, we
+note recent policy initiatives (i.e., REPowerEU in Europe and Energy Security Strategy in UK) could potentially fast-track those
+technologies.
+Technologies we are watching: disruptive innovations will be needed on path to Decarbonization goals. As stated
+above, the path to Net Zero will require breakthroughs across multiple green technologies, as decarbonizing harder-to-abate
+2 May 2022 23
+Goldman Sachs GS SUSTAIN: ESG of the Future
+emissions (e.g., emissions in industrial processes, long-haul transport) require solutions that are still relatively nascent and
+expensive to implement. Our Energy team’s Carbonomics analysis, for example, suggests that the costs to decarbonize 50%
+of the world’s emissions currently stand at nearly US$80 or less per tonne, but decarbonizing beyond 75% of the world’s
+emissions through advanced technologies (e.g., CCUS) could require between US$150 to more than US$1,000 per tonne
+based on current solutions. Cost deflation across various decarbonization technology verticals and innovating new solutions
+are why we believe companies exposed to our Green Capex themes — both public and private — will play an increasing role
+in a low carbon economy in the long-term. Below we highlight an ecosystem of seven critical technologies that could provide
+transformational and disruptive solutions to drive decarbonization in the long-term (Exhibit 17).
+What can help lower consumer emissions: Energy efficiency and vehicle electrification. While there has been an
+understandable focus on the supply side of energy — shifting generation towards renewables and away from coal as an
+example — we believe there will be rising consideration for technologies and solutions that can mitigate demand as well or
+change the consumer emissions profile. As highlighted earlier, some countries — particularly developed economies like the
+US, Japan and Australia — have very high electricity per capita that does not uniquely appear attributable to extreme
+weather. We believe there is an opportunity for impact from technologies that can help mitigate emissions beyond corporate
+Scope 1 and 2. One area of focus is electrifying vehicles, which based on our ESG of the Future analysis should see an
+accelerated pace of adaptation. Another less discussed vertical that warrants focus and could see greater investor support is
+energy efficiency — appliances, HVAC, low/zero carbon buildings or improvements in internal combustion engine efficiency.
+2 May 2022 24
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 16: The Net Zero, Infrastructure and Clean Water mosaic
+Critical technologies/focus areas and annual investment in the 2020s to achieve Net Zero, Infrastructure and Clean Water needs
+Source: IEA, McKinsey, OECD, Company data, Goldman Sachs Global Investment Research
+2 May 2022 25
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 17: Innovations across multiple technologies could help lower the cost of decarbonization and introduce new climate solutions
+Select focus areas for decarbonization technological innovation
+Technologies Innovation areas Technologies Innovation areas
+Next gen high cell efficiency technologies New capture technologies
+Carbon Capture
+Electrification Optimization of wafer size and thickness Optimization of input costs
+Localization of clean hydrogen
+Changes in module design
+ecosystems
+Ultra-High Voltage (UHV) lines Fuel cell vehicles
+Grid Transmission Low Carbon Fuel
+Equipment and software upgrades Gas-fired distributed generation
+Low Carbon Sustainable Aviation Fuel (SAF)
+Electrification of construction equipment
+Production & Energy solutions
+Conservation EAF and hydrogen steel production Digitalization Cost deflations in Silicon Carbide
+Improvements in battery energy density
+Battery Storage
+Graphene based super-fast charging
+Source: Goldman Sachs Global Investment Research, Gao Hua Securities Research
+2 May 2022 26
+Why emissions could begin to impact stock performance in select sectors
+Because of their higher emissions profiles, companies in the seven sectors we are introducing emissions forecasts
+are highly underweight in ESG funds. On a weighted average basis by market cap, ESG funds are 35% underweight the 7
+sectors that comprise 90% of corporate Scope 1 emissions vs. respective benchmarks (Exhibit 18 — sectors as defined
+under SUSTAIN classification). Within these sectors, there are some overweight positions such as Chemicals (27%
+overweight) and Water Utilities (433% overweight). The most underweight of the seven sectors are Oil & Gas Producers,
+Mining & Metals and Oil Refiners — 70%, 68% and 42% underweight, respectively. In our view, companies in these sectors
+have potentially not been recognized in ESG funds partially due to their generally large emissions footprint, among other
+factors. We believe within these sectors as investors move From Aspiration to Action there may be greater rewards for
+companies that can successfully decarbonize their operations and demonstrate they are the low-cost/low-emissions supplier
+of their product if corporate returns/forward outlook remain favorable. Additionally, we believe EU Taxonomy-driven
+classification of Green Revenue and Green Capex mix could also help to drive a broader focus on ESG Improvers, with
+emissions/emissions intensity reduction one way in addition to revenue/capex mix of measuring impact.
+Exhibit 18: All sectors in our analysis are underweight in ESG funds vs. respective
+benchmarks, except Chemicals and Water Utilities
+Percentage underweight/overweight in ESG funds vs. respective benchmarks — data as of March
+2022
+100%
+50%
+0%
+-50%
+-100%
+GSE
+ni
+thgiewrevO
+/
+thgiewrednU
+%
+skramhcneb
+evitcepser
+.sv
+sdnuf
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Water Utilities:
+433% overweight
+Sectors as defined based on GS SUSTAIN classification
+Source: Morningstar, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 27
+Goldman Sachs GS SUSTAIN: ESG of the Future
+We continue to believe that equity investors focused on Sustainability and ESG issues will become more
+forward-looking in the coming years, a function of five factors:
+n Regulation — particularly in Europe, under the influence of the EU Green Taxonomy framework and SDFR — but also in
+the US with proposed mandatory emissions disclosure.
+n New sustainability bond issuance — with performance linked to sustainability targets.
+n Increase in capital required to be on track for Net Zero, Clean Water and Infrastructure goals — see section
+“Theme 2: Green Capex beneficiaries — Innovation, Inflation, Policy key catalysts” for more details.
+n Increased focus on whether we are on track for other UN Sustainable Development Goals — due to pressure from
+stakeholders to contextualize environmental and social impact of business activities and portfolios.
+n Supply chain risks — due to potentially long lead-times for critical projects, timely investments are necessary.
+2 May 2022 28
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 19: Driven by pressure from multiple angles, we expect ESG investors to become increasingly forward-looking
+Source: Goldman Sachs Global Investment Research
+A shift towards looking at ESG Improvers is likely to lead to some increased interest in companies that are
+aggressively decarbonizing... Recent meetings with investors suggested largely broad support for our thesis
+encompassing key themes from our From Aspiration to Action 2022 outlook report of Green Capex, Greenablers, ESG
+Improvers, EU Taxonomy Beneficiaries and Inclusive Growth. While we remain positive on Clean Energy stocks and related
+Green Capex, we have highlighted that we see opportunities to own stocks more broadly across the supply chain vs. today’s
+highly concentrated overweight positions in solar/wind/water stocks. Investor feedback — including from ESG investors in
+Europe — was largely supportive of this thesis, partly a function of concerns regarding returns/commoditization in solar/wind
+and partly because of perceived more attractive valuations and returns in other sectors. Investors in our discussions
+recognized the critical role that Greenablers such as Copper/Aluminum, Electricity transmission, Cybersecurity and
+Semiconductors play, the need for high-emitting sectors to decarbonize and the need for technologies like Carbon Capture
+and biofuels to be deployed.
+2 May 2022 29
+Goldman Sachs GS SUSTAIN: ESG of the Future
+... but the timing of such a shift is less clear due in part to “Fear of Misaligned Exposure.” However, both fund
+managers and ESG specialists in recent meetings expressed significant fears of having to defend to their investors stocks
+perceived to be misaligned with ESG goals. In particular, investors highlighted high-emitting sectors such as oil/gas and
+metals/mining though also other Greenablers like Semiconductors. This “Fear of Misaligned Exposure (FOME)” is particularly
+intense among fund managers running or considering running Sustainable Finance Disclosure Regulation Article 9 funds
+which require greater disclosure on sustainable investments. Taxonomy eligibility covers a number of high-emitting sectors,
+and as the EU Taxonomy and SFDR are further rolled out, we see Taxonomy alignment becoming a driving factor behind ESG
+strategy, especially as Taxonomy disclosures are required for ESG funds under SFDR. While the investable universe under
+Taxonomy-alignment is not limited to solar/wind/water, the strict guidelines of the technical screening criteria may limit
+ownership in stocks initially perceived to be misaligned with ESG goals, emphasizing the Divestment Dilemma highlighted in
+our recent work.
+Over time, we will likely see a pickup in ESG Improvers or Decarbonization funds, with goals/ownership
+expectations set up front in an attempt to mitigate FOME. This could be driven more significantly in the US before
+Europe, though the multiple energy reliability disruptions seen over the past year is driving a shift From Aspiration to Action
+among ESG investors and regulators. We have seen equity markets reward companies with attractive corporate returns vs.
+peers that have reinvested a high, rising or high+rising percentage of operating cash flow back into capex and R&D with
+revenue exposure to Green Capex-related Sustainable Development Goals. We believe over time we can see improved
+valuations for companies with strong fundamentals that are decarbonizing at a quicker pace vs. peers.
+Over time, the market is likely to reward companies for impact vs. automatically rewarding divestment. We believe
+lower corporate emissions intensity via divestment (or via acquisition) does not automatically advance broader
+decarbonization Sustainable Development Goals. The impact from M&A-driven changes in intensity are a function of whether
+the buyer of assets accelerates or decelerates the pace of decarbonization and whether the buyer runs the asset with
+greater environmental efficiency than the prior owner. It is for this reason that we believe investors are more likely to reward
+organic decarbonization — for electricity generators as an example, coal retirements and renewables growth vs. coal plant
+divestitures and renewables acquisitions.
+2 May 2022 30
+Exhibit 20: While approaches and stages vary, we view the preponderance of the market as entering the ‘Measurement Phase’, with opportunities to prepare for the ‘Refinement Phase’
+ahead
+A view of the evolution of ESG investing
+Definition Resourcing Measurement Refinement Maturity
+Phase focused on defining and Defined by resource building and Focus on asset gathering; Broad adoption; widely available, Final form: holistic incorporation;
+distinguishing ESG-linked strategies process development; emphasis on increasing competition; shift in standardized data; shift in focus ESG analysis subsumed into
+corporate disclosure focus to corporate performance from process to outcomes investment analysis
+Phases of ESG Investing / Evolution of Market Demands
+noitarteneP
+GSE
+Goldman Sachs GS SUSTAIN: ESG of the Future
+M A R K E T D E M A N D S
+•Box ticking (Is ESG •Sustainable investment policy •Expansion of product offering •Differentiated, ‘in-house’ view of •De-siloing of ESG function, full
+considered/incorporated? Y/N) ESG applications integration
+•Hiring/installing ESG leadership and •Increasing focus on impact
+•Exclusions support •Industry-specialized resourcing, •Widely accepted/standardized/
+•More granular reporting, e.g.: adoption of alternative data proven approaches to ESG
+•Hi-level / outsourced ratings •Stewardship and engagement
+resourcing -Carbon footprinting •Increasing focus on links to value •Re-emphasis on stock performance
+creation as principal point of differentiation
+-Product alignment (e.g.,
+SDGs, green •Quantification of impact and
+revenues/capex) engagementoutcomes
+-Proxy voting and
+engagement record
+I M P L I C A T I O N S F O R S T O C K S E L E C T I O N
+•Avoidance of widely excluded •Re-rating of ‘obvious’ thematic •Building interest in greater •Focus on forward outlook, rate of •Relevant for all styles, all asset
+categories winners discovery value: change classes
+•Avoidance of controversial •Emphasis on disclosure leads to -Less-obvious thematic •Broadening of stock selection
+businesses bias towards large cap, quality, winners beyond quality & growth (i.e.,
+growth value, improvers)
+-Moving up value chain
+•Skews toward asset-light business •Further penetration of passive
+models -ESG improvers
+Source: Goldman Sachs Global Investment Research
+2 May 2022 3<
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Emissions intensity projected paths through 2025 by sector vs. Carbonomics Net Zero carbon models
+We believe investors will focus on both the absolute direction of emissions in a sector but also the emissions
+intensity. We believe companies with the greatest emissions intensity reductions may receive greater favor, particularly if
+their intensity reductions are consistent with a pathway to 1.5 degree or lower implied temperature rise. In 2021, our EMEA
+energy research team in its Carbonomics reports introduced three global sectoral paths to Net Zero carbon with global
+models of decarbonization by sector and technology leveraging its Carbonomics cost curve.
+n The GS 1.5° scenario is consistent with a 1.5°C global temperature rise. This scenario implies reaching global net
+zero carbon by 2050, thus with limited temperature overshoot. For this scenario, our Carbonomics team assumed a
+carbon budget for remaining net cumulative CO emissions from all sources from 2020 to be c.500 GtCO , in line with
+2 2
+the IPCC AR6 WGI Summary for Policymakers1, and consistent with a 50% probability of limiting warming to 1.5°C by
+2100.
+n The GS <2.0° — or the “Paris Agreement” — scenario is consistent with a rise well below 2.0°C. This scenario
+would be consistent with the aim outlined in Paris Agreement to keep global warming well below 2°C and achieve global
+net zero around 2060. For the purpose of this analysis, our Carbonomics team defined the cumulative remaining carbon
+budget for our GS <2.0° model to be 750 GtCO , consistent with around 1.65°C global warming with 50% probability.
+2
+n The GS 2.0° scenario is consistent with a 2.0°C temperature rises. This aims for global carbon neutrality by 2070 —
+and leads to a 50% probability of 2.0°C global warming to 2100. It has a cumulative carbon budget from 2020 of 1,350
+GtCO , in line with the carbon budgets outlined in the IPCC AR6 WGI Summary for Policymakers1.
+2
+Below, we detail percentage changes in emissions intensities by sector through 2025 based on our analysts’ Scope 1+2
+forecasts, plotted against the percentage reductions by sector implied by our energy team’s Carbonomics research for the
+three scenarios above.
+1 IPCC, 2021: Summary for Policymakers. In: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment
+Report of the Intergovernmental Panel on Climate Change [MassonDelmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L.
+Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)]. Cambridge
+University Press. In Press
+2 May 2022 32
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Electric Utilities
+We take into account forecasts for 71 Electric Utilities in our analysis, the majority of which are based in Americas.
+Our survey comprises 71 Electric Utilities — 41 in Americas, 17 in Europe and 13 in Asia Pacific. In addition to those, we
+consider other eight publicly listed Electric Utilities based in China and India not covered by Goldman Sachs to provide a
+more accurate representation of GHG emisisons intensities in 2019 and 2020. Consistent with our colleagues’ Carbonomics
+work, we derive emissions intensity for Electric Utilities dividing amount of Scope 1 CO2-eq emitted (in grams) by the
+electricity generated (in kWh).
+Our estimates indicate a c.20% reduction in Scope 1 emissions intensity by 2025E vs. 2019 base. This is on a weighted
+average basis — using electricity generated as weights — for Electric Utilities covered in our analysis. Please see Exhibit 21
+for more details. We note a flat profile in emissions intensity in 2020 vs. 2019, followed by a c.6% YoY reduction in 2021 —
+primarily attributable to US Electric Utilities’ declining intensities.
+Why we believe this will matter for investors. Electricity generation is a key area of focus for decarbonization efforts. We
+note a bullish outlook for zero-carbon generation assets (renewables), as described by our colleagues, as well as increased
+focus on nuclear — which can provided zero-carbon generation — as indicated by the recent proposals to include nuclear in
+the EU Taxonomy framework. Heightened by current geopolitical events and the inflationary environment for commodity
+prices, our Utilities teams expect an acceleration in renewables development to address concerns related to security of
+energy supply. This is of particular importance in Europe — the area most impacted by disruptions related to the
+Russia/Ukraine conflict — where policy initiatives such as REPowerEU outline pathways towards increased energy
+independence/flexibility in energy supply, electrification and acceleration in renewables developments.
+Investment Implications. We note that Utilities are modestly underweight in ESG funds (1% vs. respective benchmarks).
+We highlighted in our Investing in Green Capex and initial ESG of the Future reports that the range of ownership in ESG
+funds for Utilities is significantly wide, and we note ESG Improvers in the sector are generally more underweight than
+companies which already have high mix of Green Revenue/Capex. We continue to believe investors will reward Utilities
+that can successfully transition and decarbonize their generation fleet, and we continue to see further opportunities
+for greater appreciation among ESG investors.
+2 May 2022 33
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 21: Our analysts estimates indicate Scope 1 emissions intensities declining by 20% Exhibit 22: The decline in emissions intensities for Electric Utilities in our analysis stems
+in 2025E vs. 2019, mainly driven by US Electric Utilities from Scope 1 emissions forecast to decline at a 3% CAGR through 2025E (vs. 2019 base),
+Emissions intensities profile for Electric Utilities, calculated as Scope 1 GHG emissions divided by while electricity output if estimated to increase at a 1% annual pace through 2025E (vs. 2019
+electricity generated. Indexed to 2019 base. base)
+Change in Scope 1 emissions (left) and electricity generated (right) for Electric Utilities in our work
+— vs. 2019 base
+Carbonomics - 1.5C Scenario Carbonomics - <2C Scenario 140%
+Carbonomics - 2C Scenario Analyst estimates
+120%
+100%
+100%
+80%
+80%
+60%
+60%
+40%
+40% 20%
+20% 0%
+0%
+2015 2025 2035 2045 2055 2065 2075 Mn Ton CO2-eq, Scope 1 GWh Electricity generated
+As not all anal ysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the
+Source: Thomson Reuters, Bloomberg, Company data, Goldman Sachs Global Investment Research
+covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. The Electric Utilities
+sector is as defined based on GS SUSTAIN sector classification.
+Source: Thomson Reuters, Bloomberg, Company data, Goldman Sachs Global Investment Research
+2 May 2022 34
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Steel
+Our analysis comprises 36 Steel producers, globally. We include 12 Steel companies in Americas, 8 in Europe and 16 in
+Asia Pacific. We received GHG emissions estimates from our analysts for 11 of the 36 companies. We derive emissions
+intensity for the Steel sector dividing amount of Scope 1+2 CO2-eq emitted (in tons) by steel production (in tons), consistent
+with our colleagues’ Carbonomics work.
+Scope 1+2 emissions intensities in the Steel sector are estimated to decline by 8% in 2025E vs. 2019 levels. Our
+analysis suggests Scope 1+2 GHG emissions are estimated on the rise YoY in 2020 and 2021E (+1%-4%) — potentially due
+to COVID-related disruptions in operational efficiencies — but from 2021E throughout 2025E are projected on the decline
+(2%-4% YoY). Please see Exhibit 23 for more details. We note the main driver behind the decline in overall Scope 1+2
+emissions intensities is steel production growing at a 1% CAGR between 2019-2025E, while absolute Scope 1+2 emissions
+are estimated to decrease at a slightly slower pace vs. 2019 levels (see Exhibit 24).
+Why we believe this will matter for investors. We expect steel to be a key material on path to Net Zero, Clean Water and
+Infrastructure goals, transversal across the vast majority of verticals in the Green Capex mosaic. Decarbonizing the Steel
+sector likely involves higher penetration of Electric Arc Furnace (EAF) technologies, as the industry faces increasing scrutiny
+over its environmental footprint, and EAFs are among the least carbon-intensive technologies to produce steel. As described
+in our ESG of the Future report, our analysts’ estimates point towards a percentage of steel from EAF to grow to 32% of the
+total in 2025E (vs. 28% in 2020) among covered companies — though, we note the change is driven by a handful of
+companies for which estimates indicate rising EAF mix, while for the majority steel production from EAF either stays very
+low or very high. We note that Electrification-related investments — among which EAF capex — would need to amount to
+more than $300 bn annually in the 2020s, on path to Net Zero targets.
+Investment Implications. The Steel sector is currently 41% underweight in ESG funds vs. respective benchmarks (based on
+SUSTAIN classification, as reported in Exhibit 18). Given the criticality of steel on path to Net Zero, Clean Water and
+Infrastructure goals, we believe there is room for further appreciation of companies that can successfully transition to a
+higher share of EAF and decarbonize their operations among Steel manufacturers, as we detailed in our ESG of the Future
+report.
+2 May 2022 35
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 23: Steel companies in our analysis are forecast to have Scope 1+2 emissions Exhibit 24: ...driven by a 1% CAGR in steel output, with Scope 1+2 emissions projected to be
+intensities declining by 8% in 2025E vs. 2019 base... falling slightly by 2025E
+Emissions intensities profile for Steel companies, calculated as Scope 1+2 GHG emissions divided Change in Scope 1+2 emissions (left) and steel throughput (right) for Steel companies in our work
+by steel production. Indexed to 2019 base — vs. 2019 base
+Carbonomics - 1.5C Scenario Carbonomics - <2C Scenario 140%
+Carbonomics - 2C Scenario Analyst estimates
+120%
+100%
+100%
+80%
+80%
+60%
+60%
+40%
+40% 20%
+20% 0%
+0%
+2015 2025 2035 2045 2055 2065 2075 Mn Ton CO2-eq, Scope 1+2 Gt Steel produced
+As not all anal ysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the
+Source: Thomson Reuters, Bloomberg, Company data, Goldman Sachs Global Investment Research
+covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. The Steel sector is as
+defined based on GS SUSTAIN sector classification.
+Source: Thomson Reuters, Bloomberg, Company data, Goldman Sachs Global Investment Research
+2 May 2022 36
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Aluminum
+Among Metals & Mining companies, we break out the Aluminum sector using estimates for 9 companies, globally.
+Those comprise 4 companies in Americas, 2 in Europe and 3 in Asia Pacific. We received GHG emissions estimates from our
+analysts for 5 of the 9 companies. We calculate GHG emissions intensities for the Aluminum sectors dividing Scope 1+2
+CO -eq emissions (in tons) by the amount of aluminum produced in a given year (in tons). This is in-line with our colleagues’
+2
+Carbonomics work.
+We estimate Scope 1+2 emissions intensities in the Aluminum sector will decline by about 14% by 2025E vs. 2019.
+Our analysis indicates Scope 1+2 GHG intensities declining consistently within 2021-2025E (2%-4% YoY), and by 14% in
+2025E vs. 2019 levels. Please see Exhibit 25 for more details. We note this is due to a combination of absolute emissions
+reduction in the sector (declining at a 1% CAGR between 2019 and 2025E) and an increase in production throughput (rising
+at 1% CAGR through 2025E) — see Exhibit 26. The reduction in Scope 1+2 emissions intensities is primarily driven by
+European and Chinese Aluminum manufacturers (whose Scope 1+2 intensities are estimated to decline by 13%-21% by
+2025E vs. 2019).
+Why we believe this will matter for investors. We highlighted Aluminum as a key Greenabler — i.e., a sector for which
+investments are needed more urgently and timely due to long lead-times in capacity expansions — in our Green Capex
+report. In our view, aluminum will be needed/critical across the majority of verticals in the Green Capex mosaic. We note that
+our Commodities analysts are bullish on the outlook for Aluminum, on the back of rising demand for “Green” end-uses,
+among other drivers — now estimated to rise from below 3,000 kton in 2021 to almost 7,000 kton in 2025E.
+Investment Implications. While metals and mining stocks broadly are underweight in ESG funds vs. respective benchmarks
+(as seen in Exhibit 18), the Aluminum sector specifically (based on GICS 4 classification) is 55% overweight. We see
+potential for further room for appreciation of its critical role on path to Net Zero, Clean Water and Infrastructure goals among
+ESG investors — particularly for companies that can successfully decarbonize their operations in coming years.
+2 May 2022 37
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 25: Analysts estimates indicate emissions intensities decreasing by 14% in 2025E vs. Exhibit 26: ...as a result of emissions decreasing at a 1% CAGR through 2025E, with
+2019... production acceleration at a 1% annual pace in the same period
+Emissions intensities profile for Aluminum companies (based on GICS 4 classification), calculated Change in Scope 1+2 emissions (left) and Aluminum throughput (right) for Aluminum companies in
+as Scope 1+2 GHG emissions divided by aluminum production. Indexed to 2019 base. our work — vs. 2019 base
+Carbonomics - 1.5C Scenario Carbonomics - <2C Scenario 140%
+Carbonomics - 2C Scenario Analyst estimates
+120%
+100%
+100%
+80%
+80%
+60%
+60%
+40%
+40% 20%
+20% 0%
+0%
+2015 2025 2035 2045 2055 2065 2075 Mn Ton CO2-eq, Scope 1+2 Gt Aluminum produced
+As not all anal ysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. The Aluminum sector is as
+defined based on GICS 4 classification (sub-segment of Metal & Mining GICS 3).
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 38
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Airlines
+Our analysis comprises 28 Airlines, globally, though highly skewed towards Americas. Our work encompasses 16
+companies in Americas, 7 in Europe and 5 in Asia Pacific. We received GHG emissions estimates from our analysts for 15 of
+the 28 companies. We calculate GHG emissions intensities for the Airlines sectors dividing Scope 1+2 CO -eq emissions (in
+2
+tons) by revenue-passenger-kilometers (RPKs, in millions). This is in-line with our colleagues’ Carbonomics work.
+We see Scope 1+2 emissions intensities for the Airlines sector declining 5% by 2025E vs. 2019. Our estimates indicate
+only a slight reduction in emission intensities by the end of our forecast period (2025E) vs. base-year (2019) — see Exhibit 27
+for more details. We note a 45% YoY increase in Scope 1+2 intensities in 2020 due to COVID-related disruptions and
+subsequent lower capacity factors for Airlines (our estimates indicate a 51% decline YoY in absolute Scope 1+2 emissions,
+while RPKs declined by 66%). Following a re-adjustment in 2021E (intensities down 24% YoY), our analysis indicates a
+slower pace in Scope 1+2 intensities decrease. At the end of the forecast period, we note absolute Scope 1+2 emissions
+and RPKs higher than pre-COVID levels (Exhibit 28).
+Why we believe this will matter for investors. We believe decarbonization efforts in the Airlines industry will be a key area
+of focus in coming years. As we heard during our Global Sustainability Forum, one of the main pathways to abate emissions
+in the sector is a mix shift towards higher utilization of Sustainable Aviation Fuel (SAF). As the panelists noted, wider adoption
+of SAF is still constrained by limited supply and high costs. The ability to limit higher costs pass through to customers as SAF
+adoption grows will be crucial to preserve cost-competitiveness and affordability, in our view. We also note opportunities in
+decarbonization of ground fleets, though with an impact secondary to SAF, in our view.
+Investment Implications. We see opportunities for greater recognition of Airlines companies that can successfully transition
+towards a higher mix of SAF vs. conventional fuels limiting pass through of higher input costs — or for those that can find
+credible sources of decarbonization alternatives (some airlines or related suppliers are partnering towards Direct Air Capture
+plants as an example). We note the Airlines sector is currently 35% underweight in ESG funds vs. respective benchmarks
+(sectors as defined under SUSTAIN classification, see Exhibit 18), highlighting room for further appreciation — particularly of
+transition stories — among ESG investors.
+2 May 2022 39
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 27: Following a 45% yoy increase in 2020, emissions intensities for the Airlines Exhibit 28: The emissions intensities profile stems from a combination of Scope 1+2
+sector are forecast to decline 1%-8% yoy post-2021E, resulting in a 5% decrease by 2025E vs. emissions accelerating at a 1% CAGR in the forecast period and
+2019 base Revenue-Passenger-Kilometer increasing at a 2% annual pace
+Emissions intensities profile for Airlines, calculated as Scope 1+2 GHG emissions divided by Change in Scope 1+2 emissions (left) and Revenue-Passenger-Kilometers (right) for Airlines
+Revenue-Passenger-Kilometers. Indexed to 2019 base. companies in our work — vs. 2019 base
+Carbonomics - 1.5C Scenario Carbonomics - <2C Scenario 140%
+Carbonomics - 2C Scenario Analyst estimates
+120%
+140% 100%
+120% 80%
+100% 60%
+80%
+40%
+60%
+20%
+40%
+0%
+20%
+0%
+2015 2025 2035 2045 2055 2065 2075 Mn Ton CO2-eq, Scope 1+2 Passenger-km
+As not all anal ysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. The Airlines sector is as
+defined based on GS SUSTAIN sector classification.
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 40
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Oil & Gas
+We consider 98 Oil & Gas companies in our analysis, almost half of which are based in Americas. Within the Oil & Gas
+sector, our analyst survey comprises 45 companies in Americas, 25 in Europe and 28 in Asia Pacific. We received estimates
+for 64%, 88% and 50% of those in Americas, Europe and Asia Pacific, respectively. We calculate GHG emissions for the Oil
+& Gas sector dividing Scope 1+2 CO -eq emissions by energy sold (as a result of upstream operations and/or refining). As
+2
+mentioned earlier, while our estimates are for Scope 1 and 2 emissions, our colleagues’ Carbonomics emissions intensity
+path for Oil & Gas also includes Scope 3 emissions.
+Our analysis indicates Scope 1+2 emission intensities for the Oil & Gas sector declining by 10%-16% by 2025E vs.
+2019. Our analyst estimates point towards a 16% reduction in Scope 1+2 emissions intensities for Oil & Gas Producers and
+a 10% reduction for Oil Refiners by 2025E vs. 2019. On Oil & Gas Producers, our analyst estimates imply a 2% YoY reduction
+of intensity in 2020, followed by subsequent 2%-4% YoY decline from 2021E on. On Oil Refiners, emissions intensities
+increased ~18% YoY in 2020 and are expected to pivot to a downward trajectory in subsequent years (3%-8% YoY decline
+from 2021E on). Please see Exhibit 29 for more details on Oil & Gas Producers, Exhibit 30 for more details on Oil Refiners.
+Why we believe this will matter for investors. As we detailed in our Green Capex report, the Oil & Gas sector holds the
+greatest share of Green Capex “spare capacity” — via higher reinvestment rate of Capex and R&D and higher leverage on
+the balance sheet — on path to Net Zero, Clean Water and Infrastructure goals. Additionally, on the back of ongoing
+geopolitical events, we believe the shift in free cash flow towards commodity producers may increase the willingness of
+some investors to own stocks in these sectors for the purpose of helping to influence where the FCF gets redirected —
+either via reinvesting or returning to shareholders. While we do not believe every mandate is set up to make this shift — and
+ESG funds will likely need to make a quantified case for impact to their investors — we see the case for engagement vs.
+exclusion growing over time. In our view, engagement will be crucial to the deployment of the spare capacity for additional
+Green Capex, and we believe investors will tend to gravitate towards companies able to successfully abate emissions, in
+addition to favorable returns.
+Investment Implications. While Oil & Gas companies have historically been avoided/excluded in ESG funds — the sector is
+currently underweight in ESG funds (70% and 42% underweight for Producers and Refiners, respectively, as shown in
+Exhibit 18) — we see opportunities for greater recognition of transition stories and companies able to successfully
+decarbonize their operations. In addition, we note the Russia/Ukraine conflict is helping to bring some added balance to the
+exclusion vs. engagement debate, which in our view is a key catalyst for potential further appreciation of Oil & Gas
+companies among ESG investors. To that regard, we have already seen some isolated evidences of potential change in
+attitudes — e.g., Sweden’s SEB bank recently reversed a defense industry exclusion policy for six of its funds, while in the
+US, CalSTRS’ board voted to oppose a bill that would require divestment from fossil fuels.
+2 May 2022 4<
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 29: Emissions intensities for Oil & Gas Producers — referred to Scope 1+2 — are forecast to decline at a 3% CAGR through the forecast period
+Oil & Gas Producers: profiles 2019-2025E for emissions intensities (calculated dividing Scope 1+2 emissions by energy sold), Scope 1+2 emissions and Energy sold
+from production and refining. Indexed to 2019 base.
+140%
+120%
+100%
+80%
+60%
+40%
+20%
+0%
+Emissions Intensity Mn Ton CO2-eq, Scope 1+2 GJ Energy sold
+As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the covering analysts have submitted data. The same applies for 2019 and 2020 weighted
+average estimates. The Oil & Gas Producers sector is as defined based on GS SUSTAIN sector classification.
+Source: Company data, FactSet, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 42
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 30: Scope 1+2 emissions intensities for Oil Refiners are forecast to decline at a 2% annual rate through 2025 vs. a 2019 base
+Oil Refiners 2019-2025E emissions intensities (calculated dividing Scope 1+2 emissions by energy sold), Scope 1+2 emissions and Energy sold from production and
+refining. Indexed to 2019 base.
+140%
+0% CAGR 2019-2025E
+120%
+100%
+80%
+60%
+40%
+20%
+0%
+Emissions Intensity Mn Ton CO2-eq, Scope 1+2 GJ Energy sold
+As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the covering analysts have submitted data. The same applies for 2019 and 2020 weighted
+average estimates. The Oil Refiners sector is as defined based on GS SUSTAIN sector classification.
+Source: Company data, FactSet, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 43
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Diversified Metals & Mining
+From a universe of 46 companies globally, our analysis relies on GHG emissions estimates for 18 companies in the
+Diversified Metals & Mining sector. We asked for GHG estimates from our analysts for 6 companies based in Americas, 14
+based in EMEA and the remaining 26 based in Asia Pacific. We received emissions estimates for 18 companies in the sector,
+globally — or about 40% of the total. We calculate emissions intensities relying on Scope 1+2 emissions, divided by total
+production of the company, measured in copper equivalent (CuEq). We derive a CuEq production from the production mix —
+as forecast by our analysts — and prices for those metals/commodities. On the latter, we consider fixed prices referred to
+2019, allowing CuEq productions to vary only based on changes in products mix.
+Our analysts’ estimates point towards a 14% reduction in emissions intensities by 2025E vs. 2019. Scope 1+2
+emissions intensities for Diversified Metals & Mining companies — calculated as defined above — indicate a 1%-5% YoY
+decrease in the 2020-2025E period. On a net basis, our analysts expect Scope 1+2 emissions intensities to decline by about
+14% in 2025E vs. 2019. See Exhibit 31 for more details. The emissions intensities profile stems from a reduction in overall
+emissions (projected to decline at a 1% CAGR within 2019-2025E) combined with CuEq expected to accelerate at a 2%
+CAGR in the same period (Exhibit 32).
+Why we believe this will matter for investors. As we detail in our Green Capex report, Copper and Aluminum are key
+Greenabler sectors, i.e., those sectors where investments are needed more urgently due to longer project lead-times in
+order to avoid supply chain bottlenecks. Our Commodities team is particularly bullish on Copper and Aluminum and expects
+supply crunches going forward, in their view, in part due to rising Green demand without requisite increase in supply. Given
+the tightening of supply-demand dynamics, we believe investors will tend to reward those companies able to successfully
+decarbonize their operations while improving their positioning to meet increased levels of demand.
+Investment Implications. As stated above, ESG investors will tend to gravitate towards those companies that are able to
+curb their carbon footprint, while at the same time meeting rising demand, in our view. We also expect investors to favor
+companies able to ensure strong corporate returns — please note the Metals & Mining sector has above average corporate
+returns.
+2 May 2022 44
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 31: Our analysts estimates point towards a 14% Exhibit 32: The reduction in emissions intensities forecast Exhibit 33: Among companies in our analysis, Coal
+decrease in emissions intensities for Diversified Metals & originates from a decline in Scope 1+2 emissions at a 1% production is expected to decline by 20% in 2025E vs. 2019,
+Mining by 2025E vs. 2019 base CAGR pace, combined with CuEq production growing at a while Copper and Nickel volumes are projected to
+Emissions intensities profile for Diversified Metals & Mining, 2% CAGR in the forecast period increases by 20% and 26%, respectively
+calculated as Scope 1+2 GHG emissions divided by copper Change in Scope 1+2 emissions (left) and volume production Breakdown of change in production volume by select
+equivalent total production. Indexed to 2019 base. index (right) for Diversified Metals & Mining companies in our commodity produced in 2025E, indexed to 2019. Based on
+work — vs. 2019 base. analyst estimates.
+Carbonomics - 1.5C Scenario Carbonomics - <2C Scenario 140% 130%
+Carbonomics - 2C Scenario Analyst estimates 120% 120%
+100% 100% 110%
+80% 100%
+80%
+60% 90%
+60%
+40% 80%
+40% 20% 70%
+20% 0% 60%
+2019 2020 2021E 2022E 2023E 2024E 2025E
+0%
+2015 2025 2035 2045 2055 2065 2075 Mn Ton CO2-eq, Scope 1+2 Production Volume, ton CuEq Copper Aluminum Alumina Iron Ore Coal Nickel
+As not all anal ysts model through 2025, 2024E and 2025E reflect the weighted
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Source: Company data, Goldman Sachs Global Investment Research
+average yoy change for companies where the covering analysts have submitted data.
+The same applies for 2019 and 2020 weighted average estimates. The Diversified Investment Research
+Metals & Mining sector is as defined based on GS SUSTAIN Metals & Mining sector
+classification — ex. Aluminum companies based on GICS 4 categorization.
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global
+Investment Research
+2 May 2022 45
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Chemicals
+Our analysis comprises 94 companies in the Chemicals sector, though the response rates was the lowest among the
+seven sectors. We consider 29 companies based in Americas, 28 based in EMEA and 37 based in Asia Pacific. However, we
+note that our analysis relies on GHG emissions estimates for only 9 of those companies. In our view, this is due to a
+combination of (1) difficulty by our analysts to forecast emissions given limited visibility into products mix and (2) lack of
+disclosures of emissions intensities on a product-by-product basis. Based on our colleagues’ Carbonomics work, given the
+impossibility to adopt a single activity metric in such a heterogenous sector, we define an activity metric index — referred to
+2019 base. Scope 1+2 emissions for Chemicals companies are then divided by such index to obtain comparable emissions
+intensities among different operations. We note our analysis for Chemicals excludes US and EU commodity Chemicals due
+to limited analyst visibility in forecasting emissions: our data reflects largely Fertilizers/Agricultural Chemicals trends.
+We see emissions intensities for the Chemicals companies we forecast declining by about 12% in 2025E vs. 2019,
+while absolute emissions are projected to increase by 10% in the same period. On a market cap weighted
+average-basis, Scope 1+2 emissions intensities are forecast to see YoY declines between 1%-4% in 2020-2025E. See
+Exhibit 34 for more details. On an absolute basis, we see Scope 1+2 emissions in the Chemicals sector to increase by about
+10% in 2025E vs. 2019 — or a 2% CAGR in the same period — but were more than offset by rising production volumes,
+resulting in a decrease of emissions intensities on a net basis (see Exhibit 35).
+Why we believe this will matter for investors. In our view, the Chemicals sector could be a potential key area of focus for
+investors due to hydrogen and ammonia, among other key products. We believe investors will increasingly be willing to
+reward Chemicals companies that are exposed to those verticals and are able to successfully decarbonize their operations.
+On hydrogen, as recently detailed, our Carbonomics team anticipates global demand for hydrogen to increase 2x-7x by 2050
+vs. 2020 base — depending on the scenario considered. In addition, further acceleration — particularly on Green Hydrogen
+— could be seen on the back on policy initiatives such as REPowerEU and general heightened focus on renewables
+stemming from the Russia/Ukraine conflict.
+Investment Implications. As reflected in Exhibit 18, the Chemicals sector is modestly overweight (27%) in ESG funds vs.
+respective benchmarks. We believe investors could potentially reward those companies that are able to successfully
+decarbonize their operations, leading to higher recognition among ESG funds. Given the heterogeneity of the sector, we see
+exposure to the hydrogen or biofuels supply chain as potential catalysts for greater appreciation by ESG investors.
+2 May 2022 46
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 34: Scope 1+2 emissions intensities in the Chemicals sector are forecast to decline Exhibit 35: ...on the back of rising production volumes, which more than offset increasing
+by 12% in 2025E vs. 2019... absolute emissions.
+Emissions intensities profile for Chemicals, calculated as Scope 1+2 GHG emissions divided by the Change in Scope 1+2 emissions (left) and volume production index (right) for Chemicals companies
+production index (referred to 2019 base). Indexed to 2019 base. Weighted average using market in our work — vs. 2019 base. Production indexes reported here are weighted average on market
+caps as weights. caps.
+140%
+Carbonomics - 1.5C Scenario Carbonomics - <2C Scenario
+Carbonomics - 2C Scenario Analyst estimates 120%
+120% 100%
+100% 80%
+80% 60%
+40%
+60%
+20%
+40%
+0%
+20%
+0%
+2015 2025 2035 2045 2055 2065 2075 Mn Ton CO2-eq, Scope 1+2 Volume index
+As not all anal ysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+covering analysts have submitted data. The same applies for 2019 and 2020 weighted average estimates. The Chemicals sector is as
+defined based on GS SUSTAIN sector classification.
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 47
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Construction Materials
+Our analysis considers 23 companies — skewed towards Asia Pacific — and we received emissions estimates for
+about 50% of them. Our work comprises 7 companies in Americas, 3 in Europe and the remaining 13 in Asia Pacific.
+Covering analysts provided GHG emissions estimates for 12 of them — or 52% of the total. Emissions intensities are
+calculated dividing Scope 1+2 emissions by a volume production index — built from total volume produced or YoY p.p.
+change in production, depending on the company. This differs from our colleagues’ Carbonomics work, where Construction
+Materials companies — primarily active in cement — are benchmarked based on cement production. To represent the sector,
+emissions intensities are weighted average of market cap.
+Analysts estimates indicate a 2% CAGR reduction in emissions intensities among Construction Materials companies.
+GHG estimates we received suggest a reduction in Scope 1+2 emissions intensities by 2025E vs. 2019 base — about 2%
+CAGR — on a market cap-weighted average basis. The flattish outlook for emissions intensities originates from Scope 1+2
+emissions projected on a modest rise (below 1% CAGR in 2025E vs. 2019), offset by increasing volumes — captured
+through the production volume index. Please see Exhibit 36 for more details.
+Why we believe this will matter for investors. The Construction Materials — which, while not exclusively, primarily
+consists of cement companies — is the fourth highest emitting sector among the seven key sectors in our analysis. As
+highlighted in our Green Capex: Making Infrastructure Happen, annual global investments on path to Infrastructure goals
+would need to rise to $2.5 tn — of the $6.0 tn annual investments required on path to Net Zero, Clean Water and
+Infrastructure objectives — vs. the 2016-2020 average of $1.7 tn (see Exhibit 16). In our view, Construction Materials
+companies will be instrumental in achieving those goals, and we expect investors focus to increase on the ability of
+companies in the sector to meet demand while successfully curb their carbon footprint. In 2021, our research colleagues
+highlighted the potential for existing technologies to help reduce carbon intensity of cement by 40% (cement accounts for
+c.8% of total global emissions). To achieve this, we would need to see an acceleration in emissions intensity reductions in
+the second half of the decade.
+Investment Implications. As stated above, we believe investors will gravitate towards those Construction Materials
+companies that are successfully able to decarbonize their operations while maintaining the ability to meet demand. In
+addition, we also note the Construction Materials sectors is characterized by below-average corporate returns, and we thus
+expect investors to privilege those companies that are capable of ensuring a favorable profile in corporate returns while
+reducing their GHG footprint.
+2 May 2022 48
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Exhibit 36: Our analysts’ GHG emissions estimates indicate emissions intensities among Construction Materials companies declining at a c.2% annual
+pace between 20219 and 2025E
+Construction Materials 2019-2025E emissions intensities (market cap-weighted, calculated dividing Scope 1+2 emissions by the volume production index), Scope
+1+2 emissions and Volume Production Index (Market cap-weighted). Indexed to 2019 base.
+140%
+0% CAGR 2019-2025E
+120%
+100%
+80%
+60%
+40%
+20%
+0%
+Emissions Intensity Mn Ton CO2-eq, Scope 1+2 Volume Index
+As not all analysts model through 2025, 2024E and 2025E reflect the weighted average yoy change for companies where the covering analysts have submitted data. The same applies for 2019 and 2020 weighted
+average estimates. The Construction Materials sector is as defined based on GS SUSTAIN sector classification.
+Source: Company data, Thomson Reuters, Bloomberg, Goldman Sachs Global Investment Research
+2 May 2022 49
+Goldman Sachs GS SUSTAIN: ESG of the Future
+Methodologies to forecast GHG emissions
+Our analysts forecast GHG emissions mainly relying on two alternative methodologies: (1) via emissions intensities;
+or (2) using percentage changes vs. historicals. While the difficulty to forecast emissions varies widely across sectors —
+with heterogeneous sectors such as Chemicals and Construction Materials likely the most difficult to forecast emissions due
+to multiple distinct output streams — our analysts primarily followed these two methodologies to derive Scope 1 and Scope
+1+2 emissions in 2021E-2025E. In all cases, our analysts started from historical emissions or emissions intensities per
+companies disclosures — e.g., sustainability reports or CDP reports — and projected emissions in the forecast period,
+overlaying companies’ own emissions targets with various degrees of confidence, depending on the level of granularity
+provided by corporates in terms of strategic initiatives to achieve those decarbonization targets. Generally, we note analysts
+often looked for more details regarding medium-term pathways/catalysts before giving companies credit for GHG emissions
+targets.
+n Emissions forecast using emissions intensities. Relying on historical emissions intensities per company disclosures
+and from analysts estimates for the corresponding sector-specific activity metric, our colleagues derive emissions
+intensities in the forecast years 2021E-2025E. As stated above, these also factor in companies’ emissions targets to
+various degrees, depending on the confidence level regarding pathways and strategies to meet those decarbonization
+objectives. Emissions intensities in the forecast period are then multiplied by the corresponding activity metric to obtain
+absolute emissions. We note analysts tend to apply this methodology to Scope 1 and Scope 1+2 emissions, most
+commonly not calculating Scope 2 emissions as a separate component.
+n Emissions forecast via percentage changes vs. historical emissions. Particularly for heterogeneous sectors, some
+analysts calculated Scope 1 or Scope 1+2 emissions based on the YoY percentage change vs. 2019/2020 historical
+emissions per company disclosures, relying on total volumes/productions — or, alternatively, rates of change in those
+metrics — as proxies to derive emissions.
+2 May 2022 50
+Goldman Sachs
+Disclosure Appendix
+Reg AC
+We, Brian Singer, CFA, Enrico Chinello, Ph.D., Michael Hao Wu, CFA, Derek R. Bingham, Evan Tylenda, CFA, Sharmini Chetwode, Ph.D., Brendan Corbett, Emma Jones, Madeline Meyer, Keebum Kim,
+Grace Chen, Michele Della Vigna, CFA, Neil Mehta, Umang Choudhary, Michael Lapides, Joy Zhang, Nina Dergunova, Alberto Gandolfi and Pedro Manfredini, hereby certify that all of the views expressed in
+this report accurately reflect our personal views about the subject company or companies and its or their securities. We also certify that no part of our compensation was, is or will be, directly or indirectly,
+related to the specific recommendations or views expressed in this report.
+Unless otherwise stated, the individuals listed on the cover page of this report are analysts in Goldman Sachs’ Global Investment Research division.
+GS Factor Profile
+The Goldman Sachs Factor Profile provides investment context for a stock by comparing key attributes to the market (i.e. our coverage universe) and its sector peers. The four key attributes depicted are:
+Growth, Financial Returns, Multiple (e.g. valuation) and Integrated (a composite of Growth, Financial Returns and Multiple). Growth, Financial Returns and Multiple are calculated by using normalized ranks
+for specific metrics for each stock. The normalized ranks for the metrics are then averaged and converted into percentiles for the relevant attribute. The precise calculation of each metric may vary
+depending on the fiscal year, industry and region, but the standard approach is as follows:
+Growth is based on a stock’s forward-looking sales growth, EBITDA growth and EPS growth (for financial stocks, only EPS and sales growth), with a higher percentile indicating a higher growth company.
+Financial Returns is based on a stock’s forward-looking ROE, ROCE and CROCI (for financial stocks, only ROE), with a higher percentile indicating a company with higher financial returns. Multiple is
+based on a stock’s forward-looking P/E, P/B, price/dividend (P/D), EV/EBITDA, EV/FCF and EV/Debt Adjusted Cash Flow (DACF) (for financial stocks, only P/E, P/B and P/D), with a higher percentile indicating
+a stock trading at a higher multiple. The Integrated percentile is calculated as the average of the Growth percentile, Financial Returns percentile and (100% - Multiple percentile).
+Financial Returns and Multiple use the Goldman Sachs analyst forecasts at the fiscal year-end at least three quarters in the future. Growth uses inputs for the fiscal year at least seven quarters in the future
+compared with the year at least three quarters in the future (on a per-share basis for all metrics).
+For a more detailed description of how we calculate the GS Factor Profile, please contact your GS representative.
+M&A Rank
+Across our global coverage, we examine stocks using an M&A framework, considering both qualitative factors and quantitative factors (which may vary across sectors and regions) to incorporate the
+potential that certain companies could be acquired. We then assign a M&A rank as a means of scoring companies under our rated coverage from 1 to 3, with 1 representing high (30%-50%) probability of
+the company becoming an acquisition target, 2 representing medium (15%-30%) probability and 3 representing low (0%-15%) probability. For companies ranked 1 or 2, in line with our standard
+departmental guidelines we incorporate an M&A component into our target price. M&A rank of 3 is considered immaterial and therefore does not factor into our price target, and may or may not be
+discussed in research.
+Quantum
+Quantum is Goldman Sachs’ proprietary database providing access to detailed financial statement histories, forecasts and ratios. It can be used for in-depth analysis of a single company, or to make
+comparisons between companies in different sectors and markets.
+Disclosures
+Company-specific regulatory disclosures
+Compendium report: please see disclosures at https://www.gs.com/research/hedge.html. Disclosures applicable to the companies included in this compendium can be found in the latest relevant
+published research
+Distribution of ratings/investment banking relationships
+Goldman Sachs Investment Research global Equity coverage universe
+Rating Distribution Investment Banking Relationships
+Buy Hold Sell Buy Hold Sell
+Global 50% 35% 15% 65% 57% 45%
+As of April 1, 2022, Goldman Sachs Global Investment Research had investment ratings on 3,143 equity securities. Goldman Sachs assigns stocks as Buys and Sells on various regional Investment Lists;
+stocks not so assigned are deemed Neutral. Such assignments equate to Buy, Hold and Sell for the purposes of the above disclosure required by the FINRA Rules. See ‘Ratings, Coverage universe and
+related definitions’ below. The Investment Banking Relationships chart reflects the percentage of subject companies within each rating category for whom Goldman Sachs has provided investment banking
+services within the previous twelve months.
+Price target and rating history chart(s)
+Compendium report: please see disclosures at https://www.gs.com/research/hedge.html. Disclosures applicable to the companies included in this compendium can be found in the latest relevant
+published research
+2 May 2022 51
+Goldman Sachs
+Regulatory disclosures
+Disclosures required by United States laws and regulations
+See company-specific regulatory disclosures above for any of the following disclosures required as to companies referred to in this report: manager or co-manager in a pending transaction; 1% or other
+ownership; compensation for certain services; types of client relationships; managed/co-managed public offerings in prior periods; directorships; for equity securities, market making and/or specialist role.
+Goldman Sachs trades or may trade as a principal in debt securities (or in related derivatives) of issuers discussed in this report.
+The following are additional required disclosures: Ownership and material conflicts of interest: Goldman Sachs policy prohibits its analysts, professionals reporting to analysts and members of their
+households from owning securities of any company in the analyst’s area of coverage. Analyst compensation: Analysts are paid in part based on the profitability of Goldman Sachs, which includes
+investment banking revenues. Analyst as officer or director: Goldman Sachs policy generally prohibits its analysts, persons reporting to analysts or members of their households from serving as an
+officer, director or advisor of any company in the analyst’s area of coverage. Non-U.S. Analysts: Non-U.S. analysts may not be associated persons of Goldman Sachs & Co. LLC and therefore may not be
+subject to FINRA Rule 2241 or FINRA Rule 2242 restrictions on communications with subject company, public appearances and trading securities held by the analysts.
+Distribution of ratings: See the distribution of ratings disclosure above. Price chart: See the price chart, with changes of ratings and price targets in prior periods, above, or, if electronic format or if with
+respect to multiple companies which are the subject of this report, on the Goldman Sachs website at https://www.gs.com/research/hedge.html.
+Additional disclosures required under the laws and regulations of jurisdictions other than the United States
+The following disclosures are those required by the jurisdiction indicated, except to the extent already made above pursuant to United States laws and regulations. Australia: Goldman Sachs Australia Pty
+Ltd and its affiliates are not authorised deposit-taking institutions (as that term is defined in the Banking Act 1959 (Cth)) in Australia and do not provide banking services, nor carry on a banking business, in
+Australia. This research, and any access to it, is intended only for “wholesale clients” within the meaning of the Australian Corporations Act, unless otherwise agreed by Goldman Sachs. In producing
+research reports, members of the Global Investment Research Division of Goldman Sachs Australia may attend site visits and other meetings hosted by the companies and other entities which are the
+subject of its research reports. In some instances the costs of such site visits or meetings may be met in part or in whole by the issuers concerned if Goldman Sachs Australia considers it is appropriate
+and reasonable in the specific circumstances relating to the site visit or meeting. To the extent that the contents of this document contains any financial product advice, it is general advice only and has
+been prepared by Goldman Sachs without taking into account a client’s objectives, financial situation or needs. A client should, before acting on any such advice, consider the appropriateness of the advice
+having regard to the client’s own objectives, financial situation and needs. A copy of certain Goldman Sachs Australia and New Zealand disclosure of interests and a copy of Goldman Sachs’ Australian
+Sell-Side Research Independence Policy Statement are available at: https://www.goldmansachs.com/disclosures/australia-new-zealand/index.html. Brazil: Disclosure information in relation to CVM
+Resolution n. 20 is available at https://www.gs.com/worldwide/brazil/area/gir/index.html. Where applicable, the Brazil-registered analyst primarily responsible for the content of this research report, as
+defined in Article 20 of CVM Resolution n. 20, is the first author named at the beginning of this report, unless indicated otherwise at the end of the text. Canada: This information is being provided to you
+for information purposes only and is not, and under no circumstances should be construed as, an advertisement, offering or solicitation by Goldman Sachs & Co. LLC for purchasers of securities in Canada
+to trade in any Canadian security. Goldman Sachs & Co. LLC is not registered as a dealer in any jurisdiction in Canada under applicable Canadian securities laws and generally is not permitted to trade in
+Canadian securities and may be prohibited from selling certain securities and products in certain jurisdictions in Canada. If you wish to trade in any Canadian securities or other products in Canada please
+contact Goldman Sachs Canada Inc., an affiliate of The Goldman Sachs Group Inc., or another registered Canadian dealer. Hong Kong: Further information on the securities of covered companies referred
+to in this research may be obtained on request from Goldman Sachs (Asia) L.L.C. India: Further information on the subject company or companies referred to in this research may be obtained from
+Goldman Sachs (India) Securities Private Limited, Research Analyst - SEBI Registration Number INH000001493, 951-A, Rational House, Appasaheb Marathe Marg, Prabhadevi, Mumbai 400 025, India,
+Corporate Identity Number U74140MH2006FTC160634, Phone +91 22 6616 9000, Fax +91 22 6616 9001. Goldman Sachs may beneficially own 1% or more of the securities (as such term is defined in
+clause 2 (h) the Indian Securities Contracts (Regulation) Act, 1956) of the subject company or companies referred to in this research report. Japan: See below. Korea: This research, and any access to it, is
+intended only for “professional investors” within the meaning of the Financial Services and Capital Markets Act, unless otherwise agreed by Goldman Sachs. Further information on the subject company or
+companies referred to in this research may be obtained from Goldman Sachs (Asia) L.L.C., Seoul Branch. New Zealand: Goldman Sachs New Zealand Limited and its affiliates are neither “registered
+banks” nor “deposit takers” (as defined in the Reserve Bank of New Zealand Act 1989) in New Zealand. This research, and any access to it, is intended for “wholesale clients” (as defined in the Financial
+Advisers Act 2008) unless otherwise agreed by Goldman Sachs. A copy of certain Goldman Sachs Australia and New Zealand disclosure of interests is available at:
+https://www.goldmansachs.com/disclosures/australia-new-zealand/index.html. Russia: Research reports distributed in the Russian Federation are not advertising as defined in the Russian legislation, but
+are information and analysis not having product promotion as their main purpose and do not provide appraisal within the meaning of the Russian legislation on appraisal activity. Research reports do not
+constitute a personalized investment recommendation as defined in Russian laws and regulations, are not addressed to a specific client, and are prepared without analyzing the financial circumstances,
+investment profiles or risk profiles of clients. Goldman Sachs assumes no responsibility for any investment decisions that may be taken by a client or any other person based on this research report.
+Singapore: Goldman Sachs (Singapore) Pte. (Company Number: 198602165W), which is regulated by the Monetary Authority of Singapore, accepts legal responsibility for this research, and should be
+contacted with respect to any matters arising from, or in connection with, this research. Taiwan: This material is for reference only and must not be reprinted without permission. Investors should carefully
+consider their own investment risk. Investment results are the responsibility of the individual investor. United Kingdom: Persons who would be categorized as retail clients in the United Kingdom, as such
+term is defined in the rules of the Financial Conduct Authority, should read this research in conjunction with prior Goldman Sachs research on the covered companies referred to herein and should refer to
+the risk warnings that have been sent to them by Goldman Sachs International. A copy of these risks warnings, and a glossary of certain financial terms used in this report, are available from Goldman
+Sachs International on request.
+European Union and United Kingdom: Disclosure information in relation to Article 6 (2) of the European Commission Delegated Regulation (EU) (2016/958) supplementing Regulation (EU) No 596/2014 of
+the European Parliament and of the Council (including as that Delegated Regulation is implemented into United Kingdom domestic law and regulation following the United Kingdom’s departure from the
+European Union and the European Economic Area) with regard to regulatory technical standards for the technical arrangements for objective presentation of investment recommendations or other
+information recommending or suggesting an investment strategy and for disclosure of particular interests or indications of conflicts of interest is available at
+https://www.gs.com/disclosures/europeanpolicy.html which states the European Policy for Managing Conflicts of Interest in Connection with Investment Research.
+Japan: Goldman Sachs Japan Co., Ltd. is a Financial Instrument Dealer registered with the Kanto Financial Bureau under registration number Kinsho 69, and a member of Japan Securities Dealers
+Association, Financial Futures Association of Japan and Type II Financial Instruments Firms Association. Sales and purchase of equities are subject to commission pre-determined with clients plus
+2 May 2022 52
+Goldman Sachs
+consumption tax. See company-specific disclosures as to any applicable disclosures required by Japanese stock exchanges, the Japanese Securities Dealers Association or the Japanese Securities Finance
+Company.
+Ratings, coverage universe and related definitions
+Buy (B), Neutral (N), Sell (S) Analysts recommend stocks as Buys or Sells for inclusion on various regional Investment Lists. Being assigned a Buy or Sell on an Investment List is determined by a stock’s
+total return potential relative to its coverage universe. Any stock not assigned as a Buy or a Sell on an Investment List with an active rating (i.e., a stock that is not Rating Suspended, Not Rated, Coverage
+Suspended or Not Covered), is deemed Neutral. Each region’s Investment Review Committee manages Regional Conviction lists, which represent investment recommendations focused on the size of the
+total return potential and/or the likelihood of the realization of the return across their respective areas of coverage. The addition or removal of stocks from such Conviction lists do not represent a change in
+the analysts’ investment rating for such stocks.
+Total return potential represents the upside or downside differential between the current share price and the price target, including all paid or anticipated dividends, expected during the time horizon
+associated with the price target. Price targets are required for all covered stocks. The total return potential, price target and associated time horizon are stated in each report adding or reiterating an
+Investment List membership.
+Coverage Universe: A list of all stocks in each coverage universe is available by primary analyst, stock and coverage universe at https://www.gs.com/research/hedge.html.
+Not Rated (NR). The investment rating, target price and earnings estimates (where relevant) have been suspended pursuant to Goldman Sachs policy when Goldman Sachs is acting in an advisory
+capacity in a merger or in a strategic transaction involving this company, when there are legal, regulatory or policy constraints due to Goldman Sachs’ involvement in a transaction, and in certain other
+circumstances. Rating Suspended (RS). Goldman Sachs Research has suspended the investment rating and price target for this stock, because there is not a sufficient fundamental basis for determining
+an investment rating or target price. The previous investment rating and target price, if any, are no longer in effect for this stock and should not be relied upon. Coverage Suspended (CS). Goldman Sachs
+has suspended coverage of this company. Not Covered (NC). Goldman Sachs does not cover this company. Not Available or Not Applicable (NA). The information is not available for display or is not
+applicable. Not Meaningful (NM). The information is not meaningful and is therefore excluded.
+Global product; distributing entities
+The Global Investment Research Division of Goldman Sachs produces and distributes research products for clients of Goldman Sachs on a global basis. Analysts based in Goldman Sachs offices around the
+world produce research on industries and companies, and research on macroeconomics, currencies, commodities and portfolio strategy. This research is disseminated in Australia by Goldman Sachs
+Australia Pty Ltd (ABN 21 006 797 897); in Brazil by Goldman Sachs do Brasil Corretora de Títulos e Valores Mobiliários S.A.; Public Communication Channel Goldman Sachs Brazil: 0800 727 5764 and / or
+contatogoldmanbrasil@gs.com. Available Weekdays (except holidays), from 9am to 6pm. Canal de Comunicação com o Público Goldman Sachs Brasil: 0800 727 5764 e/ou contatogoldmanbrasil@gs.com.
+Horário de funcionamento: segunda-feira à sexta-feira (exceto feriados), das 9h às 18h; in Canada by Goldman Sachs & Co. LLC; in Hong Kong by Goldman Sachs (Asia) L.L.C.; in India by Goldman Sachs
+(India) Securities Private Ltd.; in Japan by Goldman Sachs Japan Co., Ltd.; in the Republic of Korea by Goldman Sachs (Asia) L.L.C., Seoul Branch; in New Zealand by Goldman Sachs New Zealand Limited;
+in Russia by OOO Goldman Sachs; in Singapore by Goldman Sachs (Singapore) Pte. (Company Number: 198602165W); and in the United States of America by Goldman Sachs & Co. LLC. Goldman Sachs
+International has approved this research in connection with its distribution in the United Kingdom.
+Effective from the date of the United Kingdom’s departure from the European Union and the European Economic Area (“Brexit Day”) the following information with respect to distributing entities will apply:
+Goldman Sachs International (“GSI”), authorised by the Prudential Regulation Authority (“PRA”) and regulated by the Financial Conduct Authority (“FCA”) and the PRA, has approved this research in
+connection with its distribution in the United Kingdom.
+European Economic Area: GSI, authorised by the PRA and regulated by the FCA and the PRA, disseminates research in the following jurisdictions within the European Economic Area: the Grand Duchy of
+Luxembourg, Italy, the Kingdom of Belgium, the Kingdom of Denmark, the Kingdom of Norway, the Republic of Finland, the Republic of Cyprus and the Republic of Ireland; GS -Succursale de Paris (Paris
+branch) which, from Brexit Day, will be authorised by the French Autorité de contrôle prudentiel et de resolution (“ACPR”) and regulated by the Autorité de contrôle prudentiel et de resolution and the
+Autorité des marches financiers (“AMF”) disseminates research in France; GSI - Sucursal en España (Madrid branch) authorized in Spain by the Comisión Nacional del Mercado de Valores disseminates
+research in the Kingdom of Spain; GSI - Sweden Bankfilial (Stockholm branch) is authorized by the SFSA as a “third country branch” in accordance with Chapter 4, Section 4 of the Swedish Securities and
+Market Act (Sw. lag (2007:528) om värdepappersmarknaden) disseminates research in the Kingdom of Sweden; Goldman Sachs Bank Europe SE (“GSBE”) is a credit institution incorporated in Germany
+and, within the Single Supervisory Mechanism, subject to direct prudential supervision by the European Central Bank and in other respects supervised by German Federal Financial Supervisory Authority
+(Bundesanstalt für Finanzdienstleistungsaufsicht, BaFin) and Deutsche Bundesbank and disseminates research in the Federal Republic of Germany and those jurisdictions within the European Economic
+Area where GSI is not authorised to disseminate research and additionally, GSBE, Copenhagen Branch filial af GSBE, Tyskland, supervised by the Danish Financial Authority disseminates research in the
+Kingdom of Denmark; GSBE - Sucursal en España (Madrid branch) subject (to a limited extent) to local supervision by the Bank of Spain disseminates research in the Kingdom of Spain; GSBE - Succursale
+Italia (Milan branch) to the relevant applicable extent, subject to local supervision by the Bank of Italy (Banca d’Italia) and the Italian Companies and Exchange Commission (Commissione Nazionale per le
+Società e la Borsa “Consob”) disseminates research in Italy; GSBE - Succursale de Paris (Paris branch), supervised by the AMF and by the ACPR disseminates research in France; and GSBE - Sweden
+Bankfilial (Stockholm branch), to a limited extent, subject to local supervision by the Swedish Financial Supervisory Authority (Finansinpektionen) disseminates research in the Kingdom of Sweden.
+General disclosures
+This research is for our clients only. Other than disclosures relating to Goldman Sachs, this research is based on current public information that we consider reliable, but we do not represent it is accurate or
+complete, and it should not be relied on as such. The information, opinions, estimates and forecasts contained herein are as of the date hereof and are subject to change without prior notification. We seek
+to update our research as appropriate, but various regulations may prevent us from doing so. Other than certain industry reports published on a periodic basis, the large majority of reports are published at
+irregular intervals as appropriate in the analyst’s judgment.
+Goldman Sachs conducts a global full-service, integrated investment banking, investment management, and brokerage business. We have investment banking and other business relationships with a
+substantial percentage of the companies covered by our Global Investment Research Division. Goldman Sachs & Co. LLC, the United States broker dealer, is a member of SIPC (https://www.sipc.org).
+2 May 2022 53
+Goldman Sachs
+Our salespeople, traders, and other professionals may provide oral or written market commentary or trading strategies to our clients and principal trading desks that reflect opinions that are contrary to the
+opinions expressed in this research. Our asset management area, principal trading desks and investing businesses may make investment decisions that are inconsistent with the recommendations or
+views expressed in this research.
+The analysts named in this report may have from time to time discussed with our clients, including Goldman Sachs salespersons and traders, or may discuss in this report, trading strategies that reference
+catalysts or events that may have a near-term impact on the market price of the equity securities discussed in this report, which impact may be directionally counter to the analyst’s published price target
+expectations for such stocks. Any such trading strategies are distinct from and do not affect the analyst’s fundamental equity rating for such stocks, which rating reflects a stock’s return potential relative to
+its coverage universe as described herein.
+We and our affiliates, officers, directors, and employees, excluding equity and credit analysts, will from time to time have long or short positions in, act as principal in, and buy or sell, the securities or
+derivatives, if any, referred to in this research.
+The views attributed to third party presenters at Goldman Sachs arranged conferences, including individuals from other parts of Goldman Sachs, do not necessarily reflect those of Global Investment
+Research and are not an official view of Goldman Sachs.
+Any third party referenced herein, including any salespeople, traders and other professionals or members of their household, may have positions in the products mentioned that are inconsistent with the
+views expressed by analysts named in this report.
+This research is not an offer to sell or the solicitation of an offer to buy any security in any jurisdiction where such an offer or solicitation would be illegal. It does not constitute a personal recommendation
+or take into account the particular investment objectives, financial situations, or needs of individual clients. Clients should consider whether any advice or recommendation in this research is suitable for
+their particular circumstances and, if appropriate, seek professional advice, including tax advice. The price and value of investments referred to in this research and the income from them may fluctuate.
+Past performance is not a guide to future performance, future returns are not guaranteed, and a loss of original capital may occur. Fluctuations in exchange rates could have adverse effects on the value or
+price of, or income derived from, certain investments.
+Certain transactions, including those involving futures, options, and other derivatives, give rise to substantial risk and are not suitable for all investors. Investors should review current options and futures
+disclosure documents which are available from Goldman Sachs sales representatives or at https://www.theocc.com/about/publications/character-risks.jsp and
+https://www.fiadocumentation.org/fia/regulatory-disclosures_1/fia-uniform-futures-and-options-on-futures-risk-disclosures-booklet-pdf-version-2018. Transaction costs may be significant in option strategies
+calling for multiple purchase and sales of options such as spreads. Supporting documentation will be supplied upon request.
+Differing Levels of Service provided by Global Investment Research: The level and types of services provided to you by the Global Investment Research division of GS may vary as compared to that
+provided to internal and other external clients of GS, depending on various factors including your individual preferences as to the frequency and manner of receiving communication, your risk profile and
+investment focus and perspective (e.g., marketwide, sector specific, long term, short term), the size and scope of your overall client relationship with GS, and legal and regulatory constraints. As an
+example, certain clients may request to receive notifications when research on specific securities is published, and certain clients may request that specific data underlying analysts’ fundamental analysis
+available on our internal client websites be delivered to them electronically through data feeds or otherwise. No change to an analyst’s fundamental research views (e.g., ratings, price targets, or material
+changes to earnings estimates for equity securities), will be communicated to any client prior to inclusion of such information in a research report broadly disseminated through electronic publication to our
+internal client websites or through other means, as necessary, to all clients who are entitled to receive such reports.
+All research reports are disseminated and available to all clients simultaneously through electronic publication to our internal client websites. Not all research content is redistributed to our clients or
+available to third-party aggregators, nor is Goldman Sachs responsible for the redistribution of our research by third party aggregators. For research, models or other data related to one or more securities,
+markets or asset classes (including related services) that may be available to you, please contact your GS representative or go to https://research.gs.com.
+Disclosure information is also available at https://www.gs.com/research/hedge.html or from Research Compliance, 200 West Street, New York, NY 10282.
+© 2022 Goldman Sachs.
+No part of this material may be (i) copied, photocopied or duplicated in any form by any means or (ii) redistributed without the prior written consent of The Goldman Sachs Group, Inc.
+2 May 2022 54

@@ -1,0 +1,866 @@
+PACCAR SASB-ESG Report
+2024
+SASB Standards Disclosure Table
+Industrial Machinery & Goods Sustainability Accounting Standard Version 2023-12
+Topic Metric Disclosure
+Energy Management Total energy consumed 975,978 MWh
+See TCFD-CDP Report: C8.2a Percent grid electricity 43.2%
+Percent renewables 6%
+Employee Health & Total recordable incident rate This document: p. 16
+Safety Fatality rate This document: p. 16
+Near miss frequency rate Consistent with Total
+Recordable Incident rate.
+Fuel Economy & Sales weighted fleet fuel The latest models of
+Emissions in Use efficiency for medium and heavy Kenworth, Peterbilt, and DAF
+duty vehicles (Gallons/1,000 ton- trucks have improved fuel
+Phase
+miles) efficiency by up to 7%
+compared to previous models
+(This document: p. 12-13).
+Kenworth and Peterbilt trucks
+will improve fuel efficiency by
+at least 19% by 2024, and 25%
+by 2027 when compared to
+2017 levels. DAF trucks will
+improve fuel efficiency by at
+least 15% by 2025 and 30% by
+2030 when compared to 2020
+levels.
+Sales-weighted fuel efficiency for Not applicable to PACCAR’s
+non road equipment business.
+(Gallons/hour)
+Sales weighted fuel efficiency for Not applicable to PACCAR’s
+stationary generators business.
+(Watts/gallon)
+Sales weighted emissions of NOx PACCAR products are low NOx
+for Marine diesel engines, and compliant with all NOx
+locomotive diesel engines, on- emissions regulations in all its
+road medium- and heavy duty markets.
+engines, and other non road
+diesel engines
+1
+Sales weighted emissions of PACCAR products are low PM
+particulate matter for Marine and compliant with all PM
+diesel engines, locomotive diesel emissions regulations in all its
+engines, on road medium- and markets.
+heavy duty engines, and other
+non-road diesel engines
+Materials Sourcing Description of the management This document: p. 8, 20-22
+of risks associated with the use of
+critical materials
+Remanufacture Design Revenue from remanufactured PACCAR’s aftermarket parts
+& Services products and remanufacturing division sells remanufactured
+services engines and many other
+remanufactured components.
+Activity Metrics Number of units produced by PACCAR delivered 204,200
+product category new trucks in 2023
+Number of employees 32,400 as of December 2023
+The Sustainability ESG disclosures in this report and at PACCAR.com are consistent with the
+SASB Industrial Machinery & Goods Sustainability Accounting Standard Version 2023-12.
+Forward Looking / Cautionary Statements
+This report may contain statements that are forward looking. These statements are based on
+current expectations and assumptions that are subject to risks and uncertainties, which may cause
+actual results to differ materially. A summary of risks and uncertainties is described in more detail
+in our periodic reports filed with the Securities and Exchange Commission (SEC). We undertake no
+duty to update or revise this presentation, whether as a result of new information, future events
+or otherwise. For the most recent financial, risk and other information about PACCAR, please see
+our SEC filings and most recent earnings release available on the Investor Relations page of
+www.paccar.com.
+2
+Contents
+PACCAR SASB-ESG Report .................................................................................................................................. 1
+SASB Disclosure Table ..................................................................................................................................... 1
+Forward Looking / Cautionary Statements..................................................................................................... 2
+PACCAR Environmental, Social and Governance (ESG) Report .......................................................................... 4
+Environmental Leadership .................................................................................................................................. 4
+Environmental Policy .................................................................................................................................. 4
+Operations ...................................................................................................................................................... 5
+Environmental Management System ......................................................................................................... 5
+Energy management................................................................................................................................... 5
+Climate Strategy ......................................................................................................................................... 6
+GHG Emissions ............................................................................................................................................ 7
+Science Based Targets ................................................................................................................................ 8
+Supplier Sustainability Engagement ............................................................................................................... 9
+Products Innovation & Stewardship ............................................................................................................... 9
+Social Responsibility and Ethical Business Conduct ......................................................................................... 14
+Code of Business Conduct ............................................................................................................................ 14
+Talent Training & Development ................................................................................................................... 16
+Workplace Safety .......................................................................................................................................... 17
+Employee Well-Being.................................................................................................................................... 17
+Cybersecurity and Systems Availability ........................................................................................................ 18
+Management and Training ........................................................................................................................... 18
+Philanthropy ................................................................................................................................................. 18
+Community ................................................................................................................................................... 19
+Government Relations & Public Policy ......................................................................................................... 19
+Supplier Code of Conduct ............................................................................................................................. 21
+Conflict Minerals and Critical Materials ....................................................................................................... 22
+Corporate Governance ..................................................................................................................................... 23
+Sustainability ................................................................................................................................................ 23
+Board of Directors ........................................................................................................................................ 24
+Executive Compensation .............................................................................................................................. 24
+Shareholder Rights ....................................................................................................................................... 25
+Audit and Risk Oversight .............................................................................................................................. 26
+3
+PACCAR Environmental, Social and Governance (ESG) Report
+PACCAR is a global technology leader in the design, manufacture and customer support of
+premium medium- and heavy-duty trucks under the Kenworth, Peterbilt and DAF nameplates.
+PACCAR also designs and manufactures advanced powertrains, provides financial services and
+information technology, and distributes aftermarket parts related to its principal business.
+PACCAR conducts business to achieve above-average market returns for stockholders, reflect the
+highest ethical standards, fulfill our legal obligations, and meet our social responsibilities. We
+strive to gain the favorable regard of customers, shareholders, employees, regulatory authorities,
+and the general public through superior performance and effective communications.
+PACCAR’s Sustainability approach that enhances shareholder value is focused on:
+• Environmental leadership
+• Social responsibility and ethical business conduct
+• Corporate governance practices
+Environmental Leadership
+Reducing the environmental impact of our activities and products is an integral part of our process
+of continuous improvement. Our commitment to the environment is demonstrated in our energy
+efficient operations and technologically advanced products.
+PACCAR’s global industrial leadership includes addressing the environmental challenges facing our
+own and future generations. PACCAR’s environmental management system and policy are
+designed to focus on the reduction of the environmental impacts of the company’s activities,
+products and services. A key premise of PACCAR’s environmental policy can be stated simply: It is
+more environmentally prudent and cost effective to identify a problem before it occurs, than to
+correct or clean it up afterwards.
+Environmental Policy
+The following principles are used to implement PACCAR’s environmental policy:
+• Commitment to compliance with environmental laws.
+• Development and implementation of prudent practices in company facilities around the globe
+that often go beyond regulatory compliance.
+• Comprehensive industry leadership in policy, procedure, training programs and operation
+audits at all company facilities.
+• Commitment to continual improvement.
+• Prevent pollution by continued evaluation of our industrial processes and procedures.
+• Proactively seek new information and training in order to create, initiate and advance new
+ideas and approaches to manage environmental exposures before they are mandated by
+regulations.
+4
+Operations
+PACCAR has focused on responsible environmental stewardship since its founding in 1905. The
+Company is committed to environmental responsibility in the vehicle production process. Finding
+ways to reduce waste, reuse materials, conserve energy and reduce the environmental impact of
+our activities occurs daily in both small and significant ways across the Company. PACCAR is driving
+smart manufacturing into every aspect of its business because it helps the environment and makes
+good long-term business sense.
+Environmental Management System
+PACCAR’s manufacturing locations are ISO 14001 certified providing assurance to management,
+employees, and shareholders that the environmental impact is being measured and managed. ISO
+14001 certified management system measures, monitors and maintains compliance at each
+manufacturing site including:
+• Air emissions – sites are monitoring and reporting local and federal jurisdiction air
+standards and maintaining compliance.
+• Water consumption & discharge – monitoring and reporting local and federal
+jurisdictions water use and maintaining water standards.
+• Energy usage – sites measure and monitory energy usage (electricity, natural gas, etc.)
+including access to renewable power options.
+• Materials & waste – sites annually target achieving zero waste-to-landfill.
+The table below contains environmental metrics monitored on an annual basis by PACCAR across
+the manufacturing sites.
+Manufacturing sites (%) 2022 2021 2020
+ISO 14001 management certified 100% 100% 100%
+Meeting air emissions standard 100% 100% 100%
+Meeting water standard 100% 100% 100%
+Zero waste-to-landfill 93% 87% 87%
+Energy management
+Energy use is measured and monitored across PACCAR manufacturing and non-manufacturing
+sites. The chart below contains the total energy usage across PACCAR locations.
+Energy (MWh) 2022 2021 2020
+Manufacturing & non-manufacturing locations 975,978 978,124 877,708
+5
+From 2013 to 2022, PACCAR reduced its energy usage 41% on a per revenue basis as shown
+below.
+Climate Strategy
+In 2023, PACCAR achieved an A- score from CDP on the Company’s Task Force for Climate Related
+Financial Disclosures (TCFD) aligned climate transition plan, placing it in the leadership tier of over
+21,000 companies reporting and demonstrating a robust approach to reducing greenhouse gas
+emissions in Kenworth, Peterbilt and DAF vehicles and from our global facilities. PACCAR has
+earned an “A” or “A-” rating for nine consecutive years.
+The Company’s TCFD-CDP Climate Transition Plan provides details including the governance,
+strategy, risk management and metrics & targets consistent with the TCFD framework as outlined
+below:
+Governance
+• Board level oversight
+• Board expertise on climate change
+• Senior management accountability & feedback mechanisms
+• Executive remuneration linked to climate KPI’s
+Strategy
+• 1.5°C world aligned transition plan within business strategy & shareholder feedback
+• Link between climate related risks, opportunities & strategy
+• Details of scenario analysis
+• Financial planning details associated with climate transition
+• Low carbon product & services
+• Low carbon initiatives – direct operations
+• Value chain engagement – suppliers and customers
+• Alignment of public policy engagement with climate strategy
+Risk Management
+• Process for identifying and managing climate related risks and opportunities
+• Climate related risks, potential financial impact, and response strategy
+6
+• Climate related opportunities, potential financial impact, and response strategy
+Metrics and Targets
+• Approved science-based targets
+• Other climate related targets
+• Net Zero target, in line with the latest climate science
+• GHG Protocol annual Scope 1, 2, 3 GHG inventory (3rd party verified)
+PACCAR’s CDP report is publicly available on the CDP website and PACCAR’s TCFD-CDP Climate
+Transition Plan Report available at https://www.paccar.com/about-us/environmental-social-and-
+governance/.
+GHG Emissions
+Scope 1 and 2 emissions at PACCAR locations include both purchased electricity, stationary and
+mobile sources of greenhouse gas emissions while performing business activities. Scope 3
+emissions are upstream and downstream in PACCAR’s value chain as the Scope 1 and 2 emissions
+of suppliers, customers, partners etc. PACCAR regularly evaluates and updates its current and
+historical Scope 1, 2, and 3 emissions based on emerging science, feedback from stakeholders and
+market needs for greater environmental transparency. The chart below is the scope 1, 2, and
+consolidated Scope 3 greenhouse gas emissions. For more information, visit PACCAR’s annual CDP
+Report.
+Tonnes C02e (000’s) 2022 2021 2020
+Scope 1 & 2 (location based) 271 279 257
+Scope 3 114,542 99,312 76,313
+PACCAR monitors both absolute greenhouse gas emissions and greenhouse gas emissions
+inventory per unit of revenue, which normalizes the data for fluctuations in our business that
+occur due to industry cyclicality. From 2013 to 2022, PACCAR reduced scope 1 and 2 greenhouse
+gas emissions 50% on a per revenue basis as shown below:
+7
+Science Based Targets
+In 2021, PACCAR established greenhouse emissions reduction targets approved by the Science
+Based Targets Initiative (SBTi). SBTi works with over 7,480 companies worldwide to create a clearly
+defined path to reduce greenhouse gas emissions, with the goal to help limit global warming to
+well below 2 degrees Celsius compared to pre-industrial levels. PACCAR’s targets are publicly
+disclosed at https://sciencebasedtargets.org/.
+The Scope 1 and 2 science based target (SBT) is a 35% absolute reduction of CO2 emissions from
+PACCAR’s global facilities between a baseline year of 2018 and a target year of 2030 and is based
+on SBTi’s “other industry sectoral decarbonization approach (SDA) using the absolute contraction
+method for well below 2°C.
+Scope 3 SBT is a 25% reduction in product use greenhouse gas emissions in grams of CO2e
+emissions per vehicle kilometer, well to wheel, from the heavy-duty vehicles PACCAR sells in the
+US, Canada and Europe, and the medium duty vehicles PACCAR sells in the US and Canada
+between a baseline year of 2018 and a target year of 2030. This SBT is a medium-term target for
+product use emissions based on the SDA Transport Tool for well below two degrees Celsius.
+2018 2030
+SBT Progress 2020 2021 2022
+Baseline Target
+Scope 1 & 2
+293 257 279 271 190
+tonnes CO2e (000’s)
+Scope 3, Category 11
+1006 996 1081 1059 754
+(g CO2e/vkm WTW)
+In 2022, the Science Based Target Initiative (SBTi) paused target validations & updates
+recognizing there is currently not a viable SDA for transport sector allowing companies like
+PACCAR to align their use-phase emissions targets of new road medium and heavy duty vehicles
+with 1.5°C pathways. PACCAR’s well-below 2°C trajectory approved science based targets are
+granted extensions until an SDA is developed and approved at a later date.
+For operational scope 1 and 2 emissions at PACCAR locations, the three main levers for
+decoupling greenhouse gas emissions from energy consumption are ISO 14001 aligned demand
+side energy efficiency, purchasing renewable power from local utilities, and electrifying diesel
+and gas equipment.
+Product use phase, scope 3 category 11, emissions reductions are through continued technology
+investment and manufacturing of efficient diesel engines while transitioning, with customer
+demand, towards manufacturing zero emission battery electric and hydrogen fueled vehicles.
+Peterbilt, Kenworth and DAF lead the industry with nine battery electric vehicle models available
+for customers. Kenworth T680 and Peterbilt 579 models featuring Toyota’s hydrogen fuel cell
+powertrain kit have initial customer deliveries planned for 2025. DAF’s XF Hydrogen – a
+prototype of a hydrogen fueled heavy-duty truck with an internal combustion engine – won the
+European 2022 Truck Innovation Award.
+8
+Supplier Sustainability Engagement
+PACCAR is driven to provide its customers with the highest quality truck with the lowest lifetime
+operating costs especially related to fuel economy, safety, reduced emissions, and next
+generation transport technology. PACCAR challenges all suppliers to improve vehicle fuel
+efficiency and reduce greenhouse gas emissions using cutting-edge technology. Active
+collaboration with the top 100 suppliers annually, which accounts for over 80% of PACCAR's total
+spend, is strategically focused on those suppliers who can best contribute to vehicle fuel
+economy improvements and reduced emissions. In addition, the top 100 suppliers are screened
+using the International Sustainability Standard Boards (ISSB, part of the International Financial
+Reporting Standards Foundation) to identify relevant ESG issues attributed to the industry sector
+associated with each supplier (https://sasb.org/standards/materiality-finder/find/); as well as
+evaluating each supplier’s annual sustainability scoring for S&P Global CSA, Sustainalytics, and
+CDP Climate and noting Science-based Target Initiative (SBTi) greenhouse emission reduction
+targets commitments.
+(% suppliers by procurement spend) 2023 2022 2021
+Suppliers screened for industry sector ISSB Relevant
+82% 82% 81%
+Issues, SBT targets, and CDP Climate score
+PACCAR’s Purchasing and Quality managers may then use the supplier specific sustainability
+information when evaluating supplier performance, contracts, and discussions during quarterly
+and annual reviews.
+Products Innovation & Stewardship
+A key element of PACCAR's environmental strategy is to offer our customers commercial vehicles
+that reduce environmental impacts. PACCAR invests in technologies that reduce greenhouse gas
+emissions such as fuel-efficient diesel engines, natural gas and biofuel engines, and next-
+generation battery- electric, hybrid, hydrogen combustion, and hydrogen fuel cell powertrains. To
+develop and manufacture these industry leading products and technologies, the Company makes
+significant investments in capital expenditures and R&D each year.
+($ in millions) 2023 2022 2021
+Capital Investment $698.0 $505.0 $511.8
+R&D $411.0 $341.2 $324.9
+Customer Engagement
+PACCAR’s commitments to making the highest quality, most sustainable vehicles, begins with
+continuous and intensive engagement with customers for ongoing feedback on vehicle
+performance and new specifications for future product designs. Our engineers use “Design for
+Environment” or Eco Design software to identify non-hazardous, lighter weight materials while
+improving overall vehicle recyclability rates to over 90% and material recoverability greater than
+9
+95%. In addition, scientists, engineers, and economist utilize evaluation tools for life-cycle
+assessment (LCA) modeling to incorporate effects on health, ecosystems, and resource
+consumption into design considerations.
+Pathway towards zero emissions
+PACCAR’s consistent long-term profits, strong balance sheet, and intense focus on quality,
+technology and innovation have enabled the company to invest $7.8 billion in world-class facilities,
+next generation products and state of the art technologies during the past decade. PACCAR
+continues increasing its investment in next generation diesel, electric powertrain, and hydrogen
+powertrain technologies. PACCAR invested $698 million in capital projects and $411 million in
+research and development expenses in 2023. In 2024, capital expenditures are projected to be in
+the range of $700-$750 million and research and development expenses are estimated to be in the
+range $460-$500 million.
+PACCAR is on the pathway of advanced technology, smart manufacturing capability, and training
+its industry leading labor force to deliver battery electric, hybrid, and fuel cell technology in DAF,
+Peterbilt, and Kenworth trucks. In production today are nine industry leading battery-electric-
+vehicle models and multiple hydrogen vehicle models in development.
+There is encouraging activity in policy commitments and investments by major economies for the
+energy sector’s physical infrastructure for generating low- or no-carbon energy supply, as well as
+fueling networks for battery electric and zero emission vehicles. For example, Europe’s increased
+push for clean energy and other new policies, and the Infrastructure Investment and Jobs Act in
+the United States authorizing $1.2 trillion in new infrastructure spending. However, the IEA World
+Energy Outlook 2022 forecasts the Net Zero Emissions by 2050 Scenario will require a tripling in
+spending on clean energy infrastructure to 2030, alongside a shift towards much higher
+investment in emerging markets and developing countries.
+Currently, even with advancing zero emission truck technology, a fact-based long term 2050
+pathway to zero emissions is not yet clear for the transportation sector primarily due to the energy
+sector’s under-investment and lack of physical infrastructure necessary for supplying reliable and
+affordable low- or no-carbon electricity and hydrogen fuel.
+PACCAR has communicated a progression through 2035 towards lower emissions when
+considering a combination of state and federal air quality standards, carbon regulations and zero
+emission vehicle sales and fleet mandates. From 2023 to 2035, a portfolio adoption mix may
+appear as below.
+10
+More information on PACCAR’s pathway to zero emissions may be found at investor.paccar.com
+Annual Report, SEC filings & Investor Presentations.
+PACCAR’s Zero Emission Trucks
+PACCAR's research and development efforts include several development projects for
+Kenworth, Peterbilt and DAF vehicles, including battery electric, hydrogen fuel cell, hydrogen
+combustion, and hybrid technologies.
+PACCAR is currently selling nine different zero emissions truck products in the heavy and
+medium duty markets. Our zero-emissions vehicle portfolio covers applications ranging from
+refuse and drayage to regional haul and local pick-up and delivery. So far, PACCAR has received
+hundreds of orders. Production is underway and we are now delivering these products to
+customers around the world.
+(# Models) 2022 2021 2020
+Battery Electric Vehicle 9 7 3
+Peterbilt has developed a battery electric Peterbilt 579EV for port and regional haul applications.
+Peterbilt has designed a battery electric Peterbilt 520EV truck for the refuse segment. The truck’s
+11
+100-mile range and quiet operation is an excellent solution for residential neighborhood refuse
+operations.
+The zero-emissions Peterbilt 220EV and Kenworth K270E cabover trucks have a range of up to 200
+miles. These trucks are designed for use in a variety of applications including local pickup and
+delivery and short regional haul operations.
+DAF has developed battery electric DAF CF and DAF LF trucks, which offer zero emissions and
+ultra-low noise for heavy- and medium-duty urban distribution and refuse applications. The DAF
+CF Electric was named Green Truck Logistics Solution 2019, a prestigious award for the
+deployment of emerging technologies in Europe. The DAF LF Electric is a medium-duty truck with a
+modular battery pack that can be scaled to the range required by customers.
+The DAF CF Hybrid has been developed for driving with zero emissions in urban areas, while
+offering a much longer range to operate beyond those urban areas, thanks to the efficient PACCAR
+MX-11 engine. The combination of electric and diesel power ensures the highest logistical
+efficiency.
+PACCAR is developing hydrogen combustion and hydrogen fuel cell solutions. The DAF XF H2
+technology demonstration truck uses an internal combustion engine powered by hydrogen and
+was designed for use in the long-haul segment. It was honored with the Truck Innovation Award
+2022. Compared to the fuel cell hydrogen solution, the combustion engine option has transient
+capabilities (eliminating the need of a large energy storage system). Other advantages include the
+lower cooling capabilities needed and lower sensitivity to hydrogen purity. In addition, the
+Company has extensive knowledge and a comprehensive manufacturing footprint in the
+combustion engine technology.
+PACCAR and Toyota Motor North America, Inc. (Toyota) partnered for several years on hydrogen
+fuel cell (FCEV) and announced an expansion of their joint efforts to develop and produce zero
+emissions FCEV Kenworth and Peterbilt trucks powered by Toyota’s next-generation hydrogen fuel
+cell modules. The expanded agreement supports ongoing development and commercialized zero-
+emission versions of the Kenworth T680 and Peterbilt 579 models featuring Toyota’s hydrogen
+fuel cell powertrain kit, with initial customer deliveries planned for 2025. Pictured below are
+Kenworth T680 and Peterbilt 579 Hydrogen Fuel Cell Trucks.
+12
+Low Carbon and Renewable Fuels
+PACCAR is a market leader for natural gas heavy-duty vehicles. Based on the latest information
+from the research firms R.L. Polk and ACT Research, Kenworth and Peterbilt achieved market share
+of over 33% of compressed natural gas heavy-duty vehicle registrations in the U.S. and Canada in
+2022.
+(%, US and Canada market share) 2022 2021 2020
+CNG heavy-duty vehicles 33.4% 29.0% 46.3%
+PACCAR’s MX 13 and MX 11 engines are certified to use B10/B20/B30 and XTL biofuels in Europe
+and B20 biofuel in the U.S. Biofuel capable engines represent 52% of PACCAR's total global truck
+deliveries in 2022.
+(% global truck deliveries) 2022 2021 2020
+Engines certified for biofuels use 52% 49% 47%
+Advanced Vehicles
+PACCAR is participating in the Department of Energy’s SuperTruck 3 program, with the goal to
+electrify medium- and heavy-duty trucks, expand electric vehicle infrastructure and lower
+emissions for on- and off-road vehicles.
+DAF is the only truck manufacturer to introduce a new generation of trucks fully utilizing the new
+European regulations for truck masses and dimensions, resulting in a range of highly attractive and
+aerodynamic trucks which feature industry-leading fuel efficiency, safety and a luxurious cab for
+driver comfort. DAF XF, XG and XG+ models were honored as International Truck of the Year 2022.
+These trucks are equipped with highly efficient PACCAR MX engines, a new compact after-
+treatment system, and sophisticated software and aerodynamic optimization, reducing fuel
+consumption and CO2 emissions by up to 10% compared with previous models.
+The new DAF XD truck earned the International Truck of the Year 2023 award. The new DAF XD
+truck represents a new generation of distribution and vocational vehicles. The versatile DAF XD is
+available as a tractor or rigid truck with a high-performance PACCAR engine. DAF also introduced
+the DAF XDC truck, which is designed specifically for construction and vocational segments and
+features two-, three- or four-axle configurations with single or double drive axles
+Peterbilt and Kenworth recently introduced major enhancements to the Peterbilt 579 and the
+Kenworth T680 trucks, which reduce fuel consumption and CO2 emissions by up to 7% over
+previous models. Enhancements included a new aerodynamic design, the PACCAR Powertrain, a
+quieter cab, customizable 15” digital display, connectivity technology, and new ADAS safety
+features.
+Remanufacturing
+Remanufacturing is the industrial process of returning a previously used component to “like- new”
+13
+condition. Remanufacturing helps the environment by reducing waste. PACCAR’s aftermarket
+parts division sells remanufactured engines and many other remanufactured components.
+Connected Trucks and Driver Training
+PACCAR Connect is a new state-of-the-art global connected truck platform. This configurable
+system consists of proprietary hardware and software that provides robust data security, over the
+air software updates and advanced fleet management tools, while enabling customers to cost
+effectively integrate their existing fleet management systems and applications. PACCAR began
+installing PACCAR Connect on DAF XF, XG and XG+ trucks in October 2021. The information
+provided by this system enables customers to improve fleet operating efficiency and reduce fuel
+consumption and CO2 emissions.
+PACCAR announced a new collaboration to integrate Platform Science’s Virtual Vehicle technology
+in Kenworth and Peterbilt trucks using the PACCAR Connect telematics system. The integrated
+PACCAR Connect and Virtual Vehicle solution will offer customers a state-of-the-art telematics
+operating system and application store, enabling customers to access software solutions, real-time
+vehicle data, and third-party applications. The new PACCAR system will reduce the requirement of
+multiple telecommunications devices and will enhance customers’ productivity. PACCAR will
+continue collaborating with the Platform Science team to create the industry’s most user-friendly,
+customizable and productive connected truck solution.
+PACCAR has introduced technologies that train drivers to operate vehicles more efficiently.
+Kenworth and Peterbilt’s Driver Performance Assistant offers interactive in-dash coaching to
+drivers to reduce fuel consumption and CO2 emissions. DAF’s EcoDrive Training enhances driver
+efficiency, resulting in up to 5% reduced fuel consumption and CO2 emissions from every properly
+trained driver.
+Social Responsibility and Ethical Business Conduct
+Code of Business Conduct
+The manner in which PACCAR conducts its business, and the opinion of our shareholders,
+employees, customers and the public, are very important to the continued success of PACCAR.
+PACCAR has a long history of achieving high standards of performance related to human rights and
+compliance with laws and regulations in countries where the Company does business. Over the
+years PACCAR, through its commitment to integrity and honesty as demonstrated by PACCAR’s
+directors, officers and employees, has earned an excellent reputation as a responsible corporate
+citizen. It is the responsibility of each director, officer and employee of PACCAR to review the Code
+of Business Conduct and become familiar with how it applies to specific business situations.
+PACCAR employees receive ongoing training regarding the Code of Conduct and are expected to
+comply with the law and the highest standards of honest and ethical conduct.
+The PACCAR Code of Business Conduct contains information explaining how employees can
+confidentially report violations of the Code through a hotline, and PACCAR’s anti-retaliation policy.
+Continuous PACCAR employee development and training includes mandatory training focusing on
+14
+aspects of the Code of Business including:
+Commitment to Integrity
+• Harassment Free Workspace
+• Dedication to Diversity & Inclusion
+• Appropriate workplace behavior
+• Anti-violence
+Commitment to Human Rights
+• Expect employees, dealers, partners, suppliers to uphold human rights
+• Everyone should be treated with dignity, fairness, and respect
+• No tolerance for slave or child labor, human trafficking, unsafe working conditions
+• Commitment to compliance with human rights laws
+Commitment to Environment, health, and safety
+• Environmental responsibility is one of PACCAR’s core principles.
+• Maintain the highest standards and to put safety first – without exception.
+• PACCAR drives for excellence, safety, and integrity in everything it does.
+Honest and Ethical Business Practice
+• Antitrust and Fair Competition
+• Anti-Bribery and Corruption
+• Anti-Money Laundering
+• Business Hospitality – Gifts, Entertainment and Travel
+• Conflicts of Interest
+• Charitable and Political Contributions
+Financial Integrity
+• Accurate Financial Results
+• Disclosure Requirements
+• Use of Company Assets
+• Retaining Proper Business Records
+Interaction with PACCAR Partners
+• Customer Interaction and Information
+• Dealers, Suppliers, and Other Partners
+• Government Business and Contracting
+Global Trade Compliance
+• Import and Export
+• Trade Sanctions and Embargos
+• Economic Boycotts
+15
+Responsibility to Investors and Shareholders
+• Confidential Information
+• Protecting Company Assets
+• Audits and Investigations
+• Intellectual Property
+• Cybersecurity and Electronic Communications
+• Inside Information
+• Privacy
+• Interactions with the Media, Investors, and the Public
+• Use of social media
+PACCAR Resources
+• Reporting Concerns
+• EthicsLine Reporting System
+• EthicsLine 1.800.300.1826
+• EthicsLine.PACCAR.com
+PACCAR’s complete Code of Business Conduct can be found at
+https://www.paccar.com/media/3106/code-of-conduct-2021-final.pdf
+Talent Training & Development
+PACCAR’s employee training and development programs are extensive and comprehensive. New
+employees receive an orientation and training for their specific positions. Ongoing job- related
+training is available to meet employees’ and the Company’s needs. Training programs include
+professional and technical skills training, compliance training, leadership development and
+management training. Many PACCAR divisions offer apprenticeship and tuition assistance
+programs to enhance skills through education. PACCAR also offers extensive internship programs
+to attract future employees.
+Training on PACCAR’s Global Code of Conduct topics as well as employee development occurs in
+multiple setting annually and throughout the career of employees from regular on-line
+interactive instructional and refresher courses to development opportunities like PACCAR
+Institute for Management Leadership (PIML), Executive Leadership Program, Leadership
+Development Rotational Program, and Situational Leadership Program.
+(# employees) 2023 2022 2021
+Global employees as of Dec. 31 32,400 31,100 28,000
+Continuous Improvement
+Employee development drives continuous improvement at PACCAR. Six Sigma, data analytics,
+machine learning, Industry 4.0 and lean process development are integrated into business
+activities at PACCAR as well as at many of its suppliers, dealers and customers. These tools help to
+16
+continuously enhance the creation of state-of-the-art new product designs, customer services and
+manufacturing processes. Thousands of PACCAR employees have been trained in the use of these
+tools and have delivered billions of dollars in savings in all areas of the company.
+Workplace Safety
+Continued focus on workplace safety keeps our employees and contractors safe and our facilities
+profitable. Safety is a key priority during employee orientation at facilities and safety is the
+responsibility of every PACCAR employee. PACCAR’s major manufacturing facilities are equipped
+with safety and health departments staffed with trained medical personnel.
+Company managers address safety enhancements every day in morning meetings; they provide
+regular and ongoing safety training; and they use displays located in factories to provide
+employees with safety-related information. Senior management demonstrates its commitment to
+workplace safety by awarding the President's Cup for Excellence in Safety at an annual Company
+ceremony attended by senior executives from Company locations. Additional investments in safety
+include implementing PACCAR Safety College training to enhance safety leadership, a project to
+create enhanced safety standards and training for working on battery electric vehicles and
+deploying safety software across the company to support tracking and reporting safety data.
+See the chart below for safety metrics for PACCAR employees and contractors:
+(Recordables per 200,000 hrs. worked) 2022 2021 2020
+OSHA Injury / Illness employees & contractors 1.9 1.6 1.4
+US Heavy Duty Truck Manufacturing 3.9 4.3 4.8
+PACCAR's consistent focus on workplace safety has resulted in a fatality rate of zero, and a
+recordable injury/illness rate lower than the U.S. industry average as seen in the table above.
+Employee Well-Being
+PACCAR provides robust benefits packages that support physical, emotional and financial well-
+being. Employee satisfaction and engagement are measured through periodic surveys that result
+in quantitative metrics leading to workplace enhancements. PACCAR is committed to hiring,
+developing and promoting the most talented people and ensuring that our employees represent
+the diversity present in the global community. PACCAR is proud to have been honored for the past
+several years as a Top Company for Women to Work for in Transportation by the Women in
+Trucking Association.
+PACCAR is an equal opportunity employer and provides a workplace free from discrimination and
+harassment. PACCAR recruits and develops a diverse workforce and supports their careers with
+resources such as the PACCAR Women’s Association, Diversity Councils, and training designed to
+develop leadership opportunities. PACCAR values workplace diversity. PACCAR diversity councils
+operate throughout PACCAR’s global businesses. The diversity councils’ goals are to enhance
+business success through diverse and inclusive workplaces. The PACCAR Women’s Association
+17
+seeks to increase women in PACCAR leadership roles by providing educational, networking and
+mentoring opportunities to employees at all levels. More information about PACCAR’s
+commitment to diversity and inclusion can be found at:
+https://www.paccar.com/media/3106/code-of-conduct-2021-final.pdf.
+Cybersecurity and Systems Availability
+Management and Training
+The Company maintains a robust and comprehensive cybersecurity management and governance
+program. Our information security management system is based upon the National Institute of
+Standards and Technology Cybersecurity Framework (NIST CSF). As part of its cybersecurity
+program, the Company engages internal and external auditors and other third parties to assess the
+program. The Company conducts penetration and compromise assessment tests, implements
+detection and prevention tools, monitors cyber events and has active disaster recovery plans. For
+third-party IT services, the Company conducts an architectural, privacy and security analysis of
+their solutions. If gaps are identified, the third-party remediates or mitigates the risk. The
+Company simulates potential cyber-attacks and performs incident responses to test preparedness.
+These exercises are used to train and update the Company’s Incident Response plan.
+The Company conducts annual information security training for executive management and non-
+executive employees. PACCAR conducts ongoing phishing tests that result in more frequent,
+additional cybersecurity training for employees as appropriate.
+Oversight and Governance
+The Company’s Security Risk Council, including the Chief Information Security Officer, meets
+regularly to discuss risks, plans and updates to the security program, and to receive advanced
+training such as breach simulation exercises. It briefs the Board of Directors and/or the Audit
+Committee of the Board of Directors on technology and information security matters. Members of
+PACCAR’s Board of Directors with technology/cybersecurity experience and skills include:
+• Barbara B. Hulit
+• Roderick C. McGeary
+• Ganesh Ramaswamy
+• Gregory M. E. Spierkel
+Management and the Board of Directors receive periodic updates on the status of cybersecurity
+investments. If a security incident were to occur, the Company’s Security Risk Council and
+Management would evaluate its significance and brief the Board of Directors.
+The Company has not experienced a material security breach, and as a result, has not incurred any
+net expenses, penalties and settlements from such a breach, in the last five years. Certain
+independent dealers and suppliers have reported they have experienced information security
+breaches in the last year, which have not caused any material impact to the Company.
+18
+Philanthropy
+PACCAR charitable giving 2023 2022 2021
+Grants approved (#) 162 146 178
+Total ($ millions) $10.3 $8.7 $6.4
+PACCAR's proud tradition of giving back to the community began with the founding of the
+company and continues today through PACCAR and the PACCAR Foundation. PACCAR has
+contributed over $240 million to educational, social services and arts organizations since 1951.
+PACCAR makes these grants in locations in which its employees work and live worldwide.
+PACCAR has recently contributed over $2 million to nonprofit organizations that promote
+diverse and inclusive communities, including UNCF, Special Olympics USA Games, YWCA,
+Landesa, Northwest African American Museum and Lighthouse for the Blind. More information
+can be found at https://www.paccar.com/about-us/philanthropy/
+Community
+PACCAR and its employees are leaders in our communities. Strong communities assist those
+less fortunate with a range of social services. Employees organize support for various charities
+and civic organizations such as United Way, Juvenile Diabetes Research Foundation, Race for
+the Cure, and local food banks. To prepare school-age children for the skills to succeed in the
+21st century workforce, PACCAR and its many committed employee volunteers support
+literacy and other educational programs. This includes purchasing books for children in need
+and contributing funds and volunteer time to supplemental education programs such as Junior
+Achievement.
+Government Relations & Public Policy
+As a manufacturer of trucks, PACCAR is subject to the National Traffic and Motor Vehicle Safety
+Act and Federal Motor Vehicle Safety Standards promulgated by the National Highway Traffic
+Safety Administration as well as environmental laws and regulations in the United States. PACCAR
+is subject to similar regulations in all countries where it has operations and where its trucks are
+distributed. In addition, PACCAR is subject to certain other licensing requirements to do business
+in the United States and Europe.
+Public Dialogue is an Important Civic Responsibility
+PACCAR engages with government agencies and policymakers seeking public comment and
+technical input on legislative, regulatory, and other public policy issues affecting supply chains,
+manufacturing, sales, and operations of medium- and heavy-duty commercial vehicles. This public
+input is important for elected officials and civil servants who rely on the expertise of engineers,
+scientists, economists, business analysts, and other industry professionals to ensure that the
+public policies they are pursuing will achieve positive real-world outcomes.
+19
+Government Relations Oversight
+PACCAR's engagement at the local, state, and national levels is managed with the oversight of the
+General Counsel. The General Counsel reports to the Chief Executive Officer, who is a member of
+the Board of Directors. All government relations and public policy engagements are made in
+support of company objectives and not based on the personal preferences of directors, officers, or
+employees.
+Company Contributions
+PACCAR corporate contributions to: 2023 2022 2021
+Candidates, political parties, and political committees $0 $0 $0
+Section 527 organizations $0 $0 $0
+Ballot measure groups $0 $0 $0
+Independent expenditures for communication, i.e., advertisement $0 $0 $0
+501(c)(4) groups $0 $0 $0
+The Benefits of Trade Associations
+PACCAR is a member of U.S. trade associations including the Truck and Engine Manufacturers
+Association, National Association of Manufacturers, American Trucking Associations, Truck Renting
+and Leasing Association, U.S. Chamber of Commerce, and state manufacturing and business
+associations where PACCAR facilities are located. Trade associations provide an industry
+perspective and bring additional expertise to inform public policy debates and rulemaking
+activities in areas such as vehicle safety, electrification, emissions reduction, alternative fuels, tax
+and trade policies, automation, and driver assistance technologies.
+The table below provides a list of U.S. trade association memberships with 2023 fees greater than
+$25,000. Overall, PACCAR’s U.S. trade associations fees in 2023 were approximately $1M or
+0.003% of PACCAR 2023 total revenues. The percentage of the 2023 fees that are non-deductible
+under United States Internal Revenue Code §162(e) is provided by each trade association below:
+U.S. trade associations with 2023 fees greater than $25,000 % fee lobbying
+American Trucking Associations 14%
+National Association of Manufacturers 28%
+Truck and Engine Manufacturers Association 0%
+United States Chamber of Commerce 35%
+Proactive Climate Engagement
+PACCAR’s operations and products are subject to extensive statutory and regulatory requirements
+governing greenhouse gas and other emissions in the markets in which it operates.
+PACCAR evaluates and publicly discloses its direct and indirect (i.e., through industry trade
+associations) climate policy engagement activities. These activities are aligned with the goals of
+the Paris Climate Agreement and are publicly disclosed through PACCAR’s annual environmental
+20
+report to CDP (formerly Climate Disclosure Project). PACCAR’s current CDP report is available at
+PACCAR’s and CDP’s website. The relevant section of the CDP report is C12.3.
+Employee Political Action Committee
+PACCAR employees may make voluntary contributions to the PACCAR Inc Employees Organized for
+Political Leadership and Education Political Action Committee (PEOPLE PAC) that is registered with
+the Federal Election Commission. All contributions are reported per the FEC required filing
+schedule and information is available at www.fec.gov.
+Supplier Code of Conduct
+PACCAR expects its suppliers to comply with the standards set forth in its Supplier Code of
+Conduct, and all laws, rules and regulations in the countries in which they operate. PACCAR
+selects suppliers after detailed reviews of their operations. PACCAR conducts periodic on-site
+supplier visits, announced and unannounced, for various reasons, including verification and
+auditing of contract compliance. These expectations apply to all PACCAR suppliers, their
+affiliates and locations worldwide. Suppliers who fail to meet these standards risk the loss of all
+existing and future business with PACCAR. PACCAR suppliers will:
+• Comply with all applicable laws concerning minimum employment age, working conditions,
+compensation and benefits; never employ slave, indentured or forced labor, or engage in
+human trafficking.
+• Treat employees with dignity and respect; never discriminate on the basis of race, color,
+gender, gender identity or expression, sexual orientation, nationality, religion, age, or
+marital status.
+• Respect the laws of each country governing the right of employees to join or not to join
+lawful organizations.
+• Enhance employee safety and health through proper workplace design, operational
+controls, preventative maintenance, and safe work procedures.
+• Comply with anti-corruption laws in every country in which they do business. Never directly
+or indirectly receive or offer bribes, kickbacks, or other corrupt payments, to or from any
+person or organization including government and private organizations, their officials,
+agents and employees.
+• Accurately record and disclose information regarding business activities and performance
+in accordance with applicable laws and regulations as well as prevailing industry business
+practices.
+• Respect intellectual property rights and safeguard customer information and technologies
+by implementing processes that protects those rights.
+• Use due diligence to avoid the possibility of inclusion of conflict minerals in their products.
+• Establish product design and manufacturing processes that assure the integrity and safety
+of their products and inform PACCAR immediately if a question arises concerning the safety
+21
+of a product sold to PACCAR.
+• Implement processes to protect the confidentiality of employees who in good faith report
+potential unethical or illegal activity.
+• Use, maintain and dispose of hazardous and non-hazardous waste as required by
+applicable laws and regulations.
+• Minimize production of solid waste, wastewater, and hazardous air emissions by
+implementing appropriate conservation measures.
+• Notify PACCAR immediately of any violation of these standards.
+State of California Transparency in Supply Chains Act
+PACCAR is committed to ensuring that its suppliers do not use slave labor or engage in human
+trafficking. PACCAR’s Supplier Code of Conduct prohibits suppliers from using forced labor of
+any kind.
+PACCAR suppliers certify that they comply with laws regarding minimum employment age,
+working conditions and compensation, and do not engage in slavery or human trafficking.
+Noncompliance is grounds for termination and elimination from the PACCAR supply base.
+Conflict Minerals and Critical Materials
+PACCAR is committed to complying with the Dodd-Frank Act’s disclosure requirements
+concerning "Conflict Minerals" – tin, tungsten, tantalum, and gold – whose sourcing has been
+identified with human rights abuses in the Democratic Republic of Congo and adjoining
+countries (the "Conflict Area"). PACCAR has developed a due diligence process, based on the
+guidance provided by the Organisation for Economic Cooperation and Development (OECD), to
+mitigate the risk of inclusion of Conflict Minerals in its products. This process requires the
+Company and its suppliers to perform due diligence and document either (1) that the Conflict
+Minerals used to manufacture products for PACCAR originate outside the Conflict Area or come
+from recycled or scrap sources, or (2) if sourced from within the Conflict Area that they come
+from mines or smelters certified by an independent third party not to benefit armed groups
+("Conflict-Free"). PACCAR is participating in the Automotive Industry Action Group and the
+Conflict-Free Smelter Program developed by the Electronic Industry Citizenship Coalition,
+Incorporated and Global e-Sustainability Initiative to identify the sources of Conflict Minerals in
+its products. If any sources within the Conflict Area are identified, PACCAR will work with its
+suppliers, in accordance with OECD guidance, to take reasonable steps to verify that they are
+Conflict-Free.
+A critical material is defined as a material both essential in use and subject to the risk of supply
+restriction. PACCAR uses a limited number of critical materials in its business, including platinum
+group metals. PACCAR does not directly source any critical materials. Rather, these materials
+are present primarily in exhaust aftertreatment system components provided by suppliers.
+22
+PACCAR mitigates risk from critical materials by entering long-term agreements with high
+quality, reputable suppliers that adhere to PACCAR’s Code of Supplier Conduct. PACCAR is also
+prepared to work with alternative suppliers in the case of supply disruption of critical materials.
+Corporate Governance
+PACCAR has excellent corporate governance policies and practices that enhance stockholder
+returns. Its policies ensure that the Company is governed in accordance with the highest
+standards of integrity and in the best interest of its stockholders.
+Sustainability
+The Board of Directors and the Nominating & Governance Committee hold responsibility for
+environmental, social, and governance strategy. The Executive Operating Committee, pictured
+below, has responsibility for executing the sustainability strategy.
+The sustainability strategy is delivered by Corporate Functions working collaboratively with
+PACCAR Divisions performing task including ESG risk and opportunity assessments, scenario
+analysis, planning, project delivery and collaboration across a matrix of directors and managers.
+23
+Board of Directors
+PACCAR’s Board of Directors is comprised of 12 directors who bring a diversity of perspectives,
+skills and business experience relevant to the Company’s global operations. Each director has
+achieved significant success in business, education or public service and has demonstrated the
+highest ethical standards and integrity as well as mature judgment, objectivity, practicality and
+a willingness to ask difficult questions. The directors are committed to work together to reach
+consensus for the betterment of the stockholders and the long-term viability of the Company.
+In selecting nominees for the Board of Directors, the Nominating and Governance Committee
+recognizes the importance of having a diversity of gender, heritage and backgrounds to ensure
+that a variety of opinions and perspectives are represented on the Board; accordingly, initial
+lists of candidates from which new director nominees are chosen will include qualified female
+and racially/ethnically diverse candidates.
+PACCAR’s Corporate Governance Guidelines are available at https://www.paccar.com/about-
+us/board-of-directors/governance-guidelines/ and are structured to ensure the Board has the
+necessary authority and practices to evaluate business operations and to make decisions
+independent of PACCAR’s management. Each director is expected to act with integrity,
+understand the importance of representing the entire shareholder constituency and increasing
+shareholder value, contribute actively and objectively at Board and Committee meetings and
+participate in management evaluation and succession planning.
+Key facts about the Board of Directors include:
+• 75% of PACCAR’s directors are independent.
+• 3 of 12 directors are women.
+• 9 of 12 directors have been CEO and/or Chair
+• 17% of directors are racially/ethnically diverse
+• One director serves as the lead independent director.
+• The Board is required to evaluate its performance on an annual basis.
+• Directors are required to own PACCAR stock and/or deferred stock units in an amount
+equal to five times their annual cash retainer.
+• All directors on the Compensation, Nominating & Governance and Audit Committees are
+independent.
+• The average compensation of non-employee directors is comparable to the median of
+company peers.
+• The Board has a mandatory retirement age of 74.
+Executive Compensation
+PACCAR’s compensation programs are directed by the Compensation Committee of the Board
+of Directors, which is composed exclusively of independent directors. The objective of the
+24
+programs is to attract and retain high-quality executives, link incentives to the Company’s
+performance and align the interests of management with those of stockholders. The Company
+emphasizes pay for performance and uses equity-based incentive programs designed to
+compensate executives for generating outstanding performance for stockholders. Each of the
+Company’s Say-on-Pay proposals was approved by 90% or more of the shares voted in 2011,
+2014, 2017, 2020, and 2023.
+Key compensation practices include:
+• PACCAR does not have an employment agreement with its CEO or any other officer.
+• No employees are eligible for multi-year guaranteed bonuses.
+• PACCAR does not discount, backdate, reprice or retroactively grant equity awards and
+prohibits the buy-out of underwater options.
+• The Company prohibits the hedging or pledging of Company stock or purchasing of stock on
+margin by executive officers.
+• Executive Officers do not have golden parachutes.
+• The CEO is required to own PACCAR stock in an amount equal to five times the CEO’s
+annual base salary.
+• PACCAR discloses information on the performance measures used in the long-term
+incentives granted to executives. https://www.paccar.com/investors/sec-filingsdata-
+archive/
+• The Company does not provide for excise tax gross-ups on change-in-control payments.
+Shareholder Rights
+The Company’s corporate governance structure provides for meaningful and significant
+stockholder input in director elections and governance. Stockholders have the opportunity to
+include their own proposals and director nominees for election in the Company’s proxy and to
+present them at the annual meeting of stockholders. The Nominating and Governance
+Committee of the Board of Directors regularly reviews developments in corporate governance
+and recommends governance enhancements to the Board of Directors.
+PACCAR’s excellent stockholder rights and corporate governance practices include:
+• PACCAR has one class of stock with equal voting rights.
+• All common shareholders are entitled to vote for all current director nominees.
+• Directors are elected annually.
+• Shareholders have a proxy access right.
+• Shareholders holding 25% of PACCAR’s total outstanding shares may convene a special
+meeting.
+• There are no material restrictions on shareholders’ right to call special meetings.
+• The Company does not have a controlling shareholder.
+• The Company does not have a poison pill in effect.
+25
+Audit and Risk Oversight
+The Company’s audit committee is made up of four independent directors. The committee reviews
+the Company’s annual and quarterly financial statements, monitors the integrity and effectiveness
+of the audit process and reviews the corporate compliance programs. It also monitors the
+Company’s system of internal controls over financial reporting and oversees the internal audit
+function and risk management.
+• There are four financial experts serving on PACCAR’s audit committee.
+• The Company has not restated its financial statements for any period within the past five
+years.
+• The Company has timely released all financial disclosure filings in the past five years.
+• The Company has disclosed no material weaknesses in its internal controls in the past five
+years.
+• Non-audit fees represented 11.3% of total auditor fees in 2022.
+• A regulator has not taken action against a director or officer of the company in the past five
+years.
+• The Nominating and Governance Committee Charter states that the Committee has
+responsibility for environmental, social and governance matters.
+Additional governance information can be found at https://www.paccar.com/about-us/board-of-
+directors/governance-guidelines/ and in PACCAR’s Proxy Statement at
+https://www.paccar.com/investors/sec-filingsdata-archive/.
+26
