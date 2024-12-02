@@ -1,50 +1,5 @@
 import os
-import pdfplumber
 from transformers import pipeline
-
-# Function to extract text from a single PDF
-def extract_text_from_pdf(pdf_path):
-    if not os.path.exists(pdf_path):
-        print(f"File {pdf_path} doesn't exist!")
-        return
-
-    pdf_name = os.path.basename(pdf_path)
-    txt_name = os.path.splitext(pdf_name)[0] + ".txt"
-
-    # Output folder for extracted text files
-    output_folder = "extracted_text"
-    os.makedirs(output_folder, exist_ok=True)
-    txt_path = os.path.join(output_folder, txt_name)
-
-    extracted_text = ""
-    try:
-        with pdfplumber.open(pdf_path) as pdf:
-            for page in pdf.pages:
-                extracted_text += page.extract_text() + "\n"
-    except Exception as e:
-        print(f"Error extracting text from {pdf_path}: {e}")
-        return None
-
-    try:
-        with open(txt_path, "w", encoding="utf-8") as txt_file:
-            txt_file.write(extracted_text)
-        print(f"Extracted text saved to: {txt_path}")
-        return txt_path
-    except Exception as e:
-        print(f"Error saving text to file: {e}")
-        return None
-
-# Function to batch extract text from all PDFs in a folder
-def batch_extract_from_folder(folder_path):
-    txt_files = []
-    for filename in os.listdir(folder_path):
-        if filename.endswith(".pdf"):
-            pdf_file_path = os.path.join(folder_path, filename)
-            txt_path = extract_text_from_pdf(pdf_file_path)
-            if txt_path:
-                txt_files.append(txt_path)
-    print('Finished transforming PDFs to text files.')
-    return txt_files
 
 # Function to split text into chunks
 def split_into_chunks(text, chunk_size=512):
@@ -82,16 +37,29 @@ def classify_sentiments(text_file_path, sentiment_model):
 
 # Main function
 def main():
-    # Specify the folder containing the PDF files
-    pdf_folder_path = "original_pdf"
+    # Folder containing the extracted .txt files
+    txt_folder_path = "extracted_text"
 
-    # Extract text from all PDFs in the folder
-    txt_files = batch_extract_from_folder(pdf_folder_path)
+    # Verify the folder exists
+    if not os.path.exists(txt_folder_path):
+        print(f"Folder {txt_folder_path} does not exist.")
+        return
+
+    # List all .txt files in the folder
+    txt_files = [
+        os.path.join(txt_folder_path, file)
+        for file in os.listdir(txt_folder_path)
+        if file.endswith(".txt")
+    ]
+
+    if not txt_files:
+        print(f"No text files found in {txt_folder_path}.")
+        return
 
     # Load pre-trained sentiment analysis model
     sentiment_model = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
 
-    # Classify sentiments for each extracted text file
+    # Classify sentiments for each .txt file
     for txt_file in txt_files:
         classify_sentiments(txt_file, sentiment_model)
 
