@@ -1,9 +1,6 @@
 from nltk.chat.util import Chat, reflections
 from function1 import keywords
-
-pairs = [
-    [r"my name is (.*)", ["Hello %1, How are you today?"]],
-]
+from pairs import pairs
 
 def list_pdf_files(folder_path):
     import os
