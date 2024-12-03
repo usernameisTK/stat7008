@@ -63,7 +63,8 @@ val_dataset = TextDataset(val_texts, val_labels)
 
 # 7. 加载BERT模型
 model = BertForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=len(label_encoder.classes_))
-
+for param in model.bert.encoder.layer[-3:].parameters():
+    param.requires_grad = True
 # 8. 设置训练参数
 training_args = TrainingArguments(
     output_dir='./results',
@@ -74,7 +75,7 @@ training_args = TrainingArguments(
     weight_decay=0.01,
     logging_dir='./logs',
     logging_steps=10,
-    evaluation_strategy="epoch",
+    eval_strategy="epoch",
     save_strategy="no",               # 不保存模型
 )
 
@@ -96,3 +97,20 @@ predicted_labels = predictions.predictions.argmax(-1)
 
 # 12. 输出预测结果
 print("预测标签:", label_encoder.inverse_transform(predicted_labels))
+print("真实标签:", label_encoder.inverse_transform(val_labels))
+
+"""
+Result:
+
+All of the accuracy, F1 score, precision, recall do not perform well in this model. 
+
+Final Result:
+{'eval_loss': 3.8738253116607666, 'eval_accuracy': 0.3333333333333333, 
+'eval_f1': 0.3298738298738298, 'eval_precision': 0.36688311688311687, 
+'eval_recall': 0.3333333333333333, 'eval_runtime': 0.0898, 
+'eval_samples_per_second': 300.645, 'eval_steps_per_second': 22.27, 'epoch': 80.0}
+
+But if we accept some small error, for example we consider that predict AAA to AA is acceptable, we will get a higher performance
+to eval_accuracy: 0.55.
+
+"""
