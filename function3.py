@@ -1,6 +1,10 @@
 import os
-from textblob import TextBlob
 import json
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+from textblob import TextBlob
 
 # Path to the folder containing the extracted text files
 extracted_text_folder = "extracted_text"
@@ -72,3 +76,49 @@ with open(output_file_path, 'w', encoding='utf-8') as json_file:
     json.dump(sentiment_results, json_file, ensure_ascii=False, indent=4)
 
 print(f"Sentiment analysis completed and saved to: {output_file_path}")
+
+# Load sentiment analysis results
+output_file_path = "sentiment_analysis_results.json"
+with open(output_file_path, 'r', encoding='utf-8') as json_file:
+    sentiment_results = json.load(json_file)
+
+# Flatten the sentiment results into a DataFrame for easier analysis and visualization
+data = []
+for filename, sentiment_data in sentiment_results.items():
+    for entry in sentiment_data:
+        data.append({
+            "company": filename,
+            "text": entry["text"],
+            "sentiment": entry["sentiment"],
+            "polarity": entry["polarity"]
+        })
+
+df = pd.DataFrame(data)
+
+# 2. **Summary Table**: Show a table with sentiment analysis results
+print(df.head())  # Display the first few rows for verification
+
+# 3. **Sentiment Distribution**: Plot a bar chart of sentiment distribution
+sentiment_counts = df['sentiment'].value_counts()
+
+# Matplotlib Bar Plot for sentiment distribution
+plt.figure(figsize=(8, 5))
+sns.barplot(x=sentiment_counts.index, y=sentiment_counts.values, palette="coolwarm")
+plt.title('Sentiment Distribution')
+plt.xlabel('Sentiment')
+plt.ylabel('Count')
+plt.show()
+
+# Plotly Visualization for Interactive Charts
+fig = px.bar(sentiment_counts, x=sentiment_counts.index, y=sentiment_counts.values, 
+             labels={'x': 'Sentiment', 'y': 'Count'}, title='Sentiment Distribution')
+fig.show()
+
+# 4. **Sentiment by Report (Company)**: Compare sentiment across different reports (companies)
+sentiment_by_company = df.groupby(['company', 'sentiment']).size().unstack().fillna(0)
+sentiment_by_company.plot(kind='bar', stacked=True, figsize=(10, 6), colormap='viridis')
+plt.title('Sentiment by Company Report')
+plt.xlabel('Company')
+plt.ylabel('Count')
+plt.xticks(rotation=90)
+plt.show()
