@@ -2,7 +2,7 @@ from nltk.chat.util import Chat, reflections
 from function1 import keywords
 from function2 import get_topic_by_filename
 from pairs import pairs
-
+from function5.function5 import model_prediction
 
 def list_pdf_files(folder_path):
     import os
@@ -10,14 +10,14 @@ def list_pdf_files(folder_path):
 
 def chat():
     print("Hi! I am a chatbot for your service")
-    print("Please select an option:")
-    print("1. Start a daily conversation")
-    print("2. List and choose a PDF file")
-    print("3. Exit")
-
     while True:
         try:
-            choice = int(input("Chatbot: Your choice (1/2/3): "))
+            print("\nPlease select an option:")
+            print("1. Start a daily conversation")
+            print("2. List and choose a PDF file")
+            print("3. Check the prediction result")
+            print("4. Exit")
+            choice = int(input("Chatbot: Your choice (1/2/3/4): "))
             if choice == 1:
                 print("Chatbot: Starting the conversation...")
                 chatbot = Chat(pairs, reflections)
@@ -51,10 +51,9 @@ def chat():
                             print("※ 2. Topic classifications")
                             print("※ 3. Sentiment analysis")
                             print("※ 4. Data mining and/or text analysis methods")
-                            print("※ 5. Prediction model")
-                            print("※ 6. Summarization")
-                            print("※ 7. Back to the main menu")
-                            choice = int(input("Chatbot: Your function choice (1/2/3/4/5/6): "))
+                            print("※ 5. Summarization")
+                            print("※ 6. Back to the main menu")
+                            choice = int(input("Chatbot: Your function choice (1/2/3/4/5): "))
                             if choice == 1:
                                 keywords(selected_pdf)
                             elif choice == 2:
@@ -66,11 +65,9 @@ def chat():
                             elif choice == 5:
                                 print("Function5: This function is under construction.")
                             elif choice == 6:
-                                print("Function6: This function is under construction.")
-                            elif choice == 7:
                                 print("Chatbot: Returning to the main menu...")
                             else:
-                                print("Chatbot: Invalid choice! Please select 1, 2, or 3.")
+                                print("Chatbot: Invalid choice! Please select 1, 2, 3, 4, 5, 6.")
                         else:
                             print("Chatbot: Invalid number. Please choose a valid PDF number.")
                     except ValueError:
@@ -78,12 +75,14 @@ def chat():
                 else:
                     print("Chatbot: No PDF files found in the folder.")
             elif choice == 3:
+                model_prediction()
+            elif choice == 4:
                 print("Chatbot: Goodbye!")
                 break
             else:
-                print("Invalid choice! Please select 1, 2, or 3.")
+                print("Invalid choice! Please select 1, 2, 3 or 4.")
         except ValueError:
-            print("Invalid input! Please enter a number (1/2/3).")
+            print("Invalid input! Please enter a number (1/2/3/4).")
 
 if __name__ == "__main__":
     chat()
