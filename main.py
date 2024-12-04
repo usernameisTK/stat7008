@@ -1,5 +1,6 @@
 from nltk.chat.util import Chat, reflections
 from function1 import keywords
+from function2 import get_topic_by_filename
 from pairs import pairs
 
 def list_pdf_files(folder_path):
@@ -56,7 +57,7 @@ def chat():
                             if choice == 1:
                                 keywords(selected_pdf)
                             elif choice == 2:
-                                print("Function2: This function is under construction.")
+                                print("Chatbot: The topic is ", get_topic_by_filename(selected_pdf))
                             elif choice == 3:
                                 print("Function3: This function is under construction.")
                             elif choice == 4:
