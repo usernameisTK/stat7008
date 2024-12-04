@@ -63,7 +63,7 @@ val_dataset = TextDataset(val_texts, val_labels)
 
 # 7. 加载BERT模型
 model = BertForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=len(label_encoder.classes_))
-for param in model.bert.encoder.layer[-2:].parameters():
+for param in model.bert.encoder.layer[-1:].parameters():
     param.requires_grad = True
 # 8. 设置训练参数
 training_args = TrainingArguments(
@@ -76,7 +76,6 @@ training_args = TrainingArguments(
     logging_dir='./logs',
     logging_steps=10,
     eval_strategy="epoch",
-    save_strategy="no",               # 不保存模型
 )
 
 # 9. 创建Trainer
@@ -105,12 +104,13 @@ Result:
 All of the accuracy, F1 score, precision, recall do not perform well in this model. 
 
 Final Result:
-{'eval_loss': 3.2563703060150146, 'eval_accuracy': 0.5185185185185185, 
-'eval_f1': 0.4746031746031746, 'eval_precision': 0.5164609053497943, 
-'eval_recall': 0.5185185185185185, 'eval_runtime': 0.0957, 'eval_samples_per_second': 282.163, 
-'eval_steps_per_second': 20.901, 'epoch': 76.0}
+{'eval_loss': 2.7519428730010986, 'eval_accuracy': 0.4074074074074074, 'eval_f1': 0.407631874298541, 
+'eval_precision': 0.4388888888888889, 'eval_recall': 0.4074074074074074, 'eval_runtime': 0.1112, 
+'eval_samples_per_second': 242.863, 'eval_steps_per_second': 17.99, 'epoch': 80.0}
+{'train_runtime': 204.9397, 'train_samples_per_second': 41.768, 'train_steps_per_second': 2.733, 
+'train_loss': 0.5467348856851458, 'epoch': 80.0} 
 
 But if we accept some small error, for example we consider that predict AAA to AA is acceptable, we will get a higher performance
-to eval_accuracy: 0.55.
+to eval_accuracy: 0.6296296296296297
 
 """

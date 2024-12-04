@@ -1,7 +1,7 @@
 import numpy as np
 
-prediction = ['AA', 'AA', 'AA', 'AA', 'AAA', 'AA', 'AA', 'AA', 'AA', 'A', 'BBB', 'AAA', 'AA', 'AA'
-, 'A', 'AAA', 'AA', 'BBB', 'AA', 'AA', 'AAA', 'AA', 'BBB', 'AA', 'AA', 'BBB', 'AA']
+prediction = ['AA', 'AA', 'A', 'A', 'A', 'AA', 'A', 'A', 'A', 'A', 'AA', 'AAA', 'BBB', 'AA', 'A'
+, 'AAA', 'A', 'BBB', 'A', 'AA', 'A', 'BBB', 'A', 'AA', 'BBB', 'BBB', 'AA']
 prediction = np.array(prediction)
 
 true = ['A', 'BB', 'AA', 'A', 'AA', 'AA', 'AA', 'BBB', 'BBB', 'A', 'BBB', 'AAA', 'BB', 'A'
