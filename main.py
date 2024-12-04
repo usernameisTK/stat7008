@@ -3,6 +3,7 @@ from function1 import keywords
 from function2 import get_topic_by_filename
 from pairs import pairs
 
+
 def list_pdf_files(folder_path):
     import os
     return [f for f in os.listdir(folder_path) if f.lower().endswith('.txt')]
