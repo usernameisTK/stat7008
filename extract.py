@@ -23,9 +23,11 @@ def extract_text_from_pdf(pdf_path):
         print(f"Error: {e}")
         return
 
+
     try:
+        cleaned_text = clean_text(extracted_text)
         with open(txt_path, "w", encoding="utf-8") as txt_file:
-            txt_file.write(extracted_text)
+            txt_file.write(cleaned_text)
         print(f"File saved to: {txt_path}")
     except Exception as e:
         print(f"Error: {e}")
@@ -44,3 +46,39 @@ pdf_folder_path = "original_pdf"
 batch_extract_from_folder(pdf_folder_path)
 
 
+
+import re
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
+
+
+
+
+def clean_text(text):
+
+    # 1. remove non-alphabetic characters
+    text = re.sub(r'[^a-zA-Z\s]', '', text)
+    
+    # 2. convert to lowercase
+    text = text.lower()
+    
+    # 3. tokenize the text
+    words = word_tokenize(text)
+    
+    # 4. remove stop words
+    stop_words = set(stopwords.words('english'))
+    words = [word for word in words if word not in stop_words]
+    
+    # 5. lemmatization
+    lemmatizer = WordNetLemmatizer()
+    words = [lemmatizer.lemmatize(word) for word in words]
+    
+    # 6. remove empty strings
+    words = [word for word in words if word.strip() != '']
+    
+    # 7. join the words back into a full text
+    cleaned_text = ' '.join(words)
+    
+    return cleaned_text
