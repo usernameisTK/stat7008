@@ -1,7 +1,7 @@
 import pandas as pd
 
 def get_topic_by_filename(fn):
-    file_path='ESG_Report_Topics.xlsx'
+    file_path='Report_Topics.xlsx'
     df = pd.read_excel(file_path)
 
     matching_row = df[df['File Name'] == fn]
