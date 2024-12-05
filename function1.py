@@ -10,18 +10,6 @@ from wordcloud import WordCloud
 nltk.download('stopwords')
 nltk.download('punkt')
 
-# Function to fetch file content from GitHub
-def fetch_github_file_content(username, repository, filepath):
-    url = f'https://api.github.com/repos/{username}/{repository}/contents/{filepath}'
-    response = requests.get(url)
-    
-    if response.status_code == 200:
-        content = response.json().get('content')
-        if content:
-            return base64.b64decode(content).decode('utf-8')
-    
-    return None
-
 # Function to extract keywords using TF-IDF
 def extract_keywords_tfidf(text, top_n=10):
     vectorizer = TfidfVectorizer(stop_words='english')
@@ -68,16 +56,3 @@ def analyze_text_file(filename):
     
     return tfidf_keywords, lda_keywords
 
-# Get the current working directory
-current_directory = os.getcwd()
-
-# Get a list of all files in the current working directory
-file_names = [f for f in os.listdir(current_directory) if os.path.isfile(os.path.join(current_directory, f))]
-
-# Iterate over each file in the working directory, analyze the file, and print the results
-for filename in file_names:
-    tfidf_keywords, lda_keywords = analyze_text_file(filename)
-    print("File:", filename)
-    print("TF-IDF Keywords:", tfidf_keywords)
-    print("LDA Keywords:", lda_keywords)
-    print("-------------------------------------------------")
