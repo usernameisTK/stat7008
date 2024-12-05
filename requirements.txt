@@ -1,3 +1,5 @@
 wordcloud
 openpyxl
 nltk
+plotly
+textblob
