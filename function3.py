@@ -77,8 +77,6 @@ def run_sentiment_analysis():
     with open(output_file_path, 'w', encoding='utf-8') as json_file:
         json.dump(sentiment_results, json_file, ensure_ascii=False, indent=4)
 
-    print(f"Sentiment analysis completed and saved to: {output_file_path}")
-
     # Load sentiment analysis results
     with open(output_file_path, 'r', encoding='utf-8') as json_file:
         sentiment_results = json.load(json_file)
@@ -104,7 +102,7 @@ def run_sentiment_analysis():
 
     # Matplotlib Bar Plot for sentiment distribution
     plt.figure(figsize=(8, 5))
-    sns.barplot(x=sentiment_counts.index, y=sentiment_counts.values, palette="coolwarm")
+    sns.barplot(x=sentiment_counts.index, y=sentiment_counts.values, hue=sentiment_counts.index, palette="coolwarm")
     plt.title('Sentiment Distribution')
     plt.xlabel('Sentiment')
     plt.ylabel('Count')
@@ -124,5 +122,3 @@ def run_sentiment_analysis():
     plt.xticks(rotation=90)
     plt.show()
 
-# Run the main function to analyze sentiment and generate the results
-run_sentiment_analysis()

@@ -1,6 +1,7 @@
 from nltk.chat.util import Chat, reflections
 from function1 import keywords
 from function2 import get_topic_by_filename
+from function3 import run_sentiment_analysis
 from pairs import pairs
 from function5.function5 import model_prediction
 
@@ -59,7 +60,9 @@ def chat():
                             elif choice == 2:
                                 print("Chatbot: The topic is ", get_topic_by_filename(selected_pdf))
                             elif choice == 3:
-                                print("Function3: This function is under construction.")
+                                print("Chatbot: Sentiment analysis completed. Close the picture to continue.")
+                                run_sentiment_analysis()
+                                print("Chatbot: Sentiment analysis completed. Close the picture to continue.")
                             elif choice == 4:
                                 print("Function4: This function is under construction.")
                             elif choice == 5:
